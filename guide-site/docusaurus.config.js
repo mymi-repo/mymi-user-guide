@@ -11,7 +11,7 @@ const config = {
     v4: true,
   },
 
-  url: 'https://mymi.live',
+  url: 'https://www.mymi.live',
   baseUrl: '/guide/',
 
   organizationName: 'Jungwon423',
@@ -38,15 +38,8 @@ const config = {
     },
   ],
 
-  // Naver / Google search-console / OG defaults can be added here
+  // Search Console / OG defaults
   headTags: [
-    {
-      tagName: 'meta',
-      attributes: {
-        name: 'naver-site-verification',
-        content: 'TODO_NAVER_VERIFICATION',
-      },
-    },
     {
       tagName: 'meta',
       attributes: {
@@ -84,7 +77,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/og-default.png',
+      image: 'img/docusaurus-social-card.jpg',
       metadata: [
         {name: 'keywords', content: 'MYMI, AI, 챗봇, 인터랙티브, 웹소설, 유저가이드, 사용법'},
         {name: 'description', content: 'MYMI 유저가이드 — AI 작품 속 인물과 대화하고 직접 작품을 만드는 모든 방법'},
@@ -102,7 +95,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://mymi.live',
+            href: 'https://www.mymi.live',
             label: '서비스 바로가기',
             position: 'right',
           },
@@ -130,7 +123,7 @@ const config = {
           {
             title: '서비스',
             items: [
-              {label: 'mymi.live', href: 'https://mymi.live'},
+              {label: 'mymi.live', href: 'https://www.mymi.live'},
               {label: '문의', href: 'mailto:contact@mymi.live'},
             ],
           },
