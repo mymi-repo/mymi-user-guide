@@ -11,11 +11,11 @@ MYMI를 이용하기 전에 아래 정책과 약관을 반드시 확인해 주�
 
 ### 이용약관 및 정책 문서
 
-* [서비스 약관](https://nutritious-sprint-553.notion.site/1da66192d221807f9b20db78df5cb436)
-* [개인정보 처리방침](https://nutritious-sprint-553.notion.site/1da66192d2218003aa3ff3f99d66a496)
-* [청소년 보호 정책](https://nutritious-sprint-553.notion.site/1da66192d2218013947defc63467a90e)
-* [작품 생성 정책](https://nutritious-sprint-553.notion.site/1da66192d22180378613fcafb484d964)
-* [MYMI 크리에이터 약관](https://nutritious-sprint-553.notion.site/MYMI-2026-02-03-2f966192d2218048a3f3e448603bd140)
+* [서비스 이용약관](https://www.mymi.live/ko/legal/terms-of-service)
+* [개인정보처리방침](https://www.mymi.live/ko/legal/privacy-policy)
+* [청소년 보호 정책](https://www.mymi.live/ko/legal/youth-protection-policy)
+* [작품 생성 정책](https://www.mymi.live/ko/legal/content-creation-policy)
+* [MYMI 크리에이터 약관](https://www.mymi.live/ko/legal/creator-terms)
 
 ### 커뮤니티 가이드라인
 

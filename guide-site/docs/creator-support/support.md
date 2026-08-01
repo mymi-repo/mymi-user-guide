@@ -69,4 +69,4 @@ description: 크리에이터를 응원하는 방법을 안내합니다.
 
 :::
 
-자세한 신청 조건과 유지 조건은 [MYMI 크리에이터 약관](https://nutritious-sprint-553.notion.site/MYMI-2026-02-03-2f966192d2218048a3f3e448603bd140)을 참고해 주세요.
+자세한 신청 조건과 유지 조건은 [MYMI 크리에이터 약관](https://www.mymi.live/ko/legal/creator-terms)을 참고해 주세요.
