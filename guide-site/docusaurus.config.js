@@ -58,7 +58,10 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           editUrl: 'https://github.com/Jungwon423/mymi-user-guide/edit/master/',
-          showLastUpdateTime: true,
+          // git 기록이 없는 빌드 환경(Vercel CLI 업로드 배포 등)에서는 "마지막 수정일" 을 구할 수 없어
+          // 빌드가 실패한다. 호출측(MYMI_frontend scripts/build-guide.mjs)이 git worktree 가 없으면
+          // DOCUSAURUS_SHOW_LAST_UPDATE=false 를 넘겨 이 기능만 끈다. 기본은 켜짐.
+          showLastUpdateTime: process.env.DOCUSAURUS_SHOW_LAST_UPDATE !== 'false',
         },
         blog: false, // 블로그 비활성화
         theme: {
