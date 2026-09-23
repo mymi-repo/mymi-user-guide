@@ -2,14 +2,14 @@
 sidebar_position: 3
 last_update:
   date: 2026-09-23
-description: Edit a story made in the legacy editor (1.0) and find its fields in the current story editor.
+description: Edit a story made with the legacy creation flow (1.0) and find its fields in the current creation screen.
 ---
 
-# Legacy editor (1.0): edit an existing story
+# Legacy creation flow (1.0): edit an existing story
 
-**The legacy editor is retired for new story creation.** Open **My Page → Story Management** and select **Edit** on a story made in the legacy editor to open its seven-step workflow. To create a new story, use the bottom **Create** tab and follow [Create a new story](create-work.md).
+**New story creation with the legacy flow has ended.** Open **My Page → Story Management** and select **Edit** on a story made with this flow to open its seven-step creation screen. To create a new story, use the bottom **Create** tab and follow [Create a new story](create-work.md).
 
-The legacy editor has **Basic Info → Assets → Opening → Other Settings → Lorebook → Components → Optional**. Moving forward checks the required fields in earlier steps.
+The legacy creation screen has **Basic Info → Assets → Opening → Other Settings → Lorebook → Components → Optional**. Moving forward checks the required fields in earlier steps.
 
 ## 1. Basic Info: story rules for the AI
 
@@ -21,7 +21,7 @@ The legacy editor has **Basic Info → Assets → Opening → Other Settings →
 | Characters | Add at least one. Give each a distinct name and a description. |
 | Secrets | Add hidden facts the characters should know when needed. |
 
-Keep the combined World, character descriptions, and Secrets within **10,000 characters**. The AI uses the world and character information during chat. In the current story editor, you write this information in **Prompt**.
+Keep the combined World, character descriptions, and Secrets within **10,000 characters**. The AI uses the world and character information during chat. In the current creation screen, you write this information in **Prompt**.
 
 ## 2. Assets: images and profile image
 
@@ -29,7 +29,7 @@ In **Assets**, upload or generate images used in the chat. Give each image a **s
 
 ## 3. Opening: the first scene
 
-Create at least one **Opening** and fill in its **title** and **message**. Multiple openings let readers choose a starting scene. You can insert a registered asset using the `img:[slug]` shown in the editor and check it in **Preview**.
+Create at least one **Opening** and fill in its **title** and **message**. Multiple openings let readers choose a starting scene. You can insert a registered asset using the `img:[slug]` shown on the screen and check it in **Preview**.
 
 ## 4. Other Settings: classification and visibility
 
@@ -45,9 +45,9 @@ Choose a target audience (**male-oriented** or **female-oriented**), then set vi
 
 Review your changes and select **Done** in the last step to apply them.
 
-## Where do these fields go in the current editor?
+## Where do these fields go in the current creation screen?
 
-| Legacy editor | Current story editor |
+| Legacy creation screen | Current creation screen |
 | --- | --- |
 | **World, Characters, Secrets** in Basic Info | **Prompt**: Write Your Own or Basic Story Info |
 | **Profile image** in Assets | **Cover** in Basic Info |

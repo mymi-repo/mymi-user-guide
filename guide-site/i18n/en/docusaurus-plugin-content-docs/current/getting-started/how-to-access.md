@@ -39,7 +39,7 @@ The website and apps provide the same MYMI service. When switching devices, use 
 | Create | Create a new story |
 | Profile | View your profile, account, story management, and more |
 
-The creation editor and chat screens have menus for those activities. To get started, pick a story on Home.
+The story creation and chat screens have menus for those activities. To get started, pick a story on Home.
 
 ## A link opens, but sign-in or the page does not work
 

@@ -80,6 +80,6 @@ To suggest a role that readers can use in chat, add a **Recommended persona** wi
 
 Select **Save draft** at the top right as you work. Open the saved draft later from **My Page → Story Management**.
 
-Select **Publish** when ready. If a required field is missing, the editor opens its tab and shows what to fill in. Complete it and select the button again to reach the completion screen.
+Select **Publish** when ready. If a required field is missing, the page opens its tab and shows what to fill in. Complete it and select the button again to reach the completion screen.
 
 To edit a finished story, open it from **My Page → Story Management → Edit** and select **Apply changes** when done.
