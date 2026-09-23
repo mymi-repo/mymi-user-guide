@@ -1,0 +1,29 @@
+{
+  "sidebar.guideSidebar.category.MYMI 시작하기": {
+    "message": "MYMIを始める"
+  },
+  "sidebar.guideSidebar.category.계정": {
+    "message": "アカウント"
+  },
+  "sidebar.guideSidebar.category.대화하기": {
+    "message": "会話する"
+  },
+  "sidebar.guideSidebar.category.작품 제작": {
+    "message": "作品制作"
+  },
+  "sidebar.guideSidebar.category.크리에이터": {
+    "message": "クリエイター"
+  },
+  "sidebar.guideSidebar.category.결제": {
+    "message": "お支払い"
+  },
+  "sidebar.guideSidebar.category.정책": {
+    "message": "規約・ポリシー"
+  },
+  "sidebar.guideSidebar.category.제작 가이드": {
+    "message": "制作ガイド"
+  },
+  "sidebar.guideSidebar.category.FAQ": {
+    "message": "よくある質問"
+  }
+}

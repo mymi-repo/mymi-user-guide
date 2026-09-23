@@ -1,0 +1,29 @@
+{
+  "link.title.가이드": {
+    "message": "Guide"
+  },
+  "link.title.정책": {
+    "message": "Policies"
+  },
+  "link.title.서비스": {
+    "message": "MYMI"
+  },
+  "link.item.label.MYMI란?": {
+    "message": "What is MYMI?"
+  },
+  "link.item.label.대화하기": {
+    "message": "Chatting"
+  },
+  "link.item.label.작품 만들기": {
+    "message": "Create a story"
+  },
+  "link.item.label.이용약관 / 정책": {
+    "message": "Terms and policies"
+  },
+  "link.item.label.결제수단": {
+    "message": "Payment methods"
+  },
+  "link.item.label.문의": {
+    "message": "Contact"
+  }
+}

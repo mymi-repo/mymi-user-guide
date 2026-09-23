@@ -1,0 +1,29 @@
+{
+  "sidebar.guideSidebar.category.MYMI 시작하기": {
+    "message": "開始使用 MYMI"
+  },
+  "sidebar.guideSidebar.category.계정": {
+    "message": "帳號"
+  },
+  "sidebar.guideSidebar.category.대화하기": {
+    "message": "聊天"
+  },
+  "sidebar.guideSidebar.category.작품 제작": {
+    "message": "作品創作"
+  },
+  "sidebar.guideSidebar.category.크리에이터": {
+    "message": "創作者"
+  },
+  "sidebar.guideSidebar.category.결제": {
+    "message": "付款"
+  },
+  "sidebar.guideSidebar.category.정책": {
+    "message": "條款與政策"
+  },
+  "sidebar.guideSidebar.category.제작 가이드": {
+    "message": "創作指南"
+  },
+  "sidebar.guideSidebar.category.FAQ": {
+    "message": "常見問題"
+  }
+}

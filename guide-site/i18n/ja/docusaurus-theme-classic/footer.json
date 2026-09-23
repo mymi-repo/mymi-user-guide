@@ -1,0 +1,29 @@
+{
+  "link.title.가이드": {
+    "message": "ガイド"
+  },
+  "link.title.정책": {
+    "message": "規約・ポリシー"
+  },
+  "link.title.서비스": {
+    "message": "サービス"
+  },
+  "link.item.label.MYMI란?": {
+    "message": "MYMIとは？"
+  },
+  "link.item.label.대화하기": {
+    "message": "会話する"
+  },
+  "link.item.label.작품 만들기": {
+    "message": "作品を作る"
+  },
+  "link.item.label.이용약관 / 정책": {
+    "message": "利用規約・ポリシー"
+  },
+  "link.item.label.결제수단": {
+    "message": "お支払い方法"
+  },
+  "link.item.label.문의": {
+    "message": "お問い合わせ"
+  }
+}

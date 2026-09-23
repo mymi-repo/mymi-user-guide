@@ -1,0 +1,29 @@
+{
+  "sidebar.guideSidebar.category.MYMI 시작하기": {
+    "message": "Getting started"
+  },
+  "sidebar.guideSidebar.category.계정": {
+    "message": "Account"
+  },
+  "sidebar.guideSidebar.category.대화하기": {
+    "message": "Chatting"
+  },
+  "sidebar.guideSidebar.category.작품 제작": {
+    "message": "Story creation"
+  },
+  "sidebar.guideSidebar.category.크리에이터": {
+    "message": "Creators"
+  },
+  "sidebar.guideSidebar.category.결제": {
+    "message": "Payments"
+  },
+  "sidebar.guideSidebar.category.정책": {
+    "message": "Policies"
+  },
+  "sidebar.guideSidebar.category.제작 가이드": {
+    "message": "Writing guides"
+  },
+  "sidebar.guideSidebar.category.FAQ": {
+    "message": "FAQ"
+  }
+}

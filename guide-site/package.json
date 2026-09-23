@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "start": "docusaurus start",
-    "build": "docusaurus build",
+    "start": "node scripts/run-docusaurus.mjs start",
+    "build": "node scripts/run-docusaurus.mjs build",
+    "preview": "node scripts/run-docusaurus.mjs serve --build --port 3001 --host localhost --no-open",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
