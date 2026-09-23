@@ -20,7 +20,7 @@ Use these tabs on Home:
 - **Tags:** Combine up to three tags, such as genre, relationship, setting, personality, or species.
 - **Search:** Search by keyword or enter **@creator-name** to find a creator. Sort results by relevance, newest, popularity, and other options.
 
-The story gender filter offers **All Genders / Female/Other / Male/Other**. It narrows the stories shown; it does not change your persona. If a story is missing, try another keyword, tag combination, or gender filter.
+Use the **All Genders / Female/Other / Male/Other** filter to narrow the stories shown. If a story is missing, try another keyword, tag combination, or gender filter.
 
 Whether adult stories are shown or accessible depends on the safety filter and your account's verification status. If access is restricted, see [Age and identity verification](/account/adult-verification.md).
 
@@ -33,7 +33,7 @@ Select a story card to open its detail page. You can read its description, chara
 | **Intro** | The opening scene and first content of a new chat |
 | **Persona** | **Your name and role** when talking with the characters |
 
-The intro sets the story's starting point; the persona sets your role. Both apply **when a new chat room is created**. Changing a selection on the detail page does not update a room that already exists.
+The intro sets the story's starting point; the persona sets your role. Choose both, then select **Start new chat** to create a room with those choices.
 
 ## 3. Choose your role (persona)
 
@@ -58,14 +58,14 @@ For example, you could write “I open the door and step inside” or ask “Wha
 
 Once you have chatted with a story, its detail page shows two choices:
 
-- **Continue previous chat:** Reopens an existing room and continues its history. Choosing a different intro or persona on the detail page does not change that room.
+- **Continue previous chat:** Reopens an existing room with its conversation history and saved persona.
 - **Start new chat:** Creates a separate room for the same story, using the intro and persona currently selected.
 
-**Start new chat does not delete your previous history.** Use it to experience the same story from another opening or role. To change only the persona in an existing room, edit and save it inside that room.
+Select **Start new chat** to experience the same story from another opening or role. You can return to the earlier room through **Continue previous chat**. To change the persona in an existing room, edit and save it inside that room.
 
 ## 6. Read and control the chat
 
-Use **UI settings (the palette icon)** in the chat screen to change how the conversation is displayed. Changing the view does not erase your history.
+Use **UI settings (the palette icon)** in the chat screen to read the same conversation history in another view.
 
 | View | How it looks |
 | --- | --- |

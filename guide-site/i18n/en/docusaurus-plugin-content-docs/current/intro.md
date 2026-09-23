@@ -1,9 +1,9 @@
 ---
-description: Learn how to find stories, chat with characters, and create your own work in MYMI. Start here if you are new or moving from V1.
+description: Learn how to find stories, chat with characters, and create your own work in MYMI.
 slug: /
 sidebar_position: 0
 last_update:
-  date: 2026-09-22
+  date: 2026-09-23
 ---
 
 # MYMI User Guide
@@ -32,9 +32,7 @@ If you are new, start with access and account setup. If you already use MYMI, ju
 
 Start with the setting, the characters, and the scene the reader will encounter first. You can then add chat images, a lorebook that brings in relevant details, and components such as status displays.
 
-Choosing **Create** in the bottom menu opens the **Story Creation 2.0 (V2)** editor for new stories. In V2, you write the story's settings in a prompt and connect the rules for using images and components. The world, character, and secret fields you used in V1 are now organized within this prompt.
-
-To edit an existing V1 story, choose it in story management and select **Edit** to return to its V1 editor. See the [existing V1 creation guide](character-creation/create-character.md).
+Choose **Create** in the bottom menu to start a new story. Write the world, characters, and secrets in the **prompt**, and set when images and components should appear during chat.
 
 ## Need help?
 

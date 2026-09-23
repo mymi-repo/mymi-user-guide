@@ -16,7 +16,7 @@ Open **Profile** to sign in and manage your information. When editing your profi
 3. Choose the login provider and social account you originally used to sign up.
 4. After signing in, check the nickname and `@ID` at the top to confirm you are using the right account.
 
-You can use the same MYMI account on the web and in the app. For example, if you signed up with Google, select that same Google account. Your MYMI ID is not a login credential, and you do not need a separate MYMI password.
+To use the same MYMI account on the web and in the app, select the social account you used to sign up. For example, if you signed up with Google, sign in with that same Google account.
 
 Available login buttons depend on the website language and your device. See [Sign up](/account/sign-up.md) for supported login methods.
 
@@ -39,7 +39,7 @@ Change your profile image in the **Creator** tab. You can edit your public profi
 
 ## 3. Edit My Info
 
-Edit the fields you want in **My Info**, then select **Save Changes** at the top of the tab. Leaving the screen without saving will not save your edits.
+Edit the fields you want in **My Info**, then select **Save Changes** at the top of the tab to update your profile.
 
 | Field | Purpose and details |
 | --- | --- |
@@ -60,7 +60,7 @@ Availability is checked automatically as you type. Wait for **Available** before
 
 ### How Details relate to personas
 
-Saving your name, gender, birthdate, or details in My Info also updates your **default persona**. It does not change other personas you created separately.
+Saving your name, gender, birthdate, or details in My Info updates your **account information and default persona**. To edit an additional persona, select it under [Persona settings](/account/persona.md).
 
 If conversations still use a different name after you change your default name, check which persona you are using. To play different roles in different works, use [Persona settings](/account/persona.md).
 
@@ -78,7 +78,7 @@ If conversations still use a different name after you change your default name, 
 | Website | Enter the website address you want other users to see |
 | Introduction | Write a public introduction about yourself or your creative work, up to **10,000 characters** |
 
-Choosing an image alone does not finish saving your profile. Select **Save** after the upload completes. If the app requests photo access, allow access to the photo you want to use.
+After the image finishes uploading, select **Save** to update your public profile. If the app requests photo access, allow access to the photo you want to use.
 
 The **Creator** tab also displays your public introduction, announcements, comments, and works. To continue editing a work, open **Content Management** from Profile.
 

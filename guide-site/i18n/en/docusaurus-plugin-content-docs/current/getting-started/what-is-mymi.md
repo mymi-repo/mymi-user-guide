@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-description: Learn how to chat with characters, take part in stories, use personas, and get started with MYMI's V2 creation editor.
+description: Learn how to chat with characters, take part in stories, use personas, and create a story.
 last_update:
-  date: 2026-09-22
+  date: 2026-09-23
 ---
 
 # What is MYMI?
@@ -37,7 +37,7 @@ You can begin with a short greeting. See [Start chatting](/chatting/chat-with-ch
 
 ## Create your own story
 
-Choose **Create** in the bottom menu to open the **Story Creation 2.0 (V2)** editor. You can move freely between tabs and start with whichever part you need.
+Choose **Create** in the bottom menu to start a new story. You can move freely between tabs and start with whichever part you need.
 
 | What to prepare | Purpose |
 | --- | --- |
@@ -47,9 +47,7 @@ Choose **Create** in the bottom menu to open the **Story Creation 2.0 (V2)** edi
 | Images and components | Prepare visuals and interface elements, and define when to use them |
 | Lorebook | Add extra details to reference when specific words appear in the conversation |
 
-You do not need every feature at the start. Begin with one character and an opening scene, then add images and details as you need them.
-
-If you used V1, the main difference is that the separate world, character, and secret fields now belong in the **prompt**. After adding images, you also need to specify when to use them in chat. Existing V1 stories still open in their V1 editor from story management.
+Begin with one character and an opening scene, then add images and details as you need them.
 
 ## Where can I use MYMI?
 

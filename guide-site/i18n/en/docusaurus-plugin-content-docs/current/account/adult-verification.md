@@ -14,20 +14,20 @@ MYMI uses **identity or phone verification** and **age confirmation** for differ
 | Identity or phone verification | Your identity information or access to a phone number | Features requiring verification, such as attendance rewards or friend invitations |
 | Age confirmation | Whether your account meets the requirements for adult content | When turning off the Safety Filter or enabling Show Sensitive Content |
 
-Korean identity verification also checks adult eligibility using the verified date of birth. International phone verification and age self-confirmation are separate. **Completing SMS verification does not also complete age confirmation.**
+Korean identity verification also checks adult eligibility using the verified date of birth. For international accounts, complete **phone verification** and **age self-confirmation** separately when prompted.
 
 ## 1. Check the verification method for your account
 
-Your verification flow depends on the policy assigned to your account and its verification history. **Changing the display language does not change your account's verification policy.** An existing account can still be asked to complete Korean identity verification while using another language.
+Your verification flow depends on the policy assigned to your account and its verification history. Follow the verification screen shown for your account.
 
 The standard flows are listed below. Follow the instructions on the verification screen that opens for you.
 
 | Account verification policy | Identity or phone check | Age check |
 | --- | --- | --- |
-| Korean service | Mobile identity verification through PortOne | Eligibility calculated from the verified date of birth |
+| Korean service | Mobile identity verification | Eligibility calculated from the verified date of birth |
 | Japanese, Taiwanese, or English service | SMS verification with a supported phone number | Self-confirmation that you meet the age shown on screen |
 
-The country you are visiting or the language you are viewing does not determine the flow by itself. If the screen is unexpected or you see an account-country error, see [Getting help](#getting-help).
+If the screen is unexpected or you see an account-country error, see [Getting help](#getting-help).
 
 ## 2. Where to start
 
@@ -46,7 +46,7 @@ On the website, the Safety Filter is on Home. In the app, it may appear on **Hom
 If your account is directed to Korean identity verification:
 
 1. Select **Verify Now** or **Verify Age** in the prompt.
-2. Enter the information requested on the PortOne verification screen.
+2. Enter the information requested on the identity verification screen.
 3. Complete verification with a **mobile phone registered in your own name**.
 4. Return to MYMI and check the completion message.
 5. Return to the feature you wanted to use, such as attendance or filter settings.
@@ -61,7 +61,7 @@ If your account is directed to Korean identity verification:
 
 For accounts under the Korean policy, adult-content eligibility begins on **January 1 of the year you turn 19**. For example, in **2026 this includes people born in 2007 or earlier**, without waiting for their birthday that year.
 
-MYMI uses the date of birth confirmed through identity verification. **Editing a birthdate in My Info or a persona does not replace age verification.** An account below the required age cannot turn off the filter, even after completing identity verification.
+MYMI uses the **date of birth confirmed through identity verification** to determine adult eligibility. If the verified age meets the requirement, you can turn off the filter.
 
 ## 4. Verify an international phone number
 
@@ -76,7 +76,7 @@ If you see **Phone Verification**, enter the code sent by SMS. This checks that 
 
 If the message does not arrive, use **Resend code** after the displayed waiting period. If you entered the wrong number, select **Change number**. If the code expires or you exceed the attempt limit, follow the instructions to start again.
 
-Selecting a phone country specifies where to send the SMS; it does not change your account's age-verification policy. If your phone country is unsupported or verification is temporarily unavailable, check the error message and contact support.
+Select a phone country to receive the verification SMS at a number from that country. If your phone country is unsupported or verification is temporarily unavailable, check the error message and contact support.
 
 ## 5. Confirm your age
 
@@ -89,23 +89,23 @@ If **Age Confirmation** shows an age checkbox, follow these steps. The current s
 
 You can complete this confirmation separately from phone verification. Other features, such as attendance rewards, may still require phone verification afterward.
 
-If you do not meet the requirement or do not want to proceed, select **Maybe later**. You cannot turn off the filter without age confirmation.
+If you do not meet the requirement or do not want to proceed, select **Maybe later**. Once you meet the requirement and confirm your age, continue to the filter settings in step 6.
 
 ## 6. Check your filter settings afterward
 
-**Completing verification and changing a filter setting are separate actions.** Closing the verification screen may leave the previous filter setting in place.
+After verification, return to Home or Profile and **change the filter setting yourself**.
 
 1. Return to Home or Profile, where you started verification.
 2. Check the setting again. Set **Safety Filter to OFF** to disable it, or **Show Sensitive Content to ON** to enable that setting.
 3. If you keep seeing a verification prompt, refresh the page or reopen the app.
 
-Adult features remain restricted if identity or phone verification is complete but age confirmation is still required, or if the verified age does not meet the threshold. Profile and persona age settings do not determine adult eligibility.
+To use adult features, complete the age confirmation required for your account and meet the verified age threshold.
 
 ## 7. If another account already used the verification details
 
-You cannot verify a new account with identity details or a phone number already linked to another account. First, check that you [signed in with the social account you originally used](/account/login-profile.md).
+If your identity details or phone number are linked to another account, check that you [signed in with the social account you originally used](/account/login-profile.md).
 
-Verification details from a recently deleted account may be subject to a **30-day waiting period after deletion**. Deleting an account does not let you immediately transfer its verification to another account. If you see a duplicate-link or waiting-period message, check the original account and the error before contacting support.
+Verification details from a recently deleted account may be subject to a **30-day waiting period after deletion**. If you see a duplicate-link or waiting-period message, check the original account and the error before contacting support.
 
 ## Troubleshooting
 

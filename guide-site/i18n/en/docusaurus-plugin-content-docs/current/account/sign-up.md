@@ -2,12 +2,12 @@
 sidebar_position: 1
 description: Sign up with a social account, understand your display name and user ID, and check the required fields, agreements, and common problems.
 last_update:
-  date: 2026-09-22
+  date: 2026-09-23
 ---
 
 # Sign up
 
-To join MYMI, **sign in with a social account, then fill in your basic information**. You do not need to create a separate MYMI password.
+To join MYMI, **sign in with a social account, then fill in your basic information**.
 
 If you already have an account, choose the same sign-in method and social account you used before. Use that account when moving between the website and app as well.
 
@@ -47,9 +47,9 @@ Complete these four fields. If any value is already filled in, check that it is 
 
 For example, your display name could be `Haru`, your user ID `moon_reader`, and your nickname `Moonlight Reader`. Characters would call you Haru, while other users would see the nickname Moonlight Reader.
 
-Your user ID does not replace social sign-in. Next time, sign in with the social account you used to register.
+Next time, sign in with the social account you used to register.
 
-The current form does not ask for your date of birth. If a feature requires identity or adult verification, follow that feature's separate instructions after sign-up.
+After sign-up, follow the instructions shown by any feature that requires identity or age verification.
 
 ### User ID rules
 
