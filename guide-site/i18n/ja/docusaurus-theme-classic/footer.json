@@ -1,9 +1,12 @@
 {
-  "link.title.가이드": {
-    "message": "ガイド"
+  "link.title.이용 가이드": {
+    "message": "ご利用ガイド"
   },
-  "link.title.정책": {
-    "message": "規約・ポリシー"
+  "link.title.제작 가이드": {
+    "message": "制作ガイド"
+  },
+  "link.title.도움말": {
+    "message": "ヘルプ"
   },
   "link.title.서비스": {
     "message": "サービス"
@@ -14,14 +17,23 @@
   "link.item.label.대화하기": {
     "message": "会話する"
   },
-  "link.item.label.작품 만들기": {
-    "message": "作品を作る"
+  "link.item.label.결제수단": {
+    "message": "お支払い方法"
+  },
+  "link.item.label.시작하기 전에": {
+    "message": "始める前に"
+  },
+  "link.item.label.첫 작품 만들기": {
+    "message": "初めての作品を作る"
+  },
+  "link.item.label.공개하고 고치기": {
+    "message": "公開と編集"
+  },
+  "link.item.label.자주 묻는 질문": {
+    "message": "よくある質問"
   },
   "link.item.label.이용약관 / 정책": {
     "message": "利用規約・ポリシー"
-  },
-  "link.item.label.결제수단": {
-    "message": "お支払い方法"
   },
   "link.item.label.문의": {
     "message": "お問い合わせ"

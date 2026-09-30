@@ -1,18 +1,18 @@
 ---
-sidebar_position: 1
+title: Create a work
+description: The guide to creating works has moved to the new creation guide.
+unlisted: true
 last_update:
-  date: 2026-09-23
-description: Create a new story and edit a story you have already made.
+  date: 2026-09-29
 ---
 
-# Create a story
+# Create a work
 
-Sign in and select **Create** in the bottom navigation to open the story creation screen. Prepare Basic info and a cover, fill in Prompt, Openings, and Settings, then select **Publish**.
+This guide has moved to the new **creation guide**. The new pages are in Korean for now, and English translations are on the way.
 
-Follow [Create a new story](create-work.md) from **Save draft → add a cover → write the prompt and openings → choose settings → Publish**.
-
-## Edit a story you have made
-
-Open **My Page → Story Management** and select **Edit** on your story to open its creation screen. Select **Apply changes** if it appears, or **Done** in the last step of the legacy creation screen, to apply your edits.
-
-A story made with the **legacy creation flow (1.0)** opens in its older seven-step screen. See [Legacy creation flow: edit an existing story](edit-existing-work.md) for those steps and where its fields appear in the current creation screen. **New story creation with the legacy flow has ended.**
+<CardGrid>
+<Card to="/create/before-you-start" icon="compass" title="Before you start">Learn the seven tabs of the creation screen and how saving works.</Card>
+<Card to="/create/first-work" icon="pen" title="Create your first work">Go from a single cover image to Publish, step by step.</Card>
+<Card to="/create/publish" icon="send" title="Publish and edit">Edit your works from Content Management.</Card>
+<Card to="/create/legacy/overview" icon="history" title="Legacy creation flow (1.0)">For works made with the earlier flow.</Card>
+</CardGrid>

@@ -1,8 +1,8 @@
 ---
 sidebar_position: 5
 last_update:
-  date: 2026-09-23
-description: Find the account deletion steps for web and app, what to check about purchases, stories, and balances, and the 30-day restrictions on signing up again and reusing verification information.
+  date: 2026-09-29
+description: Find the account deletion steps for web and app, what to check about purchases, stories, and balances, and the 30-day restrictions on signing up again and reusing your phone number.
 ---
 
 # Account deletion
@@ -52,7 +52,7 @@ The entry path is the same on the web and in the Android and iOS apps.
 | Chats, personas, and personal usage information | You cannot access or continue using them through the old account. They do not transfer to a new account |
 | Stories you created | They are marked for deletion and can no longer be managed through the old account. Related cleanup may be reflected gradually |
 | Remaining balances | You cannot continue using the deleted account's Spark or other balances. They do not automatically transfer to a new account. Refunds require a separate process |
-| Identity and phone verification | The new account does not inherit the old account's verification status. Restrictions on reusing verification information also apply |
+| Phone verification and age confirmation | The new account does not inherit the old account's verification or confirmation status. Restrictions on reusing the phone number also apply |
 | Comments and public posts | Deleting the account does not immediately remove every post. Contact support if remaining posts need attention or removal |
 
 Completing account deletion does not mean every related record is erased immediately. Records needed for payments, refunds, disputes, or abuse prevention may be retained under the applicable retention rules. See the [Privacy Policy](https://mymi.live/en/legal/privacy-policy) for retention, disposal, and information deletion requests.
@@ -64,13 +64,13 @@ This process deletes your **MYMI account**. It does not delete the Google, Apple
 | Type | Current restriction |
 | --- | --- |
 | Signing up again with the same social account | Restricted for **30 days after deletion**. For example, you cannot immediately sign up again with the same Google account |
-| Identity verification information or a phone number linked to the deleted account | Reuse on another account is restricted for **30 days after deletion** |
+| A phone number registered to the deleted account | It cannot be registered to another account for **30 days after deletion** |
 
-The signup restriction and verification information restriction are checked separately. Choosing a different login method does not immediately let you move identity verification information or a phone number from a recently deleted account.
+The sign-up restriction and the phone number restriction are checked separately. Choosing a different login method does not let you immediately register a phone number from a recently deleted account.
 
 **The 30 days are not a grace period for reversing deletion.** Signing up after the restriction ends does not automatically restore old chats, stories, balances, or verification status.
 
-If the restriction message still appears after that period, contact support with the deletion time, login method, and error message. See [Age and identity verification](/account/adult-verification.md) for verification procedures.
+If the restriction message still appears after that period, contact support with the deletion time, login method, and error message. See [Age confirmation and phone verification](/account/adult-verification.md) for verification procedures.
 
 ## 5. If a payment or refund still needs attention
 
@@ -92,7 +92,7 @@ Refund eligibility and processing depend on the purchase terms, usage, and payme
 | Processing is taking a long time | Wait briefly and check your connection. If the screen stops responding, reopen the page or app. Contact support if the account's status is unclear |
 | An error appeared, and I do not know whether deletion finished | Record the error and time. An error alone does not establish the outcome. Check whether you were logged out and contact support to confirm the account's status |
 | Signing in after deletion shows a signup restriction | The same social account is subject to the 30-day restriction |
-| I cannot verify my number or identity on another account | Check whether the information is subject to the 30-day restriction for a recently deleted account |
+| I cannot verify my phone number on another account | If the number belonged to a recently deleted account, check the 30-day restriction on reuse |
 | My account still exists after uninstalling the app | Uninstalling is not account deletion. Follow the steps above on web or in the app |
 | I want my deleted account back | There is no feature in the service to reverse deletion or restore the account. Signing up again does not bring back the old information |
 

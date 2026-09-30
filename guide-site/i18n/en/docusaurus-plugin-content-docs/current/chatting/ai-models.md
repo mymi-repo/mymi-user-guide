@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 last_update:
-  date: 2026-09-23
+  date: 2026-09-29
 description: Choose a chat AI model and check regular prices, response limits, and charges.
 ---
 
@@ -80,6 +80,6 @@ If you are signed in, choose a limit for each model under **⋮ at the top right
 
 **Regular-price example:** Set MYMI Plus v2 to a 4,500-token maximum. Up to 1,500 tokens beyond its included 3,000 are covered by a **120-Spark initial charge**. If a normal reply uses 3,240 output and reasoning tokens in total, the extra 240 tokens round up to three 100-token units. The final charge is **60 + 3 × 4 = 72 Sparks**, and **48 Sparks are returned**. During a promotion, use the discounted rates shown on screen instead.
 
-For Gemini models, **Gemini-only Sparks are used first**; general Sparks can cover the remainder. Other providers use general Sparks. Check the final charge in **Profile → Spark History**.
+Check the final charge on the **Usage** tab under **Profile → My Spark → View Usage History**.
 
 If a reply is cut off by its output limit, use the notice to adjust the response length.

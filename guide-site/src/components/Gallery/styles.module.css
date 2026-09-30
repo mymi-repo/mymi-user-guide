@@ -1,0 +1,44 @@
+/* 넓은 화면에서 여섯 장이 한 줄, 좁은 화면에서는 세 장씩 두 줄로 놓이는 크기 */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(6.25rem, 1fr));
+  gap: 0.75rem;
+  margin: 1.1rem 0 1.75rem;
+  max-width: 43rem;
+}
+
+@media (max-width: 576px) {
+  .grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.5rem;
+  }
+}
+
+.item {
+  margin: 0;
+}
+
+.link {
+  display: block;
+  overflow: hidden;
+  border: 1px solid var(--mymi-border);
+  border-radius: 0.75rem;
+  background: #0a0a0a;
+  cursor: zoom-in;
+}
+
+/* 예시 이미지는 모두 832×1216(세로)로 만들었다. */
+.image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 832 / 1216;
+  object-fit: cover;
+}
+
+.label {
+  margin-top: 0.4rem;
+  color: var(--mymi-muted);
+  font-size: 0.8125rem;
+  line-height: 1.4;
+  text-align: center;
+}

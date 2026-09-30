@@ -2,7 +2,7 @@
 sidebar_position: 2
 description: Open MYMI on the web or install the Android or iOS app.
 last_update:
-  date: 2026-09-22
+  date: 2026-09-29
 ---
 
 # Access MYMI
@@ -43,7 +43,7 @@ The story creation and chat screens have menus for those activities. To get star
 
 ## A link opens, but sign-in or the page does not work
 
-Opening a link inside another app, such as KakaoTalk or Instagram, may use that app's built-in browser. If sign-in fails or the page freezes, choose **Open in external browser**, or copy the address into the browser you normally use.
+Opening a link inside another app, such as Instagram or Facebook, may use that app's built-in browser. If sign-in fails or the page freezes, choose **Open in external browser**, or copy the address into the browser you normally use.
 
 The menu name and location vary by app.
 

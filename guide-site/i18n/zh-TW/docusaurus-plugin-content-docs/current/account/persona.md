@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 last_update:
-  date: 2026-09-23
+  date: 2026-09-29
 description: 說明預設、主要與推薦 Persona 的差異，新增與選擇方式、在既有聊天室載入及儲存的步驟，以及編輯與刪除的影響範圍。
 ---
 
@@ -42,7 +42,7 @@ Persona 用來設定**你在作品中以什麼身分與角色對話**。你可�
 
 只填名稱也能儲存。若要加入出生日期，請完整填寫年、月、日，並選擇換算為年滿 14 歲的有效日期。
 
-Persona 的出生日期用於角色設定。若要使用成人內容，請依照[年齡確認與身分驗證](/account/adult-verification.md)完成帳號驗證。
+Persona 的出生日期用於角色設定。若要使用成人內容，請依照[年齡確認與手機號碼驗證](/account/adult-verification.md)完成年齡確認。
 
 ## 3. 設定主要 Persona
 

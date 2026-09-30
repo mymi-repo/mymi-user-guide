@@ -2,7 +2,7 @@
 sidebar_position: 2
 description: 了解如何開啟 MYMI 網站，以及安裝 Android、iOS App。
 last_update:
-  date: 2026-09-22
+  date: 2026-09-29
 ---
 
 # 如何使用 MYMI
@@ -43,7 +43,7 @@ MYMI 可透過**網頁瀏覽器及 Android、iOS App**使用。電腦使用者�
 
 ## 開啟連結後，無法登入或畫面異常
 
-在 KakaoTalk、Instagram 等 App 中開啟連結時，可能會使用 App 內建的瀏覽器。如果無法登入或畫面卡住，可選擇選單中的**使用外部瀏覽器開啟**，或複製網址，貼到平常使用的瀏覽器。
+在 LINE、Instagram 等 App 中開啟連結時，可能會使用 App 內建的瀏覽器。如果無法登入或畫面卡住，可選擇選單中的**使用外部瀏覽器開啟**，或複製網址，貼到平常使用的瀏覽器。
 
 不同 App 的選單名稱與位置可能不同。
 

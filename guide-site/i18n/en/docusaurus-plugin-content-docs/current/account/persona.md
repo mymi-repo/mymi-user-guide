@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 last_update:
-  date: 2026-09-23
+  date: 2026-09-29
 description: Learn the difference between default, primary, and recommended personas, how to add and select them, and how to load and save a persona in an existing chat.
 ---
 
@@ -42,7 +42,7 @@ You can start with your default persona without creating another one. Add more w
 
 A name is enough to save a persona. To add a date of birth, fill in the year, month, and day with a valid date corresponding to an age of 14 or older.
 
-A persona's date of birth is part of its role settings. To access adult content, follow [Age and identity verification](/account/adult-verification.md) for your account.
+A persona's date of birth is part of its role settings. To access adult content, complete age confirmation as described in [Age confirmation and phone verification](/account/adult-verification.md).
 
 ## 3. Choose your primary persona
 

@@ -1,0 +1,162 @@
+<!doctype html>
+<!--
+  링크 공유 이미지(static/img/og/og-<locale>.png)의 원본.
+  브라우저에서 card.html?locale=ko 처럼 열고 1200×630 크기로 캡처한다. 방법은 README의 "링크 공유 이미지".
+  문구는 docusaurus.config.js 의 siteTexts(navTitle·description)와 맞춘다.
+-->
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <title>MYMI guide share card</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-jp-dynamic-subset.min.css" />
+    <style>
+      html,
+      body {
+        margin: 0;
+        width: 1200px;
+        height: 630px;
+        overflow: hidden;
+      }
+
+      body {
+        background: #151516;
+        color: #fafafa;
+        font-family: 'Pretendard Variable', 'Pretendard', sans-serif;
+      }
+
+      html[lang='ja'] body {
+        font-family: 'Pretendard JP Variable', 'Pretendard JP', sans-serif;
+      }
+
+      html[lang='zh-TW'] body {
+        font-family: 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+      }
+
+      .card {
+        position: relative;
+        box-sizing: border-box;
+        width: 1200px;
+        height: 630px;
+        padding: 72px 80px;
+        overflow: hidden;
+        background:
+          radial-gradient(760px 520px at 88% 14%, rgb(168 85 247 / 42%), rgb(168 85 247 / 0%) 62%),
+          radial-gradient(620px 460px at 4% 108%, rgb(147 51 234 / 22%), rgb(147 51 234 / 0%) 60%),
+          #151516;
+      }
+
+      .dots {
+        position: absolute;
+        inset: 0;
+        background-image: radial-gradient(rgb(255 255 255 / 7%) 1.2px, transparent 1.2px);
+        background-size: 28px 28px;
+        -webkit-mask-image: linear-gradient(90deg, transparent 35%, #000 85%);
+        mask-image: linear-gradient(90deg, transparent 35%, #000 85%);
+      }
+
+      .mark {
+        position: absolute;
+        top: 70px;
+        right: -90px;
+        width: 520px;
+        height: 520px;
+      }
+
+      .lockup {
+        position: relative;
+        display: block;
+        height: 46px;
+      }
+
+      .title {
+        position: relative;
+        margin: 128px 0 0;
+        font-size: 92px;
+        font-weight: 800;
+        letter-spacing: -0.035em;
+        line-height: 1.05;
+      }
+
+      html[lang='ja'] .title,
+      html[lang='zh-TW'] .title {
+        letter-spacing: -0.01em;
+      }
+
+      .description {
+        position: relative;
+        max-width: 640px;
+        margin: 28px 0 0;
+        color: #d4d4d8;
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 1.5;
+        word-break: keep-all;
+        white-space: pre-line;
+      }
+
+      .url {
+        position: absolute;
+        left: 80px;
+        bottom: 64px;
+        color: #a1a1aa;
+        font-size: 24px;
+        font-weight: 600;
+        letter-spacing: 0.01em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <div class="dots"></div>
+      <svg class="mark" viewBox="128 128 768 768" aria-hidden="true">
+        <defs>
+          <linearGradient id="mymi-mark" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#e9d5ff" />
+            <stop offset="0.55" stop-color="#a855f7" />
+            <stop offset="1" stop-color="#7e22ce" />
+          </linearGradient>
+        </defs>
+        <path
+          fill="url(#mymi-mark)"
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M320 320H436L512 472L588 320H704V704H588L512 552L436 704H320V320ZM666 333C680.359 333 692 344.641 692 359C692 373.359 680.359 385 666 385C651.641 385 640 373.359 640 359C640 344.641 651.641 333 666 333ZM358 639C372.359 639 384 650.641 384 665C384 679.359 372.359 691 358 691C343.641 691 332 679.359 332 665C332 650.641 343.641 639 358 639Z" />
+      </svg>
+      <img class="lockup" src="../static/brand/mymi-lockup-white.svg" alt="" />
+      <h1 class="title" id="title"></h1>
+      <p class="description" id="description"></p>
+      <div class="url">mymi.live/guide</div>
+    </div>
+    <script>
+      // 사이트 설명(description)과 같은 문장이다. \n 은 이미지에서 줄을 바꿀 위치다.
+      const texts = {
+        ko: {
+          title: '유저가이드',
+          description: 'AI 작품 속 인물과 자유롭게 대화하고,\n나만의 작품을 만들어보세요',
+        },
+        en: {
+          title: 'User Guide',
+          description: 'Chat with characters in AI stories\nand create stories of your own.',
+        },
+        ja: {
+          title: 'ユーザーガイド',
+          description: 'AIが演じる物語の登場人物と会話し、\n自分だけの作品を作りましょう。',
+        },
+        'zh-TW': {
+          title: '使用指南',
+          description: '與 AI 故事中的角色自由對話，\n創作屬於自己的作品。',
+        },
+      };
+      const requested = new URLSearchParams(location.search).get('locale') || 'ko';
+      const locale = texts[requested] ? requested : 'ko';
+      document.documentElement.lang = locale;
+      document.getElementById('title').textContent = texts[locale].title;
+      document.getElementById('description').textContent = texts[locale].description;
+    </script>
+  </body>
+</html>

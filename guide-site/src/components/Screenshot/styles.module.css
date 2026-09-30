@@ -1,0 +1,81 @@
+.figure {
+  margin: 1.25rem 0 1.75rem;
+}
+
+.desktop {
+  max-width: 100%;
+}
+
+.phone {
+  max-width: 20rem;
+}
+
+/* 화면 일부를 자른 캡처: 휴대폰 테두리 없이 모서리만 둥글게 */
+.part {
+  max-width: 22rem;
+}
+
+.frame {
+  overflow: hidden;
+  border: 1px solid var(--mymi-border);
+  background: var(--mymi-surface);
+  box-shadow: 0 16px 40px -24px rgb(0 0 0 / 35%);
+}
+
+.desktop .frame {
+  border-radius: 0.875rem;
+}
+
+.phone .frame {
+  border-radius: 1.75rem;
+  padding: 0.45rem;
+  background: #0e0e0f;
+}
+
+.phone .image {
+  border-radius: 1.35rem;
+}
+
+/* 캡처는 모두 어두운 앱 화면이라 밝은 테마에서도 틀을 어둡게 둔다. */
+.part .frame {
+  border-radius: 1rem;
+  background: #0a0a0a;
+}
+
+.bar {
+  display: flex;
+  gap: 0.35rem;
+  padding: 0.6rem 0.8rem;
+  border-bottom: 1px solid var(--mymi-border);
+  background: var(--mymi-surface-2);
+}
+
+.bar span {
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 999px;
+  background: var(--mymi-border);
+}
+
+.zoom {
+  display: block;
+  cursor: zoom-in;
+}
+
+.zoom:focus-visible {
+  outline-offset: -2px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.caption {
+  margin-top: 0.6rem;
+  color: var(--mymi-muted);
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  text-align: center;
+}

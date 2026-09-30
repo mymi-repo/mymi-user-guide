@@ -1,53 +1,635 @@
 /**
- * MYMI 유저가이드 — Pretendard 한글 우선 + 보라 강조 (MYMI 브랜드 컬러)
+ * MYMI 유저가이드 테마
+ *
+ * 색은 서비스 화면과 맞춘다. 웹·앱의 강조색은 Tailwind purple(500·600), 앱 배경은 #151516,
+ * 보조 면·선은 zinc 계열이다. 사용법과 규칙은 README의 "디자인 요소"에 있다.
  */
 
+/* ── 색·크기 토큰 ─────────────────────────────────────────── */
+
 :root {
-  /* MYMI 보라 계열 (mymi.live 메인 컬러 톤) */
-  --ifm-color-primary: #7c3aed;
-  --ifm-color-primary-dark: #6d28d9;
-  --ifm-color-primary-darker: #5b21b6;
-  --ifm-color-primary-darkest: #4c1d95;
-  --ifm-color-primary-light: #8b5cf6;
-  --ifm-color-primary-lighter: #a78bfa;
-  --ifm-color-primary-lightest: #c4b5fd;
+  --ifm-color-primary: #9333ea;
+  --ifm-color-primary-dark: #7e22ce;
+  --ifm-color-primary-darker: #6b21a8;
+  --ifm-color-primary-darkest: #581c87;
+  --ifm-color-primary-light: #a855f7;
+  --ifm-color-primary-lighter: #c084fc;
+  --ifm-color-primary-lightest: #d8b4fe;
 
-  --ifm-font-family-base:
-    'Pretendard Variable', 'Pretendard',
-    -apple-system, BlinkMacSystemFont,
-    system-ui, 'Segoe UI', Roboto,
-    'Apple SD Gothic Neo', 'Noto Sans KR',
-    'Helvetica Neue', Arial, sans-serif;
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #fafafa;
+  --ifm-font-color-base: #18181b;
+  --ifm-heading-color: #09090b;
 
+  /* 서비스 화면과 같은 보조색 */
+  --mymi-border: #e4e4e7;
+  --mymi-surface: #fafafa;
+  --mymi-surface-2: #f4f4f5;
+  --mymi-muted: #71717a;
+  --mymi-muted-strong: #52525b;
+  --mymi-accent-soft: #f3e8ff;
+  --mymi-accent-softer: #faf5ff;
+  --mymi-accent-text: #7e22ce;
+  /* 흰 글자를 올리는 버튼은 두 테마 모두 purple-600을 쓴다(대비 5.4:1). */
+  --mymi-cta-bg: #9333ea;
+  --mymi-cta-bg-hover: #7e22ce;
+  --mymi-card-bg: #ffffff;
+  --mymi-card-shadow-hover: 0 1px 2px rgb(24 24 27 / 4%), 0 12px 32px -16px rgb(88 28 135 / 28%);
+
+  --ifm-toc-border-color: var(--mymi-border);
+  --ifm-hr-background-color: var(--mymi-border);
+  --ifm-table-border-color: var(--mymi-border);
+  --ifm-color-emphasis-300: var(--mymi-border);
+
+  /* 글꼴: 한국어·영어는 Pretendard, 일본어·번체중국어는 아래 html[lang] 규칙에서 바꾼다. */
+  --mymi-font-ko:
+    'Pretendard Variable', 'Pretendard', -apple-system, BlinkMacSystemFont,
+    system-ui, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic',
+    'Noto Sans KR', 'Helvetica Neue', Arial, sans-serif;
+  --ifm-font-family-base: var(--mymi-font-ko);
+  --ifm-heading-font-family: var(--ifm-font-family-base);
   --ifm-font-family-monospace:
-    ui-monospace, SFMono-Regular, 'SF Mono',
-    Menlo, Consolas, 'Liberation Mono', monospace;
+    ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas,
+    'Liberation Mono', monospace;
 
-  --ifm-code-font-size: 92%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-
-  /* 한글 가독성 살짝 보정 */
-  --ifm-line-height-base: 1.7;
+  --ifm-code-font-size: 88%;
+  --ifm-line-height-base: 1.75;
   --ifm-paragraph-margin-bottom: 1em;
+  --ifm-global-radius: 0.625rem;
+  --ifm-navbar-height: 3.75rem;
+  --ifm-navbar-shadow: none;
+  --ifm-link-decoration: none;
+  --docusaurus-highlighted-code-line-bg: rgb(147 51 234 / 10%);
 }
 
 [data-theme='dark'] {
-  --ifm-color-primary: #a78bfa;
-  --ifm-color-primary-dark: #8b5cf6;
-  --ifm-color-primary-darker: #7c3aed;
-  --ifm-color-primary-darkest: #6d28d9;
-  --ifm-color-primary-light: #c4b5fd;
-  --ifm-color-primary-lighter: #ddd6fe;
-  --ifm-color-primary-lightest: #ede9fe;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #c084fc;
+  --ifm-color-primary-dark: #a855f7;
+  --ifm-color-primary-darker: #9333ea;
+  --ifm-color-primary-darkest: #7e22ce;
+  --ifm-color-primary-light: #d8b4fe;
+  --ifm-color-primary-lighter: #e9d5ff;
+  --ifm-color-primary-lightest: #f3e8ff;
+
+  --ifm-background-color: #151516;
+  --ifm-background-surface-color: #1a1a1c;
+  --ifm-font-color-base: #e4e4e7;
+  --ifm-heading-color: #fafafa;
+  --ifm-navbar-background-color: #151516;
+  --ifm-dropdown-background-color: #1c1c1f;
+
+  --mymi-border: #27272a;
+  --mymi-surface: #1a1a1c;
+  --mymi-surface-2: #232326;
+  --mymi-muted: #a1a1aa;
+  --mymi-muted-strong: #d4d4d8;
+  --mymi-accent-soft: rgb(168 85 247 / 18%);
+  --mymi-accent-softer: rgb(168 85 247 / 8%);
+  --mymi-accent-text: #d8b4fe;
+  --mymi-card-bg: #1a1a1c;
+  --mymi-card-shadow-hover: 0 12px 32px -16px rgb(0 0 0 / 70%);
+
+  --docusaurus-highlighted-code-line-bg: rgb(192 132 252 / 14%);
 }
 
-/* 한글 본문에서 영문 라틴 문자 자간 살짝 좁게 */
-body {
+/* ── 언어별 글꼴과 줄바꿈 ──────────────────────────────────── */
+
+/* Pretendard(한국어판)에는 한국식 한자·가나 글리프가 들어 있다.
+   일본어는 같은 계열의 Pretendard JP, 번체중국어는 운영체제의 번체 글꼴을 먼저 쓴다. */
+html[lang='ja'] {
+  --ifm-font-family-base:
+    'Pretendard JP Variable', 'Pretendard JP', 'Hiragino Sans',
+    'Hiragino Kaku Gothic ProN', 'Noto Sans JP', 'Yu Gothic UI', 'Yu Gothic',
+    Meiryo, sans-serif;
+}
+
+html[lang='zh-TW'] {
+  --ifm-font-family-base:
+    -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang TC',
+    'Noto Sans TC', 'Microsoft JhengHei', 'Heiti TC', sans-serif;
+}
+
+/* 한국어는 단어 중간에서 줄을 바꾸지 않는다. 긴 주소는 넘치지 않게 끊는다. */
+html[lang='ko'] body,
+[lang='ko'] {
+  word-break: keep-all;
+  overflow-wrap: break-word;
   letter-spacing: -0.01em;
 }
 
-/* 헤딩 좀 더 또렷하게 */
-h1, h2, h3, h4 {
+/* 번역 대기 문서의 한국어 본문(DocItem/Content가 lang="ko"를 붙인다) */
+html:not([lang='ko']) [lang='ko'] {
+  font-family: var(--mymi-font-ko);
+}
+
+::selection {
+  background: rgb(168 85 247 / 28%);
+}
+
+:focus-visible {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+}
+
+/* ── 상단 메뉴 ───────────────────────────────────────────── */
+
+.navbar {
+  background-color: color-mix(in srgb, var(--ifm-background-color) 84%, transparent);
+  backdrop-filter: saturate(180%) blur(14px);
+  -webkit-backdrop-filter: saturate(180%) blur(14px);
+  border-bottom: 1px solid var(--mymi-border);
+}
+
+.navbar__logo {
+  height: 1.3rem;
+  margin-right: 0.8rem;
+}
+
+.navbar__title {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--mymi-muted-strong);
+  padding-left: 0.8rem;
+  border-left: 1px solid var(--mymi-border);
+}
+
+.navbar__link {
+  font-size: 0.9375rem;
+  font-weight: 500;
+}
+
+/* 서비스로 이동하는 버튼 */
+.navbar__item.navbar-cta,
+.navbar-cta.menu__link {
+  background: var(--mymi-cta-bg);
+  color: #ffffff;
+  border-radius: 999px;
+  padding: 0.4rem 1rem;
+  margin-left: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  transition: background-color 0.15s ease;
+}
+
+.navbar__item.navbar-cta:hover,
+.navbar-cta.menu__link:hover {
+  background: var(--mymi-cta-bg-hover);
+  color: #ffffff;
+}
+
+.navbar-cta svg {
+  display: none;
+}
+
+/* 모바일 메뉴 안에서는 가운데 정렬한 버튼으로 */
+.navbar-cta.menu__link {
+  justify-content: center;
+  margin: 0.5rem 0 0;
+  padding: 0.6rem 1rem;
+}
+
+/* ── 왼쪽 목차 ───────────────────────────────────────────── */
+
+.theme-doc-sidebar-container {
+  border-right-color: var(--mymi-border) !important;
+}
+
+.theme-doc-sidebar-menu {
+  padding-top: 0.75rem;
+}
+
+.menu__link {
+  border-radius: 0.5rem;
+  font-size: 0.9375rem;
+  color: var(--mymi-muted-strong);
+  padding: 0.4rem 0.75rem;
+}
+
+.menu__link:hover,
+.menu__list-item-collapsible:hover {
+  background: var(--mymi-surface-2);
+  color: var(--ifm-font-color-base);
+}
+
+.menu__link--sublist {
+  font-weight: 600;
+  color: var(--ifm-font-color-base);
+}
+
+.menu__link--active:not(.menu__link--sublist) {
+  background: var(--mymi-accent-soft);
+  color: var(--mymi-accent-text);
+  font-weight: 600;
+}
+
+.menu__list .menu__list {
+  margin-left: 0.85rem;
+  padding-left: 0.4rem;
+  border-left: 1px solid var(--mymi-border);
+}
+
+/* ── 본문 머리·경로 ──────────────────────────────────────── */
+
+.breadcrumbs__link {
+  font-size: 0.8125rem;
+  border-radius: 999px;
+  padding: 0.2rem 0.65rem;
+}
+
+.breadcrumbs__item--active .breadcrumbs__link {
+  background: var(--mymi-accent-soft);
+  color: var(--mymi-accent-text);
+}
+
+.markdown h1:first-child {
+  --ifm-h1-font-size: 2.25rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  margin-bottom: 1.1rem;
+}
+
+.markdown > h2 {
+  --ifm-h2-font-size: 1.5rem;
+  margin-top: 2.75rem;
   letter-spacing: -0.02em;
+}
+
+.markdown > h3 {
+  --ifm-h3-font-size: 1.1875rem;
+  margin-top: 2rem;
+  letter-spacing: -0.015em;
+}
+
+/* 제목 바로 아래 첫 문단은 요약으로 읽히게 조금 크게 */
+.markdown > header + p {
+  font-size: 1.0625rem;
+  color: var(--mymi-muted-strong);
+}
+
+.hash-link {
+  color: var(--ifm-color-primary);
+}
+
+/* 터치 기기에서는 제목 옆 # 링크가 보이지 않는데도 자리를 차지한다. 제목이 한 줄을 거의 채우면
+   이 링크만 다음 줄로 넘어가 제목 아래에 빈 줄이 생긴다. 마우스가 없는 기기에서는 숨긴다. */
+@media (hover: none) {
+  .markdown .hash-link {
+    display: none;
+  }
+}
+
+/* 본문 링크는 색만으로 구분하지 않도록 밑줄을 둔다(카드·버튼처럼 class가 있는 링크 제외). */
+.markdown a:not([class]) {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+}
+
+.markdown a:not([class]):hover {
+  text-decoration-color: currentColor;
+}
+
+/* ── 목록: 번호 목록은 절차로 보이게 ─────────────────────── */
+
+.markdown > ol {
+  list-style: none;
+  padding-left: 0;
+}
+
+.markdown > ol > li {
+  position: relative;
+  padding-left: 2.3rem;
+  margin-bottom: 0.65rem;
+  min-height: 1.6rem;
+}
+
+.markdown > ol > li::before {
+  content: counter(list-item);
+  position: absolute;
+  top: 0.12rem;
+  left: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.55rem;
+  height: 1.55rem;
+  border-radius: 999px;
+  background: var(--mymi-accent-soft);
+  color: var(--mymi-accent-text);
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.markdown ul > li::marker {
+  color: var(--ifm-color-primary);
+}
+
+/* ── 표 ─────────────────────────────────────────────────── */
+
+.markdown table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: max-content;
+  max-width: 100%;
+  border: 1px solid var(--mymi-border);
+  border-radius: 0.75rem;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}
+
+.markdown table thead {
+  background: var(--mymi-surface-2);
+}
+
+.markdown table thead tr,
+.markdown table tr {
+  border: 0;
+  background: transparent;
+}
+
+.markdown table th,
+.markdown table td {
+  border: 0;
+  border-bottom: 1px solid var(--mymi-border);
+  padding: 0.65rem 0.95rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.markdown table th {
+  font-weight: 600;
+  color: var(--ifm-heading-color);
+}
+
+.markdown table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+/* 일본어·번체중국어는 글자와 글자 사이 어디서나 줄이 바뀐다. 표가 좁아지면 짧은 칸(머리글, 첫 열의
+   항목 이름)이 한두 글자씩 꺾여 세로로 늘어진다. 칸마다 네 글자(4em)가 한 줄에 들어갈 최소 너비를 준다.
+   한국어는 keep-all 로 단어 단위로 끊기고 영어는 단어 안에서 끊기지 않아 이 규칙이 필요 없다.
+   칸은 border-box 라 최소 너비에 좌우 여백이 들어간다. WebKit 이 표 칸의 calc() 최소 너비를
+   무시할 수 있어 여백을 더한 값을 em 으로 적는다(0.95rem×2 + 4em ≈ 6.1em).
+   이 너비로도 넘치는 표는 표 안에서 가로로 스크롤된다(Infima 의 table은 display:block; overflow:auto). */
+html[lang='ja'] .markdown table th,
+html[lang='ja'] .markdown table td,
+html[lang='zh-TW'] .markdown table th,
+html[lang='zh-TW'] .markdown table td {
+  min-width: 6.1em;
+}
+
+/* 첫 열에는 マイページ·オリジナル 같은 다섯 글자 항목 이름이 자주 와서 다섯 글자(5em) 너비를 준다. */
+html[lang='ja'] .markdown table th:first-child,
+html[lang='ja'] .markdown table td:first-child,
+html[lang='zh-TW'] .markdown table th:first-child,
+html[lang='zh-TW'] .markdown table td:first-child {
+  min-width: 7.1em;
+}
+
+/* 휴대폰 너비에서는 칸 좌우 여백을 줄여 글자가 들어갈 자리를 넓힌다.
+   네 열짜리 표도 390px 화면에 넘치지 않는 값이다(0.7rem×2 + 4em ≈ 5.6em, 첫 열 5em ≈ 6.6em). */
+@media (max-width: 480px) {
+  .markdown table th,
+  .markdown table td {
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+  }
+
+  html[lang='ja'] .markdown table th,
+  html[lang='ja'] .markdown table td,
+  html[lang='zh-TW'] .markdown table th,
+  html[lang='zh-TW'] .markdown table td {
+    min-width: 5.6em;
+  }
+
+  html[lang='ja'] .markdown table th:first-child,
+  html[lang='ja'] .markdown table td:first-child,
+  html[lang='zh-TW'] .markdown table th:first-child,
+  html[lang='zh-TW'] .markdown table td:first-child {
+    min-width: 6.6em;
+  }
+}
+
+/* ── 인용·코드 ──────────────────────────────────────────── */
+
+.markdown blockquote {
+  --ifm-blockquote-color: var(--ifm-font-color-base);
+  border-left: 3px solid var(--ifm-color-primary);
+  background: var(--mymi-accent-softer);
+  border-radius: 0 0.75rem 0.75rem 0;
+  padding: 0.85rem 1.1rem;
+}
+
+.markdown blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+.markdown :not(pre) > code {
+  border: 1px solid var(--mymi-border);
+  background: var(--mymi-surface-2);
+  border-radius: 0.375rem;
+  padding: 0.1em 0.4em;
+  word-break: break-word;
+}
+
+.markdown pre,
+.markdown .theme-code-block {
+  border-radius: 0.75rem;
+}
+
+.theme-code-block {
+  border: 1px solid var(--mymi-border);
+  box-shadow: none;
+}
+
+/* ── 안내 박스(:::tip 등) ───────────────────────────────── */
+
+.alert {
+  --ifm-alert-border-width: 1px;
+  --ifm-alert-border-left-width: 4px;
+  --ifm-alert-border-radius: 0.875rem;
+  --ifm-alert-shadow: none;
+  --ifm-alert-foreground-color: var(--ifm-font-color-base);
+  --ifm-alert-padding-vertical: 0.9rem;
+  --ifm-alert-padding-horizontal: 1.1rem;
+  border-color: var(--mymi-alert-outline, var(--ifm-alert-border-color));
+  border-left-color: var(--ifm-alert-border-color);
+}
+
+.alert--info {
+  --ifm-alert-background-color: #faf5ff;
+  --ifm-alert-border-color: #9333ea;
+  --mymi-alert-outline: #e9d5ff;
+}
+
+.alert--success {
+  --ifm-alert-background-color: #f0fdf4;
+  --ifm-alert-border-color: #16a34a;
+  --mymi-alert-outline: #bbf7d0;
+}
+
+.alert--warning {
+  --ifm-alert-background-color: #fffbeb;
+  --ifm-alert-border-color: #d97706;
+  --mymi-alert-outline: #fde68a;
+}
+
+.alert--danger {
+  --ifm-alert-background-color: #fef2f2;
+  --ifm-alert-border-color: #dc2626;
+  --mymi-alert-outline: #fecaca;
+}
+
+.alert--secondary {
+  --ifm-alert-background-color: #fafafa;
+  --ifm-alert-border-color: #71717a;
+  --mymi-alert-outline: #e4e4e7;
+}
+
+[data-theme='dark'] .alert--info {
+  --ifm-alert-background-color: rgb(168 85 247 / 8%);
+  --ifm-alert-border-color: #c084fc;
+  --mymi-alert-outline: rgb(168 85 247 / 28%);
+}
+
+[data-theme='dark'] .alert--success {
+  --ifm-alert-background-color: rgb(34 197 94 / 8%);
+  --ifm-alert-border-color: #4ade80;
+  --mymi-alert-outline: rgb(34 197 94 / 26%);
+}
+
+[data-theme='dark'] .alert--warning {
+  --ifm-alert-background-color: rgb(245 158 11 / 8%);
+  --ifm-alert-border-color: #fbbf24;
+  --mymi-alert-outline: rgb(245 158 11 / 26%);
+}
+
+[data-theme='dark'] .alert--danger {
+  --ifm-alert-background-color: rgb(239 68 68 / 8%);
+  --ifm-alert-border-color: #f87171;
+  --mymi-alert-outline: rgb(239 68 68 / 30%);
+}
+
+[data-theme='dark'] .alert--secondary {
+  --ifm-alert-background-color: #1a1a1c;
+  --ifm-alert-border-color: #a1a1aa;
+  --mymi-alert-outline: #27272a;
+}
+
+.theme-admonition [class*='admonitionHeading'] {
+  font-size: 0.9375rem;
+  text-transform: none;
+  letter-spacing: 0;
+  color: var(--ifm-alert-border-color);
+}
+
+.theme-admonition [class*='admonitionIcon'] svg {
+  fill: var(--ifm-alert-border-color);
+  width: 1.25em;
+  height: 1.25em;
+}
+
+.alert a {
+  color: var(--ifm-link-color);
+}
+
+/* ── 자주 묻는 질문(<details>) ─────────────────────────── */
+
+.markdown details.alert {
+  --ifm-alert-background-color: var(--mymi-surface);
+  --ifm-alert-border-color: var(--mymi-border);
+  --mymi-alert-outline: var(--mymi-border);
+  --ifm-alert-border-left-width: 1px;
+  --docusaurus-details-decoration-color: var(--mymi-border);
+  padding: 0.95rem 1.15rem;
+  margin-bottom: 0.75rem;
+}
+
+.markdown details.alert > summary {
+  font-weight: 600;
+  padding-left: 1.4rem;
+}
+
+.markdown details.alert > summary::before {
+  border-color: transparent transparent transparent var(--ifm-color-primary);
+  top: 0.5rem;
+}
+
+.markdown details.alert[data-collapsed='false'] {
+  --ifm-alert-border-color: color-mix(in srgb, var(--ifm-color-primary) 45%, transparent);
+  --mymi-alert-outline: var(--ifm-alert-border-color);
+}
+
+/* ── 문서 아래: 이전·다음, 수정일 ─────────────────────── */
+
+.pagination-nav__link {
+  border: 1px solid var(--mymi-border);
+  border-radius: 0.875rem;
+  padding: 1rem 1.15rem;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.pagination-nav__link:hover {
+  border-color: var(--ifm-color-primary);
+  background: var(--mymi-accent-softer);
+}
+
+.pagination-nav__sublabel {
+  color: var(--mymi-muted);
+  font-size: 0.8125rem;
+}
+
+.pagination-nav__label {
+  font-weight: 600;
+}
+
+.theme-last-updated {
+  color: var(--mymi-muted);
+  font-size: 0.8125rem;
+  font-style: normal;
+}
+
+/* ── 오른쪽 목차 ─────────────────────────────────────────── */
+
+.table-of-contents {
+  font-size: 0.8125rem;
+}
+
+.table-of-contents__link {
+  color: var(--mymi-muted);
+}
+
+.table-of-contents__link:hover,
+.table-of-contents__link--active {
+  color: var(--ifm-color-primary);
+}
+
+.table-of-contents__link--active {
+  font-weight: 600;
+}
+
+/* ── 아래쪽 메뉴 ─────────────────────────────────────────── */
+
+.footer--dark {
+  --ifm-footer-background-color: #0e0e0f;
+  --ifm-footer-color: #a1a1aa;
+  --ifm-footer-link-color: #a1a1aa;
+  --ifm-footer-link-hover-color: #ffffff;
+  --ifm-footer-title-color: #fafafa;
+  border-top: 1px solid #27272a;
+}
+
+.footer__copyright {
+  color: #71717a;
+  font-size: 0.8125rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .navbar__item.navbar-cta,
+  .pagination-nav__link {
+    transition: none;
+  }
 }

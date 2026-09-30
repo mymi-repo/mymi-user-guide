@@ -1,41 +1,58 @@
 ---
+title: MYMI User Guide
 description: Learn how to find stories, chat with characters, and create your own work in MYMI.
 slug: /
 sidebar_position: 0
+hide_title: true
+hide_table_of_contents: true
 last_update:
-  date: 2026-09-23
+  date: 2026-09-29
 ---
 
-# MYMI User Guide
+<GuideHero
+  title="MYMI User Guide"
+  actions={[{label: 'Open MYMI', href: 'https://www.mymi.live/en', primary: true}]}>
 
 MYMI is an AI service where you can **take part in stories by chatting with their characters, and create stories of your own**. It is available on the web and in the mobile app.
 
 If you are new, start with access and account setup. If you already use MYMI, jump to the feature you need.
 
+</GuideHero>
+
 ## New to MYMI?
 
-1. **[What is MYMI?](getting-started/what-is-mymi.md)** — Find out what you can do inside a story.
-2. **[Access MYMI](getting-started/how-to-access.md)** — Open the website or install the Android or iOS app.
-3. **[Sign up](account/sign-up.md)** — Create your account and set up your profile.
-4. **[Start chatting](chatting/chat-with-character.md)** — Choose a story and begin your first conversation.
+<CardGrid>
+<Card to="/getting-started/what-is-mymi" icon="compass" title="What is MYMI?">Find out what you can do inside a story.</Card>
+<Card to="/getting-started/how-to-access" icon="device" title="Access MYMI">Open the website or install the Android or iOS app.</Card>
+<Card to="/account/sign-up" icon="userPlus" title="Sign up">Create your account and set up your profile.</Card>
+<Card to="/chatting/chat-with-character" icon="chat" title="Chat with a story">Choose a story and begin your first conversation.</Card>
+</CardGrid>
 
 ## Make the conversation your own
 
-| What you want to do | Guide |
-| --- | --- |
-| Choose your name and role in a story | [Persona settings](account/persona.md) |
-| Adjust how the conversation works and looks | [Chat room settings](chatting/chat-room-settings.md) |
-| Manage past events and important details | [Long-term memory and memory fragments](chatting/memory-book.md) |
-| Explore the AI models available for chat | [AI models](chatting/ai-models.md) |
+<CardGrid>
+<Card to="/account/persona" icon="persona" title="Persona settings">Choose your name and role in a story.</Card>
+<Card to="/chatting/chat-room-settings" icon="sliders" title="Chat room settings">Adjust how the conversation works and looks.</Card>
+<Card to="/chatting/memory-book" icon="layers" title="Long-term memory & memory fragments">Manage past events and important details.</Card>
+<Card to="/chatting/ai-models" icon="model" title="AI model guide">Explore the AI models available for chat and their prices.</Card>
+</CardGrid>
 
-## Create your own story
+## Create your own work
 
-Start with the setting, the characters, and the scene the reader will encounter first. You can then add chat images, a lorebook that brings in relevant details, and components such as status displays.
+The new **creation guide** walks through the creation screen by building one example work from start to finish. The pages are in Korean for now, and English translations are on the way.
 
-Choose **Create** in the bottom menu to start a new story. Write the world, characters, and secrets in the **prompt**, and set when images and components should appear during chat.
+<CardGrid>
+<Card to="/create/before-you-start" icon="compass" title="Before you start">Learn the seven tabs of the creation screen and how saving works.</Card>
+<Card to="/create/first-work" icon="pen" title="Create your first work">Go from a single cover image to Publish, step by step.</Card>
+<Card to="/create/images" icon="image" title="Prepare images">Make character and background images for chat.</Card>
+<Card to="/create/prompt" icon="book" title="Write the prompt">Write the settings the AI reads.</Card>
+</CardGrid>
 
 ## Need help?
 
-- [Payment methods](payment/payment-methods.md)
-- [Frequently asked questions](faq/faq.md)
-- [Terms and policies](policy/terms.md)
+<CardGrid>
+<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">See how to buy Sparks, the packages, and ways to earn them for free.</Card>
+<Card to="/faq" icon="help" title="Frequently asked questions">Answers to common questions about using MYMI.</Card>
+<Card to="/policy/terms" icon="shield" title="Terms and policies">Read the terms of service and operating policies.</Card>
+<Card href="mailto:contact@mymi.live" icon="mail" title="Contact us" description="Email contact@mymi.live and include your device and browser or app." />
+</CardGrid>

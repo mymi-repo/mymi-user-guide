@@ -2,7 +2,7 @@
 sidebar_position: 1
 description: Sign up with a social account, understand your display name and user ID, and check the required fields, agreements, and common problems.
 last_update:
-  date: 2026-09-23
+  date: 2026-09-29
 ---
 
 # Sign up
@@ -18,17 +18,15 @@ If you already have an account, choose the same sign-in method and social accoun
 3. Choose a social account and complete sign-in with that service.
 4. If this is a new account, you will reach the MYMI sign-up form.
 
-The available buttons depend on the website language and the app platform.
+The available buttons differ between the website and the app, and between app platforms.
 
 | Where you sign in | Sign-in methods |
 | --- | --- |
-| Website in English | Google, X, Apple |
-| Website in Korean | Kakao, Google, Apple |
-| Website in Japanese or Traditional Chinese | LINE, Google, X, Apple |
+| Website | Google, X, Apple |
 | Android app | Kakao, Google |
 | iOS app | Apple, Kakao, Google |
 
-Choose one of the buttons displayed on your screen. If the app does not offer the method you used before, use the website with the appropriate language setting.
+Choose one of the buttons displayed on your screen. X is not available in the app, so if you signed up with X, sign in on the website.
 
 > **To return to an existing account**
 >
@@ -49,7 +47,7 @@ For example, your display name could be `Haru`, your user ID `moon_reader`, and 
 
 Next time, sign in with the social account you used to register.
 
-After sign-up, follow the instructions shown by any feature that requires identity or age verification.
+After sign-up, follow the instructions shown by any feature that requires phone verification or age confirmation. See [Age confirmation and phone verification](/account/adult-verification.md).
 
 ### User ID rules
 

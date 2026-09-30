@@ -1,10 +1,16 @@
 ---
+title: Create a new work
+description: The guide to creating a new work has moved to the new creation guide.
 unlisted: true
 last_update:
-  date: 2026-09-23
-description: Continue to the current story creation guide.
+  date: 2026-09-29
 ---
 
-# Create a new story
+# Create a new work
 
-See [Create a new story](create-work.md) for the current creation steps.
+This guide has moved to the new **creation guide**. The new pages are in Korean for now, and English translations are on the way.
+
+<CardGrid>
+<Card to="/create/first-work" icon="pen" title="Create your first work">Go from a single cover image to Publish, step by step.</Card>
+<Card to="/create/before-you-start" icon="compass" title="Before you start">Learn the seven tabs of the creation screen and how saving works.</Card>
+</CardGrid>

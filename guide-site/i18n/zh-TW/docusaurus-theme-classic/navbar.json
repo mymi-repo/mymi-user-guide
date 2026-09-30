@@ -1,4 +1,13 @@
 {
+  "item.label.이용 가이드": {
+    "message": "使用說明"
+  },
+  "item.label.제작 가이드": {
+    "message": "創作指南"
+  },
+  "item.label.도움말": {
+    "message": "說明中心"
+  },
   "item.label.서비스 바로가기": {
     "message": "前往 MYMI"
   }

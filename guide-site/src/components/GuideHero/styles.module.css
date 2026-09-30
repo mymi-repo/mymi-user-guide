@@ -1,0 +1,115 @@
+.hero {
+  position: relative;
+  overflow: hidden;
+  margin: 0.25rem 0 2.5rem;
+  padding: 2.75rem 2.5rem 2.5rem;
+  border: 1px solid var(--mymi-border);
+  border-radius: 1.5rem;
+  background:
+    radial-gradient(120% 140% at 100% 0%, rgb(168 85 247 / 20%) 0%, rgb(168 85 247 / 0%) 55%),
+    linear-gradient(180deg, var(--mymi-surface) 0%, var(--ifm-background-color) 100%);
+}
+
+[data-theme='dark'] .hero {
+  background:
+    radial-gradient(120% 140% at 100% 0%, rgb(168 85 247 / 26%) 0%, rgb(168 85 247 / 0%) 55%),
+    linear-gradient(180deg, #1b1b1e 0%, #151516 100%);
+}
+
+.mark {
+  position: absolute;
+  right: -2.75rem;
+  bottom: -3.25rem;
+  width: 16rem;
+  height: 16rem;
+  color: var(--ifm-color-primary);
+  opacity: 0.09;
+  pointer-events: none;
+}
+
+.title {
+  position: relative;
+  margin: 0 0 0.9rem;
+  font-size: clamp(2rem, 4.2vw, 2.75rem);
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  line-height: 1.15;
+}
+
+.lead {
+  position: relative;
+  max-width: 40rem;
+  color: var(--mymi-muted-strong);
+  font-size: 1.0625rem;
+  line-height: 1.7;
+}
+
+.lead p {
+  margin-bottom: 0.6rem;
+}
+
+.lead strong {
+  color: var(--ifm-heading-color);
+}
+
+.actions {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.5rem;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.6rem 1.2rem;
+  border: 1px solid var(--mymi-border);
+  border-radius: 999px;
+  background: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.button:hover {
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-font-color-base);
+  text-decoration: none;
+}
+
+.primary {
+  border-color: var(--mymi-cta-bg);
+  background: var(--mymi-cta-bg);
+  color: #ffffff;
+}
+
+.primary:hover {
+  border-color: var(--mymi-cta-bg-hover);
+  background: var(--mymi-cta-bg-hover);
+  color: #ffffff;
+}
+
+@media (max-width: 640px) {
+  .hero {
+    padding: 2rem 1.35rem 1.75rem;
+    border-radius: 1.1rem;
+  }
+
+  .mark {
+    width: 10rem;
+    height: 10rem;
+    right: -1.75rem;
+    bottom: -2rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .button {
+    transition: none;
+  }
+}

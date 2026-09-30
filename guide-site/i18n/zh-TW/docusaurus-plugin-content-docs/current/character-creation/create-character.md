@@ -1,18 +1,18 @@
 ---
-sidebar_position: 1
+title: 建立作品
+description: 建立作品的說明已移至新的創作指南。
+unlisted: true
 last_update:
-  date: 2026-09-23
-description: 了解如何建立新作品，以及編輯已建立的作品。
+  date: 2026-09-29
 ---
 
 # 建立作品
 
-登入後，點選底部的 **建立** 分頁即可開啟作品製作畫面。準備基本資訊與封面，填寫提示詞、開場及其他設定後，點選 **完成製作**。
+這份說明已移至新的**創作指南**。新頁面目前僅提供韓文，我們正在準備中文翻譯。
 
-初次製作可參考[建立新作品](create-work.md)，依序進行 **儲存草稿 → 加入封面 → 撰寫提示詞與開場 → 選擇其他設定 → 完成製作**。
-
-## 編輯已建立的作品
-
-前往 **我的頁面 → 作品管理**，點選作品的 **編輯**，即可開啟該作品的製作畫面。畫面顯示 **套用變更** 時點選該按鈕；舊版製作畫面則在最後一步點選 **完成**，即可套用修改。
-
-使用 **舊版製作方式（1.0）**建立的作品會在舊版七步驟畫面中編輯。操作方式及與目前作品製作畫面的差異，請見[舊版製作方式：編輯既有作品](edit-existing-work.md)。舊版方式已**停止建立新作品**。
+<CardGrid>
+<Card to="/create/before-you-start" icon="compass" title="開始之前">了解作品製作畫面的七個分頁與儲存方式。</Card>
+<Card to="/create/first-work" icon="pen" title="建立第一個作品">只用一張封面和文字，一路完成製作。</Card>
+<Card to="/create/publish" icon="send" title="公開與修改">在內容管理中修改作品。</Card>
+<Card to="/create/legacy/overview" icon="history" title="舊版製作方式（1.0）">編輯以舊方式建立的作品時參考。</Card>
+</CardGrid>

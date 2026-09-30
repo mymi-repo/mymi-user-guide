@@ -2,7 +2,7 @@
 sidebar_position: 1
 description: 了解社群帳號註冊流程、顯示名稱與使用者 ID 的差別、ID 規則、同意項目，以及註冊問題的處理方式。
 last_update:
-  date: 2026-09-23
+  date: 2026-09-29
 ---
 
 # 註冊
@@ -18,17 +18,15 @@ last_update:
 3. 選擇社群帳號，完成該服務的登入流程。
 4. 首次使用的帳號會進入 MYMI 註冊表單。
 
-登入按鈕會依網站語言與 App 平台而有所不同。
+網頁版與 App 顯示的登入按鈕不同，App 也會依作業系統而異。
 
 | 使用環境 | 登入方式 |
 | --- | --- |
-| 繁體中文、日文網頁版 | LINE、Google、X、Apple |
-| 韓文網頁版 | Kakao、Google、Apple |
-| 英文網頁版 | Google、X、Apple |
+| 網頁版 | LINE、Google、X、Apple |
 | Android App | Kakao、Google |
 | iOS App | Apple、Kakao、Google |
 
-請從畫面上顯示的按鈕中選擇。如果 App 沒有你原本使用的方式，可在對應語言的網頁版登入。
+請從畫面上顯示的按鈕中選擇。App 不提供 LINE 與 X 登入，若以這些方式註冊，請改從網頁版登入。
 
 > **繼續使用原本的帳號**
 >
@@ -49,7 +47,7 @@ last_update:
 
 下次使用時，請以註冊時的社群帳號登入。
 
-註冊後，若某項功能需要身分或年齡驗證，請依該功能顯示的指示辦理。
+註冊後，若某項功能需要手機號碼驗證或年齡確認，請依該功能顯示的指示辦理。詳情請參考[年齡確認與手機號碼驗證](/account/adult-verification.md)。
 
 ### 使用者 ID 規則
 

@@ -1,9 +1,12 @@
 {
-  "link.title.가이드": {
-    "message": "指南"
+  "link.title.이용 가이드": {
+    "message": "使用說明"
   },
-  "link.title.정책": {
-    "message": "條款與政策"
+  "link.title.제작 가이드": {
+    "message": "創作指南"
+  },
+  "link.title.도움말": {
+    "message": "說明中心"
   },
   "link.title.서비스": {
     "message": "服務"
@@ -14,14 +17,23 @@
   "link.item.label.대화하기": {
     "message": "開始聊天"
   },
-  "link.item.label.작품 만들기": {
-    "message": "創作作品"
+  "link.item.label.결제수단": {
+    "message": "付款方式"
+  },
+  "link.item.label.시작하기 전에": {
+    "message": "開始之前"
+  },
+  "link.item.label.첫 작품 만들기": {
+    "message": "建立第一個作品"
+  },
+  "link.item.label.공개하고 고치기": {
+    "message": "公開與修改"
+  },
+  "link.item.label.자주 묻는 질문": {
+    "message": "常見問題"
   },
   "link.item.label.이용약관 / 정책": {
     "message": "服務條款與政策"
-  },
-  "link.item.label.결제수단": {
-    "message": "付款方式"
   },
   "link.item.label.문의": {
     "message": "聯絡我們"

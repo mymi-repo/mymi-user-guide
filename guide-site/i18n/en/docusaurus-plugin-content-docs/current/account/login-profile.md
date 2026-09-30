@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-09-23
+  date: 2026-09-29
 description: Learn how to sign in, distinguish personal details from your public profile and personas, change your profile image, and save your changes.
 ---
 
@@ -44,10 +44,10 @@ Edit the fields you want in **My Info**, then select **Save Changes** at the top
 | Field | Purpose and details |
 | --- | --- |
 | Name | The name your default persona uses in conversations |
-| Gender | Also used by your default persona. This field cannot be edited after identity verification |
+| Gender | Also used by your default persona. This field cannot be edited after phone verification |
 | Nickname | The name other users see, also used as your creator name |
 | ID | Identifies your account, such as `@moon_reader`, and is used in your public profile URL |
-| Birthdate | Also used by your default persona. This field cannot be edited after identity verification |
+| Birthdate | Also used by your default persona. This field cannot be edited after phone verification |
 | Details | Information characters can refer to when you use your default persona. Up to **1,000 characters** |
 
 For example, if your **Name** is `Haru` and your **Nickname** is `Moon Reader`, your default persona uses Haru in conversations while other users see Moon Reader.
@@ -99,7 +99,7 @@ Put information you want characters to use in **Details or a persona**. Put an i
 | My Activity | View creators you follow and comments you have posted |
 | Attendance Check | Check attendance status and rewards |
 
-See [Adult verification](/account/adult-verification.md) for sensitive-content settings. Available menus and requirements may vary by device and account status.
+See [Age confirmation and phone verification](/account/adult-verification.md) for sensitive-content settings. Available menus and requirements may vary by device and account status.
 
 ## 6. Log out
 
@@ -113,7 +113,7 @@ Logging out ends your current device's login session. To delete your account, se
 | --- | --- |
 | Save Changes is disabled | Check that you have made a change, required fields are complete and valid, and any new ID is available |
 | The ID check is still running or shows an error | Wait for the check to finish. If it fails, check your connection and select Check to try again |
-| I cannot edit my gender or birthdate | These fields cannot be edited after identity verification |
+| I cannot edit my gender or birthdate | These fields cannot be edited after phone verification |
 | My Info has no button to change my profile image | Open Edit Profile in the Creator tab |
 | I chose a photo, but my profile image did not change | Check for upload errors or permission requests, and make sure you selected Save after the upload finished |
 | I changed Details, but my public introduction stayed the same | Edit it separately under Creator → Edit Profile → Introduction |

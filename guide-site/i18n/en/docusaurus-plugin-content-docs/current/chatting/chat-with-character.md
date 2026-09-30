@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-09-23
+  date: 2026-09-29
 description: Find a story, choose an intro and persona, start chatting, and understand the difference between continuing a chat and starting a new one.
 ---
 
@@ -22,7 +22,7 @@ Use these tabs on Home:
 
 Use the **All Genders / Female/Other / Male/Other** filter to narrow the stories shown. If a story is missing, try another keyword, tag combination, or gender filter.
 
-Whether adult stories are shown or accessible depends on the safety filter and your account's verification status. If access is restricted, see [Age and identity verification](/account/adult-verification.md).
+Whether adult stories are shown or accessible depends on the safety filter and your account's age confirmation. If access is restricted, see [Age confirmation and phone verification](/account/adult-verification.md).
 
 ## 2. Check the starting point on the story page
 
@@ -82,6 +82,6 @@ For more on display options, models, personas, and other room controls, see [Cha
 | Situation | What to check |
 | --- | --- |
 | The start button is disabled | Wait for personas to load, then try selecting one with the profile button |
-| I cannot open an adult story | Check sign-in and [Age and identity verification](/account/adult-verification.md) |
+| I cannot open an adult story | Check that you are signed in and have completed [age confirmation](/account/adult-verification.md) |
 | My message will not send | Check your connection, input, and any notice about the model, usage, or Spark balance |
 | I cannot find a story | Try another search term and check the tag, gender, and safety filters |

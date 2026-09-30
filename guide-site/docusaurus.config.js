@@ -1,29 +1,48 @@
 // @ts-check
 import {themes as prismThemes} from 'prism-react-renderer';
 
+// 언어별 사이트 문구. navTitle은 로고 옆 짧은 제목, serviceUrl은 같은 언어의 서비스 화면이다.
 const siteTexts = {
   ko: {
     title: 'MYMI 유저가이드',
+    navTitle: '유저가이드',
     description: 'AI 작품 속 인물과 자유롭게 대화하고, 나만의 작품을 만들어보세요',
     keywords: 'MYMI, AI, 챗봇, 인터랙티브, 웹소설, 유저가이드, 사용법',
+    serviceUrl: 'https://www.mymi.live',
   },
   en: {
     title: 'MYMI User Guide',
+    navTitle: 'User Guide',
     description: 'Chat with characters in AI stories and create stories of your own.',
     keywords: 'MYMI, AI, chat, interactive stories, user guide',
+    serviceUrl: 'https://www.mymi.live/en',
   },
   ja: {
     title: 'MYMI ユーザーガイド',
+    navTitle: 'ユーザーガイド',
     description: 'AIが演じる物語の登場人物と会話し、自分だけの作品を作りましょう。',
     keywords: 'MYMI, AI, チャット, 物語, ユーザーガイド, 使い方',
+    serviceUrl: 'https://www.mymi.live/ja',
   },
   'zh-TW': {
     title: 'MYMI 使用指南',
+    navTitle: '使用指南',
     description: '與 AI 故事中的角色自由對話，創作屬於自己的作品。',
     keywords: 'MYMI, AI, 聊天, 互動故事, 使用指南, 創作',
+    serviceUrl: 'https://www.mymi.live/zh-TW',
   },
 };
-const siteText = siteTexts[process.env.DOCUSAURUS_CURRENT_LOCALE ?? 'ko'] ?? siteTexts.ko;
+const requestedLocale = process.env.DOCUSAURUS_CURRENT_LOCALE ?? 'ko';
+const localeKey = siteTexts[requestedLocale] ? requestedLocale : 'ko';
+const siteText = siteTexts[localeKey];
+
+// Pretendard(한국어판)는 한국식 한자·가나 글리프를 포함한다. 일본어 화면은 같은 계열의 JP판을 함께 불러
+// 본문에 쓰고, 한국어판은 번역 대기 문서의 한국어 본문용으로 모든 언어에서 불러 둔다.
+const PRETENDARD_CDN = 'https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable';
+const fontStylesheets = [
+  `${PRETENDARD_CDN}/pretendardvariable-dynamic-subset.min.css`,
+  ...(localeKey === 'ja' ? [`${PRETENDARD_CDN}/pretendardvariable-jp-dynamic-subset.min.css`] : []),
+];
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -64,13 +83,7 @@ const config = {
     },
   },
 
-  // Inject Pretendard webfont (한글+영문 통합)
-  stylesheets: [
-    {
-      href: 'https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css',
-      type: 'text/css',
-    },
-  ],
+  stylesheets: fontStylesheets.map((href) => ({href, type: 'text/css'})),
 
   // Search Console / OG defaults
   headTags: [
@@ -80,6 +93,15 @@ const config = {
         property: 'og:site_name',
         content: siteText.title,
       },
+    },
+    // 모바일 브라우저 주소창 색. 서비스 앱 배경(#151516)과 맞춘다.
+    {
+      tagName: 'meta',
+      attributes: {name: 'theme-color', media: '(prefers-color-scheme: dark)', content: '#151516'},
+    },
+    {
+      tagName: 'meta',
+      attributes: {name: 'theme-color', media: '(prefers-color-scheme: light)', content: '#ffffff'},
     },
   ],
 
@@ -91,7 +113,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/Jungwon423/mymi-user-guide/edit/master/',
+          // 이용자용 사이트라 "이 페이지 편집" 링크(editUrl)는 두지 않는다.
           // git 기록이 없는 빌드 환경(Vercel CLI 업로드 배포 등)에서는 "마지막 수정일" 을 구할 수 없어
           // 빌드가 실패한다. 호출측(MYMI_frontend scripts/build-guide.mjs)이 git worktree 가 없으면
           // DOCUSAURUS_SHOW_LAST_UPDATE=false 를 넘겨 이 기능만 끈다. 기본은 켜짐.
@@ -114,7 +136,8 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/docusaurus-social-card.jpg',
+      // 링크 공유 이미지. 원본은 og/card.html 이며 다시 만드는 방법은 README의 "링크 공유 이미지"에 있다.
+      image: `img/og/og-${localeKey}.png`,
       metadata: [
         {name: 'keywords', content: siteText.keywords},
         {name: 'description', content: siteText.description},
@@ -123,51 +146,68 @@ const config = {
         defaultMode: 'dark',
         respectPrefersColorScheme: true,
       },
+      docs: {
+        sidebar: {
+          // 한 번에 한 분류만 펼쳐 목차를 짧게 유지한다.
+          autoCollapseCategories: true,
+        },
+      },
       navbar: {
-        title: siteText.title,
+        title: siteText.navTitle,
         logo: {
           alt: 'MYMI',
           src: 'brand/mymi-lockup.svg',
           srcDark: 'brand/mymi-lockup-white.svg',
         },
         items: [
+          // 세 영역의 입구. 각 사이드바의 첫 문서로 이동한다(sidebars.js).
+          {type: 'docSidebar', sidebarId: 'useSidebar', label: '이용 가이드', position: 'left'},
+          {type: 'docSidebar', sidebarId: 'createSidebar', label: '제작 가이드', position: 'left'},
+          {type: 'docSidebar', sidebarId: 'helpSidebar', label: '도움말', position: 'left'},
           // Docusaurus start serves one locale only. Show language switching in
           // the full build/preview, where the destination pages actually exist.
           ...(process.env.NODE_ENV === 'production'
             ? [{type: 'localeDropdown', position: 'right'}]
             : []),
           {
-            href: 'https://www.mymi.live',
+            href: siteText.serviceUrl,
             label: '서비스 바로가기',
             position: 'right',
+            className: 'navbar-cta',
           },
         ],
       },
       footer: {
         style: 'dark',
+        // 상단 메뉴의 세 영역과 같은 묶음. 문구를 바꾸면 i18n/<locale>/docusaurus-theme-classic/footer.json 의 키도 바꾼다.
         links: [
           {
-            title: '가이드',
+            title: '이용 가이드',
             items: [
               {label: 'MYMI란?', to: '/getting-started/what-is-mymi'},
               {label: '대화하기', to: '/chatting/chat-with-character'},
-              {label: '작품 만들기', to: '/character-creation/create-character'},
+              {label: '결제수단', to: '/payment/payment-methods'},
             ],
           },
           {
-            title: '정책',
+            title: '제작 가이드',
             items: [
+              {label: '시작하기 전에', to: '/create/before-you-start'},
+              {label: '첫 작품 만들기', to: '/create/first-work'},
+              {label: '공개하고 고치기', to: '/create/publish'},
+            ],
+          },
+          {
+            title: '도움말',
+            items: [
+              {label: '자주 묻는 질문', to: '/faq'},
               {label: '이용약관 / 정책', to: '/policy/terms'},
-              {label: '결제수단', to: '/payment/payment-methods'},
-              {label: 'FAQ', to: '/faq'},
+              {label: '문의', href: 'mailto:contact@mymi.live'},
             ],
           },
           {
             title: '서비스',
-            items: [
-              {label: 'mymi.live', href: 'https://www.mymi.live'},
-              {label: '문의', href: 'mailto:contact@mymi.live'},
-            ],
+            items: [{label: 'mymi.live', href: siteText.serviceUrl}],
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} WonMo Inc.`,
