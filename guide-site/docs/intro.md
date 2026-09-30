@@ -6,7 +6,7 @@ sidebar_position: 0
 hide_title: true
 hide_table_of_contents: true
 last_update:
-  date: 2026-09-29
+  date: 2026-10-01
 ---
 
 <GuideHero
@@ -15,7 +15,7 @@ last_update:
 
 MYMI는 **작품 속 인물과 대화하며 이야기에 참여하고, 나만의 작품을 만들 수 있는 AI 서비스**입니다. 웹과 모바일 앱에서 이용할 수 있습니다.
 
-처음 이용한다면 접속과 계정 설정부터, 이미 이용 중이라면 필요한 기능부터 살펴보세요.
+처음 이용한다면 접속과 계정 설정부터, 이미 이용 중이라면 필요한 기능부터 살펴보세요. 막힌 곳이 있다면 [자주 묻는 질문](/faq/faq.md)에서 화면에 뜬 문구로 해결 방법을 찾아보세요.
 
 </GuideHero>
 
@@ -48,11 +48,11 @@ MYMI는 **작품 속 인물과 대화하며 이야기에 참여하고, 나만의
 <Card to="/create/prompt" icon="book" title="프롬프트 쓰기">AI가 읽는 설정을 적는 방법을 알아봅니다.</Card>
 </CardGrid>
 
-## 이용 중 궁금한 점이 생겼나요?
+## 막히거나 궁금한 점이 생겼나요?
 
 <CardGrid>
+<Card to="/faq" icon="help" title="자주 묻는 질문">로그인·인증·스파크·대화·작품 제작에서 막혔을 때 해결 방법을 찾습니다.</Card>
 <Card to="/payment/payment-methods" icon="card" title="스파크 충전하기">스파크 충전 방법과 상품, 무료로 받는 방법을 확인합니다.</Card>
-<Card to="/faq" icon="help" title="자주 묻는 질문">이용 중 자주 묻는 질문과 답변을 모았습니다.</Card>
 <Card to="/policy/terms" icon="shield" title="약관과 정책">이용약관과 운영 정책을 확인합니다.</Card>
 <Card href="mailto:contact@mymi.live" icon="mail" title="문의하기" description="contact@mymi.live로 이용 환경과 함께 알려 주세요." />
 </CardGrid>
