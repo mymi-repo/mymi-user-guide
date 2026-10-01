@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 last_update:
-  date: 2026-09-29
+  date: 2026-10-02
 description: Learn when phone verification and age confirmation are required, how to complete each, how to change filter settings afterward, and what to do when verification fails.
 ---
 
@@ -28,9 +28,9 @@ First, [sign in to MYMI](/account/login-profile.md). Open the feature you want t
 
 If a prompt says identity verification, you complete it on the phone verification screen.
 
-On the website, the Safety Filter is on Home. In the app, it may appear on **Home** or under **Profile → Settings & Support**, depending on the interface available to you. If Profile contains **Safety Filter**, use that setting.
+The Safety Filter is the small switch with a shield icon and no label at the right end of the **Recommended**, **Ranking**, **Tags**, and **Search** tab row on **Home**. It is in the same place on the website and in the app. Green means the filter is on and adult works are hidden; gray means it is off. The setting is saved on each device, so it is on again when you open MYMI on a new device or browser, or after you sign out.
 
-**Turning the filter OFF** and **turning Show Sensitive Content ON** use opposite toggle directions. Check the setting's name and current state.
+**Show Sensitive Content** under **Profile → Settings & Support** is a separate setting. Turn it on to also see works classified as sensitive content. It is saved to your account, so it stays the same on every device. If you turned off the Safety Filter but still cannot find a work, turn this on too.
 
 ## 2. Verify your phone number
 

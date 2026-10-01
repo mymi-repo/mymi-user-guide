@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-09-29
+  date: 2026-10-02
 description: Answers to common questions about using MYMI, buying Sparks and refunds, age confirmation and the Safety Filter, chat memory, missing chats, and Leaves.
 ---
 
@@ -73,13 +73,15 @@ See [Long-term memory & memory fragments](/chatting/memory-book.md).
 
 <summary>A chat room disappeared</summary>
 
-A chat room may not appear in your list in these cases:
+The chat list shows only the most recent room for each work. Check these:
 
-1. If you hid the room, it is in the hidden chats list under **View Previous Chats**.
-2. The creator deleted the story, or it was removed for violating the rules.
-3. Chat rooms for adult stories may be hidden depending on your age confirmation status.
+1. **If you started a new chat**: your earlier rooms are still there. In that work's chat room, open the ⋮ menu and tap **View Previous Chats**.
+2. **If you hid the work in the chat list**: in **Chat**, open the **Works** tab, tap **Hidden N** to see hidden works, then choose **Unhide** from the work card's more menu.
+3. **If you hid one room**: in **View Previous Chats**, tap the eye icon to open **Hidden chats**, pick the room, and tap **Unhide**.
 
-If none of these apply, contact us with the story name, when the room disappeared, and your device and operating system.
+Deleting a work from the chat list deletes all of its conversations, and they cannot be restored.
+
+If none of these apply, contact us with the work's title, when the room disappeared, and your device and operating system.
 
 </details>
 

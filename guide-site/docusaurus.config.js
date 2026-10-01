@@ -186,7 +186,7 @@ const config = {
             items: [
               {label: 'MYMI란?', to: '/getting-started/what-is-mymi'},
               {label: '대화하기', to: '/chatting/chat-with-character'},
-              {label: '결제수단', to: '/payment/payment-methods'},
+              {label: '스파크 충전하기', to: '/payment/payment-methods'},
             ],
           },
           {
