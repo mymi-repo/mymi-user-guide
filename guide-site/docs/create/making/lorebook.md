@@ -31,7 +31,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep src="/img/screens/ko/lorebook-editor.webp" device="part" alt="관리국 로어를 펼친 모습. 이름, 키워드, 내용 칸과 로어 삭제·접기 버튼" caption="로어 편집">
+<ScreenStep src="/img/screens/ko/lorebook-editor.webp" device="part" alt="관리국 로어를 펼친 모습. 이름 관리국, 키워드 관리국·국장, 내용 칸과 로어 삭제·접기 버튼" caption="로어 편집">
 
 - **이름**: 로어의 이름이에요. 50자까지. 내용과 함께 AI에게 전해져요.
 - **키워드**: 대화에 이 말이 나오면 내용이 전해져요. 5개까지, 하나에 10자까지예요. 10자를 넘게 적으면 앞 10자만 들어가요. 적고 Enter나 쉼표를 누르거나 **추가**를 눌러 넣어요. 대소문자는 구분하지 않아요.
