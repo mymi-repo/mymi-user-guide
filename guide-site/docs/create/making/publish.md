@@ -4,7 +4,7 @@ description: 제작 완료 뒤 검토와 공개가 어떻게 진행되는지, �
 slug: /create/publish
 sidebar_position: 10
 last_update:
-  date: 2026-09-29
+  date: 2026-10-02
 ---
 
 # 공개하고 고치기
@@ -148,5 +148,5 @@ last_update:
 
 <CardGrid>
 <Card to="/create/limits" icon="list" title="제한과 규칙 한눈에">제작 완료 때 확인하는 항목을 모두 봐요.</Card>
-<Card to="/creator-support/support" icon="spark" title="크리에이터 응원하기">대시보드와 리프, 공식 크리에이터를 알아봐요.</Card>
+<Card to="/creator-support/support" icon="spark" title="크리에이터 되기와 리프">크리에이터 지원과 리프, 공식 크리에이터를 알아봐요.</Card>
 </CardGrid>
