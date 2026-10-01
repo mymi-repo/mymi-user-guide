@@ -32,10 +32,10 @@
   "link.item.label.자주 묻는 질문": {
     "message": "FAQ"
   },
-  "link.item.label.이용약관 / 정책": {
+  "link.item.label.약관과 정책": {
     "message": "Terms and policies"
   },
-  "link.item.label.문의": {
+  "link.item.label.문의하기": {
     "message": "Contact"
   }
 }

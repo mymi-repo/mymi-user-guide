@@ -201,8 +201,12 @@ const config = {
             title: '도움말',
             items: [
               {label: '자주 묻는 질문', to: '/faq'},
-              {label: '이용약관 / 정책', to: '/policy/terms'},
-              {label: '문의', href: 'mailto:contact@mymi.live'},
+              {label: '약관과 정책', to: '/policy/terms'},
+              // 한국어판 FAQ에는 디스코드·메일을 함께 안내하는 문의하기 절이 있어 그리로 보낸다.
+              // 세 언어판 FAQ에는 아직 그 절이 없어 메일로 둔다. 나라별 FAQ를 다시 쓸 때 같은 절을 만들고 맞춘다.
+              localeKey === 'ko'
+                ? {label: '문의하기', to: '/faq#문의하기'}
+                : {label: '문의하기', href: 'mailto:contact@mymi.live'},
             ],
           },
           {
