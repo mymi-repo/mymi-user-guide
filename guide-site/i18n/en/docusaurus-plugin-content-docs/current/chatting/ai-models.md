@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 last_update:
-  date: 2026-09-29
+  date: 2026-10-01
 description: Choose a chat AI model and check regular prices, response limits, and charges.
 ---
 
@@ -24,7 +24,7 @@ A guest trial uses **Gemini 3.8 Flash**. Sign in to choose a model yourself.
 
 ## 2. Available models and regular prices
 
-These are the **regular prices as of September 23, 2026**. The base price includes one message up to the model's included output limit. The extra rate applies per **100 actual output and reasoning tokens combined** beyond that limit. Amounts are in Spark-equivalent units. Limited-time promotions can change **both the base and extra rates**, so check the prices shown in Select Model and Response Length before sending a message.
+These are the **regular prices as of October 1, 2026**. The base price includes one message up to the model's included output limit. The extra rate applies per **100 actual output and reasoning tokens combined** beyond that limit. Amounts are in Spark-equivalent units. Limited-time promotions can change **both the base and extra rates**, so check the prices shown in Select Model and Response Length before sending a message.
 
 ### MYMI models
 
@@ -49,7 +49,6 @@ These are the **regular prices as of September 23, 2026**. The base price includ
 | Model and style | Base | Per extra 100 tokens |
 | --- | ---: | ---: |
 | **Claude Opus 4.6**<br />Deep reasoning, creative writing | 300 | 20 |
-| **Claude Opus 4.5**<br />Deep reasoning, creative writing | 300 | 20 |
 | **Claude Sonnet 4.6**<br />Nuanced emotional expression | 100 | 6 |
 | **Claude Sonnet 4.5**<br />Balanced conversation | 100 | 6 |
 

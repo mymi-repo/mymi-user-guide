@@ -33,7 +33,7 @@ MYMI는 **작품 속 인물과 대화하며 이야기에 참여하고, 나만의
 <CardGrid>
 <Card to="/account/persona" icon="persona" title="페르소나 설정">작품 속에서 사용할 내 이름과 역할을 정합니다.</Card>
 <Card to="/chatting/chat-room-settings" icon="sliders" title="채팅방 설정하기">대화 방식과 화면 설정을 바꿉니다.</Card>
-<Card to="/chatting/memory-book" icon="layers" title="장기기억 & 기억 조각">이전 사건과 중요한 설정을 관리합니다.</Card>
+<Card to="/chatting/memory-book" icon="layers" title="장기 기억과 기억 조각">이전 사건과 중요한 설정을 관리합니다.</Card>
 <Card to="/chatting/ai-models" icon="model" title="AI 모델 안내">대화에 사용할 AI 모델과 가격을 알아봅니다.</Card>
 </CardGrid>
 
