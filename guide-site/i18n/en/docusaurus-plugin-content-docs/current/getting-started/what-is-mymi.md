@@ -9,16 +9,16 @@ description: What you can do on MYMI, what works, characters, personas, and intr
 
 MYMI is a service where **you chat with characters played by AI and shape the story as you go**. You can chat with works other people made, or create and publish a work of your own.
 
-For example, in the work **Underground Seoul**, you wake up in a quarantine station with no memory and talk with Kang Minwoo, a guide, and Lee Seoyeon, the station's doctor. What you say and where you go changes the next scene.
+For example, in the work **Underground Seoul**, you wake up in a quarantine station with no memory and talk with Kang Min-woo, a guide, and Lee Seo-yeon, the station's doctor. What you say and where you go changes the next scene.
 
 ## Words to know
 
 | Word | Meaning | In Underground Seoul |
 | --- | --- | --- |
 | Work | A story with its world, characters, and opening scene | Seoul in 2031, a sealed underground city |
-| Character | Someone the AI plays | Minwoo the guide, Dr. Seoyeon |
+| Character | Someone the AI plays | Min-woo the guide, Dr. Seo-yeon |
 | Persona | The name and role you use in a work | "Haru," who wakes up in the quarantine station |
-| Intro | The first scene you see when a chat starts | Minwoo spinning his flashlight as he starts talking to you |
+| Intro | The first scene you see when a chat starts | Min-woo spinning his flashlight as he starts talking to you |
 
 **The AI plays the characters, and you play your persona.** You can start chatting right away with the name you chose when you signed up, without creating a separate persona.
 

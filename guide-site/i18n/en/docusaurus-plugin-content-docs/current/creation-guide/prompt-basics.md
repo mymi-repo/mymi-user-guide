@@ -8,7 +8,7 @@ last_update:
 
 # Prompt guidelines (basics)
 
-The prompt guide has been rewritten for the current creation screen as part of the new **creation guide**. The new pages are in Korean for now, and English translations are on the way.
+The prompt guide has been rewritten for the current creation screen as part of the new **creation guide**.
 
 <CardGrid>
 <Card to="/create/prompt" icon="book" title="Write the prompt">Write the settings the AI reads.</Card>

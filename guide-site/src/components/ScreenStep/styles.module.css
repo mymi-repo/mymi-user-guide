@@ -6,12 +6,19 @@
   margin: 1.25rem 0 2rem;
 }
 
-.body > :first-child {
+.body > :first-child,
+.plain > :first-child {
   margin-top: 0;
 }
 
-.body > :last-child {
+.body > :last-child,
+.plain > :last-child {
   margin-bottom: 0;
+}
+
+/* 캡처가 없는 단계: 본문만, 캡처가 있는 단계와 같은 간격으로 */
+.plain {
+  margin: 1.25rem 0 2rem;
 }
 
 .media figure {
@@ -20,19 +27,22 @@
 }
 
 /* 본문의 번호 목록은 페이지의 절차 목록(custom.css .markdown > ol)과 같은 모양으로 */
-.body > ol {
+.body > ol,
+.plain > ol {
   list-style: none;
   padding-left: 0;
 }
 
-.body > ol > li {
+.body > ol > li,
+.plain > ol > li {
   position: relative;
   padding-left: 2.3rem;
   margin-bottom: 0.65rem;
   min-height: 1.6rem;
 }
 
-.body > ol > li::before {
+.body > ol > li::before,
+.plain > ol > li::before {
   content: counter(list-item);
   position: absolute;
   top: 0.12rem;

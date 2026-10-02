@@ -8,7 +8,7 @@ last_update:
 
 # Lorebook guidelines (advanced)
 
-The lorebook guide has been rewritten as part of the new **creation guide**, including how far keywords are searched and how much is sent at once. The new pages are in Korean for now, and English translations are on the way.
+The lorebook guide has been rewritten as part of the new **creation guide**, including how far keywords are searched and how much is sent at once.
 
 <CardGrid>
 <Card to="/create/lorebook" icon="book" title="Write the lorebook">Learn how to choose keywords and how much is sent.</Card>

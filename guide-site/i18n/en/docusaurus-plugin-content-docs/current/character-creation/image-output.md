@@ -8,7 +8,7 @@ last_update:
 
 # Legacy creation flow (1.0): image output
 
-The image guide has moved to the new **creation guide**. The current flow and 1.0 use different image syntax. The new pages are in Korean for now, and English translations are on the way.
+The image guide has moved to the new **creation guide**. The current flow and 1.0 use different image syntax.
 
 <CardGrid>
 <Card to="/create/images" icon="image" title="Prepare images">Make images in the Assets tab and give them codes.</Card>

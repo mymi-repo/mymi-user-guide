@@ -8,7 +8,7 @@ last_update:
 
 # Create a new work
 
-This guide has moved to the new **creation guide**, with a separate page for each tab. The new pages are in Korean for now, and English translations are on the way.
+This guide has moved to the new **creation guide**, with a separate page for each tab.
 
 <CardGrid>
 <Card to="/create/first-work" icon="pen" title="Create your first work">Go from a single cover image to Publish, step by step.</Card>

@@ -7,7 +7,7 @@ description: How to create the name and role you use in a work (a persona), set 
 
 # Persona settings
 
-A persona is **the name and role you use inside a work**. You can chat with the same work in different roles, like "a survivor with no memory" or "Minwoo's old friend." Personas are used only in chats. Your nickname is what appears as the creator name on your works and on your public profile.
+A persona is **the name and role you use inside a work**. You can chat with the same work in different roles, like "a survivor with no memory" or "Min-woo's old friend." Personas are used only in chats. Your nickname is what appears as the creator name on your works and on your public profile.
 
 :::tip[To change your role in a chat room you're already using]
 Change it in **Chat Settings → My Info** from the ⋮ menu at the top right of the chat room. The steps are in [Change it in a chat room you're already using](#change-it-in-a-chat-room-youre-already-using).
@@ -40,7 +40,7 @@ A name alone is enough to save. If you'll mainly use the new persona, [make it y
 
 ### Example details
 
-> My name is Haru. I'm 25. I woke up in the quarantine station of the underground city, and all I remember is that I worked as a courier above ground. I'm polite with strangers and ask questions right away. I met Minwoo for the first time today.
+> My name is Haru. I'm 25. I woke up in the quarantine station of the underground city, and all I remember is that I worked as a courier above ground. I'm polite with strangers and ask questions right away. I met Min-woo for the first time today.
 
 Writing your role, how you speak, your relationship with the characters, and what you want to do now, in short sentences, helps characters understand you.
 

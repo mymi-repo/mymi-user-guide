@@ -8,7 +8,7 @@ last_update:
 
 # Legacy creation flow (1.0): lorebook
 
-The lorebook guide has moved to the new **creation guide**. The lorebook works the same way in the current flow and in 1.0. The new pages are in Korean for now, and English translations are on the way.
+The lorebook guide has moved to the new **creation guide**. The lorebook works the same way in the current flow and in 1.0.
 
 <CardGrid>
 <Card to="/create/lorebook" icon="book" title="Write the lorebook">Write settings that are sent only when a keyword appears.</Card>

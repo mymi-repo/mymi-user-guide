@@ -44,7 +44,7 @@ These are saved only for this chat room, and they stay the same when you open it
 In the **User Note**, write up to 2,000 characters about your relationship with the character, your background, or anything you want remembered. Write it in **Chat Settings → User Note** in the ⋮ menu and select **Save**. The AI refers to it every time it replies in this chat room.
 
 ```text
-I'm Seoyeon's childhood friend, and we talk casually with each other.
+I'm Seo-yeon's childhood friend, and we talk casually with each other.
 We had a big fight last week, so things are still awkward.
 ```
 

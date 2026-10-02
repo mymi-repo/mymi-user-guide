@@ -8,7 +8,7 @@ last_update:
 
 # 建立新作品
 
-這份說明已移至新的**創作指南**。新頁面目前僅提供韓文，我們正在準備中文翻譯。
+這份說明已移至新的**創作指南**。
 
 <CardGrid>
 <Card to="/create/first-work" icon="pen" title="建立第一個作品">只用一張封面和文字，一路完成製作。</Card>

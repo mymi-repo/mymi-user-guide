@@ -8,7 +8,7 @@ last_update:
 
 # 舊版製作方式（1.0）：編輯既有作品
 
-這份說明已移至新的**創作指南**。新頁面目前僅提供韓文，我們正在準備中文翻譯。
+這份說明已移至新的**創作指南**。
 
 <CardGrid>
 <Card to="/create/legacy/overview" icon="history" title="認識舊版製作方式（1.0）">如何辨認 1.0 作品，以及有哪些改變。</Card>
