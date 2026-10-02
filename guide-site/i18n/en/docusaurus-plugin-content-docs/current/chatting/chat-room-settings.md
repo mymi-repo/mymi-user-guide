@@ -1,92 +1,164 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-09-23
-description: Manage chats, response settings, memories, display options, bookmarks and branches, and chat captures.
+  date: 2026-10-02
+description: Change how the AI replies and how the chat looks, set a user note and persona for a chat room, and reread, find, bookmark, or capture past conversations.
 ---
 
 # Chat room settings
 
-Select **⋮ at the top right** of the chat to open room management and conversation settings. Select the **palette icon beside it** to change text, colors, and reading mode.
+Change how the AI replies and how the chat room looks, and reread or find past conversations.
 
-## 1. Open room management
+## Where the buttons are
 
-While chatting, select **⋮** at the top right. The **Room Management** drawer opens from the side. At the top, signed-in users see their Spark balance and guests see their remaining trial usage. Selecting that area opens Credits or a sign-in prompt, depending on the account.
+There are three icons at the top right of a chat room.
 
-Under **Conversation Management**, you can use:
+| Icon | What it does |
+| --- | --- |
+| Eye | Hides the text so you see only the picture. Select it again to bring the text back |
+| Palette | Opens **UI Settings**, where you change the view, font size, and colors |
+| ⋮ | Opens **Room Management**. Most settings on this page are here |
 
-- **Start New Chat:** Opens the current story's detail page. Choose an intro and persona there, then select **Start new chat** to create a separate room.
-- **View Previous Chats:** Opens the rooms for this story. Select a room to preview its last message and choose **Continue**. You can also **Hide** or **Delete** a room from the list.
-- **Copy Room ID:** Copies this room's ID to the clipboard. Use it when asking for help with a specific room.
-- **Capture Chat:** Creates an image from a range of messages. See step 6 below.
-- **Bookmarks:** Opens saved bookmarks, where you can create a branch or delete a bookmark.
+The top of **Room Management** shows your remaining Sparks. If you aren't logged in, it shows **Free trials remaining** instead. Select it to go to the purchase screen or the login window.
 
-**Hide** a room to move it to the hidden chats list, where you can show it again. **Delete** permanently removes a conversation. Check the room in the confirmation dialog before deleting it.
+## Change how the AI replies
 
-## 2. Change conversation settings
+Change these in **Chat Settings** in the ⋮ menu. Changes apply from the next reply.
 
-Open **⋮ → Chat Settings** to change how the conversation continues.
+| Setting | What it does |
+| --- | --- |
+| **Writing Style** | **Novel** is rich in description and narration. **Light Novel** is lighter and focuses on dialogue |
+| **Story Booster** | When on, the AI actively creates events and the plot moves faster |
+| **Allow God Modding** | When on, the AI also writes your actions and lines. Turn it off if you want to write your own actions |
+| **One Cut** | When on, works with pictures show only one picture per reply. The amount of text stays the same |
+| **Response Length** | Lets you get longer replies. It can cost more Sparks, so it has its own section: [Get longer replies](/chatting/ai-models.md#get-longer-replies) |
 
-### User note and persona
+:::info[These settings apply to every chat room]
+The five settings above are saved in the browser or app you're using, so they apply to your other chat rooms too. On another device, choose them again. The **User Note** and **My Info** below are saved separately for each chat room.
+:::
 
-- **User Note:** Write up to **2,000 characters** about your relationship with the character, background, speaking style, or circumstances the AI should keep in mind, then select **Save**. The AI uses this note in the current room.
-- **My Info:** Edit your name and role for this room. To use a persona from your list, choose **Load → select a persona → Save**. The saved persona applies to the current room. See [Persona settings](/account/persona.md) for details.
+## User note and persona
 
-### Writing style and response behavior
+These are saved only for this chat room, and they stay the same when you open it on another device.
 
-- **Writing Style:** **Novel** uses richer description and narrative prose; **Light Novel** is lighter and more dialogue-focused. This is separate from the **Novel UI mode** below, which changes how messages are displayed.
-- **Story Booster:** When enabled, asks the AI to advance events more actively.
-- **Allow God Modding:** When enabled, the AI may describe your actions or lines as well. Turn it off if you prefer to write your own actions.
-- **One Cut:** When enabled, asks for one scene per response.
-- **Response Length:** Signed-in users can choose the maximum response length for each model. If a choice shows additional usage or cost information, read the terms on the screen before selecting it.
+In the **User Note**, write up to 2,000 characters about your relationship with the character, your background, or anything you want remembered. Write it in **Chat Settings → User Note** in the ⋮ menu and select **Save**. The AI refers to it every time it replies in this chat room.
 
+```text
+I'm Seoyeon's childhood friend, and we talk casually with each other.
+We had a big fight last week, so things are still awkward.
+```
 
-## 3. View long-term memory and memory fragments
+Your **persona** is the name and role you use in this chat room. In **Chat Settings → My Info** in the ⋮ menu, edit it directly, or select **Load** to pick one from your personas, then select **Save**.
 
-Under **⋮ → Memory Management**, there are two different screens:
+If you edit a persona in your list, chat rooms that already exist aren't updated. Load it again in that chat room and select **Save**. To create a persona, see [Persona settings](/account/persona.md).
 
-- **Long-term Memory:** View the summary of the conversation's overall flow. It may be empty until enough conversation has taken place.
-- **Memory Fragments:** Browse and search important moments recorded from the conversation. Use **Use Memory Fragments** at the top of this screen to decide whether fragments are used in later responses.
+## Read from the beginning
 
-## 4. Change text and display options
+1. Select **Read from the Beginning** in the ⋮ menu.
+2. Read from the first scene in order. While you read, **Reading from the start** appears where the message box was, and you can't send or edit messages.
+3. When you're done, select **Back to conversation**. Anything you were typing is still there.
 
-Select the **palette icon at the top right → UI Settings**.
+## Find an earlier chat room
 
-- **UI Mode:** Choose **Chat / 1:1 / Novel**. Each mode presents the same conversation history in a different way.
-- **Reading layout:** Adjust font size, line height, chat height, chat opacity, and streaming speed. Streaming speed can be changed only when the control is enabled.
-- **Fonts and colors:** Choose a font and separate colors for character/user dialogue and narration. **Show Character Names** appears in Chat mode; **Image Height** appears in Novel mode.
-- **Video Settings:** Choose **Loop Video** or **Image Mode**, which shows images instead of video.
-- **Reset:** Restores the display defaults for the currently selected UI mode.
+If you started a new chat with the same work, your earlier chat rooms are here.
 
-UI settings are **stored in the current browser or app** and apply in other rooms too. Choose your display settings again on another device.
+1. Select **View Previous Chats** in the ⋮ menu.
+2. Select a chat room to see its **Last message** along with **Continue**, **Hide**, and **Delete**.
+3. Select **Continue** to go to that chat room.
 
-## 5. Add bookmarks and create a branch
+To find hidden chat rooms, select the eye icon at the top right of the **Previous chats** window and look in **Hidden chats**. Select a chat room and then **Unhide** to show it again.
 
-1. During a chat, select the **bookmark icon** in the actions for the message you want to keep.
-2. Optionally enter a bookmark label of up to **50 characters**.
-3. Read the warning and select **Save**.
-4. Later, open **⋮ → Bookmarks** to find the saved point.
-5. To try another path, choose that bookmark's **branch icon → Confirm**. A new room opens from that point while the original conversation remains.
+:::danger[Deleted chat rooms can't be restored]
+Before deleting, check the **Last message** in the window to make sure it's the right room.
+:::
 
-> **Check before saving a bookmark.** After it is saved, messages **before that point** cannot be edited, deleted, or regenerated. Make any planned corrections first.
+## Bookmarks and branches
 
-The delete icon in Bookmarks **deletes the bookmark**. Check that you are choosing the intended action rather than branching from it.
+Save a moment you like, and later try a different direction from that point in a new chat room.
 
-## 6. Capture a conversation
+1. Select the bookmark icon (**Add Bookmark**) under an AI reply.
+2. Enter a label if you like and select **Save**. Labels can be up to 50 characters, and you can leave it empty.
+3. Later, find your saved points in **Bookmarks** in the ⋮ menu.
+4. To try again from a point, select its branch icon (**Create branch from here**) and then **Confirm**. A new chat room opens with the conversation up to that point, and the original chat room stays as it is. Your user note and persona carry over to the new chat room.
 
-1. Select **⋮ → Capture Chat**.
-2. Select the first message to capture. To include a range, also select the last message. One selection is enough for a single message.
-3. Turn on **Exclude my messages** on the web, or **Exclude my lines** in the app, if you want to omit your own messages.
-4. Check the selected message count. Select **Download Image** on the web or **Save Image** in the app.
+:::warning[You can't change a bookmarked reply]
+Once you save a bookmark, that reply and the messages before it can no longer be regenerated, edited, or deleted. Deleting the bookmark doesn't undo this. If you plan to change the last reply, change it first and then bookmark it.
+:::
 
-The web downloads an image file. Depending on the operating system, the app may ask for photo access or open a sharing screen; follow the on-screen prompt. Select at least one message to capture, or select **Cancel** to leave capture mode.
+The trash can icon (**Delete bookmark**) in the bookmark list deletes only the bookmark. A deleted bookmark can't be restored.
 
-## If you don't see the result you expected
+## Capture a conversation
 
-- To make a separate room, select **Start New Chat → choose an intro and persona on the story page → Start new chat**.
-- To apply a loaded persona to the current room, select **Save**.
-- If a memory screen is empty, continue the chat and check again later.
-- To change the writing style of replies, select **⋮ → Writing Style**.
-- If a previous room is missing, check the hidden chats list under **View Previous Chats**.
+1. Select **Capture Chat** in the ⋮ menu.
+2. Select the first message to include. To include several, also select the last message to set the range.
+3. To leave out your own messages, turn on **Exclude my messages** (**Exclude my lines** in the app).
+4. Select **Download Image** on the web, or **Save Image** in the app.
 
-For the steps to begin a conversation, see [Chat with a story](/chatting/chat-with-character.md).
+In the app, you may be asked for photo access or see a share screen. Follow the on-screen steps to choose where to save. To stop, select **Cancel**.
+
+## Change text and display settings
+
+Select the palette icon at the top right of a chat room to open **UI Settings**.
+
+| Group | What you can change |
+| --- | --- |
+| View | **UI Mode**: **Novel**, **Chat**, **1:1** |
+| Reading | **Font Size**, **Line Height**, **Font Family**, **Streaming Speed** (how fast text appears) |
+| Colors | **Text Colors**: Character Dialogue, User Dialogue, Character Narration, User Narration |
+| Screen | **Chat Height**, **Chat Opacity**, **Image Height** (Novel), **Show Character Names** (Chat) |
+| Video | **Loop Video**, and **Image Mode**, which shows pictures instead of video |
+
+- Each view keeps its own settings. **Reset** restores the defaults for the current view only.
+- Settings are saved in the browser or app you're using and apply to every chat room.
+
+## If you get stuck
+
+<details>
+<summary>The text disappeared and only the picture shows</summary>
+
+Select the eye icon at the top right of the chat room again to bring the text back.
+
+</details>
+
+<details>
+<summary>I changed a setting and other chat rooms changed too</summary>
+
+Writing Style, Story Booster, Allow God Modding, One Cut, and Response Length in **Chat Settings**, as well as everything in **UI Settings**, apply to every chat room on this device. Write anything you want to differ by chat room in the **User Note**.
+
+</details>
+
+<details>
+<summary>The persona I loaded isn't applied</summary>
+
+After choosing a persona with **Load**, you also need to select **Save** to apply it to this chat room.
+
+</details>
+
+<details>
+<summary>I can't regenerate or edit a reply</summary>
+
+The buttons appear only on the most recent AI reply. Bookmarked replies and the messages before them can't be changed either. If you see "This message is referenced by a branched chat and cannot be edited or deleted.", a bookmark is the reason.
+
+</details>
+
+<details>
+<summary>I can't find an earlier chat room</summary>
+
+Look in **View Previous Chats** in the ⋮ menu. Hidden chat rooms are in **Hidden chats**, which you open with the eye icon at the top right of that window. If you hid the whole work, see "A chat room disappeared" in the [FAQ](/faq/faq.md).
+
+</details>
+
+<details>
+<summary>I want to report a problem with this chat room</summary>
+
+Select **Copy Room ID** in the ⋮ menu, then send the ID to [contact@mymi.live](mailto:contact@mymi.live) with a description of what happened.
+
+</details>
+
+## Next steps
+
+<CardGrid>
+<Card to="/chatting/memory-book" icon="layers" title="Long-term memory & memory fragments">Fix it when a character forgets what happened.</Card>
+<Card to="/chatting/ai-models" icon="model" title="AI model guide">See model prices and what longer replies cost.</Card>
+<Card to="/chatting/chat-with-character" icon="chat" title="Chatting">Choose a work and start your first chat.</Card>
+</CardGrid>

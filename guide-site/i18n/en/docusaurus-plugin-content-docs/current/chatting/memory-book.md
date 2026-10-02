@@ -1,48 +1,90 @@
 ---
 sidebar_position: 3
 last_update:
-  date: 2026-09-23
-description: Learn the difference between long-term memory and memory fragments, how to view and search them, and what the memory switch does.
+  date: 2026-10-02
+description: When a character forgets earlier events, check long-term memory and memory fragments and correct it with a user note.
 ---
 
 # Long-term memory & memory fragments
 
-As a conversation grows, MYMI summarizes its history as **Long-term Memory** and records significant moments as **Memory Fragments**. You can view them separately under **Memory Management** in a chat room's ⋮ menu.
+As a conversation gets longer, the AI may lose track of earlier parts. Here's where to check and how to fix it when a character forgets what happened.
 
-## What is the difference?
+## When a character forgets
 
-- **Long-term Memory:** A short summary of the conversation's overall flow, relationships, and events.
-- **Memory Fragments:** Separate cards for important moments. A card may show a title, related characters, and the range of conversation turns. Select it to expand the details.
-- **User Note:** A memo that **you write and save**. Use it to state a name, relationship, promise, or speaking style that the AI should keep in mind.
+1. In the ⋮ menu, open **Memory Management → Memory Fragments** and check that **Use Memory Fragments** (**Use Memory** in the app) is on.
+2. Open **Memory Management → Long-term Memory** to see how the story so far has been summarized.
+3. If something is remembered wrong or missing, write the correct details in **Chat Settings → User Note** in the ⋮ menu and select **Save**.
+4. It can also help to bring it up in your next message. For example: "Do you remember the place we promised to meet?"
 
-Long-term memory and fragments are created automatically as you chat. If you do not see any yet, continue the conversation and check again later.
+:::info[You can't edit memories directly]
+Long-term memory and memory fragments are created automatically from the conversation. You can't edit or delete them yourself, so write corrections in the user note.
+:::
 
-## 1. View long-term memory
+## Three kinds of memory
 
-1. Select ⋮ at the top right of the chat screen.
-2. Under **Memory Management**, select **Long-term Memory**.
-3. Read the summary. If the screen says **No long-term memory yet**, continue chatting and check again later.
+| Type | What it is | Who makes it |
+| --- | --- | --- |
+| **Long-term Memory** | A short summary of the overall flow of the conversation so far | Created automatically as the conversation grows |
+| **Memory Fragments** | Cards that each summarize one important moment | Created automatically as the conversation grows |
+| **User Note** | A note with things you want remembered | You |
 
-## 2. Find memory fragments
+For example, the big picture that two characters made up goes into long-term memory, and the promise they made while making up becomes a memory fragment. If you want that promise kept, write it in your user note.
 
-1. Select ⋮ at the top right, then **Memory Management → Memory Fragments**.
-2. Look through the cards by title, related characters, and turn range. A label such as **T10–T20** identifies the range of conversation turns.
-3. Select a card to expand its content; select it again to collapse it.
-4. Enter an event, character, or situation in the search field to find **related fragments**. Clear the search to return to the full list.
-5. Scroll to see more. In the app, select **Load more** when it appears.
+## View long-term memory
 
-Search also finds related meanings. If you need a different result, try another character or event, or continue the conversation and search again later.
+1. In the ⋮ menu, select **Memory Management → Long-term Memory**.
+2. Read the summarized flow.
 
-## 3. Turn fragment use on or off
+If you see "No long-term memory yet.", keep chatting. It's first created after about 20 messages, and it's updated again as the conversation continues.
 
-After signing in, turn on **Use Memory Fragments** at the top of the screen to let later replies refer to relevant fragments. In the app, the switch is labeled **Use Memory**. Turn it off to generate replies without fragments.
+## Find memory fragments
 
-- Existing fragments stay in the list, ready to use when you turn the switch on again.
-- Long-term Memory summarizes the conversation separately.
-- Check the switch state when you reopen a room, browser, or app.
+1. In the ⋮ menu, select **Memory Management → Memory Fragments**.
+2. Each card shows a title, the characters involved, and where it happened in the conversation (like **T10-20**). Select a card to expand it, and select it again to collapse it.
+3. Type an event, character, or place in the search box at the top to find related fragments. It also finds fragments with a similar meaning.
+4. If there are many fragments, scroll down to see more. In the app, select **Load more**.
 
-## Help the AI keep important details straight
+## Turn off memory fragments
 
-For example, **two characters reconciling** may be part of the overall long-term memory, while **a particular promise they made** may appear as a fragment. If that promise must guide future replies, write it explicitly in **User Note**. You can open and save the note from [Chat room settings](/chatting/chat-room-settings.md).
+**Use Memory Fragments** (**Use Memory** in the app) is on by default. When you turn it off, replies leave out memory fragments while you're in that chat room. Long-term memory and the user note are still used.
 
-If the AI gets an earlier event wrong, check this room's summary and fragments first. Write essential information in User Note or state it clearly in your next message.
+- Try turning it off for a while if the AI keeps bringing up the wrong memory fragment.
+- It turns back on when you leave the chat room and come back.
+- Memory fragments aren't used during the free trial without logging in.
+
+## If you get stuck
+
+<details>
+<summary>It says "No long-term memory yet."</summary>
+
+The conversation is still short. Long-term memory is first created after about 20 messages.
+
+</details>
+
+<details>
+<summary>Searching memory fragments finds nothing</summary>
+
+Try searching with another character's name or an event. The most recent part of the conversation may not have been turned into fragments yet.
+
+</details>
+
+<details>
+<summary>I want to delete a wrong memory</summary>
+
+Memories can't be deleted. Write the correct details in the **User Note** and select **Save**. If the AI keeps bringing up a wrong memory fragment, turn off **Use Memory Fragments** for a while.
+
+</details>
+
+<details>
+<summary>Memory fragments turned back on after I turned them off</summary>
+
+They turn back on each time you enter the chat room. Turn them off again whenever you need to.
+
+</details>
+
+## Next steps
+
+<CardGrid>
+<Card to="/chatting/chat-room-settings" icon="sliders" title="Chat room settings">Set the user note and persona for this chat room.</Card>
+<Card to="/chatting/chat-with-character" icon="chat" title="Chatting">Learn how to get a different reply or edit one.</Card>
+</CardGrid>

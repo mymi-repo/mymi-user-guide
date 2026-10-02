@@ -25,7 +25,7 @@ If you are new, start with access and account setup. If you already use MYMI, ju
 <Card to="/getting-started/what-is-mymi" icon="compass" title="What is MYMI?">Find out what you can do inside a story.</Card>
 <Card to="/getting-started/how-to-access" icon="device" title="Access MYMI">Open the website or install the Android or iOS app.</Card>
 <Card to="/account/sign-up" icon="userPlus" title="Sign up">Create your account and set up your profile.</Card>
-<Card to="/chatting/chat-with-character" icon="chat" title="Chat with a story">Choose a story and begin your first conversation.</Card>
+<Card to="/chatting/chat-with-character" icon="chat" title="Chatting">Choose a work and begin your first conversation.</Card>
 </CardGrid>
 
 ## Make the conversation your own

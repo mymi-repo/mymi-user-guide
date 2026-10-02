@@ -33,7 +33,7 @@ Read more in [Persona settings](/account/persona.md).
 
 You can also change the AI model and chat room settings. If the creator has prepared images and components, character images or status displays may appear during the conversation.
 
-You can begin with a short greeting. See [Start chatting](/chatting/chat-with-character.md) for the controls.
+You can begin with a short greeting. See [Chatting](/chatting/chat-with-character.md) for the controls.
 
 ## Create your own story
 

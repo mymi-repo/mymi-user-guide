@@ -1,87 +1,158 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-09-29
-description: Find a story, choose an intro and persona, start chatting, and understand the difference between continuing a chat and starting a new one.
+  date: 2026-10-02
+description: Choose a work and start your first chat, get a different reply or edit one when you don't like it, and pick up a chat later.
 ---
 
-# Chat with a story
+# Chatting
 
-On MYMI, you can find a story and decide **where it begins (the intro)** and **who you are in it (your persona)** before chatting. The basic steps are the same whether the story centers on one character or includes several.
+This page walks you through choosing a work, starting your first chat, getting a different reply, and coming back to a chat later.
 
-> **Already chatted with this story?** **Continue previous chat** returns to an existing room. **Start new chat** creates a separate room with the intro and persona you currently selected. Choose **Start new chat** to try a different beginning.
+:::info[Chatting uses Sparks]
+Each AI reply costs Sparks, based on the price of the model you chose. **Gemini 3.1 Pro** is selected at first, and you can switch models with the ⚡ button to the left of the message box. Prices for each model are in the [AI model guide](/chatting/ai-models.md).
 
-## 1. Find a story
+If you aren't logged in, you can try up to 5 messages for free.
+:::
 
-Use these tabs on Home:
+## Choose a work
 
-- **Recommended:** Browse tailored suggestions, new stories, and popular stories.
-- **Ranking:** Explore real-time, daily, weekly, or monthly rankings.
-- **Tags:** Combine up to three tags, such as genre, relationship, setting, personality, or species.
-- **Search:** Search by keyword or enter **@creator-name** to find a creator. Sort results by relevance, newest, popularity, and other options.
+Find works with the tabs at the top of **Home**.
 
-Use the **All Genders / Female/Other / Male/Other** filter to narrow the stories shown. If a story is missing, try another keyword, tag combination, or gender filter.
-
-Whether adult stories are shown or accessible depends on the safety filter and your account's age confirmation. If access is restricted, see [Age confirmation and phone verification](/account/adult-verification.md).
-
-## 2. Check the starting point on the story page
-
-Select a story card to open its detail page. You can read its description, characters, and information supplied by the creator. If an **Intro** section appears, read the currently selected opening scene. When several intros are available, open the selector to choose a different starting scene. If you do not change it, the intro shown first is used.
-
-| Choice | What it determines |
+| Tab | How to find works |
 | --- | --- |
-| **Intro** | The opening scene and first content of a new chat |
-| **Persona** | **Your name and role** when talking with the characters |
+| **Recommended** | Browse recommended collections |
+| **Ranking** | Pick from the real-time, daily, weekly, and monthly rankings |
+| **Tags** | Choose one category (Genre, Relationship, Setting, Personality, or Species) and pick up to 3 tags |
+| **Search** | Search by mood or keyword. Enter `@nickname` or `@ID` exactly to see that creator's works |
 
-The intro sets the story's starting point; the persona sets your role. Choose both, then select **Start new chat** to create a room with those choices.
+- The first time you visit, a "Choose the characters you want to see" window appears. Pick **Female characters**, **Male characters**, or **Show me everything** to see works featuring those characters first. You can change it anytime with the gender filter on each tab.
+- Adult works are hidden while the Safety Filter is on. The Safety Filter is the shield-shaped switch at the right end of the Home tab row. Turning it off requires age confirmation (18 or older). See [Age confirmation and phone verification](/account/adult-verification.md).
 
-## 3. Choose your role (persona)
+## Pick an opening scene and your role
 
-1. On the story page, select the **small profile button beside the chat button** at the bottom.
-2. Choose a role under **My personas**. If the creator provided any, you can also choose from **Recommended personas**.
-3. Select **Confirm selection** and check the role beside the chat button.
+Select a work card to open its detail page.
 
-Your primary persona is initially selected when available. Stories without recommended personas do not show that option. To create another role or change a role in an existing room, see [Persona settings](/account/persona.md).
+1. Read the description and the characters.
+2. Under **Intro**, choose the scene to start from. If there are several intros, select another one to switch. If you don't choose, the chat starts with the first intro.
+3. Select the small profile icon to the right of **Start chatting** at the bottom of the screen.
+4. Choose one from **My personas** or the creator's **Recommended personas**, then select **Confirm selection**. The icon changes to the persona's picture (or the first letter of its name if it has no picture).
 
-## 4. Start your first chat
+A persona is the name and role you use inside the work. Your primary persona is selected at first. To create or edit one, see [Persona settings](/account/persona.md).
 
-1. Check the **intro** and **persona** on the story page.
-2. Select **Start chatting** at the bottom.
-3. Check that the new room shows the opening scene from the intro you selected.
-4. Type an action or a line of dialogue in the input field and select **Send**.
+## Send your first message
 
-For example, you could write “I open the door and step inside” or ask “What happened here?” Reading the setting and opening scene first helps you respond within the story.
+1. Select **Start chatting**. A new chat room opens with the opening scene.
+2. Type your line or action in the message box at the bottom. You can write up to 1,000 characters at a time.
+3. Select the ↑ button at the right end of the message box to send. On a computer, press Enter to send and Shift+Enter for a new line.
+4. Wait a moment for the character to reply.
 
-> An adult story may require sign-in or age verification. If the screen shows a notice about the selected model, available usage, or your Spark balance when you send a message, follow that notice.
+Wrap actions in asterisks (`*`) to show them in a different color from dialogue. The ✱ button on the right of the message box inserts the asterisks for you.
 
-## 5. Continue or start a new chat
+```text
+*opens the door and steps inside* What happened here?
+```
 
-Once you have chatted with a story, its detail page shows two choices:
+:::tip[When you don't know what to say]
+Leave the message box empty, select ↑, and select **Proceed** in the "Send an empty message?" window. The character continues the story. This also costs the same Sparks as one reply.
+:::
 
-- **Continue previous chat:** Reopens an existing room with its conversation history and saved persona.
-- **Start new chat:** Creates a separate room for the same story, using the intro and persona currently selected.
+## When you don't like a reply
 
-Select **Start new chat** to experience the same story from another opening or role. You can return to the earlier room through **Continue previous chat**. To change the persona in an existing room, edit and save it inside that room.
+Three buttons appear under the most recent AI reply.
 
-## 6. Read and control the chat
-
-Use **UI settings (the palette icon)** in the chat screen to read the same conversation history in another view.
-
-| View | How it looks |
+| Button | What it does |
 | --- | --- |
-| **Chat** | Messages appear as chat bubbles |
-| **1:1** | Shows one message prominently and lets you move backward or forward |
-| **Novel** | Presents narration and dialogue as continuous reading |
+| Circular arrow (**Regenerate**) | Gets a new reply to the same message. Costs Sparks again |
+| Pencil (**Edit Message**) | Lets you rewrite the reply yourself, then **Save** |
+| Trash can (**Delete Message**) | Deletes the reply. The message of yours that led to it is deleted too |
 
-Available messages may show actions such as **Regenerate**, **Edit**, and **Delete**. Regenerate requests another response; if there are several candidates, use the arrows to review them. Save an edited message to apply it, and confirm before deleting. Some actions may be unavailable for the opening scene or protected messages.
+- If you regenerate and end up with several replies, use ‹ › to flip between them and keep the one you like. Flipping between them is free.
+- These buttons appear only on the most recent AI reply. You can't edit earlier replies or the messages you sent, so if you want to change the direction, say so in your next message.
+- You also can't change a reply you bookmarked. See [Bookmarks and branches](/chatting/chat-room-settings.md#bookmarks-and-branches).
+- In the **1:1** view, the same buttons are labeled **Regenerate**, **Edit Content**, and **Delete**.
 
-For more on display options, models, personas, and other room controls, see [Chat room settings](/chatting/chat-room-settings.md).
+:::warning[Deleting can't be undone]
+Deleting a reply also deletes the message of yours that led to it, and neither can be restored. If you only want a different reply, use **Regenerate**.
+:::
 
-## If chatting does not start
+## Change how the chat looks
 
-| Situation | What to check |
+Chats open in the **Novel** view at first. Select the palette icon at the top right of the chat room and change **UI Mode** in **UI Settings**. Every view shows the same conversation.
+
+| View | What you see |
 | --- | --- |
-| The start button is disabled | Wait for personas to load, then try selecting one with the profile button |
-| I cannot open an adult story | Check that you are signed in and have completed [age confirmation](/account/adult-verification.md) |
-| My message will not send | Check your connection, input, and any notice about the model, usage, or Spark balance |
-| I cannot find a story | Try another search term and check the tag, gender, and safety filters |
+| **Novel** | Narration and dialogue read as continuous text |
+| **Chat** | Speech bubbles going back and forth |
+| **1:1** | One paragraph at a time over the picture (**Previous** · **Next**) |
+
+Change the font size and colors in [Chat room settings](/chatting/chat-room-settings.md#change-text-and-display-settings).
+
+## Continue a chat later
+
+- Select **Chat** in the bottom menu to see the works you've chatted with. Select a work to open the chat room you used most recently.
+- **Continue previous chat** on the work's detail page also opens your most recent chat room.
+- To start over, choose an intro and persona on the detail page, then select **Start new chat**. A new chat room is created, and the original one stays as it is.
+- To open an earlier chat room for the same work, use **View Previous Chats** in the ⋮ menu at the top right of the chat room. See [Find an earlier chat room](/chatting/chat-room-settings.md#find-an-earlier-chat-room).
+
+## If you get stuck
+
+<details>
+<summary>The message box is locked and says "Not enough Spark"</summary>
+
+You have fewer Sparks than the current model costs. Select **Charge** on the screen, or switch to a cheaper model with the ⚡ button to the left of the message box. Ways to get free Sparks are in [Buying Sparks](/payment/payment-methods.md#4-earn-free-sparks).
+
+</details>
+
+<details>
+<summary>It says "Insufficient credits" and the message won't send</summary>
+
+If you set the response length above the default, that amount is deducted first when you send. Lower **Response Length** in the ⋮ menu to **Default**, and you can send. See [Get longer replies](/chatting/ai-models.md#get-longer-replies).
+
+</details>
+
+<details>
+<summary>It says "Free trial has ended!"</summary>
+
+You've used the 5 free messages available without logging in. **Regenerate** counts as one too. Log in to keep chatting. If you sign up right where you were trying it out, you can continue that chat on your new account.
+
+</details>
+
+<details>
+<summary>It says "The model declined to respond"</summary>
+
+If inappropriate content builds up in earlier messages or memories, the model may refuse even when your latest message is fine. Select **Delete and continue**, then rephrase or tone it down and send again. A declined reply costs only 20% of the base price.
+
+</details>
+
+<details>
+<summary>It says "The currently selected model is not available right now"</summary>
+
+Select **Choose model** and pick another model to keep chatting.
+
+</details>
+
+<details>
+<summary>The Start chatting button doesn't respond</summary>
+
+No persona is selected yet. Select the profile icon to the right of the button and choose a persona.
+
+</details>
+
+<details>
+<summary>I can't open adult works</summary>
+
+Log in and complete age confirmation (18 or older). Phone verification alone doesn't unlock adult works. See [Age confirmation and phone verification](/account/adult-verification.md).
+
+</details>
+
+If that doesn't solve it, copy the room ID with **Copy Room ID** in the chat room's ⋮ menu and send it to [contact@mymi.live](mailto:contact@mymi.live) with a description of what happened.
+
+## Next steps
+
+<CardGrid>
+<Card to="/chatting/chat-room-settings" icon="sliders" title="Chat room settings">Change how the AI replies and how the chat looks.</Card>
+<Card to="/chatting/memory-book" icon="layers" title="Long-term memory & memory fragments">Fix it when a character forgets what happened.</Card>
+<Card to="/chatting/ai-models" icon="model" title="AI model guide">See model prices and what longer replies cost.</Card>
+<Card to="/account/persona" icon="persona" title="Persona settings">Create the name and role you use in a work.</Card>
+</CardGrid>
