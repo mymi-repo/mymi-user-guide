@@ -1,53 +1,101 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-09-29
-description: MYMIの利用規約とポリシー文書、コミュニティガイドラインの主な禁止事項と違反時の措置、通報・お問い合わせ先をご案内します。
+  date: 2026-10-03
+description: MYMIの規約とポリシーの原文を探す場所、してはいけないことと違反したときの措置、作品や利用者を通報する方法、異議申し立ての方法を説明します。
 ---
 
 # 規約・ポリシー
 
-MYMIをご利用になる前に、次の規約とポリシーをご確認ください。このページは要約です。内容が異なる場合は、各規約・ポリシーの文書が優先します。
+MYMIを使うときに守ることと、通報の方法をまとめました。このページは要約なので、内容が違うときは、各規約・ポリシーの原文が優先されます。
 
-## 規約・ポリシーの文書
+## 規約の原文を読む
 
-| 文書 | 主な内容 |
+| 文書 | 書かれていること |
 | --- | --- |
-| [利用規約](https://www.mymi.live/ja/legal/terms-of-service) | 利用条件、年齢要件、成人向け機能、スパーク、禁止事項 |
-| [プライバシーポリシー](https://www.mymi.live/ja/legal/privacy-policy) | 個人情報、電話番号確認、決済などの取り扱い |
-| [青少年保護ポリシー](https://www.mymi.live/ja/legal/youth-protection-policy) | 14歳未満の利用禁止、18歳未満の利用制限、通報 |
-| [作品生成ポリシー](https://www.mymi.live/ja/legal/content-creation-policy) | 作品・AIチャット・画像生成の基準と違反時の措置 |
-| [MYMIクリエイター規約](https://www.mymi.live/ja/legal/creator-terms) | クリエイター機能、公式クリエイター申請、収益分配 |
-| [特定商取引法に基づく表記](https://www.mymi.live/ja/legal/transaction-info-refund-policy) | 販売事業者、価格、支払方法、返品・返金 |
-| [Cookieポリシー](https://www.mymi.live/ja/legal/cookie-policy) | Cookieなどの利用目的と選択方法 |
-| [マーケティング同意ポリシー](https://www.mymi.live/ja/legal/marketing-consent-policy) | マーケティング連絡、同意と撤回 |
+| [利用規約](https://www.mymi.live/ja/legal/terms-of-service) | 利用できる年齢、会員登録、スパークの購入と返金、年齢確認、クリエイター、禁止事項、紛争解決 |
+| [プライバシーポリシー](https://www.mymi.live/ja/legal/privacy-policy) | 取得する情報、利用目的、第三者への提供と国外移転、保管期間、利用者の権利 |
+| [青少年保護ポリシー](https://www.mymi.live/ja/legal/youth-protection-policy) | 14歳未満の利用禁止、18歳未満の制限、未成年者関連コンテンツの禁止、通報 |
+| [作品生成ポリシー](https://www.mymi.live/ja/legal/content-creation-policy) | 作品・AIチャット・画像生成の基準、禁止される作品、違反したときの措置 |
+| [MYMIクリエイター規約](https://www.mymi.live/ja/legal/creator-terms) | クリエイター機能、リーフ、公式クリエイター、収益分配、禁止事項 |
+| [特定商取引法に基づく表記](https://www.mymi.live/ja/legal/transaction-info-refund-policy) | 販売事業者、価格、支払方法、提供時期、返品・返金 |
+| [Cookieポリシー](https://www.mymi.live/ja/legal/cookie-policy) | Cookieなどの使い方と、選び方 |
+| [マーケティング同意ポリシー](https://www.mymi.live/ja/legal/marketing-consent-policy) | お知らせや広告の受け取り、同意の撤回 |
 
-## コミュニティガイドライン
+ウェブでは、MYMIのホーム画面のいちばん下からも、規約とポリシーの文書を開けます。
 
-MYMIは、作品生成ポリシーとコミュニティガイドラインに基づいて作品とコンテンツを審査します。
+## してはいけないこと
 
-### 主な禁止事項
+次は、[作品生成ポリシー](https://www.mymi.live/ja/legal/content-creation-policy)と[利用規約](https://www.mymi.live/ja/legal/terms-of-service)で禁止されている主な行為です。
 
-- **違法なコンテンツ**：法令に違反するコンテンツの制作・共有
-- **差別的な表現**：人種、性別、宗教などに対する差別的な表現
-- **プライバシーの侵害**：他人の個人情報を無断で使用・公開する行為
-- **権利の侵害**：他人の著作物や肖像を無断で使用する行為
-- **未成年者に関する性的コンテンツ**：未成年者、または未成年者に見える人物の性的な描写（厳しく禁止）
+- **未成年者関連の性的コンテンツ**：18歳未満の人物や、18歳未満に見える人物・キャラクターの性的描写。どんな場合でも禁止されています
+- **実在人物の性的描写**：実在の人物を性的に描いたり、ディープフェイクにしたり、同意のない性的な画像を作ったり広めたりすること
+- **違法なコンテンツ**：法令に違反するコンテンツ、犯罪の手口の指南、自傷・自殺や薬物乱用をあおる内容
+- **ヘイトと嫌がらせ**：差別、脅迫、嫌がらせ
+- **個人情報の侵害**：他人の個人情報を、許可なく公開すること
+- **権利の侵害**：他人の著作物や肖像を、許可なく使うこと
+- **露骨な性的表現**：性器の露出や、露骨な性行為の詳細な描写
+- **公開範囲の誤り**：センシティブな内容の作品を、正しく設定せずに公開すること
+- **生成画像をMYMIの外で使うこと**：MYMIで作った画像をダウンロードやスクリーンショットして、MYMIの外に投稿したり販売したりすること
+- **安全装置の回避**：年齢確認やセーフティフィルターなどを避けること、Botや自動化、大量生成
 
-### 違反時の措置
+## 違反するとどうなりますか？
 
-違反の内容、重大性、反復性、被害の程度に応じて、警告、コンテンツの非公開・削除、機能の制限、アカウントの一時停止・永久停止などの措置を行います。未成年者に関する性的コンテンツ、実在人物の性的ディープフェイク、重大な権利侵害などは、事前の警告なく永久停止となる場合があります。詳しくは[作品生成ポリシー](https://www.mymi.live/ja/legal/content-creation-policy)の「違反時の措置」をご覧ください。
+違反の内容と回数などによって、警告、作品の非公開・削除、機能の制限、アカウントの一時停止や永久停止などの措置が取られます。
 
-:::danger
-ポリシーに違反する作品やコンテンツは、事前の通知なく削除される場合があります。
+- 未成年者関連の性的コンテンツ、性的搾取、実在人物の性的ディープフェイク、重大な権利侵害、決済の盗用、安全装置の悪質な回避は、事前の警告なく永久停止になることがあります。
+- 画像生成機能の目的外利用や、生成画像の外部利用・販売、自動化や大量生成は、画像生成機能の制限、スパークの利用制限、アカウント停止の対象になることがあります。
+- くわしい措置は[作品生成ポリシー](https://www.mymi.live/ja/legal/content-creation-policy)の「違反時の措置」にあります。
+
+:::warning[事前に知らせずに削除されることがあります]
+ポリシーに違反した作品やコンテンツは、事前の通知なく削除されたり、非公開にされたりすることがあります。
 :::
 
-## 通報・お問い合わせ
+## 通報する
 
-| 目的 | 連絡先 |
+1. 通報したい作品の詳細画面を開きます。
+2. 右上の盾のアイコンを押して、**通報する**を選びます。通報するにはログインが必要です。
+3. 通報の理由を選び、必要なら詳しい説明を書いて、**通報を送信**を押します。
+
+同じメニューで**作者をブロック**や**コンテンツをブロック**を選ぶと、その作者や作品が自分のホームやおすすめに表示されなくなります。
+
+メールでも通報やお問い合わせができます。
+
+| こんなとき | 送る先 |
 | --- | --- |
-| 有害コンテンツの通報 | [safety@mymi.live](mailto:safety@mymi.live) |
-| 権利侵害の通報 | [copyright@mymi.live](mailto:copyright@mymi.live) |
-| 措置への異議申し立て | [safety_appeal@mymi.live](mailto:safety_appeal@mymi.live) |
-| プライバシーに関するお問い合わせ | [privacy@mymi.live](mailto:privacy@mymi.live) |
-| 一般のお問い合わせ | [contact@mymi.live](mailto:contact@mymi.live) |
+| 有害なコンテンツを通報するとき | [safety@mymi.live](mailto:safety@mymi.live) |
+| 自分の著作物や肖像が無断で使われたとき | [copyright@mymi.live](mailto:copyright@mymi.live) |
+| 受けた措置に異議があるとき | [safety_appeal@mymi.live](mailto:safety_appeal@mymi.live) |
+| 個人情報について聞きたいとき | [privacy@mymi.live](mailto:privacy@mymi.live) |
+| そのほかのお問い合わせ | [contact@mymi.live](mailto:contact@mymi.live) |
+
+## つまずいたときは
+
+<details>
+<summary>作品が突然非公開になった、または削除された</summary>
+
+作品生成ポリシーに違反したと判断された作品は、事前に知らせずに非公開にされたり、削除されたりすることがあります。措置に異議があるときは、[safety_appeal@mymi.live](mailto:safety_appeal@mymi.live)に、作品のタイトルとMYMIのIDを書いて送ってください。審査で却下された作品は、[公開と編集](/create/making/publish.md)をご覧ください。
+
+</details>
+
+<details>
+<summary>ブロックした作品や作者をまた見たい</summary>
+
+**マイページ → ブロック管理**で、ブロックを解除できます。
+
+</details>
+
+<details>
+<summary>通報するメニューが見つからない</summary>
+
+作品の詳細画面の右上にある盾のアイコンを押すと、メニューが開きます。ログインしていないときは、通報するを押すと先にログイン画面が表示されます。
+
+</details>
+
+## 次のステップ
+
+<CardGrid>
+<Card to="/faq" icon="help" title="よくある質問（FAQ）">困ったときの解決方法を探します。</Card>
+<Card to="/create/publish" icon="send" title="公開と編集">審査と、却下されたときの対応を確認します。</Card>
+<Card to="/account/adult-verification" icon="shield" title="年齢確認・電話番号認証">成人向け作品を見るための年齢確認をします。</Card>
+</CardGrid>

@@ -202,11 +202,9 @@ const config = {
             items: [
               {label: '자주 묻는 질문', to: '/faq'},
               {label: '약관과 정책', to: '/policy/terms'},
-              // 한국어판 FAQ에는 디스코드·메일을 함께 안내하는 문의하기 절이 있어 그리로 보낸다.
-              // 세 언어판 FAQ에는 아직 그 절이 없어 메일로 둔다. 나라별 FAQ를 다시 쓸 때 같은 절을 만들고 맞춘다.
-              localeKey === 'ko'
-                ? {label: '문의하기', to: '/faq#문의하기'}
-                : {label: '문의하기', href: 'mailto:contact@mymi.live'},
+              // 네 언어 FAQ 모두 디스코드·메일을 함께 안내하는 문의하기 절이 있어 그리로 보낸다.
+              // 절 제목(=앵커)은 언어마다 다르니 FAQ의 마지막 절 제목을 바꾸면 여기도 같이 고친다.
+              {label: '문의하기', to: `/faq#${{ko: '문의하기', en: 'contact-us', ja: 'お問い合わせ', 'zh-TW': '聯絡我們'}[localeKey]}`},
             ],
           },
           {

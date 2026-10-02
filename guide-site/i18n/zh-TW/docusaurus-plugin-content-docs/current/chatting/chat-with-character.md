@@ -100,7 +100,7 @@ Persona 是你在作品中使用的名字與身分。一開始選的是你的主
 <details>
 <summary>輸入框被鎖住，顯示「Spark 不足」</summary>
 
-剩餘的 Spark 比目前模型的價格少。點選畫面上的**儲值**，或用輸入框左側的 ⚡ 按鈕換成較便宜的模型。免費獲得的方法請見[儲值 Spark](/payment/payment-methods.md#4-免費獲得-spark)。
+剩餘的 Spark 比目前模型的價格少。點選畫面上的**儲值**，或用輸入框左側的 ⚡ 按鈕換成較便宜的模型。免費獲得的方法請見[儲值 Spark](/payment/payment-methods.md#免費領取-spark)。
 
 </details>
 

@@ -100,7 +100,7 @@ Change the font size and colors in [Chat room settings](/chatting/chat-room-sett
 <details>
 <summary>The message box is locked and says "Not enough Spark"</summary>
 
-You have fewer Sparks than the current model costs. Select **Charge** on the screen, or switch to a cheaper model with the ⚡ button to the left of the message box. Ways to get free Sparks are in [Buying Sparks](/payment/payment-methods.md#4-earn-free-sparks).
+You have fewer Sparks than the current model costs. Select **Charge** on the screen, or switch to a cheaper model with the ⚡ button to the left of the message box. Ways to get free Sparks are in [Buying Sparks](/payment/payment-methods.md#get-free-sparks).
 
 </details>
 
