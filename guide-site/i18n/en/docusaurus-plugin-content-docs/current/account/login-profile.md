@@ -1,121 +1,151 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-09-29
-description: Learn how to sign in, distinguish personal details from your public profile and personas, change your profile image, and save your changes.
+  date: 2026-10-02
+description: How to log in again with the account you signed up with, change your name, nickname, ID, profile picture, and display language, and log out.
 ---
 
 # Login and profile settings
 
-Open **Profile** to sign in and manage your information. When editing your profile, first decide whether you want to change **information used in conversations** or **information shown to other users**.
+How to log in again with the account you signed up with, change your info and profile picture, and log out.
 
-## 1. Sign in to your existing account
+## Log in
 
-1. Open the [MYMI website](https://www.mymi.live/en) or the MYMI app.
-2. Select **Profile** in the bottom navigation. If you are signed out, social login buttons appear.
-3. Choose the login provider and social account you originally used to sign up.
-4. After signing in, check the nickname and `@ID` at the top to confirm you are using the right account.
+1. Select **Profile** in the bottom menu. On the website, you can also select **Login** at the top right of Home.
+2. Select the button for the social account you signed up with (**Continue with Google**, **Continue with X**, or **Continue with Apple**) and finish signing in.
+3. On the website, you go to Home when you're done. Check your nickname and `@ID` at the top of **Profile** to make sure it's your account.
 
-To use the same MYMI account on the web and in the app, select the social account you used to sign up. For example, if you signed up with Google, sign in with that same Google account.
+:::warning[Log in with the social account you signed up with]
+Each social account has its own MYMI account. If you log in with a different one, the **Sign Up** screen appears. Signing up there creates a new account without your chats or Sparks, so go back and log in with the social account you first signed up with.
+:::
 
-Available login buttons depend on the website language and your device. See [Sign up](/account/sign-up.md) for supported login methods.
+## Find what you want to change
 
-> **Already have an account, but seeing the sign-up form?**
->
-> Check the login provider and social account before entering your details again. If you have several Google accounts, you may have selected a different one. If you signed up with Apple and cannot find its button in the Android app, use Apple login on the mobile website.
+Select the row with your profile picture and nickname at the top of **Profile** to open **Edit Profile**. It has two tabs: **My Info** and **Creator**.
 
-## 2. Find the setting you need
-
-Select the area with your **profile image, nickname, and ID** at the top of Profile to open **Edit Profile**. This screen has two tabs: **My Info** and **Creator**.
-
-| What you want to change | Where to go |
+| What to change | Where |
 | --- | --- |
-| Name, gender, birthdate, or details | Edit Profile → **My Info** |
-| Your publicly displayed nickname and `@ID` | Edit Profile → **My Info** |
-| Profile image, website, or public introduction | Edit Profile → **Creator → Edit Profile** |
-| A different name or role for conversations | Profile → **Persona Settings** |
+| The name characters call you, gender, birthdate, details | **Edit Profile → My Info** |
+| Nickname, `@ID` | **Edit Profile → My Info** |
+| Profile picture, website, public introduction | **Edit Profile → Creator → Edit Profile** |
+| A different name or role for each work | **Profile → Persona Settings** |
+| Display language | **Language Settings** at the bottom of **Profile** |
 
-Change your profile image in the **Creator** tab. You can edit your public profile here even if you have not created any works.
+## Change your name, nickname, or ID
 
-## 3. Edit My Info
+1. Open the **My Info** tab in **Edit Profile**.
+2. Change the fields you want.
+3. Select **Save Changes** at the top. Your changes are saved only when you select this button.
 
-Edit the fields you want in **My Info**, then select **Save Changes** at the top of the tab to update your profile.
-
-| Field | Purpose and details |
+| Field | What it's for |
 | --- | --- |
-| Name | The name your default persona uses in conversations |
-| Gender | Also used by your default persona. This field cannot be edited after phone verification |
-| Nickname | The name other users see, also used as your creator name |
-| ID | Identifies your account, such as `@moon_reader`, and is used in your public profile URL |
-| Birthdate | Also used by your default persona. This field cannot be edited after phone verification |
-| Details | Information characters can refer to when you use your default persona. Up to **1,000 characters** |
+| **Name** | What characters call you |
+| **Gender**, **Birthdate** | Info about you that characters take into account. These lock once you verify your phone number |
+| **Nickname** | The name other users see, and the creator name on your works |
+| **ID** | Your `@ID`, used in your public profile address |
+| **Details** | Info about you that characters use in chats. Up to 1,000 characters |
 
-For example, if your **Name** is `Haru` and your **Nickname** is `Moon Reader`, your default persona uses Haru in conversations while other users see Moon Reader.
+Set your gender and birthdate before you verify your phone number, because you can't change them afterward.
 
-### Changing your ID
+The ID rules are the same as in [Sign up](/account/sign-up.md#id-rules). The ID is checked for duplicates as you type, so save after you see **Available**. Changing your ID also changes your public profile address. If you've shared a profile link before, share the new one.
 
-An ID must contain **3–20 characters**: lowercase English letters, numbers, underscores (`_`), or hyphens (`-`). It cannot start or end with an underscore or hyphen. Those symbols cannot appear consecutively, even when mixed.
+## Change your profile picture and public introduction
 
-Availability is checked automatically as you type. Wait for **Available** before saving. If the check fails, use **Check** beside the field to try again. After changing your ID, also check any profile links you previously shared.
-
-### How Details relate to personas
-
-Saving your name, gender, birthdate, or details in My Info updates your **account information and default persona**. To edit an additional persona, select it under [Persona settings](/account/persona.md).
-
-If conversations still use a different name after you change your default name, check which persona you are using. To play different roles in different works, use [Persona settings](/account/persona.md).
-
-## 4. Change your profile image and public introduction
-
-1. Go to **Profile → profile area at the top → Creator**.
+1. In **Edit Profile**, select the **Creator** tab.
 2. Select **Edit Profile**.
-3. Edit the fields below.
-4. If you selected an image, wait for the upload to finish, then select **Save**.
-5. Check the updated image and introduction in the Creator tab after saving.
+3. Tap the profile picture area and choose a photo from your device. Wait until the upload finishes.
+4. Change your **Website** and **Introduction** (up to 10,000 characters) if you like.
+5. Select **Save**.
 
-| Field | How to set it |
+You can edit your public profile even if you haven't made any works. Your public profile shows your nickname, ID, profile picture, website, and introduction. The **Details** in **My Info** are used only in chats.
+
+:::tip[This isn't the Creator button on Profile]
+The **Creator** button under **My Spark** on the main **Profile** screen opens the creator application and dashboard. You change your profile picture in the **Creator** tab inside **Edit Profile**.
+:::
+
+## Change the display language
+
+Select **Language Settings** at the bottom of **Profile**, choose **한국어**, **日本語**, or **繁體中文**, and select **Confirm**. English isn't in this list. To see the website in English, open [www.mymi.live/en](https://www.mymi.live/en).
+
+Changing the language changes the text on screen. Your account's verification and payment methods stay the same as when you signed up.
+
+## Log out
+
+Select **Profile → Settings & Support → Logout**. To use MYMI again, log in with the social account you signed up with. To remove your account completely, see [Account deletion](/account/delete-account.md).
+
+## Find a menu on Profile
+
+| When you want to | Open |
 | --- | --- |
-| Profile image | Select **Add** or **Change** in the image area, then choose an image from your device |
-| Website | Enter the website address you want other users to see |
-| Introduction | Write a public introduction about yourself or your creative work, up to **10,000 characters** |
+| See your remaining Sparks and when they expire, or buy more | **My Spark** |
+| See the creator requirements and your progress | **Creator** |
+| Keep editing a work you were making | **Content Management** |
+| Unblock works or creators you blocked | **Block Management** |
+| Chat with a different name and role in each work | **Persona Settings** |
+| See creators you follow and comments you wrote | **My Activity** |
+| Get free Sparks every day | **Attendance Check** |
+| Invite friends or enter a referral code you received | **Invite Friends** |
+| Read news or contact us | **Discord** |
+| Also see works classified as sensitive content | **Settings & Support → Show Sensitive Content**. See [Age confirmation and phone verification](/account/adult-verification.md) |
+| Send your app details when contacting us | **Settings & Support → Version Info → Copy support info** |
 
-After the image finishes uploading, select **Save** to update your public profile. If the app requests photo access, allow access to the photo you want to use.
+## If you get stuck
 
-The **Creator** tab also displays your public introduction, announcements, comments, and works. To continue editing a work, open **Content Management** from Profile.
+<details>
+<summary>I logged in and the Sign Up screen appeared</summary>
 
-### What other people can see
+You logged in with a different social account from the one you signed up with. Don't sign up. Go back and log in with the social account you first used. If you have several Google accounts, check that you chose the one you used for MYMI.
 
-Your public creator profile displays your **nickname, ID, profile image, website, and introduction**, among other public information. **Details in My Info** are not displayed as this public introduction; they provide information for your default persona in conversations.
+</details>
 
-Put information you want characters to use in **Details or a persona**. Put an introduction for your readers in **Creator → Edit Profile → Introduction**.
+<details>
+<summary>My earlier chats and Sparks are gone</summary>
 
-## 5. Other things you can do from Profile
+You may have logged in with a different social account, which created a new account. Select **Profile → Settings & Support → Logout**, then log in again with the social account you first signed up with.
 
-| Menu | What you can do |
-| --- | --- |
-| My Spark | Check your balance and expiring Spark, top up, and view usage history |
-| Content Management | Check the status of your works and edit them |
-| Block Management | View blocked works and creators, and unblock them |
-| Persona Settings | Add, edit, and select roles for conversations |
-| My Activity | View creators you follow and comments you have posted |
-| Attendance Check | Check attendance status and rewards |
+</details>
 
-See [Age confirmation and phone verification](/account/adult-verification.md) for sensitive-content settings. Available menus and requirements may vary by device and account status.
+<details>
+<summary>The app has no X button, or the Android app has no Apple button</summary>
 
-## 6. Log out
+The app has no X sign-in, and the Android app has no Apple sign-in. Open [www.mymi.live/en](https://www.mymi.live/en) in Chrome or Safari and log in with the button you signed up with.
 
-Select **Profile → Settings & Support → Logout**. To return, sign in with the social account you originally used.
+</details>
 
-Logging out ends your current device's login session. To delete your account, see the separate [Account deletion](/account/delete-account.md) guide.
+<details>
+<summary>I can't select Save Changes</summary>
 
-## When something does not change as expected
+Nothing has been changed yet, or something you entered has an error. Check the message under the field and fix it. If you changed your ID, check that **Available** appears.
 
-| Situation | What to check |
-| --- | --- |
-| Save Changes is disabled | Check that you have made a change, required fields are complete and valid, and any new ID is available |
-| The ID check is still running or shows an error | Wait for the check to finish. If it fails, check your connection and select Check to try again |
-| I cannot edit my gender or birthdate | These fields cannot be edited after phone verification |
-| My Info has no button to change my profile image | Open Edit Profile in the Creator tab |
-| I chose a photo, but my profile image did not change | Check for upload errors or permission requests, and make sure you selected Save after the upload finished |
-| I changed Details, but my public introduction stayed the same | Edit it separately under Creator → Edit Profile → Introduction |
-| Conversations use a different name after I change mine | Check the persona you are using. My Info changes update the default persona |
-| Saving fails or my changes disappear | Check your connection, reopen the screen, and check the saved values. If the issue continues, contact support with the error message and your device or browser details |
+</details>
+
+<details>
+<summary>I can't change my gender or birthdate</summary>
+
+After you verify your phone number, your gender and birthdate can't be changed. To chat with different settings in different works, create a persona in [Persona settings](/account/persona.md). Each persona has its own gender and birthdate.
+
+</details>
+
+<details>
+<summary>I changed my name, but a character still uses my old name</summary>
+
+The new name is used in chats you start from now on. In a chat room you're already using, open **Chat Settings → My Info** from the ⋮ menu at the top right, choose your default persona with **Load**, and select **Save**.
+
+</details>
+
+<details>
+<summary>My profile picture didn't change</summary>
+
+After you choose a photo, wait for the upload to finish and select **Save**. If the app asks for photo access, allow it.
+
+</details>
+
+If that doesn't solve it, reach us in the support channel on Discord from **Profile → Discord**, or email [contact@mymi.live](mailto:contact@mymi.live).
+
+## Next steps
+
+<CardGrid>
+<Card to="/account/persona" icon="persona" title="Persona settings">Chat with a different name and role in each work.</Card>
+<Card to="/account/adult-verification" icon="shield" title="Age confirmation and phone verification">Verify your phone for daily Sparks, and confirm your age to see adult works.</Card>
+<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">Get Sparks from Attendance Check or buy more.</Card>
+</CardGrid>

@@ -151,7 +151,7 @@ description: 說明如何在聊天室調整 AI 的回覆方式與畫面顯示、
 <details>
 <summary>想詢問這個聊天室的問題</summary>
 
-點選 ⋮ 選單的**複製房間 ID** 複製 ID，再連同發生的狀況寄到 [contact@mymi.live](mailto:contact@mymi.live)。
+點選 ⋮ 選單的**複製房間 ID** 複製 ID，再連同發生的狀況，從**個人檔案 → Discord** 前往 Discord 的詢問頻道告訴我們，或寄信到 [contact@mymi.live](mailto:contact@mymi.live)。
 
 </details>
 

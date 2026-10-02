@@ -1,105 +1,97 @@
 ---
 sidebar_position: 5
 last_update:
-  date: 2026-09-29
-description: Find the account deletion steps for web and app, what to check about purchases, stories, and balances, and the 30-day restrictions on signing up again and reusing your phone number.
+  date: 2026-10-02
+description: How to delete your MYMI account, what to do first, what happens to your Sparks, works, and chats, and the 30-day limits on signing up again and reusing your phone number.
 ---
 
 # Account deletion
 
-Account deletion **ends your use of your MYMI account**. It is different from logging out or uninstalling the app. You will no longer be able to use the account's chats, story management, or remaining balances. Signing up again does not transfer the old account's data to the new one.
+:::danger[Deleting your account can't be undone]
+After you delete your account, you can no longer use your chats, personas, or remaining Sparks and Leaves, and the works you made are deleted. You can't sign up again with the same social account for 30 days, and if you do sign up again, you start with a new account. If you just want a break, use **Profile → Settings & Support → Logout** instead.
+:::
 
-> **Check before confirming.** Although the interface calls this **Deactivate Account**, it is not a temporary pause. There is no feature to cancel a completed deletion or restore the account. If you just want a break, you can [log out](/account/login-profile.md).
+The button is called **Deactivate Account**, but it permanently deletes your account. It doesn't pause it.
 
-## 1. What to check before deleting your account
+## Before you delete
 
-| Item | What to do first |
+- **Request any refunds first.** For website purchases, email [contact@mymi.live](mailto:contact@mymi.live) with your PayPal transaction ID. For app purchases, request a refund from the App Store or Google Play. See [Cancellations and refunds](/payment/refund.md).
+- **Check your remaining Sparks and Leaves.** They disappear when you delete your account and can't be moved to a new one. Leaves can't be cashed out, so if you want to use them, convert them with **Convert to Spark** first.
+- **Delete comments you don't want to leave behind.** Your account disappears, but your comments stay. Find them in **Profile → My Activity → Comments**, go to each one with **Open**, and delete it with the trash can icon.
+- **Make sure it's the right account.** Check the nickname and `@ID` at the top of **Profile**.
+
+## Delete your account
+
+1. Select the row with your profile picture and nickname at the top of **Profile** to open **Edit Profile**.
+2. Scroll to the bottom of the **My Info** tab.
+3. Select the small gray **Deactivate Account** text just below the **Details** field, on the right.
+4. When **Confirm Account Deactivation** appears, check again that it's the account you want to delete.
+5. On the website, select **Delete**. In the app, select **Deactivate Account**. To stop, select **Cancel**.
+6. When it's done, you're logged out and taken to Home.
+
+## What happens to my information?
+
+| Item | After deletion |
 | --- | --- |
-| The account you are signed into | Check your nickname, MYMI ID, and the social account used to sign up. Make sure you have not signed into a different account |
-| Remaining Spark and other balances | Review your balances and usage. Account deletion does not transfer balances to a new account or automatically refund them |
-| Cancellations and refund requests | Check the purchase channel, receipt, and order number. Contact support before deleting the account if a transaction needs attention |
-| Stories you created and content you need | Check whether you still need to manage any stories, and keep a copy of your own writing that you want to retain |
-| Creator payouts and open support cases | Get guidance first if a payout, payment issue, or dispute is still being handled |
-| Comments and public posts you want removed | Account deletion does not immediately remove every public post. Review them before deleting the account and contact support if needed |
+| Chats, personas | Can't be viewed again |
+| Sparks, Leaves | Disappear. Can't be moved to a new account |
+| Works you made | Deleted |
+| Comments you wrote | Stay as they are |
+| The same social account | Can't be used to sign up again for 30 days |
+| Your verified phone number | Can't be used on another account for 30 days |
 
-If you selected the wrong login account or only want to change your profile, see [Login and profile settings](/account/login-profile.md) first.
+If you sign up again after 30 days, you start with a new account. Records needed for payments or disputes may be kept for a set period. What is kept and for how long is in the [Privacy Policy](https://www.mymi.live/en/legal/privacy-policy).
 
-## 2. Delete your account on web or app
+## If you get stuck
 
-The entry path is the same on the web and in the Android and iOS apps.
+<details>
+<summary>I can't find the Deactivate Account button</summary>
 
-1. Sign into the MYMI account you want to delete.
-2. Open **My Page**.
-3. Select the area at the top showing your **profile image, nickname, and MYMI ID** to open **Edit Profile**.
-4. Select the **My Info** tab, rather than **Creator**.
-5. Scroll down and select **Deactivate Account** below the details field.
-6. Read the **Confirm Account Deactivation** dialog and check that this is the account you intend to delete.
-7. To proceed, select the final confirmation button shown in the table below.
-8. Wait for processing to finish. On success, you are logged out and returned to the home screen.
+Check that you opened the **My Info** tab in **Edit Profile**. It isn't in the **Creator** tab. It's small gray text below the **Details** field, on the right.
 
-| Platform | Final button in the dialog | To stop before submitting |
-| --- | --- | --- |
-| Desktop or mobile web | **Delete** | **Cancel** |
-| Android or iOS app | **Deactivate Account** | **Cancel** |
+</details>
 
-**Opening the confirmation dialog does not delete the account.** You can cancel before selecting the final button. Closing the screen after submitting the final request does not cancel account deletion.
+<details>
+<summary>I'm not sure my account was deleted</summary>
 
-## 3. What changes after deletion?
+Try logging in with the same social account. If "Rejoin Restricted" appears, the deletion is complete. If you log in as usual, it wasn't deleted, so try again.
 
-| Item | What happens |
-| --- | --- |
-| MYMI account | Use of the old account ends. Signing up again with the same social account creates a new account |
-| Chats, personas, and personal usage information | You cannot access or continue using them through the old account. They do not transfer to a new account |
-| Stories you created | They are marked for deletion and can no longer be managed through the old account. Related cleanup may be reflected gradually |
-| Remaining balances | You cannot continue using the deleted account's Spark or other balances. They do not automatically transfer to a new account. Refunds require a separate process |
-| Phone verification and age confirmation | The new account does not inherit the old account's verification or confirmation status. Restrictions on reusing the phone number also apply |
-| Comments and public posts | Deleting the account does not immediately remove every post. Contact support if remaining posts need attention or removal |
+</details>
 
-Completing account deletion does not mean every related record is erased immediately. Records needed for payments, refunds, disputes, or abuse prevention may be retained under the applicable retention rules. See the [Privacy Policy](https://mymi.live/en/legal/privacy-policy) for retention, disposal, and information deletion requests.
+<details>
+<summary>I deleted the app, but my account is still there</summary>
 
-This process deletes your **MYMI account**. It does not delete the Google, Apple, or other external social account you used to sign in.
+Deleting the app only removes it from your device. Your account stays. To remove your account, follow the steps above.
 
-## 4. The 30-day restrictions
+</details>
 
-| Type | Current restriction |
-| --- | --- |
-| Signing up again with the same social account | Restricted for **30 days after deletion**. For example, you cannot immediately sign up again with the same Google account |
-| A phone number registered to the deleted account | It cannot be registered to another account for **30 days after deletion** |
+<details>
+<summary>I want to undo the deletion</summary>
 
-The sign-up restriction and the phone number restriction are checked separately. Choosing a different login method does not let you immediately register a phone number from a recently deleted account.
+A deleted account can't be restored. After 30 days, you can sign up again with the same social account as a new account.
 
-**The 30 days are not a grace period for reversing deletion.** Signing up after the restriction ends does not automatically restore old chats, stories, balances, or verification status.
+</details>
 
-If the restriction message still appears after that period, contact support with the deletion time, login method, and error message. See [Age confirmation and phone verification](/account/adult-verification.md) for verification procedures.
+<details>
+<summary>It says "Rejoin Restricted" and "You cannot rejoin within 30 days of account deletion."</summary>
 
-## 5. If a payment or refund still needs attention
+It's been less than 30 days since you deleted your account. Sign up again after 30 days. You can sign up with a different social account now, but the phone number you verified can't be used again until 30 days after the deletion.
 
-**Account deletion does not submit a cancellation or refund request.** It does not automatically convert remaining balances into a cash refund.
+</details>
 
-- **Web purchases:** check your purchase history, receipt, and order number, then contact MYMI.
-- **App purchases:** check the receipt to identify the actual purchase channel, such as the App Store or Google Play, and follow that channel's refund procedure. Contact MYMI if you cannot identify the channel.
-- **Refunds or creator payouts in progress:** contact support before deleting the account so the account and transaction can be identified more easily.
-- **Account already deleted:** you can still contact support by email about payments or the account. Prepare your former MYMI ID, login method, and the relevant order number and payment date.
+<details>
+<summary>I want to ask about a payment or refund after deleting my account</summary>
 
-Refund eligibility and processing depend on the purchase terms, usage, and payment channel. See the [Terms of Service](https://mymi.live/en/legal/terms-of-service) and the information provided at purchase.
+Email [contact@mymi.live](mailto:contact@mymi.live). Include the MYMI ID of the deleted account, the social account you logged in with, the payment date, and your PayPal transaction ID.
 
-## 6. If deletion does not go as expected
+</details>
 
-| Situation | What to check |
-| --- | --- |
-| I cannot find the deletion button | Look at the bottom of **Edit Profile → My Info**. It is not in the creator profile editor |
-| Selecting the button only opened a dialog | The final request has not been submitted. Select **Delete** on web or **Deactivate Account** in the app only if you intend to proceed |
-| Processing is taking a long time | Wait briefly and check your connection. If the screen stops responding, reopen the page or app. Contact support if the account's status is unclear |
-| An error appeared, and I do not know whether deletion finished | Record the error and time. An error alone does not establish the outcome. Check whether you were logged out and contact support to confirm the account's status |
-| Signing in after deletion shows a signup restriction | The same social account is subject to the 30-day restriction |
-| I cannot verify my phone number on another account | If the number belonged to a recently deleted account, check the 30-day restriction on reuse |
-| My account still exists after uninstalling the app | Uninstalling is not account deletion. Follow the steps above on web or in the app |
-| I want my deleted account back | There is no feature in the service to reverse deletion or restore the account. Signing up again does not bring back the old information |
+For other problems, reach us in the support channel on Discord from **Profile → Discord**, or email [contact@mymi.live](mailto:contact@mymi.live). After you delete your account, please contact us by email.
 
-## Contact support
+## Next steps
 
-Before deletion, use **My Page → Discord → support**, or email [contact@mymi.live](mailto:contact@mymi.live). Email support remains available after deletion.
-
-Include your **MYMI ID, the login method used to sign up, when you attempted deletion, whether you used web, Android, or iOS, and the error message**. For payment questions, also prepare the relevant order number and payment date.
-
-For a separate request to access or delete personal information, follow the [contact instructions in the Privacy Policy](https://mymi.live/en/legal/privacy-policy).
+<CardGrid>
+<Card to="/payment/refund" icon="card" title="Cancellations and refunds">Check whether you have a payment to get refunded before you delete your account.</Card>
+<Card to="/account/login-profile" icon="persona" title="Login and profile settings">Log out instead, or change your info.</Card>
+<Card to="/faq" icon="help" title="Frequently asked questions (FAQ)">Find fixes for sign-in, verification, and Spark problems.</Card>
+</CardGrid>

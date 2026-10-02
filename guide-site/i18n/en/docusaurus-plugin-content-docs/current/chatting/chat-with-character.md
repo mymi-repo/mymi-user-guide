@@ -146,7 +146,7 @@ Log in and complete age confirmation (18 or older). Phone verification alone doe
 
 </details>
 
-If that doesn't solve it, copy the room ID with **Copy Room ID** in the chat room's ⋮ menu and send it to [contact@mymi.live](mailto:contact@mymi.live) with a description of what happened.
+If that doesn't solve it, copy the room ID with **Copy Room ID** in the chat room's ⋮ menu and send it to us with a description of what happened, in the support channel on Discord (**Profile → Discord**) or at [contact@mymi.live](mailto:contact@mymi.live).
 
 ## Next steps
 

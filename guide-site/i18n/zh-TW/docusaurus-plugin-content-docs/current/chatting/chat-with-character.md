@@ -146,7 +146,7 @@ Persona 是你在作品中使用的名字與身分。一開始選的是你的主
 
 </details>
 
-如果還是無法解決，請用聊天室 ⋮ 選單的**複製房間 ID** 複製 ID，連同發生的狀況寄到 [contact@mymi.live](mailto:contact@mymi.live)。
+如果還是無法解決，請用聊天室 ⋮ 選單的**複製房間 ID** 複製 ID，連同發生的狀況，從**個人檔案 → Discord** 前往 Discord 的詢問頻道告訴我們，或寄信到 [contact@mymi.live](mailto:contact@mymi.live)。
 
 ## 下一步
 

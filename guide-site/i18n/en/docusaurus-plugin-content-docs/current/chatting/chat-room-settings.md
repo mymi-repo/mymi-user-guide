@@ -48,7 +48,7 @@ I'm Seoyeon's childhood friend, and we talk casually with each other.
 We had a big fight last week, so things are still awkward.
 ```
 
-Your **persona** is the name and role you use in this chat room. In **Chat Settings → My Info** in the ⋮ menu, edit it directly, or select **Load** to pick one from your personas, then select **Save**.
+Your persona is the name and role you use in this chat room. In **Chat Settings → My Info** in the ⋮ menu, edit it directly, or select **Load** to pick one from your personas, then select **Save**.
 
 If you edit a persona in your list, chat rooms that already exist aren't updated. Load it again in that chat room and select **Save**. To create a persona, see [Persona settings](/account/persona.md).
 
@@ -151,7 +151,7 @@ Look in **View Previous Chats** in the ⋮ menu. Hidden chat rooms are in **Hidd
 <details>
 <summary>I want to report a problem with this chat room</summary>
 
-Select **Copy Room ID** in the ⋮ menu, then send the ID to [contact@mymi.live](mailto:contact@mymi.live) with a description of what happened.
+Select **Copy Room ID** in the ⋮ menu, then send the ID with a description of what happened, in the support channel on Discord (**Profile → Discord**) or to [contact@mymi.live](mailto:contact@mymi.live).
 
 </details>
 

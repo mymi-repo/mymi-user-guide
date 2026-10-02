@@ -2,97 +2,160 @@
 sidebar_position: 3
 last_update:
   date: 2026-10-02
-description: Learn when phone verification and age confirmation are required, how to complete each, how to change filter settings afterward, and what to do when verification fails.
+description: When you need phone verification and when you need age confirmation, how to complete each, how to turn off the Safety Filter and turn on Show Sensitive Content, and what to do when verification fails.
 ---
 
 # Age confirmation and phone verification
 
-MYMI uses two separate checks: **phone verification** and **age confirmation**. When a feature asks you to verify, follow the instructions on that screen.
+MYMI uses two separate checks: **phone verification** and **age confirmation**. Completing one doesn't complete the other. For example, after phone verification you still need age confirmation to see adult works.
 
-| Check | What it confirms | When you see it |
+## Which check you need
+
+| What you want to do | Check | Where it starts |
 | --- | --- | --- |
-| Phone verification | That you can receive SMS at your own mobile number | Attendance Check, Invite Friends, generating AI images while creating a work, buying the First Buy package in the app |
-| Age confirmation | That you are 18 or older (self-confirmation) | Turning off the Safety Filter, turning on Show Sensitive Content, buying Sparks on the website |
+| See adult works | Age confirmation | When you turn off the Safety Filter on Home, or **Verify to continue** on an adult work |
+| See works classified as sensitive content | Age confirmation | When you turn on **Profile → Settings & Support → Show Sensitive Content** |
+| Buy Sparks on the website | Age confirmation | When you buy any package |
+| Get Sparks from Attendance Check | Phone verification | **Check-in and get Sparks** in **Profile → Attendance Check** |
+| Register a friend's referral code | Phone verification | **Verify identity and complete registration** in **Profile → Invite Friends** |
+| Buy the First Buy package in the app | Phone verification | When you buy the **First Buy** package |
+| Generate AI images when creating a work | Phone verification | You can't start it on the creation screen. Verify from Attendance Check first |
 
-Completing one check does not complete the other. For example, after phone verification you still need age confirmation to turn off the Safety Filter.
+Some screens call phone verification "identity verification." It's the same check, done in the **Phone Verification** window.
 
-## 1. Where to start
+## Verify your phone number
 
-First, [sign in to MYMI](/account/login-profile.md). Open the feature you want to use, and it will show any required check.
+1. Open the verification prompt from one of the places above. The **Phone Verification** window opens.
+2. Check the country of your number. **United States** is selected at first. You can also choose **Japan** or **Taiwan**.
+3. Enter your own mobile number and select **Send code**.
+4. Enter the code you receive by text message and select **Verify** before the time runs out.
+5. When you see "Phone verification completed.", go back to what you were doing.
 
-- **Attendance Check or Invite Friends**: Open the menu in Profile and follow the phone verification prompt.
-- **AI image generation**: Generating or regenerating images while creating a work prompts phone verification. Uploading your own images does not require it.
-- **Buying Sparks**: Every package on the website requires age confirmation. In the app, choosing the **First Buy** package prompts phone verification.
-- **Safety Filter**: Turning the filter off prompts age confirmation.
-- **Show Sensitive Content**: Turning this on under **Profile → Settings & Support** prompts age confirmation.
+- You can verify only mobile numbers from the United States (+1), Japan (+81), or Taiwan (+886). Numbers from other countries, including Canada, can't be used.
+- If the text doesn't arrive, select **Resend code** after the waiting time. If you entered the wrong number, select **Change number**.
+- Once your phone is verified, your gender and birthdate on **Edit Profile** can't be changed.
 
-If a prompt says identity verification, you complete it on the phone verification screen.
+## Confirm your age
 
-The Safety Filter is the small switch with a shield icon and no label at the right end of the **Recommended**, **Ranking**, **Tags**, and **Search** tab row on **Home**. It is in the same place on the website and in the app. Green means the filter is on and adult works are hidden; gray means it is off. The setting is saved on each device, so it is on again when you open MYMI on a new device or browser, or after you sign out.
-
-**Show Sensitive Content** under **Profile → Settings & Support** is a separate setting. Turn it on to also see works classified as sensitive content. It is saved to your account, so it stays the same on every device. If you turned off the Safety Filter but still cannot find a work, turn this on too.
-
-## 2. Verify your phone number
-
-When **Phone Verification** opens, enter the code sent to you by SMS.
-
-1. Check the country of your number. **United States (+1)** is selected by default. To use a number from another country, select that country's button.
-2. Enter your own mobile number. The number must match the selected country.
-3. Select **Send code**.
-4. Check the destination number shown on screen and enter the code you received.
-5. Select **Verify** before the displayed time runs out.
-6. When you see "Phone verification completed.", return to the feature you were using.
-
-If the SMS does not arrive, select **Resend code** after the waiting period. If you entered the wrong number, select **Change number**. If the code expires or you reach the attempt limit, start again from entering your number.
-
-## 3. Confirm your age
-
-On **Age Confirmation**, you confirm for yourself that you are 18 or older.
-
-1. Read the age requirement and notice on screen.
+1. Open the prompt by turning off the Safety Filter, or from one of the other places in the table. The **Age Confirmation** window opens.
 2. Only if you are actually 18 or older, check **I confirm that I am 18 years of age or older.**
 3. Select **Confirm**.
-4. When you see "Age confirmation completed.", return to the previous screen.
+4. When you see "Age confirmation completed.", go back to what you were doing.
 
-False declarations may lead to restrictions on your use of the service. If you do not meet the requirement or want to skip it for now, select **Maybe later**.
+False declarations may lead to restrictions on your use of the service. If you're under 18, select **Maybe later**.
 
-## 4. Check your filter settings afterward
+## See adult works
 
-After age confirmation, return to Home or Profile and **change the filter setting yourself**.
+1. Open **Home** in the bottom menu and look at the right end of the **Recommended**, **Ranking**, **Tags**, and **Search** tab row. The small switch with just a shield icon is the Safety Filter. Green means it's on and adult works are hidden.
+2. Tap the switch. If you aren't logged in, a login window appears. If you haven't confirmed your age, the **Age Confirmation** window appears.
+3. After confirming, tap the switch again to turn it gray. Adult works now appear on Home and in search.
 
-1. Return to Home or Profile, where you started.
-2. Check the setting again. Set **Safety Filter to OFF** to disable it, or **Show Sensitive Content to ON** to enable that setting.
-3. If you keep seeing a verification prompt, refresh the page or reopen the app.
+:::info[Turn it off again on other devices]
+The Safety Filter is set separately on each device. It's on again the first time you open MYMI on another device or browser, and after you log out. Turn it off once more on that device.
+:::
 
-## 5. If another account already uses your number
+### Do I also need to turn on Show Sensitive Content?
 
-If you see that your phone number is linked to another account, check that you [signed in with the social account you originally used](/account/login-profile.md).
+If you turned off the Safety Filter but still can't find a work, also turn on **Profile → Settings & Support → Show Sensitive Content**. Works classified as sensitive content appear in lists only when this is on.
 
-A number released recently, for example because its account was deleted, can be registered again after **30 days**. If it is urgent or the issue continues, contact support with the error message.
+| Setting | When you change it | On other devices |
+| --- | --- | --- |
+| **Safety Filter** (switch at the right of the Home tab row) | Turn it off to see adult works | Turn it off again on each device |
+| **Show Sensitive Content** (**Profile → Settings & Support**) | Turn it on to see works classified as sensitive content | Once it's on, it's on everywhere |
 
-## Troubleshooting
+You can change both only after you confirm your age.
 
-| Situation | What to check |
-| --- | --- |
-| I am asked to log in | Sign in with your registered social account, then reopen the feature |
-| The SMS does not arrive | Check the selected country and number, SMS reception, and spam blocking. Resend after the waiting period |
-| The code does not match | Make sure you entered the most recent code you received |
-| The code has expired | Resend it, or start again from entering your number |
-| Too many requests or attempts | Stop repeating the request, wait a while, then start over |
-| A verification is already in progress | Wait a moment and try again |
-| The number is linked to another account | Check that you signed in to the account you originally verified. Contact support if needed |
-| The number can be registered again after 30 days | The number was released recently. Try again after 30 days or contact support |
-| This country isn't supported | Check that the selected country button matches the number you entered. Contact support if the issue continues |
-| Verification is being prepared | Try again later |
-| Nothing happens when I select Confirm | Check that you checked **I confirm that I am 18 years of age or older.** |
-| I verified my phone, but the filter stays on | Age confirmation is required in addition to phone verification |
-| I confirmed my age, but Attendance Check still asks me to verify | Phone verification is required in addition to age confirmation |
-| I confirmed my age before, but I am asked again | You may need to confirm again, for example when the consent terms are updated |
-| Changing the language does not change verification, or I see a verification screen different from this page | Your verification method is set by the display language you signed up with and does not change when you switch languages later. Contact support if you cannot complete it |
-| I see another error | Record the error, then try again later. Contact support if it continues |
+## If you get stuck
 
-## Getting help
+<details>
+<summary>It says "Identity verification is required to generate AI images."</summary>
 
-Use **Profile → Discord → Contact Us** or [email support](mailto:contact@mymi.live). Include your MYMI ID, the feature where verification started, the error text, and whether you are using the web, Android, or iOS.
+You can't start verification on the creation screen.
 
-**Do not send verification codes or copies of identity documents in advance.** Support will explain any procedure you need.
+1. Select **Save draft** at the top right to save your work.
+2. Select **Check-in and get Sparks** in **Profile → Attendance Check** and complete phone verification.
+3. Open the work again from **Profile → Content Management** and generate the image.
+
+</details>
+
+<details>
+<summary>It says "This number is already linked to another account."</summary>
+
+A phone number can be linked to only one account. You probably verified it before on an account made with another social account. Log in with that account. If you don't know which one it is, contact us (see below).
+
+</details>
+
+<details>
+<summary>It says "A recently unlinked number can be registered again after 30 days."</summary>
+
+The number was used on an account that was deleted, or was otherwise unlinked, recently. You can register it again 30 days later.
+
+</details>
+
+<details>
+<summary>It says "Please enter a valid phone number."</summary>
+
+Check that the selected country matches your number. Only mobile numbers from the United States, Japan, and Taiwan can be used.
+
+</details>
+
+<details>
+<summary>The code doesn't work</summary>
+
+- "The code doesn't match. Please check again.": enter the most recent code you received.
+- "The code has expired. Please resend.": select **Resend code**.
+- "Too many attempts. Please start over." or "Too many requests.": wait a while, then start again from entering your number.
+
+</details>
+
+<details>
+<summary>I verified my phone, but the Safety Filter won't turn off</summary>
+
+Phone verification doesn't confirm your age. Complete age confirmation in the **Age Confirmation** window, then tap the switch again.
+
+</details>
+
+<details>
+<summary>I confirmed my age, but Attendance Check still asks me to verify</summary>
+
+Attendance Check needs phone verification, which is separate from age confirmation. Verify your phone number in the **Phone Verification** window.
+
+</details>
+
+<details>
+<summary>Nothing happens when I select Confirm</summary>
+
+If you see "Please check the age confirmation.", check **I confirm that I am 18 years of age or older.** first. If you see "The consent terms have been updated. Please try again.", confirm again.
+
+</details>
+
+<details>
+<summary>A Korean identity verification window appears, or it says "This account requires identity verification."</summary>
+
+Your account was created while MYMI was shown in Korean, so it uses Korean identity verification. The verification method can't be changed after you sign up. Contact us (see below).
+
+</details>
+
+<details>
+<summary>I don't have a phone number in my own name</summary>
+
+Verify only with your own phone number. Don't use someone else's. Contact us first (see below), and don't send copies of ID documents or verification codes before we ask.
+
+</details>
+
+<details>
+<summary>I want to check whether I'm verified</summary>
+
+Select the nickname row at the top of **Profile** to open **Edit Profile**. If **Gender** and **Birthdate** are locked, your phone is verified. If you can turn off the Safety Filter without a prompt, your age is confirmed.
+
+</details>
+
+If that doesn't solve it, reach us in the support channel on Discord from **Profile → Discord**, or email [contact@mymi.live](mailto:contact@mymi.live). Include your MYMI ID, where verification started, the message on your screen, and whether you use the website, Android, or iPhone.
+
+## Next steps
+
+<CardGrid>
+<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">Get Sparks every day from Attendance Check, and buy more if you need to.</Card>
+<Card to="/chatting/chat-with-character" icon="chat" title="Chatting">Choose a work and start your first chat.</Card>
+<Card to="/create/images" icon="image" title="Prepare images">Make character and background images for your work.</Card>
+</CardGrid>

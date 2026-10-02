@@ -1,54 +1,73 @@
 ---
 sidebar_position: 1
-description: Learn how to chat with characters, take part in stories, use personas, and create a story.
 last_update:
-  date: 2026-09-23
+  date: 2026-10-02
+description: What you can do on MYMI, what works, characters, personas, and intros are, and how to start your first chat and your first work.
 ---
 
 # What is MYMI?
 
-MYMI lets you **continue a story by talking with characters played by AI**. Choose a story you like, then speak to its characters or describe an action you want to take.
+MYMI is a service where **you chat with characters played by AI and shape the story as you go**. You can chat with works other people made, or create and publish a work of your own.
 
-For example, in a story about a library that opens only at midnight, you might play a new night assistant. You can talk to the librarian and investigate a suspicious returns ledger. What you say and investigate helps shape the next scene.
+For example, in the work **Underground Seoul**, you wake up in a quarantine station with no memory and talk with Kang Minwoo, a guide, and Lee Seoyeon, the station's doctor. What you say and where you go changes the next scene.
 
-## Stories, characters, and personas
+## Words to know
 
-| Term | Meaning | Library example |
+| Word | Meaning | In Underground Seoul |
 | --- | --- | --- |
-| Story | A setting, its characters, and a starting situation | The story of a library that opens only at midnight |
-| Character | Someone played by the AI according to the story's settings | Seoyeon, the librarian |
-| Persona | Your profile within the story, including your name and role | A night assistant on their first shift |
-| Opening | The first message you see when starting a conversation | The scene where Seoyeon hands you the returns ledger |
+| Work | A story with its world, characters, and opening scene | Seoul in 2031, a sealed underground city |
+| Character | Someone the AI plays | Minwoo the guide, Dr. Seoyeon |
+| Persona | The name and role you use in a work | "Haru," who wakes up in the quarantine station |
+| Intro | The first scene you see when a chat starts | Minwoo spinning his flashlight as he starts talking to you |
 
-A story can have more than one character. **The AI plays the characters, while your persona is the role you play.**
+**The AI plays the characters, and you play your persona.** You can start chatting right away with the name you chose when you signed up, without creating a separate persona.
 
-Read more in [Persona settings](/account/persona.md).
+## Chat with a work
 
-## Chat in another creator's story
+1. On **Home** in the bottom menu, choose a work from the **Recommended**, **Ranking**, **Tags**, or **Search** tab.
+2. Read the work's description and select **Start chatting**.
+3. Read the intro scene, then type and send your line or action. The character replies and the story continues.
+4. Later, pick up where you left off from **Chat** in the bottom menu.
 
-1. Browse stories on **Home**.
-2. Read a story's introduction and start a conversation in one you like.
-3. Read the opening, then type what you want to say or do.
-4. Return to an ongoing conversation from the **Chat** list.
+You can view the same chat in three ways: **Novel**, **Chat**, and **1:1**. See [Chatting](/chatting/chat-with-character.md) for details.
 
-You can also change the AI model and chat room settings. If the creator has prepared images and components, character images or status displays may appear during the conversation.
+:::info[Chatting uses Sparks]
+Each AI reply costs Sparks, based on the price of the AI model you chose. If you aren't logged in, you can try up to 5 messages for free. Once you sign up and verify your phone number, you can get Sparks every day with **Attendance Check**. Ways to buy Sparks and get them for free are in [Buying Sparks](/payment/payment-methods.md).
+:::
 
-You can begin with a short greeting. See [Chatting](/chatting/chat-with-character.md) for the controls.
+## Create your own work
 
-## Create your own story
+Log in and select **Create** in the bottom menu to open the **Create Content** screen. Fill in the **Basic info**, **Assets**, **Components**, **Prompt**, **Openings**, **Lorebook**, and **Settings** tabs, then select **Publish**. You can make a work with just one cover image and some text.
 
-Choose **Create** in the bottom menu to start a new story. You can move freely between tabs and start with whichever part you need.
+If you're new, see what goes in each tab in [Before you start](/create/making/before-you-start.md), then follow [Create your first work](/create/making/first-work.md). The creation guide is in Korean for now.
 
-| What to prepare | Purpose |
-| --- | --- |
-| Introduction and cover | Help readers understand what your story is about |
-| Prompt | Tell the AI about the world, character personalities and speech, secrets, and rules for advancing the story |
-| Opening | Write the scene the reader will encounter first |
-| Images and components | Prepare visuals and interface elements, and define when to use them |
-| Lorebook | Add extra details to reference when specific words appear in the conversation |
+## If you get stuck
 
-Begin with one character and an opening scene, then add images and details as you need them.
+<details>
+<summary>I can't see adult works</summary>
 
-## Where can I use MYMI?
+Adult works don't appear while the Safety Filter on Home is on. Log in, complete age confirmation (18 or older), and then turn off the Safety Filter. Phone verification alone isn't enough. See [Age confirmation and phone verification](/account/adult-verification.md).
 
-MYMI is available on desktop and mobile web, and in Android and iOS apps. See [Access MYMI](/getting-started/how-to-access.md) for the website and installation links.
+</details>
+
+<details>
+<summary>I selected Create and it asks me to log in</summary>
+
+You need to log in to create a work. [Sign up](/account/sign-up.md), or log in with the account you already have.
+
+</details>
+
+<details>
+<summary>Is there an app?</summary>
+
+Yes, there are Android and iPhone apps, and they use the same account as the website. X sign-in is available only on the website, though. See [Access MYMI](/getting-started/how-to-access.md) to install the app.
+
+</details>
+
+## Next steps
+
+<CardGrid>
+<Card to="/getting-started/how-to-access" icon="device" title="Access MYMI">Open the website or install the Android or iPhone app.</Card>
+<Card to="/chatting/chat-with-character" icon="chat" title="Chatting">Choose a work and start your first chat.</Card>
+<Card to="/create/before-you-start" icon="pen" title="Before you start">Learn what each of the seven tabs on the creation screen does.</Card>
+</CardGrid>

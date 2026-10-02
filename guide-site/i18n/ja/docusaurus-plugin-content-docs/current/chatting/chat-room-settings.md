@@ -151,7 +151,7 @@ description: チャットルームでAIの返信のしかたと画面の表示�
 <details>
 <summary>このチャットルームの問題を問い合わせたい</summary>
 
-⋮メニューの**チャットルームIDをコピー**でIDをコピーし、何が起きたかと一緒に[contact@mymi.live](mailto:contact@mymi.live)へお送りください。
+⋮メニューの**チャットルームIDをコピー**でIDをコピーし、何が起きたかと一緒に、**マイページ → Discord**からDiscordのお問い合わせチャンネルで、または[contact@mymi.live](mailto:contact@mymi.live)へお送りください。
 
 </details>
 

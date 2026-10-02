@@ -1,57 +1,89 @@
 ---
 sidebar_position: 2
-description: Open MYMI on the web or install the Android or iOS app.
 last_update:
-  date: 2026-09-29
+  date: 2026-10-02
+description: How to open the MYMI website and the Android and iPhone apps, try MYMI without logging in, and fix links that won't open or sign-ins that get blocked.
 ---
 
 # Access MYMI
 
-MYMI is available in a **web browser and in Android and iOS apps**. Use the website on a computer, or the app or mobile website on your phone.
+You use MYMI on the website and in the Android and iPhone apps with the same account. On a computer, start on the website. On a phone, use the app or your phone's browser.
 
 ## Use the website
 
-1. Open a browser on your computer or phone.
-2. Visit the [**MYMI website**](https://www.mymi.live).
-3. Browse stories. When you want to start chatting, follow the on-screen instructions to sign in.
+1. Open [www.mymi.live/en](https://www.mymi.live/en) in a browser such as Chrome or Safari. There's nothing to install.
+2. The first time you visit, a "Choose the characters you want to see" window appears. Pick **Female characters**, **Male characters**, or **Show me everything**, and Home shows works featuring those characters first. You can change it later with the filter on Home.
+3. Open a work you like and start chatting. You can try up to 5 messages for free without logging in.
 
-You can use the website without installing a separate program.
+When the free trial runs out, a login window appears. If you sign up right there, you can continue the chat you tried on your new account. See [Sign up](/account/sign-up.md). Adult works open only after you log in and complete age confirmation (18 or older).
 
-## Use the app
+## Install the app
 
-| Device | Installation link |
+| Device | Install |
 | --- | --- |
 | Android | [Get MYMI on Google Play](https://play.google.com/store/apps/details?id=live.mymi.app) |
-| iOS | [Get MYMI on the App Store](https://apps.apple.com/app/id6794338974) |
+| iPhone | [Get MYMI on the App Store](https://apps.apple.com/app/id6794338974) |
 
-1. Open the store link for your device.
-2. Install and open MYMI.
-3. Sign up if you are new, or sign in with your existing account.
+In the U.S. stores, the MYMI listing currently shows its name in Korean. The links above open the right app.
 
-The website and apps provide the same MYMI service. When switching devices, use **the same sign-in method and account as before**. See [Sign up](/account/sign-up.md) and [Login and profile settings](/account/login-profile.md).
+If you opened MYMI in your phone's browser, you can also select **Install App** at the top right of Home to open the store. Open the installed app, then log in or sign up from **Profile** in the bottom menu.
+
+## Use the website and the app together
+
+The website and the app share the same account. Log in with the social account you signed up with, and your chats and Sparks are there.
+
+:::warning[If you signed up with X or Apple]
+The app has no X sign-in, and the Android app has no Apple sign-in. In those cases, log in on the website: on your phone, open [www.mymi.live/en](https://www.mymi.live/en) in Chrome or Safari and select the same button you signed up with.
+:::
 
 ## The bottom menu
 
-| Menu | What you can do |
+| Menu | What you do there |
 | --- | --- |
-| Home | Browse and discover stories |
-| Chat | Find and continue conversations you have started |
-| Create | Create a new story |
-| Profile | View your profile, account, story management, and more |
+| **Home** | Find works |
+| **Chat** | Open a work you've been chatting with and continue |
+| **Create** | Create your own work |
+| **Profile** | Log in, check your info and Sparks, Attendance Check, Content Management |
 
-The story creation and chat screens have menus for those activities. To get started, pick a story on Home.
+## If you get stuck
 
-## A link opens, but sign-in or the page does not work
+<details>
+<summary>I opened a link in Instagram or Facebook and can't log in</summary>
 
-Opening a link inside another app, such as Instagram or Facebook, may use that app's built-in browser. If sign-in fails or the page freezes, choose **Open in external browser**, or copy the address into the browser you normally use.
+A link opened inside another app opens in that app's built-in browser, which can block sign-in. From the menu at the top or bottom of the screen (⋮ or …), choose an option like "Open in browser" to open it in Chrome or Safari. If there's no such menu, copy the address and paste it into your browser.
 
-The menu name and location vary by app.
+</details>
 
-## Trouble connecting?
+<details>
+<summary>A "Try a better browsing experience!" window appears</summary>
 
-1. Check your internet connection, then refresh the page or reopen the app.
-2. Check for updates to your browser or the MYMI app.
-3. On the web, try another browser.
-4. If the problem only continues in one browser, see [Clear cookies](/faq/cookie-clear.md). You may need to sign in again afterward.
+This appears when you open a link inside the TikTok app. Tap ‘…’ at the top right of TikTok and choose to open the page in your browser. You can also select **Copy link** in the window and paste the link into your browser.
 
-If the problem continues, check the [FAQ](/faq/faq.md) or contact support with the affected screen and the device, app, or browser you are using.
+</details>
+
+<details>
+<summary>The page won't open or keeps loading</summary>
+
+1. Check your internet connection and refresh, or close the app and open it again.
+2. Install any updates for your browser or the MYMI app.
+3. Try a different browser.
+4. If only one browser has the problem, follow [Clear cookies](/faq/cookie-clear.md). You'll need to log in again afterward.
+
+</details>
+
+<details>
+<summary>I logged in to the app and my earlier chats are gone</summary>
+
+You may have logged in with a different social account from the one you used on the website. Each social account has its own MYMI account. Select **Profile → Settings & Support → Logout**, then log in again with the social account you first signed up with.
+
+</details>
+
+If that doesn't solve it, reach us in the support channel on Discord from **Profile → Discord**, or email [contact@mymi.live](mailto:contact@mymi.live). In the app, select **Copy support info** in **Profile → Settings & Support → Version Info** and include it in your message.
+
+## Next steps
+
+<CardGrid>
+<Card to="/account/sign-up" icon="userPlus" title="Sign up">Sign up with a social account and choose your name, ID, and nickname.</Card>
+<Card to="/chatting/chat-with-character" icon="chat" title="Chatting">Choose a work and start your first chat.</Card>
+<Card to="/account/login-profile" icon="persona" title="Login and profile settings">Log in with your account and change your info.</Card>
+</CardGrid>

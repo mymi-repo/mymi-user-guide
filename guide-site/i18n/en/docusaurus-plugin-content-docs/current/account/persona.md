@@ -1,119 +1,147 @@
 ---
 sidebar_position: 4
 last_update:
-  date: 2026-09-29
-description: Learn the difference between default, primary, and recommended personas, how to add and select them, and how to load and save a persona in an existing chat.
+  date: 2026-10-02
+description: How to create the name and role you use in a work (a persona), set your primary persona, choose one when you start a chat, and change it in a chat room you're already using.
 ---
 
 # Persona settings
 
-A persona defines **who you are when you talk to characters in a story**. Its name, gender, date of birth, and details give the AI information about your role.
+A persona is **the name and role you use inside a work**. You can chat with the same work in different roles, like "a survivor with no memory" or "Minwoo's old friend." Personas are used only in chats. Your nickname is what appears as the creator name on your works and on your public profile.
 
-For example, you could enter the same story as a traveler arriving in town for the first time or as the protagonist's longtime companion. **Your creator name and public profile use the nickname from your default profile.**
+:::tip[To change your role in a chat room you're already using]
+Change it in **Chat Settings → My Info** from the ⋮ menu at the top right of the chat room. The steps are in [Change it in a chat room you're already using](#change-it-in-a-chat-room-youre-already-using).
+:::
 
-> **To change your role in an existing chat:** open that chat and choose **menu → My Info → Load → select a persona → Save**.
+## What do Default, Primary, and Recommended mean?
 
-## 1. Default, primary, and recommended personas
-
-| Type | What it means | What to know |
-| --- | --- | --- |
-| Default persona | A persona automatically prepared from your account information | Editing it from the list opens **Edit Profile**. Its menu has no Delete option |
-| Primary persona | The persona in your list that is initially selected when preparing a new chat | Its card has a **Primary** badge. Your default persona can also be your primary persona |
-| Recommended persona | A role for the reader prepared by the creator for that story | Select it on the story's detail page. Some stories have no recommended personas |
-| Persona in a chat | The role selected and saved when that chat was created | To change it, edit and save it inside that chat |
-
-**Default** identifies the persona linked to your account information; **Primary** identifies the one initially selected for new chats. Both badges can appear on the same card.
-
-You can start with your default persona without creating another one. Add more when you want different roles for different stories.
-
-## 2. Add a persona
-
-1. Sign in and open **My Page → Persona Settings**.
-2. Select **Add Persona**.
-3. Enter a name and any other details you need.
-4. Select **Save** at the top and check that the persona appears in your list.
-
-| Field | Required? | How to fill it in |
-| --- | --- | --- |
-| Name | Yes | The name characters use for you. Up to **20 characters** |
-| Date of Birth | No | If you enter it, fill in the year, month, and day. The current form only accepts **valid dates corresponding to an age of 14 or older** |
-| Gender | No | The add/edit form offers **Female / Male** |
-| Details | No | Describe your role, personality, way of speaking, occupation, or relationship with characters in up to **1,000 characters** |
-
-A name is enough to save a persona. To add a date of birth, fill in the year, month, and day with a valid date corresponding to an age of 14 or older.
-
-A persona's date of birth is part of its role settings. To access adult content, complete age confirmation as described in [Age confirmation and phone verification](/account/adult-verification.md).
-
-## 3. Choose your primary persona
-
-1. In **My Page → Persona Settings**, **select the card itself** for the persona you want.
-2. Check that the card has the **Primary** badge.
-3. Open the story's detail page again and use the persona button beside the chat button to check the selected role.
-
-**Saving a new or edited persona and making it primary are separate actions.** If you want to use a newly added persona most often, select its card in your list.
-
-Changing the primary persona makes it the initial choice when preparing a new chat. To change the role in an existing chat, edit and save the persona in that room.
-
-## 4. Select a persona before starting a chat
-
-1. Open the detail page for the story you want.
-2. Select the **small profile icon beside the chat button** at the bottom.
-3. Choose a card under **My personas** or **Recommended personas**.
-4. Select **Confirm selection**.
-5. Select **Start chatting** or **Start new chat** to create a new chat.
-
-For stories whose creator prepared roles, choose one from **Recommended personas**. On My Page, choose the role you want to use most often as your **Primary persona**.
-
-### Editing with the pencil button in the selection screen
-
-- Editing and saving a persona under **My personas** updates that persona in your saved list on My Page. To use it in an existing chat, load and save it in that chat.
-- Editing a **recommended persona** adjusts the version used for this selection. To reuse it in other stories, add it as your own persona on My Page.
-- Select the edited role, then **confirm the selection and start a new chat** to create a room with it.
-
-> **Continue previous chat** opens an existing room with its saved persona. To change that room's role, follow the steps below.
-
-## 5. Change the persona in an existing chat
-
-1. **Open the chat** you want to change.
-2. Open the menu at the top and select **My Info**.
-3. In **Edit Persona**, check the name and details currently used in that chat.
-4. Edit them directly, or select **Load** and choose a persona from your list.
-5. Review the loaded information and make any changes needed just for this chat.
-6. Select **Save**.
-
-Review the loaded information and select **Save** to apply it to the current chat.
-
-Changes saved here apply to **the current chat**. To use the same change in several chats, load and save it in each one.
-
-Change the persona in the current chat to continue its history with a new role. To begin the story again with that role, select the persona on the story's detail page and choose **Start new chat**.
-
-## 6. Edit or delete a persona in your list
-
-In **My Page → Persona Settings**, open the card's **more menu (⋮)**.
-
-- **Edit a persona you added:** select **Edit**, change the information, and select **Save**.
-- **Edit the default persona:** selecting **Edit** opens **Edit Profile**. See [Login and profile settings](/account/login-profile.md) for how your name, gender, date of birth, and details relate to the default persona.
-- **Delete a persona you added:** select **Delete** to remove it from your list. If it was your primary persona, the default persona becomes primary.
-- **Delete the default persona:** the list does not offer this option.
-
-To change the role in an existing chat, open that room and load and save the persona you want to use.
-
-## 7. Where do changes apply?
-
-| Action | Where it applies |
+| Type | Meaning |
 | --- | --- |
-| Save your name, gender, date of birth, or details in Edit Profile | Account information and the default persona |
-| Edit an additional persona on My Page | That entry in your saved persona list |
-| Change your primary persona | The role initially selected when preparing a new chat |
-| Select a persona on a story page and start a new chat | The newly created chat |
-| Load a persona inside a chat and save | The chat you are editing |
+| **Default** | Created from the name and gender you set when signing up. It changes when you edit **Edit Profile → My Info**, and it can't be deleted |
+| **Primary** | The persona selected at first when you start a new chat. At first, your default persona is your primary persona |
+| **Recommended personas** | Roles the creator prepared for that work. Choose them on the work's detail page |
 
-## 8. What should I write in Details?
+The cards in **Profile → Persona Settings** show **Default** and **Primary** labels. One card can have both.
 
-Describe **your role and relationships** briefly and concretely. Start with the background needed for this conversation instead of trying to include every possible detail.
+## Create a persona
 
-**Example — A traveler arriving in town**
+1. Open **Profile → Persona Settings**.
+2. Select **Add Persona**.
+3. Fill in the fields below and select **Save** at the top.
 
-> My name is Haru. I am an adult cartographer who has come to town to find an old map. I speak politely to strangers and ask questions cautiously. I am meeting the protagonist for the first time today and want to begin by asking them to show me around town.
+| Field | How to fill it in |
+| --- | --- |
+| **Name** | The name characters call you. Required, up to 20 characters |
+| **Date of Birth** | If you enter it, fill in the year, month, and day. Only dates for ages 14 and up can be saved |
+| **Gender** | Choose **Female** or **Male** |
+| **Details** | Your role, personality, way of speaking, and relationship with the characters. Up to 1,000 characters |
 
-This example gives the role's background, way of speaking, relationship, and first goal. Edit the details in a chat when you want to take the story in a different direction.
+A name alone is enough to save. If you'll mainly use the new persona, [make it your primary persona](#set-your-primary-persona).
+
+### Example details
+
+> My name is Haru. I'm 25. I woke up in the quarantine station of the underground city, and all I remember is that I worked as a courier above ground. I'm polite with strangers and ask questions right away. I met Minwoo for the first time today.
+
+Writing your role, how you speak, your relationship with the characters, and what you want to do now, in short sentences, helps characters understand you.
+
+## Set your primary persona
+
+In **Profile → Persona Settings**, tap the card of the persona you want to use. When the card shows **Primary**, that persona is selected the next time you start a new chat.
+
+## Choose one when you start a chat
+
+1. On the work's detail page, tap the small profile icon to the right of **Start chatting** at the bottom.
+2. Choose one in the **My personas** or **Recommended personas** tab and select **Confirm selection**.
+3. Select **Start chatting**. If you've chatted with this work before, select **Start new chat**.
+
+You can also edit a persona with the pencil button on its card in this window.
+
+- Editing and saving one of **My personas** changes that persona in your list.
+- Editing one of the **Recommended personas** applies only to this chat. To keep using it, create it as one of your own personas.
+
+If you select **Continue previous chat**, the chat continues with the persona you were using in that chat room.
+
+## Change it in a chat room you're already using
+
+Editing a persona in your list affects chats you start from now on. Change a chat room you're already using from inside that room.
+
+1. Tap the ⋮ button at the top right of the chat room.
+2. In **Chat Settings**, select **My Info**.
+3. In the **Edit Persona** window, edit the name and details directly, or choose one of your personas with **Load**.
+4. Select **Save**. The next reply uses the changed persona.
+
+The chat history stays as it is. To start over with a new role, choose the persona on the work's detail page and select **Start new chat**.
+
+## Edit and delete
+
+In **Profile → Persona Settings**, tap the ⋮ button on the right of a card.
+
+- **Edit**: Change the details and select **Save**. **Edit** on your default persona opens the **Edit Profile** screen.
+- **Delete**: You can delete only personas you added.
+
+:::danger[Delete works right away, without asking]
+**Delete** removes the persona immediately, with no confirmation, and it can't be undone. If you delete your primary persona, your default persona becomes primary. Chat rooms where you used that persona can still be used.
+:::
+
+## Where to change what
+
+| What you want to change | Where |
+| --- | --- |
+| The name and role for chats you start from now on | Edit it in **Persona Settings**, or make it primary |
+| The name and role in a chat room you're using now | **Chat Settings → My Info** in the chat room's ⋮ menu |
+| A role just for the chat you're about to start | Choose it with the profile icon before you start |
+| The name and gender you set when signing up (default persona) | **Edit Profile → My Info** |
+
+## If you get stuck
+
+<details>
+<summary>I changed my name, but a character still uses my old name</summary>
+
+A chat room you're already using has to be changed inside that room. In **Chat Settings → My Info** from the chat room's ⋮ menu, choose the changed persona with **Load**, then select **Save**.
+
+</details>
+
+<details>
+<summary>My new persona isn't used when I start a chat</summary>
+
+A new persona isn't your primary persona. Tap its card in the list to make it primary, or choose it with the profile icon when you start a chat.
+
+</details>
+
+<details>
+<summary>It won't save after I enter a date of birth</summary>
+
+Check that you filled in the year, month, and day, and that the date exists. If you see "Must be 14 or older to save.", use a date for age 14 or older. You can also leave the date of birth empty and save.
+
+</details>
+
+<details>
+<summary>My default persona has no Delete option</summary>
+
+The default persona can't be deleted. Selecting **Edit** opens **Edit Profile**, where you can change its name and details.
+
+</details>
+
+<details>
+<summary>I don't see the Recommended personas tab</summary>
+
+The creator didn't prepare recommended personas for this work. Choose one from **My personas**.
+
+</details>
+
+<details>
+<summary>I deleted a persona by mistake</summary>
+
+A deleted persona can't be restored. Create it again with the same details. Chat rooms where you used it are still there.
+
+</details>
+
+If that doesn't solve it, reach us in the support channel on Discord from **Profile → Discord**, or email [contact@mymi.live](mailto:contact@mymi.live).
+
+## Next steps
+
+<CardGrid>
+<Card to="/chatting/chat-with-character" icon="chat" title="Chatting">Start your first chat with the persona you chose.</Card>
+<Card to="/chatting/chat-room-settings" icon="sliders" title="Chat room settings">Tell characters more about your relationship and background with a user note.</Card>
+<Card to="/account/login-profile" icon="persona" title="Login and profile settings">Change the name and details of your default persona.</Card>
+</CardGrid>
