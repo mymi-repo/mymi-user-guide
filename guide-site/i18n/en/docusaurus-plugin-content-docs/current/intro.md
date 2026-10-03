@@ -40,13 +40,13 @@ If you're new, start with accessing MYMI and signing up. If you already use it, 
 
 ## Create your own work
 
-The **creation guide** walks you through the creation screen by building one example work from start to finish. If you're new, start with **Before you start** and **Create your first work**.
+The **creation guide** walks you through the creation screen by building one example work from start to finish. You can make a work in **Simple mode**, where you just fill in fields, or in **Expert mode**, where you write the settings yourself. If you're new, start with **Before you start**.
 
 <CardGrid>
-<Card to="/create/before-you-start" icon="compass" title="Before you start">Learn the seven tabs of the creation screen and how saving works.</Card>
-<Card to="/create/first-work" icon="pen" title="Create your first work">Go from one cover image and some text all the way to Publish.</Card>
-<Card to="/create/images" icon="image" title="Prepare images">Make character and background images to show in chats.</Card>
-<Card to="/create/prompt" icon="book" title="Write the prompt">Learn how to write the settings the AI reads.</Card>
+<Card to="/create/before-you-start" icon="compass" title="Before you start">See how Simple mode and Expert mode differ and how to choose.</Card>
+<Card to="/create/simple/first-work" icon="pen" title="Create your first work in Simple mode">Follow along by filling in fields, all the way to Done.</Card>
+<Card to="/create/first-work" icon="sliders" title="Create your first work in Expert mode">Follow along by writing the prompt yourself, all the way to Publish.</Card>
+<Card to="/create/publish" icon="send" title="Publish and edit">Learn about review, Content Management, and asking for a re-review.</Card>
 </CardGrid>
 
 ## Stuck or have a question?

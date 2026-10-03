@@ -37,9 +37,9 @@ MYMI 是**和 AI 扮演的作品角色聊天，一起推進故事的服務**。�
 
 ## 創作自己的作品
 
-登入後點選下方選單的**建立**，會開啟**建立內容**畫面。在**基本資訊**、**素材**、**元件**、**提示詞**、**開場**、**設定集**、**其他設定**分頁中填好作品內容，再點選**完成製作**。只用一張封面和文字也能完成作品。
+登入後點選下方選單的**建立**，會開啟**建立作品**畫面。作品有兩種製作方式。**簡易模式**是填寫欄位，AI 設定就會自動產生；**專家模式**則是自己撰寫 AI 讀取的設定與輸出規則。一開始會以簡易模式開啟。只用一張圖片和文字也能完成作品。
 
-第一次製作的話，請先在[開始之前](/create/making/before-you-start.md)了解每個分頁要寫什麼，再照著[建立第一個作品](/create/making/first-work.md)做做看。
+第一次製作的話，請先在[開始之前](/create/start/before-you-start.md)了解兩種模式的差異，再照著[用簡易模式建立第一個作品](/create/simple/first-work.md)做做看。
 
 ## 遇到問題時
 
@@ -69,5 +69,5 @@ MYMI 是**和 AI 扮演的作品角色聊天，一起推進故事的服務**。�
 <CardGrid>
 <Card to="/getting-started/how-to-access" icon="device" title="如何使用 MYMI">開啟網頁版，或安裝 Android、iPhone App。</Card>
 <Card to="/chatting/chat-with-character" icon="chat" title="聊天">選擇作品並開始第一次聊天。</Card>
-<Card to="/create/before-you-start" icon="pen" title="開始之前">了解作品製作畫面七個分頁的用途。</Card>
+<Card to="/create/before-you-start" icon="pen" title="開始之前">了解簡易模式與專家模式的差異，以及如何選擇。</Card>
 </CardGrid>

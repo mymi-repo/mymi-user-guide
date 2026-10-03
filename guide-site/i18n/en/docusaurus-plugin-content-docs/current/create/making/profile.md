@@ -11,6 +11,10 @@ last_update:
 
 What users see before choosing a work is the content of the **Basic info** tab. Fill in the cover, description, creator guide, and recommended models to finish the work page. None of this is sent to the AI.
 
+:::info
+This is the Expert mode guide. For Simple mode, see [Assets and AI images](/create/simple/assets#set-the-profile-image) and [Optional](/create/simple/extras#optional).
+:::
+
 ## Cover
 
 You can add 1–10 covers. With several, the cover switches to the next one at the interval you set.

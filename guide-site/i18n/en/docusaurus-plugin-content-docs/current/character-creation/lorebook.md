@@ -1,16 +1,16 @@
 ---
-title: "Legacy creation flow (1.0): lorebook"
-description: The lorebook guide has moved to the new creation guide.
+title: Lorebook
+description: The guide to the lorebook has moved to the creation guide.
 unlisted: true
 last_update:
-  date: 2026-09-29
+  date: 2026-10-04
 ---
 
-# Legacy creation flow (1.0): lorebook
+# Lorebook
 
-The lorebook guide has moved to the new **creation guide**. The lorebook works the same way in the current flow and in 1.0.
+The guide to the lorebook has moved to the **creation guide**. The lorebook works the same way in Simple mode and Expert mode.
 
 <CardGrid>
-<Card to="/create/lorebook" icon="book" title="Write the lorebook">Write settings that are sent only when a keyword appears.</Card>
-<Card to="/create/legacy/edit" icon="history" title="Edit a 1.0 work">See the lorebook step in the earlier screen.</Card>
+<Card to="/create/simple/extras#lorebook" icon="book" title="Lorebook, components, and optional items">See Simple mode's Lorebook step.</Card>
+<Card to="/create/lorebook" icon="book" title="Write the lorebook">See Expert mode's Lorebook tab and tips for choosing keywords.</Card>
 </CardGrid>

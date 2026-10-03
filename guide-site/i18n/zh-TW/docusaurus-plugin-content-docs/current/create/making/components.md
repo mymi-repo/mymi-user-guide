@@ -11,6 +11,10 @@ last_update:
 
 元件是**AI 在聊天中顯示的 UI**。先做好狀態視窗、道具欄、選項這類想呈現的內容，AI 就會在需要時呼叫。不懂程式碼也沒關係，可以用**用 Gem 製作**來做。
 
+:::info
+這是專家模式的說明。簡易模式請見 [Lorebook、Components 與選填](/create/simple/extras#components)。
+:::
+
 ## 新增元件
 
 <ScreenStep src="/img/screens/zh-TW/components-top.webp" alt="元件分頁。可以看到 StatusWindow 元件的預覽、新增元件與用 Gem 製作" caption="元件分頁">

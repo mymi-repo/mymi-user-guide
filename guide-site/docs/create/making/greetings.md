@@ -11,6 +11,10 @@ last_update:
 
 도입부는 채팅을 시작할 때 AI가 먼저 보내는 첫 메시지예요. 유저가 처음 만나는 장면이라 작품의 첫인상을 정해요. 도입부는 1개 이상 있어야 해요.
 
+:::info
+전문가 모드 안내예요. 간편 모드는 [설정과 도입부 쓰기](/create/simple/write#도입부)를 보세요.
+:::
+
 ## 도입부 만들기
 
 <ScreenStep src="/img/screens/ko/first-greeting.webp" alt="도입부 탭. 도입부 목록, 제목 칸, 첫 메시지 칸이 있다" caption="도입부 탭">

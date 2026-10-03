@@ -37,9 +37,9 @@ AI 답변을 한 번 받을 때마다 고른 AI 모델의 가격만큼 스파크
 
 ## 나만의 작품 만들기
 
-로그인한 뒤 하단 **제작**을 누르면 **작품 제작** 화면이 열려요. **기본 정보·에셋·컴포넌트·프롬프트·도입부·로어북·기타 설정** 탭에 작품을 채우고 **제작 완료**를 눌러요. 이미지 없이 표지 한 장과 글만으로도 만들 수 있어요.
+로그인한 뒤 하단 **제작**을 누르면 **작품 제작** 화면이 열려요. 작품은 두 가지 방식으로 만들 수 있어요. **간편 모드**는 칸을 채우면 AI 설정이 자동으로 만들어지고, **전문가 모드**는 AI가 읽을 설정과 출력 규칙을 직접 작성해요. 처음에는 간편 모드로 열려요. 이미지 한 장과 글만으로도 만들 수 있어요.
 
-처음이라면 [시작하기 전에](/create/making/before-you-start.md)에서 탭마다 무엇을 적는지 보고, [첫 작품 만들기](/create/making/first-work.md)를 따라 해 보세요.
+처음이라면 [시작하기 전에](/create/start/before-you-start.md)에서 두 모드의 차이를 보고, [간편 모드로 첫 작품 만들기](/create/simple/first-work.md)를 따라 해 보세요.
 
 ## 자주 막히는 곳
 
@@ -69,5 +69,5 @@ Android와 iPhone 앱이 있고, 웹과 같은 계정으로 써요. 설치 방�
 <CardGrid>
 <Card to="/getting-started/how-to-access" icon="device" title="MYMI 접속 방법">웹으로 접속하거나 Android·iPhone 앱을 설치해요.</Card>
 <Card to="/chatting/chat-with-character" icon="chat" title="대화하기">작품을 골라 첫 대화를 시작해요.</Card>
-<Card to="/create/before-you-start" icon="pen" title="시작하기 전에">작품 제작 화면의 일곱 탭이 하는 일을 알아봐요.</Card>
+<Card to="/create/before-you-start" icon="pen" title="시작하기 전에">간편 모드와 전문가 모드의 차이와 고르는 법을 알아봐요.</Card>
 </CardGrid>

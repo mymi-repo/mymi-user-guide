@@ -1,6 +1,6 @@
 ---
 title: Limits and rules at a glance
-description: The character and count limits of the creation screen, what Publish checks, the code rules, and where {{user}} and {{char}} are replaced, all in one place.
+description: The character and count limits of the Expert mode creation screen, what Publish checks, the code rules, and where {{user}} and {{char}} are replaced, all in one place.
 slug: /create/limits
 sidebar_position: 11
 last_update:
@@ -9,7 +9,11 @@ last_update:
 
 # Limits and rules at a glance
 
-Here are the limits and rules of the creation screen in one place. The details of how to use each item are on its own guide page.
+Here are the limits and rules of the Expert mode creation screen in one place. The details of how to use each item are on its own guide page.
+
+:::info
+This is the Expert mode guide. For Simple mode, see [Fields and limits](/create/simple/reference).
+:::
 
 ## Characters and counts
 

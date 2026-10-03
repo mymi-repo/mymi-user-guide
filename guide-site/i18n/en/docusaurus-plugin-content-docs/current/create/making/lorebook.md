@@ -11,6 +11,10 @@ last_update:
 
 The lorebook is **a set of entries whose content is sent to the AI when their keyword comes up in the conversation.** Write things the AI doesn't always need to know but must know once a name comes up, like world terms, places, organizations, and characters' secrets.
 
+:::info
+This is the Expert mode guide. For Simple mode, see [Lorebook, components, and optional items](/create/simple/extras#lorebook). Both modes find lore entries the same way.
+:::
+
 ## How it differs from the prompt
 
 | | Prompt | Lorebook |

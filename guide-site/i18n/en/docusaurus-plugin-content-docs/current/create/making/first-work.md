@@ -1,15 +1,15 @@
 ---
-title: Create your first work
-description: Follow the example work "Underground Seoul" and go from a single cover image, a Basic preset prompt, and one opening to a published work.
+title: Create your first work in Expert mode
+description: Follow the example work "Underground Seoul" in Expert mode and go from a single cover image, a Basic preset prompt, and one opening to a published work.
 slug: /create/first-work
 sidebar_position: 2
 last_update:
-  date: 2026-10-03
+  date: 2026-10-04
 ---
 
-# Create your first work
+# Create your first work in Expert mode
 
-You can complete a work without images or components. This page follows the example work **Underground Seoul**, filling in only the fields you need until you select **Publish**.
+You can complete a work without images or components. This page follows the example work **Underground Seoul** in **Expert mode**, filling in only the fields you need until you select **Publish**. If you'd rather just fill in fields, see [Create your first work in Simple mode](/create/simple/first-work).
 
 :::tip[What you need]
 - 1 image for the cover (JPG, PNG, WEBP, GIF, HEIC · up to 5MB)
@@ -26,7 +26,7 @@ You can complete a work without images or components. This page follows the exam
 
 ## 1. Fill in Basic info
 
-Select **Create** in the bottom menu, and the **Basic info** tab opens first.
+Select **Create** in the bottom menu, and the **Basic info** tab opens first. Select **Expert mode** in **Creation mode** at the top. A window appears the first time you choose it, so select **Switch to Expert mode**. ([Before you start](/create/before-you-start#choose-a-creation-mode))
 
 <ScreenStep src="/img/screens/en/first-basic-top.webp" alt="The Basic info tab with a title and a short description filled in and one cover image added" caption="Top of the Basic info tab">
 
@@ -176,6 +176,8 @@ In the **Settings** tab, choose every item marked with a red `*`. **Visibility**
 - **Marketing consent**: If you agree, MYMI may use this work in ads and social media.
 
 </ScreenStep>
+
+[Choose your work settings](/create/settings) explains what each choice means.
 
 **Recommended personas** at the very bottom is optional. It's explained in [Publish and edit](/create/publish#recommended-personas).
 

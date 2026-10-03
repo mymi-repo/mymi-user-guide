@@ -80,7 +80,7 @@ If someone used your copyrighted work on MYMI without permission, follow the ste
 <details>
 <summary>My work was suddenly unpublished or deleted</summary>
 
-A work that is judged to break the Work Creation Policy can be unpublished or deleted without notice. If you disagree, email [safety_appeal@mymi.live](mailto:safety_appeal@mymi.live) with the work's title and your MYMI ID. For a work that was rejected in review, see [Publish and edit](/create/making/publish.md).
+A work that is judged to break the Work Creation Policy can be unpublished or deleted without notice. If you disagree, email [safety_appeal@mymi.live](mailto:safety_appeal@mymi.live) with the work's title and your MYMI ID. For a work that was rejected in review, see [Publish and edit](/create/start/publish.md).
 
 </details>
 

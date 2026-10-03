@@ -11,6 +11,10 @@ last_update:
 
 A component is **UI the AI shows during a chat**. Build things you want to show, like a status window, an inventory, or choices, and the AI calls them when needed. You can make one without knowing code by using **Build with a Gem**.
 
+:::info
+This is the Expert mode guide. For Simple mode, see [Lorebook, components, and optional items](/create/simple/extras#components).
+:::
+
 ## Add a component
 
 <ScreenStep src="/img/screens/en/components-top.webp" alt="The Components tab, showing the StatusWindow component preview, Add component, and Build with a Gem" caption="Components tab">

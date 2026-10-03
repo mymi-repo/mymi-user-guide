@@ -11,6 +11,10 @@ last_update:
 
 The opening is the first message the AI sends when a chat starts. It's the first scene users meet, so it sets the first impression of your work. You need at least 1 opening.
 
+:::info
+This is the Expert mode guide. For Simple mode, see [Write the settings and the intro](/create/simple/write#the-intro).
+:::
+
 ## Make an opening
 
 <ScreenStep src="/img/screens/en/first-greeting.webp" alt="The Openings tab, with the opening list, the title field, and the first message field" caption="Openings tab">

@@ -37,9 +37,9 @@ Each AI reply costs Sparks, based on the price of the AI model you chose. If you
 
 ## Create your own work
 
-Log in and select **Create** in the bottom menu to open the **Create Content** screen. Fill in the **Basic info**, **Assets**, **Components**, **Prompt**, **Openings**, **Lorebook**, and **Settings** tabs, then select **Publish**. You can make a work with just one cover image and some text.
+Log in and select **Create** in the bottom menu to open the **Create Work** screen. You can make a work in two ways. In **Simple mode**, you fill in the fields and the AI settings are built for you. In **Expert mode**, you write the settings and output rules the AI reads yourself. It opens in Simple mode at first. You can make a work with just one image and some text.
 
-If you're new, see what goes in each tab in [Before you start](/create/making/before-you-start.md), then follow [Create your first work](/create/making/first-work.md).
+If you're new, see how the two modes differ in [Before you start](/create/start/before-you-start.md), then follow [Create your first work in Simple mode](/create/simple/first-work.md).
 
 ## If you get stuck
 
@@ -69,5 +69,5 @@ Yes, there are Android and iPhone apps, and they use the same account as the web
 <CardGrid>
 <Card to="/getting-started/how-to-access" icon="device" title="Access MYMI">Open the website or install the Android or iPhone app.</Card>
 <Card to="/chatting/chat-with-character" icon="chat" title="Chatting">Choose a work and start your first chat.</Card>
-<Card to="/create/before-you-start" icon="pen" title="Before you start">Learn what each of the seven tabs on the creation screen does.</Card>
+<Card to="/create/before-you-start" icon="pen" title="Before you start">See how Simple mode and Expert mode differ and how to choose.</Card>
 </CardGrid>

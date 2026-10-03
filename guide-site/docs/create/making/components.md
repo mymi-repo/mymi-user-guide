@@ -11,6 +11,10 @@ last_update:
 
 컴포넌트는 **채팅 중에 AI가 띄우는 UI**예요. 상태창, 인벤토리, 선택지처럼 보여 줄 것을 만들어 두면 AI가 필요할 때 불러요. 코드를 몰라도 **Gem으로 만들기**로 만들 수 있어요.
 
+:::info
+전문가 모드 안내예요. 간편 모드는 [로어북·컴포넌트·선택사항](/create/simple/extras#컴포넌트)을 보세요.
+:::
+
 ## 컴포넌트 추가하기
 
 <ScreenStep src="/img/screens/ko/components-top.webp" alt="컴포넌트 탭. StatusWindow 컴포넌트의 미리보기와 컴포넌트 추가, Gem으로 만들기가 보인다" caption="컴포넌트 탭">

@@ -74,7 +74,7 @@ description: 說明 MYMI 條款與政策的原文在哪裡看、不能做的事�
 <details>
 <summary>我的作品突然被設為不公開，或被刪除了</summary>
 
-被判斷違反作品生成政策的作品，可能不經事先通知就被設為不公開或刪除。對處分有異議的話，請寄信到 [safety_appeal@mymi.live](mailto:safety_appeal@mymi.live)，附上作品標題和你的 MYMI ID。審核被退回的作品，請看[公開與修改](/create/making/publish.md)。
+被判斷違反作品生成政策的作品，可能不經事先通知就被設為不公開或刪除。對處分有異議的話，請寄信到 [safety_appeal@mymi.live](mailto:safety_appeal@mymi.live)，附上作品標題和你的 MYMI ID。審核被退回的作品，請看[公開與修改](/create/start/publish.md)。
 
 </details>
 

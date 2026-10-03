@@ -74,7 +74,7 @@ MYMIを使うときに守ることと、通報の方法をまとめました。�
 <details>
 <summary>作品が突然非公開になった、または削除された</summary>
 
-作品生成ポリシーに違反したと判断された作品は、事前に知らせずに非公開にされたり、削除されたりすることがあります。措置に異議があるときは、[safety_appeal@mymi.live](mailto:safety_appeal@mymi.live)に、作品のタイトルとMYMIのIDを書いて送ってください。審査で却下された作品は、[公開と編集](/create/making/publish.md)をご覧ください。
+作品生成ポリシーに違反したと判断された作品は、事前に知らせずに非公開にされたり、削除されたりすることがあります。措置に異議があるときは、[safety_appeal@mymi.live](mailto:safety_appeal@mymi.live)に、作品のタイトルとMYMIのIDを書いて送ってください。審査で却下された作品は、[公開と編集](/create/start/publish.md)をご覧ください。
 
 </details>
 

@@ -11,6 +11,10 @@ last_update:
 
 開場是開始聊天時 AI 先傳出的第一則訊息。這是使用者最先遇到的場景，決定了作品的第一印象。開場至少要有 1 個。
 
+:::info
+這是專家模式的說明。簡易模式請見[撰寫設定與介紹](/create/simple/write#介紹)。
+:::
+
 ## 建立開場
 
 <ScreenStep src="/img/screens/zh-TW/first-greeting.webp" alt="開場分頁。有開場清單、標題欄與第一則訊息欄" caption="開場分頁">

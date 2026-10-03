@@ -15,6 +15,10 @@ last_update:
 作品製作中的圖片生成與重新生成都是免費的。要生成的話，帳號必須已完成[手機號碼驗證](/account/adult-verification)。只是上傳圖片的話，不需要驗證。
 :::
 
+:::info
+這是專家模式的說明。簡易模式請見[素材與 AI 圖片](/create/simple/assets)。
+:::
+
 ## 素材分頁的樣子
 
 <ScreenStep src="/img/screens/zh-TW/assets-overview.webp" alt="素材分頁。資料夾外的圖片 BG1，以及角色資料夾 A 內的圖片 1・2・3" caption="素材分頁">

@@ -150,7 +150,7 @@ For other problems, see [Contact us](/faq/faq.md#contact-us).
 ## Next steps
 
 <CardGrid>
-<Card to="/create/first-work" icon="pen" title="Create your first work">Follow an example and make a work from start to finish.</Card>
+<Card to="/create/before-you-start" icon="compass" title="Before you start">See how Simple mode and Expert mode differ and how to choose.</Card>
 <Card to="/create/publish" icon="send" title="Publish and edit">Learn about review, publishing, and managing your work after you finish creating it.</Card>
 <Card to="/payment/payment-methods" icon="card" title="Buying Sparks">See how long the Sparks you converted last.</Card>
 </CardGrid>

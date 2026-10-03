@@ -1,18 +1,18 @@
 ---
 title: 作品を作る
-description: 作品の作り方のご案内は、新しい制作ガイドに移りました。
+description: 作品を作る案内は、制作ガイドに移りました。
 unlisted: true
 last_update:
-  date: 2026-09-29
+  date: 2026-10-04
 ---
 
 # 作品を作る
 
-このご案内は新しい**制作ガイド**に移りました。
+作品を作る案内は、**制作ガイド**に移しました。下から必要なページを開いてください。
 
 <CardGrid>
-<Card to="/create/before-you-start" icon="compass" title="始める前に">作品制作画面の7つのタブと保存のしくみを確認します。</Card>
-<Card to="/create/first-work" icon="pen" title="初めての作品を作る">表紙1枚と文章だけで制作完了まで進めます。</Card>
-<Card to="/create/publish" icon="send" title="公開と編集">作品管理から作品を編集します。</Card>
-<Card to="/create/legacy/overview" icon="history" title="旧方式（1.0）について">以前の方式で作った作品を編集するときに確認します。</Card>
+<Card to="/create/before-you-start" icon="compass" title="始める前に">かんたんモードとエキスパートモードの違いと、選び方を確認します。</Card>
+<Card to="/create/simple/first-work" icon="pen" title="かんたんモードで初めての作品を作る">項目を埋めて、完了まで一緒に進みます。</Card>
+<Card to="/create/first-work" icon="sliders" title="エキスパートモードで初めての作品を作る">プロンプトを自分で書いて、制作完了まで一緒に進みます。</Card>
+<Card to="/create/publish" icon="send" title="公開と編集">作品管理で、作った作品を直します。</Card>
 </CardGrid>

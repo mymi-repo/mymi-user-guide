@@ -1,17 +1,18 @@
 ---
-title: "Legacy creation flow (1.0): editing existing works"
-description: The guide to the legacy creation flow (1.0) has moved to the new creation guide.
+title: Edit an existing work
+description: The guide to editing an existing work has moved to the creation guide.
 unlisted: true
 last_update:
-  date: 2026-09-29
+  date: 2026-10-04
 ---
 
-# Legacy creation flow (1.0): editing existing works
+# Edit an existing work
 
-This guide has moved to the new **creation guide**.
+What the guide used to call the "legacy creation flow (1.0)" is now **Simple mode**. The guide to editing an existing work has moved to the **creation guide**.
 
 <CardGrid>
-<Card to="/create/legacy/overview" icon="history" title="About the legacy creation flow (1.0)">How to tell a 1.0 work apart and what changed.</Card>
-<Card to="/create/legacy/edit" icon="pen" title="Edit a 1.0 work">Edit a work in the earlier seven-step screen.</Card>
-<Card to="/create/legacy/reference" icon="list" title="1.0 fields and syntax">Limits, image syntax, and where each field moved.</Card>
+<Card to="/create/simple/edit" icon="history" title="Edit a work">Reopen a work made in Simple mode and change it.</Card>
+<Card to="/create/simple/overview" icon="pen" title="Learn about Simple mode">Learn about the seven steps and when things are saved.</Card>
+<Card to="/create/simple/reference" icon="list" title="Fields and limits">See Simple mode's limits and the image syntax.</Card>
+<Card to="/create/publish" icon="send" title="Publish and edit">Edit a work made in Expert mode here.</Card>
 </CardGrid>

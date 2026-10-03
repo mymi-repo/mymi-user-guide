@@ -150,7 +150,7 @@ description: クリエイターに応募する条件と方法、リーフをた�
 ## 次のステップ
 
 <CardGrid>
-<Card to="/create/first-work" icon="pen" title="初めての作品を作る">例の作品にならって、最初から最後まで作ってみます。</Card>
+<Card to="/create/before-you-start" icon="compass" title="始める前に">かんたんモードとエキスパートモードの違いと、選び方を確認します。</Card>
 <Card to="/create/publish" icon="send" title="公開と編集">制作完了後の審査と公開、作品の管理を確認します。</Card>
 <Card to="/payment/payment-methods" icon="card" title="スパークのチャージ">変換したスパークがいつまで使えるか確認します。</Card>
 </CardGrid>

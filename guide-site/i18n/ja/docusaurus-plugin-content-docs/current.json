@@ -14,8 +14,11 @@
   "sidebar.createSidebar.category.작품 만들기": {
     "message": "作品を作る"
   },
-  "sidebar.createSidebar.category.구버전 제작 방식(1.0)": {
-    "message": "旧方式（1.0）"
+  "sidebar.createSidebar.category.간편 모드": {
+    "message": "かんたんモード"
+  },
+  "sidebar.createSidebar.category.전문가 모드": {
+    "message": "エキスパートモード"
   },
   "sidebar.createSidebar.category.크리에이터": {
     "message": "クリエイター"

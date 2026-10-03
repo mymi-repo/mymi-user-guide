@@ -277,11 +277,27 @@ Select the palette icon at the top right of the chat screen, then **UI Settings*
 
 <details>
 
+<summary>Which should I choose, Simple mode or Expert mode?</summary>
+
+You choose in **Creation mode** at the top of the **Basic Info** tab on the **Create** screen. In **Simple mode** you fill in fields and the AI settings are built for you, and in **Expert mode** you write the settings and output rules the AI reads yourself. If it's your first time, it's fine to start with Simple mode. The differences are explained in [Before you start](/create/start/before-you-start.md).
+
+</details>
+
+<details>
+
+<summary>I can't change the Creation mode</summary>
+
+A work opened from **Profile → Content Management** is locked to the mode it was made in. To start a new work, select <strong>↺</strong> to clear the editor, then choose a mode. The work in Content Management isn't deleted. ([Before you start](/create/start/before-you-start.md#a-work-opened-from-content-management-keeps-its-mode))
+
+</details>
+
+<details>
+
 <summary>It says "Identity verification is required to generate AI images."</summary>
 
 You can't start verification on the creation screen.
 
-1. Select **Save draft** at the top right to save your work.
+1. Save what you've written. In Simple mode, select the next button. In Expert mode, select **Save draft** at the top right.
 2. Select **Check-in and get Sparks** in **Profile → Attendance Check** and complete phone verification.
 3. Open the work again from **Profile → Content Management** and generate the image.
 
@@ -293,7 +309,7 @@ Image generation in the creation screen is free.
 
 <summary>I can't finish creating my work</summary>
 
-When you select **Publish**, you're taken to the tab with missing items. These are often missed.
+In Expert mode, when you select **Publish**, you're taken to the tab with missing items. These are often missed.
 
 - **Basic info**: Title, One-line description, Cover, Description, Genres, Hashtags
 - **Prompt** and **Openings**: can't be empty
@@ -301,13 +317,15 @@ When you select **Publish**, you're taken to the tab with missing items. These a
 
 All the requirements are in [Limits and rules at a glance](/create/making/limits.md).
 
+In Simple mode, if the next button or **Done** doesn't let you move on, fill in the field the message points to. The ones often missed are the worldview, the characters, an asset's situation description and the profile image, the intro, and the genres, hashtags, and audience in Settings. All the requirements are in [Fields and limits](/create/simple/reference.md#whats-checked-at-next-and-done).
+
 </details>
 
 <details>
 
 <summary>My work is "Under Review" or "Rejected"</summary>
 
-A newly published work goes through review before it goes public. If it's rejected, you can see the reason in **Profile → Content Management**, fix it, and ask for another review. The whole process is in [Publish and edit](/create/making/publish.md).
+A newly published work goes through review before it goes public. If it's rejected, you can see the reason in **Profile → Content Management**, fix it, and ask for another review. The whole process is in [Publish and edit](/create/start/publish.md).
 
 </details>
 

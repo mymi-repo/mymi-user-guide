@@ -40,13 +40,13 @@ MYMI는 **작품 속 인물과 대화하며 이야기에 참여하고, 나만의
 
 ## 나만의 작품을 만들고 싶어요
 
-**제작 가이드**는 예시 작품 하나를 처음부터 끝까지 만들어 가며 작품 제작 화면을 안내해요. 처음이라면 **시작하기 전에**와 **첫 작품 만들기**부터 읽어 보세요.
+**제작 가이드**는 예시 작품 하나를 처음부터 끝까지 만들어 가며 작품 제작 화면을 안내해요. 작품은 칸을 채우면 되는 **간편 모드**나 설정을 직접 쓰는 **전문가 모드**로 만들 수 있어요. 처음이라면 **시작하기 전에**부터 읽어 보세요.
 
 <CardGrid>
-<Card to="/create/before-you-start" icon="compass" title="시작하기 전에">작품 제작 화면의 일곱 탭과 저장 방식을 알아봐요.</Card>
-<Card to="/create/first-work" icon="pen" title="첫 작품 만들기">표지 한 장과 글만으로 제작 완료까지 따라 해요.</Card>
-<Card to="/create/images" icon="image" title="이미지 준비하기">대화에 띄울 인물·배경 이미지를 만들어요.</Card>
-<Card to="/create/prompt" icon="book" title="프롬프트 쓰기">AI가 읽는 설정을 적는 방법을 알아봐요.</Card>
+<Card to="/create/before-you-start" icon="compass" title="시작하기 전에">간편 모드와 전문가 모드의 차이와 고르는 법을 알아봐요.</Card>
+<Card to="/create/simple/first-work" icon="pen" title="간편 모드로 첫 작품 만들기">칸을 채워 완료까지 따라 해요.</Card>
+<Card to="/create/first-work" icon="sliders" title="전문가 모드로 첫 작품 만들기">프롬프트를 직접 써서 제작 완료까지 따라 해요.</Card>
+<Card to="/create/publish" icon="send" title="공개하고 고치기">검토와 작품 관리, 재심사 요청을 알아봐요.</Card>
 </CardGrid>
 
 ## 막히거나 궁금한 점이 생겼나요?

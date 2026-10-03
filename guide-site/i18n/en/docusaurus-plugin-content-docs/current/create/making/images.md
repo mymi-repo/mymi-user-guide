@@ -15,6 +15,10 @@ You prepare the images to show in chats in the **Assets** tab. You can upload im
 Generating and regenerating images in the creation screen is free. To generate, your account must have completed [phone verification](/account/adult-verification). You don't need verification just to upload images.
 :::
 
+:::info
+This is the Expert mode guide. For Simple mode, see [Assets and AI images](/create/simple/assets).
+:::
+
 ## How the Assets tab works
 
 <ScreenStep src="/img/screens/en/assets-overview.webp" alt="The Assets tab, with the image BG1 outside any folder and images 1, 2, and 3 inside character folder A" caption="Assets tab">

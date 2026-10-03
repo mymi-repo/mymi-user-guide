@@ -1,17 +1,18 @@
 ---
-title: 旧方式（1.0）：既存作品の編集
-description: 旧方式（1.0）のご案内は、新しい制作ガイドに移りました。
+title: 既存作品の編集
+description: 既存作品の編集の案内は、制作ガイドに移りました。
 unlisted: true
 last_update:
-  date: 2026-09-29
+  date: 2026-10-04
 ---
 
-# 旧方式（1.0）：既存作品の編集
+# 既存作品の編集
 
-このご案内は新しい**制作ガイド**に移りました。
+以前「旧方式（1.0）」と案内していた方式は、**かんたんモード**になりました。既存作品の編集の案内は、**制作ガイド**に移しました。
 
 <CardGrid>
-<Card to="/create/legacy/overview" icon="history" title="旧方式（1.0）について">1.0の作品の見分け方と、変わった点を確認します。</Card>
-<Card to="/create/legacy/edit" icon="pen" title="1.0の作品を編集する">以前の7段階の画面で作品を編集します。</Card>
-<Card to="/create/legacy/reference" icon="list" title="1.0の入力項目と書き方">制限、画像の書き方、各項目の移し先を確認します。</Card>
+<Card to="/create/simple/edit" icon="history" title="作品を編集する">かんたんモードで作った作品を開き直して直します。</Card>
+<Card to="/create/simple/overview" icon="pen" title="かんたんモードについて">7つのステップと、保存されるタイミングを確認します。</Card>
+<Card to="/create/simple/reference" icon="list" title="入力項目と制限">かんたんモードの制限と、画像の書き方を確認します。</Card>
+<Card to="/create/publish" icon="send" title="公開と編集">エキスパートモードで作った作品は、ここで直します。</Card>
 </CardGrid>

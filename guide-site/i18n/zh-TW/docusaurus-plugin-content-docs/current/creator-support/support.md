@@ -150,7 +150,7 @@ description: 說明申請成為創作者的條件與方法、如何獲得 Leaf �
 ## 下一步
 
 <CardGrid>
-<Card to="/create/first-work" icon="pen" title="建立第一個作品">跟著範例，從頭到尾做出一個作品。</Card>
+<Card to="/create/before-you-start" icon="compass" title="開始之前">了解簡易模式與專家模式的差異，以及如何選擇。</Card>
 <Card to="/create/publish" icon="send" title="公開與修改">了解製作完成後的審核、公開和作品管理。</Card>
 <Card to="/payment/payment-methods" icon="card" title="儲值 Spark">了解轉換後的 Spark 可以用多久。</Card>
 </CardGrid>

@@ -37,9 +37,9 @@ AIの返信を1回受け取るたびに、選んだAIモデルの価格分のス
 
 ## 自分の作品を作る
 
-ログインして下のメニューの**制作**を押すと、**作品制作**画面が開きます。**基本情報**・**アセット**・**コンポーネント**・**プロンプト**・**導入部**・**ロアブック**・**その他の設定**のタブに作品の内容を入れ、**制作完了**を押します。表紙1枚と文章だけでも作れます。
+ログインして下のメニューの**制作**を押すと、**作品制作**画面が開きます。作品は2つの方式で作れます。**かんたんモード**は、項目を埋めるとAI設定が自動で作られ、**エキスパートモード**は、AIが読む設定と出力ルールを自分で書きます。最初はかんたんモードで開きます。画像1枚と文章だけでも作れます。
 
-初めての方は、[始める前に](/create/making/before-you-start.md)で各タブに何を書くかを確認し、[初めての作品を作る](/create/making/first-work.md)に沿って作ってみてください。
+初めての方は、[始める前に](/create/start/before-you-start.md)で2つのモードの違いを確認し、[かんたんモードで初めての作品を作る](/create/simple/first-work.md)に沿って作ってみてください。
 
 ## つまずいたときは
 
@@ -69,5 +69,5 @@ AndroidとiPhoneのアプリがあり、ウェブと同じアカウントで使�
 <CardGrid>
 <Card to="/getting-started/how-to-access" icon="device" title="MYMIへのアクセス方法">ウェブで開くか、Android・iPhoneアプリをインストールします。</Card>
 <Card to="/chatting/chat-with-character" icon="chat" title="会話する">作品を選んで最初の会話を始めます。</Card>
-<Card to="/create/before-you-start" icon="pen" title="始める前に">作品制作画面の7つのタブの役割を確認します。</Card>
+<Card to="/create/before-you-start" icon="pen" title="始める前に">かんたんモードとエキスパートモードの違いと、選び方を確認します。</Card>
 </CardGrid>

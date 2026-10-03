@@ -69,7 +69,7 @@ MYMI를 쓸 때 지켜야 할 것과 신고하는 방법을 정리했어요. 이
 <details>
 <summary>내 작품이 갑자기 비공개되거나 삭제됐어요</summary>
 
-작품 생성 정책을 어긴 것으로 판단된 작품은 미리 알리지 않고 비공개되거나 삭제될 수 있어요. 제재에 이의가 있다면 [safety_appeal@mymi.live](mailto:safety_appeal@mymi.live)로 작품 제목과 MYMI 아이디를 적어 보내 주세요. 검토에서 거절된 작품은 [공개하고 고치기](/create/making/publish.md)를 보세요.
+작품 생성 정책을 어긴 것으로 판단된 작품은 미리 알리지 않고 비공개되거나 삭제될 수 있어요. 제재에 이의가 있다면 [safety_appeal@mymi.live](mailto:safety_appeal@mymi.live)로 작품 제목과 MYMI 아이디를 적어 보내 주세요. 검토에서 거절된 작품은 [공개하고 고치기](/create/start/publish.md)를 보세요.
 
 </details>
 

@@ -11,6 +11,10 @@ last_update:
 
 An image in a chat shows up when the AI writes a line like `![]({{URL}}/A/1.webp)` into its reply. The AI decides which image to put in which scene by following the rules you wrote in the **Prompt**. This page is the step after you made assets in [Prepare images](/create/images).
 
+:::info
+This is the Expert mode guide. In Simple mode, the AI picks images by their situation descriptions. See [Assets and AI images](/create/simple/assets) and [Fields and limits](/create/simple/reference#image-syntax).
+:::
+
 ## How it all connects
 
 | Where | What | Example |

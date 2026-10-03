@@ -1,16 +1,16 @@
 ---
-title: 旧方式（1.0）のロアブック
-description: ロアブックのご案内は、新しい制作ガイドに移りました。
+title: ロアブック
+description: ロアブックの案内は、制作ガイドに移りました。
 unlisted: true
 last_update:
-  date: 2026-09-29
+  date: 2026-10-04
 ---
 
-# 旧方式（1.0）のロアブック
+# ロアブック
 
-ロアブックのご案内は新しい**制作ガイド**に移りました。ロアブックは現在の方式と1.0で同じように動作します。
+ロアブックの案内は、**制作ガイド**に移しました。ロアブックは、かんたんモードとエキスパートモードで同じ仕組みで動きます。
 
 <CardGrid>
-<Card to="/create/lorebook" icon="book" title="ロアブックを書く">キーワードが出たときだけ伝える設定を書きます。</Card>
-<Card to="/create/legacy/edit" icon="history" title="1.0の作品を編集する">以前の画面のロアブックの段階を確認します。</Card>
+<Card to="/create/simple/extras#ロアブック" icon="book" title="ロアブック・コンポーネント・オプション">かんたんモードのロアブックステップを確認します。</Card>
+<Card to="/create/lorebook" icon="book" title="ロアブックを書く">エキスパートモードのロアブックタブと、キーワードを選ぶコツを確認します。</Card>
 </CardGrid>

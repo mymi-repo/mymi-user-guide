@@ -40,13 +40,13 @@ MYMI 是**和作品中的角色聊天、參與故事，也能創作自己作品�
 
 ## 想創作自己的作品
 
-**製作指南**會從頭到尾製作一個範例作品，帶你認識作品製作畫面。第一次製作的話，請先閱讀**開始之前**和**建立第一個作品**。
+**創作指南**會從頭到尾製作一個範例作品，帶你認識作品製作畫面。作品可以用只要填寫欄位的**簡易模式**，或是自己寫設定的**專家模式**來製作。第一次製作的話，請先閱讀**開始之前**。
 
 <CardGrid>
-<Card to="/create/before-you-start" icon="compass" title="開始之前">了解作品製作畫面的七個分頁與儲存方式。</Card>
-<Card to="/create/first-work" icon="pen" title="建立第一個作品">只用一張封面和文字，一路完成製作。</Card>
-<Card to="/create/images" icon="image" title="準備圖片">製作聊天中顯示的角色與背景圖片。</Card>
-<Card to="/create/prompt" icon="book" title="撰寫提示詞">了解如何撰寫 AI 讀取的設定。</Card>
+<Card to="/create/before-you-start" icon="compass" title="開始之前">了解簡易模式與專家模式的差異，以及如何選擇。</Card>
+<Card to="/create/simple/first-work" icon="pen" title="用簡易模式建立第一個作品">跟著填寫欄位，一路做到完成。</Card>
+<Card to="/create/first-work" icon="sliders" title="用專家模式建立第一個作品">跟著自己撰寫提示詞，一路做到完成製作。</Card>
+<Card to="/create/publish" icon="send" title="公開與修改">了解審查、內容管理與申請重新審查。</Card>
 </CardGrid>
 
 ## 遇到問題或有疑問嗎？

@@ -147,7 +147,7 @@ description: 크리에이터로 지원하는 조건과 방법, 리프를 받고 
 ## 다음에 할 일
 
 <CardGrid>
-<Card to="/create/first-work" icon="pen" title="첫 작품 만들기">예시 작품을 따라 처음부터 끝까지 만들어 봐요.</Card>
+<Card to="/create/before-you-start" icon="compass" title="시작하기 전에">간편 모드와 전문가 모드의 차이와 고르는 법을 알아봐요.</Card>
 <Card to="/create/publish" icon="send" title="공개하고 고치기">제작 완료 뒤 검토와 공개, 작품 관리를 알아봐요.</Card>
 <Card to="/payment/payment-methods" icon="card" title="스파크 충전하기">바꾼 스파크가 언제까지 쓸 수 있는지 알아봐요.</Card>
 </CardGrid>

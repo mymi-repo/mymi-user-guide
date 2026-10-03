@@ -1,17 +1,18 @@
 ---
-title: "Legacy creation flow (1.0): image output"
-description: The image guide has moved to the new creation guide.
+title: Image output
+description: The guide to images has moved to the creation guide.
 unlisted: true
 last_update:
-  date: 2026-09-29
+  date: 2026-10-04
 ---
 
-# Legacy creation flow (1.0): image output
+# Image output
 
-The image guide has moved to the new **creation guide**. The current flow and 1.0 use different image syntax.
+The guide to images has moved to the **creation guide**. The image syntax differs between Simple mode and Expert mode. For a Simple mode work, see the first two cards. For an Expert mode work, see the other two.
 
 <CardGrid>
-<Card to="/create/images" icon="image" title="Prepare images">Make images in the Assets tab and give them codes.</Card>
+<Card to="/create/simple/assets" icon="image" title="Assets and AI images">Write situation descriptions so the AI picks images that fit the scene.</Card>
+<Card to="/create/simple/reference" icon="list" title="Fields and limits">See Simple mode's img:[name] syntax.</Card>
+<Card to="/create/images" icon="image" title="Prepare images">Make images and attach codes in Expert mode's Assets tab.</Card>
 <Card to="/create/images-in-chat" icon="chat" title="Show images in chat">Use a code table so the AI picks images that fit the scene.</Card>
-<Card to="/create/legacy/reference" icon="list" title="1.0 fields and syntax">See the 1.0 img:[slug] syntax and how to move it over.</Card>
 </CardGrid>

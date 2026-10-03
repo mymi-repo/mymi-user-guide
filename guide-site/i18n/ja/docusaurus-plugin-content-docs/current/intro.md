@@ -40,13 +40,13 @@ MYMIは、**作品の登場人物と会話しながら物語に参加し、自�
 
 ## 自分の作品を作りたい
 
-**制作ガイド**では、作例をひとつ最初から最後まで作りながら、作品制作画面を案内します。初めての方は**始める前に**と**初めての作品を作る**から読んでみてください。
+**制作ガイド**では、作例をひとつ最初から最後まで作りながら、作品制作画面を案内します。作品は、項目を埋めるだけの**かんたんモード**か、設定を自分で書く**エキスパートモード**で作れます。初めての方は**始める前に**から読んでみてください。
 
 <CardGrid>
-<Card to="/create/before-you-start" icon="compass" title="始める前に">作品制作画面の7つのタブと、保存のしくみを確認します。</Card>
-<Card to="/create/first-work" icon="pen" title="初めての作品を作る">表紙1枚と文章だけで、制作完了まで進めます。</Card>
-<Card to="/create/images" icon="image" title="画像を用意する">会話に表示する人物や背景の画像を作ります。</Card>
-<Card to="/create/prompt" icon="book" title="プロンプトを書く">AIが読む設定の書き方を確認します。</Card>
+<Card to="/create/before-you-start" icon="compass" title="始める前に">かんたんモードとエキスパートモードの違いと、選び方を確認します。</Card>
+<Card to="/create/simple/first-work" icon="pen" title="かんたんモードで初めての作品を作る">項目を埋めて、完了まで一緒に進みます。</Card>
+<Card to="/create/first-work" icon="sliders" title="エキスパートモードで初めての作品を作る">プロンプトを自分で書いて、制作完了まで一緒に進みます。</Card>
+<Card to="/create/publish" icon="send" title="公開と編集">審査、作品管理、再審査リクエストを確認します。</Card>
 </CardGrid>
 
 ## 困ったとき・聞きたいことがあるとき

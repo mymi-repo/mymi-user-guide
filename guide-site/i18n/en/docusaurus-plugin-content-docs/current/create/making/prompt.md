@@ -11,6 +11,10 @@ last_update:
 
 What you write in the **Prompt** tab is the setting the AI reads as written every time it replies in a chat. The world, characters, hidden settings, progression rules, and when to use images and components all go here.
 
+:::info
+This is the Expert mode guide. In Simple mode there's no Prompt tab, and you fill in the fields of the Basic Info step. See [Write the settings and the intro](/create/simple/write).
+:::
+
 ## Two ways: Basic and Write it myself
 
 <ScreenStep src="/img/screens/en/prompt-presets-open.webp" alt="The Prompt preset list, with the two choices Write it myself and Basic" caption="Prompt preset">

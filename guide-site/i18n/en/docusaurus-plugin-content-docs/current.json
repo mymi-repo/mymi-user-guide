@@ -14,8 +14,11 @@
   "sidebar.createSidebar.category.작품 만들기": {
     "message": "Create a work"
   },
-  "sidebar.createSidebar.category.구버전 제작 방식(1.0)": {
-    "message": "Legacy creation flow (1.0)"
+  "sidebar.createSidebar.category.간편 모드": {
+    "message": "Simple mode"
+  },
+  "sidebar.createSidebar.category.전문가 모드": {
+    "message": "Expert mode"
   },
   "sidebar.createSidebar.category.크리에이터": {
     "message": "Creators"

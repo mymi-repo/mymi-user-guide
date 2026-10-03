@@ -15,6 +15,10 @@ last_update:
 作品制作での画像生成と再生成は無料です。生成するには、[電話番号認証](/account/adult-verification)を済ませたアカウントが必要です。画像をアップロードするだけなら、認証は要りません。
 :::
 
+:::info
+エキスパートモードの案内です。かんたんモードは、[アセットとAI画像](/create/simple/assets)をご覧ください。
+:::
+
 ## アセットタブの構成
 
 <ScreenStep src="/img/screens/ja/assets-overview.webp" alt="アセットタブ。フォルダの外の画像BG1と、キャラクターフォルダA内の画像1・2・3が表示されている" caption="アセットタブ">
