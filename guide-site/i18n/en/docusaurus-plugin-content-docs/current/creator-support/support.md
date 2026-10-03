@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-03
+  date: 2026-10-04
 description: How to apply as a creator, how to earn Leaves and convert them into Sparks, how to become an Official Creator, and how to follow and comment on creators you like.
 ---
 
@@ -41,6 +41,8 @@ The rate depends on the **Publishing scope** and **Image source** you chose unde
 For example, if another user spends 100 paid Sparks in your Original work, you earn 5 Leaves. Official Creators earn 7% in Original works.
 
 Original works are published only on MYMI. Once you set a work to Original, you can't undo it for 3 months.
+
+Works set to **Limited** under **Monetization limits** don't earn Leaves. This setting is for works whose rights aren't yours, such as derivative works that use another work's characters or setting. It applies even to Original works and to Official Creators. It takes effect from chats after you choose it, and Leaves you've already earned stay as they are.
 
 :::warning[Leaves expire after 30 days]
 Convert the Leaves you earn into Sparks within 30 days.
