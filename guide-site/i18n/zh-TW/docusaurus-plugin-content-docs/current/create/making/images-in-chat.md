@@ -23,7 +23,7 @@ last_update:
 
 ## 基本型：為每個代碼寫下含義
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/prompt-basic-codes.webp" device="part" alt="基本型的圖片輸出規則。角色代碼 A=姜民宇、B=李書妍，情境代碼 1=笑、2=悲傷、3=憤怒，其他代碼 BG1=檢疫所走廊，例外為沒有 B/3" caption="基本型 · 圖片輸出規則">
 
 如果是基本型，素材分頁的代碼會以表格顯示在**圖片輸出規則**裡。只要簡短寫下含義就可以。
 
@@ -83,7 +83,7 @@ BG1=檢疫所走廊
 
 ## 先鎖定，在對話中解鎖：需要解鎖
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-image-sheet.webp" alt="圖片設定視窗中的需要解鎖開關" caption="圖片設定視窗 · 需要解鎖">
 
 1. 在素材分頁點選要鎖定的圖片縮圖。
 2. 在設定視窗開啟**需要解鎖**。

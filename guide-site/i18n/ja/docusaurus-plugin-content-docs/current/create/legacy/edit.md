@@ -27,7 +27,7 @@ last_update:
 
 ### 1. 基本情報
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/legacy-editor.webp" alt="旧方式の制作画面の基本情報ステップ。作品名、一行紹介、文字数の合計、世界観の欄" caption="1.0 · 基本情報">
 
 | 項目 | 書き方 |
 | --- | --- |

@@ -23,14 +23,14 @@ You can chat with your own work right away, even during review. How long review 
 
 The complete screen shows different guidance depending on the state of the work.
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/complete-private.webp" alt="The complete screen of a private work, with the Private label and guidance on how to make it public" caption="A work made private">
 
 - A new work set to **Public**: It's shown as **Under Review**, and becomes public to other users when the review is done. (The complete screen in [Create your first work](/create/first-work#5-publish))
 - A work set to **Private**: Only you can see it. To make it public, change the visibility in Content Management. Review starts from then.
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/complete-approved.webp" alt="The complete screen after editing an already public work, with the Approved label and a note that the changes are live" caption="After editing an already public work">
 
 - If you edit a work that is already **Approved**: your changes show to other users right away. It doesn't go through review again every time you edit.
 - However, if you change **Content rating** from Adults only to All ages, it goes through review again.
@@ -39,7 +39,7 @@ The complete screen shows different guidance depending on the state of the work.
 
 ## Content Management
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/manage-list.webp" alt="The Content Management screen. Four works appear as cards, with numbers on the Edit button, the ⋮ menu, and the Under Review label" caption="Profile → Content Management">
 
 The works you made are gathered in **Profile → Content Management**.
 
@@ -55,7 +55,7 @@ Use the search field and **Filter** (sort, visibility, approval status) at the t
 
 ## Edit a published work
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/released-header.webp" alt="The creation screen of a published work. The header has Apply changes instead of Save draft, and the Assets tab notes that folder names can't be changed" caption="The creation screen of a published work">
 
 1. Select **Edit** in **Content Management**.
 2. Make your changes.
@@ -89,7 +89,7 @@ If a review rejects your work, its card shows **Rejected**.
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/manage-appeal.webp" alt="The Rejection Reason window, with a field for a message to the review team below the reason and a Submit button" caption="Rejection reason and re-review request (web)">
 
 4. Fix the work to match the reason, then select **Apply changes**. The steps are the same as in [Edit a published work](#edit-a-published-work).
 5. Select **⋮ → Request Re-review** again.
@@ -117,7 +117,7 @@ The **↺** (Reset creation content) in the creation screen only clears the scre
 
 ## Recommended personas
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/settings-persona.webp" device="part" alt="Recommended personas in Settings, with the name Han Ji-woo, the gender, the birth date, and the details filled in" caption="Settings → Recommended personas">
 
 **Recommended personas** let you prepare personas that users can pick when they start a chat. Use them to suggest a protagonist that suits the world of your work. You don't have to make any.
 

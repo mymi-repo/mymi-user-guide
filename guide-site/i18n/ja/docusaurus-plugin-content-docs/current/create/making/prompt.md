@@ -13,7 +13,7 @@ last_update:
 
 ## 2つの方式: 基本型と自分で書く
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/prompt-presets-open.webp" alt="プロンプトプリセットの一覧。自分で書くと基本型の2つがある" caption="プロンプトプリセット">
 
 タブの一番上にある**プロンプトプリセット**を押して、方式を選びます。最初は**自分で書く**が選ばれています。
 
@@ -37,7 +37,7 @@ last_update:
 
 ### 作品情報
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/first-prompt.webp" alt="基本型の作品情報の欄に世界観と登場人物を書いた画面" caption="基本型 · 作品情報">
 
 **作品情報**には、世界観 → 登場人物 → 隠し設定 → 進行ルールを、`####`の小見出しで分けて書きます。項目は`- **項目**: 値`の形で書き、人物は名前の行の下に項目をぶら下げます。
 
@@ -49,7 +49,7 @@ last_update:
 
 ### 画像出力ルールと例外
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/prompt-basic-codes.webp" device="part" alt="画像出力ルールのキャラクターコード・状況コード・その他コードの欄と、例外、コンポーネント出力ルール" caption="画像出力ルール · 例外 · コンポーネント出力ルール">
 
 アセットタブに画像を入れてコードを決めると、コード表ができます。コードごとに**意味**を短く書きます。
 
@@ -72,7 +72,7 @@ last_update:
 
 ## 自分で書く方式で書く
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/prompt-custom.webp" device="part" alt="自分で書く方式のプロンプト欄と案内文" caption="自分で書く · プロンプト">
 
 **プロンプト**の1つの欄に、すべてを書きます。次の3つを忘れないでください。
 

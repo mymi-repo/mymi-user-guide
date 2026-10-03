@@ -15,7 +15,7 @@ last_update:
 
 封面可以放 1～10 張。有多張時，會依設定的間隔切換到下一張。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/profile-cover.webp" device="part" alt="放入兩張封面，並把切換間隔設為 2 秒的畫面" caption="兩張封面與切換間隔">
 
 - **上傳圖片**：上傳你已有的圖片。可使用 JPG、PNG、WEBP、GIF、HEIC 檔案，最大 5MB。
 - **從素材選取**：把在**素材**分頁做好的圖片當作封面。
@@ -25,7 +25,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/profile-cover-picker.webp" alt="從素材選取視窗。素材分頁的圖片以格狀顯示" caption="從素材選取">
 
 點選**從素材選取**，會顯示素材分頁中所有已完成的圖片。選好要當封面的圖片，點選**將 N 張加入封面**。
 
@@ -41,7 +41,7 @@ last_update:
 
 **詳細說明**是作品介紹畫面的本文。最多 50,000 字，可以混用一般文字、Markdown、HTML。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/profile-description.webp" device="part" alt="詳細說明欄，以及其下方的用 Gem 製作區塊" caption="詳細說明與用 Gem 製作">
 
 1. **預覽**：確認使用者看到的樣子。
 2. **複製素材資訊**：複製素材分頁圖片的實際網址。貼到 Gem 裡，就能做出使用那些圖片的介紹。
@@ -49,7 +49,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/profile-description-preview.webp" alt="詳細說明預覽視窗，標題、登場人物、遊玩方式依格式顯示" caption="詳細說明預覽">
 
 在預覽中，Markdown 的標題、清單、粗體會依格式顯示。
 
@@ -88,7 +88,7 @@ Gem 是 MYMI 之外的 Google 服務。使用時可能需要 Google 帳號，結
 
 ## 創作者指南
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/profile-guide.webp" device="part" alt="創作者指南欄寫下使用提示的畫面" caption="創作者指南">
 
 **創作者指南**要寫作品的玩法或新增的內容。它會另外顯示在作品介紹畫面。一則內容最多可寫 5,000 字。
 
@@ -100,7 +100,7 @@ Gem 是 MYMI 之外的 Google 服務。使用時可能需要 Google 帳號，結
 
 ## 推薦模型
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/profile-models.webp" device="part" alt="推薦模型 0/5 與選擇按鈕" caption="推薦模型">
 
 可以先選好最多 5 個適合這部作品的聊天模型。它們在作品介紹畫面和聊天的模型清單中會標示為**推薦**，使用者仍然可以選擇其他模型。
 

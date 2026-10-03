@@ -13,7 +13,7 @@ last_update:
 
 ## 辨認你的作品是不是 1.0
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/legacy-editor.webp" alt="舊版製作畫面。分頁列有基本資訊、素材、介紹、設定、Lorebook、Components，右下角有下一步按鈕" caption="修改 1.0 作品時開啟的畫面">
 
 請在**個人檔案 → 內容管理**點選作品的**編輯**看看。
 

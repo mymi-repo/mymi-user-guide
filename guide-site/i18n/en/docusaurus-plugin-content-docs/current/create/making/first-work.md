@@ -28,7 +28,7 @@ You can complete a work without images or components. This page follows the exam
 
 Select **Create** in the bottom menu, and the **Basic info** tab opens first.
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/first-basic-top.webp" alt="The Basic info tab with a title and a short description filled in and one cover image added" caption="Top of the Basic info tab">
 
 1. Write the **Title**. Up to 30 characters.
 2. Write the **One-line description**. It appears on the work card together with the title. Up to 40 characters.
@@ -38,7 +38,7 @@ Select **Create** in the bottom menu, and the **Basic info** tab opens first.
 
 > Example — Title: `Underground Seoul` · One-line description: `You wake with no memory below Seoul.`
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/first-basic-description.webp" device="part" alt="The Description field with the work's introduction written in Markdown" caption="Description">
 
 In the **Description**, write what appears on the work page. The story, the characters, and how to enjoy the work are enough. You can use plain text, Markdown, and HTML, up to 50,000 characters.
 
@@ -63,7 +63,7 @@ You open your eyes on a bed in the quarantine station, your memory completely go
 - If you want your memory back, ask Seo-yeon for clues.
 ```
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/first-basic-genres.webp" device="part" alt="Genres set to Sci-fi and Mystery & thriller, with three hashtags added" caption="Genres and hashtags">
 
 Choose 1–2 **Genres**. The example uses **Sci-fi** and **Mystery & thriller**.
 
@@ -77,7 +77,7 @@ You can leave **Creator guide** and **Recommended models** empty. How to fill th
 
 What you write in the **Prompt** tab is the setting the AI reads every time it replies. At first, the **Basic** preset, where you only fill in fields, is the easiest.
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/first-prompt.webp" alt="The Basic preset chosen in Prompt preset, with the world and characters written in the Work info field" caption="Prompt tab · Basic">
 
 1. Select **Prompt preset** and choose **Basic**. **Write it myself** is selected at first.
 2. In the **Work info** field, write the world, characters, hidden settings, and progression rules. Follow the same shape as the gray example that shows while the field is empty.
@@ -115,7 +115,7 @@ Here is the example work info. Split topics with `####`, and write each item as 
 - When {{user}} tries to recover their memories, Seo-yeon gives one clue at a time.
 ```
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/first-prompt-composed.webp" device="part" alt="The assembled prompt field, where the Work info has been merged into the text" caption="The assembled prompt at the bottom of the tab">
 
 The **Assembled prompt** at the very bottom of the tab shows how the fields are combined and sent to the AI. It changes as you edit the fields.
 
@@ -131,7 +131,7 @@ Write each character's role, personality, speech, and relationship on separate l
 
 The opening is the first message the AI sends when a chat starts.
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/first-greeting.webp" alt="The Openings tab with a title and a first message written" caption="Openings tab">
 
 1. Write the **Opening title**. It's the name users see when they choose a starting scene.
 2. Write the first message in the field below. Up to 2,000 characters. Put actions and narration between `*asterisks*` and dialogue inside `"double quotes"`, and they look just like in a chat.
@@ -148,7 +148,7 @@ The opening is the first message the AI sends when a chat starts.
 "Welcome to Seoul. Well, under Seoul~ So, {{user}}. Besides your name, do you remember anything?"
 ```
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/first-greeting-preview.webp" device="part" alt="The opening preview. Narration shows in italics and dialogue in the accent color" caption="Opening preview">
 
 Check how it will look in a chat in the **Preview** below the field.
 
@@ -160,7 +160,7 @@ Check how it will look in a chat in the **Preview** below the field.
 
 In the **Settings** tab, choose every item marked with a red `*`. **Visibility** (Public) and **Content rating** (All ages) are already chosen.
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/first-settings-1.webp" alt="The top of the Settings tab, showing Visibility, Publishing scope, and Monetization limits" caption="Top of the Settings tab">
 
 - **Visibility**: **Public** means everyone can see it. **Private** means only you can.
 - **Publishing scope**: **Original** is for works published only on MYMI. If you'll post it on other platforms too, choose **General**. When you choose Original, you'll see "Once set to Original, it can't be undone for 3 months."
@@ -168,7 +168,7 @@ In the **Settings** tab, choose every item marked with a red `*`. **Visibility**
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/first-settings-2.webp" alt="The bottom of the Settings tab, showing Image source, Audience, Content rating, and Marketing consent" caption="Bottom of the Settings tab">
 
 - **Image source**: Choose **Made with MYMI** if you made the images in MYMI, or **Made elsewhere** if you used another AI or drew them yourself.
 - **Audience**: Choose who the work is mainly for, **For men** or **For women**.
@@ -183,7 +183,7 @@ In the **Settings** tab, choose every item marked with a red `*`. **Visibility**
 
 Select **Publish** in the top bar. If anything is missing, you're taken to that tab and a notice appears at the top.
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/create-publish-check.webp" alt="The notice ‘Enter a title.’ at the top of the screen, shown because the title is empty" caption="When something is missing">
 
 Notices appear one at a time. Fill in what the notice says, then select **Publish** again.
 
@@ -191,7 +191,7 @@ The order it checks is Basic info → Assets → Components → Prompt → Openi
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/first-complete.webp" alt="The Work complete screen. Under the work card are the Under Review label and the View work and Manage works buttons" caption="Work complete screen">
 
 If everything is filled in, the **Work complete** screen opens.
 

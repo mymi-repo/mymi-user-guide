@@ -13,7 +13,7 @@ The opening is the first message the AI sends when a chat starts. It's the first
 
 ## Make an opening
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/first-greeting.webp" alt="The Openings tab, with the opening list, the title field, and the first message field" caption="Openings tab">
 
 1. Write the **Opening title**. It's the name users see when they choose a starting scene. You can use up to 100 characters.
 2. Write the first message in the field below. Up to 2,000 characters.
@@ -39,7 +39,7 @@ In a work with several characters, `{{char}}` puts in the work's title, not a ch
 
 If the Assets tab has images, you can put them in the opening. In a chat, the image appears where you put it.
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/greeting-insert-image.webp" alt="The Insert asset image window, showing the asset images in a grid with their codes" caption="Insert an asset image">
 
 1. In the first message field, select the spot where you want the image to go to place the cursor.
 2. Select **Insert asset image**.
@@ -49,7 +49,7 @@ An image appears in the list once you upload it in the Assets tab and set its co
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/greeting-preview-images.webp" device="part" alt="The opening preview. The corridor background and the Kang Min-woo image appear between the narration and dialogue" caption="Opening preview with images">
 
 Check where the images appear in the **Preview**. If no image matches a code, a notice saying "the Assets tab has no image for this code" appears in its place.
 

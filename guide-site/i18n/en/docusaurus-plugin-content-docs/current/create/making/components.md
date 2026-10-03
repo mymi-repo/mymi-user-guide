@@ -13,7 +13,7 @@ A component is **UI the AI shows during a chat**. Build things you want to show,
 
 ## Add a component
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/components-top.webp" alt="The Components tab, showing the StatusWindow component preview, Add component, and Build with a Gem" caption="Components tab">
 
 1. Select **Add component**.
 2. Paste the code into the **JSX code** field. Select **Paste** to put in the code on your clipboard.
@@ -23,7 +23,7 @@ The component name and props are read from the code automatically.
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/components-editor.webp" device="part" alt="The StatusWindow component opened, showing the preview, JSX code, default prop values hp and mp, and the call tag with a Copy button" caption="Edit a component">
 
 - **JSX code**: Code in the form `function Name({ prop = default })`. Code fences and import statements are cleaned up automatically. You can write up to 20,000 characters.
 - **Default prop values**: Shows the props read from the code and their defaults. The defaults become examples of what the AI fills in, and the preview uses them too.

@@ -15,7 +15,7 @@ What users see before choosing a work is the content of the **Basic info** tab. 
 
 You can add 1–10 covers. With several, the cover switches to the next one at the interval you set.
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/profile-cover.webp" device="part" alt="Two cover images added and the switch interval set to 2 seconds" caption="Two covers and the switch interval">
 
 - **Upload image**: Upload an image you already have. JPG, PNG, WEBP, GIF, and HEIC files up to 5MB work.
 - **Pick from assets**: Use an image you made in the **Assets** tab as a cover.
@@ -25,7 +25,7 @@ Select the **×** on a thumbnail to remove that cover.
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/profile-cover-picker.webp" alt="The Pick from assets window, with the images from the Assets tab shown in a grid" caption="Pick from assets">
 
 Select **Pick from assets** to see every finished image from the Assets tab. Choose the images you want as covers and select **Add N to covers**.
 
@@ -41,7 +41,7 @@ The cover is the first image people see in the work list. Put a vertical image t
 
 The **Description** is the body of the work page. It can be up to 50,000 characters, and you can mix plain text, Markdown, and HTML.
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/profile-description.webp" device="part" alt="The Description field with the Build with a Gem box below it" caption="Description and Build with a Gem">
 
 1. **Preview**: Check how users will see it.
 2. **Copy asset info**: Copies the real addresses of the images in the Assets tab. Paste it into the Gem to build an intro that uses those images.
@@ -49,7 +49,7 @@ The **Description** is the body of the work page. It can be up to 50,000 charact
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/profile-description-preview.webp" alt="The description preview window, with the title, characters, and how to enjoy it shown in their formatting" caption="Description preview">
 
 In the preview, Markdown headings, lists, and bold text appear formatted.
 
@@ -88,7 +88,7 @@ HTML built from asset info contains the real addresses of your images. If you de
 
 ## Creator guide
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/profile-guide.webp" device="part" alt="The Creator guide field with usage tips written in it" caption="Creator guide">
 
 In the **Creator guide**, write how to enjoy the work or what you've added. It appears separately on the work page. One note can be up to 5,000 characters.
 
@@ -100,7 +100,7 @@ If you edit the current note, that note changes. Select **Write new** and the cu
 
 ## Recommended models
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/profile-models.webp" device="part" alt="Recommended models 0/5 and the Choose button" caption="Recommended models">
 
 You can choose up to 5 chat models that suit the work. They're marked **Recommended** on the work page and in the chat model list, and users can still choose other models.
 

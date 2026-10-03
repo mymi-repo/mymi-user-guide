@@ -13,7 +13,7 @@ What you write in the **Prompt** tab is the setting the AI reads as written ever
 
 ## Two ways: Basic and Write it myself
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/prompt-presets-open.webp" alt="The Prompt preset list, with the two choices Write it myself and Basic" caption="Prompt preset">
 
 Select **Prompt preset** at the top of the tab to choose a way. **Write it myself** is selected at first.
 
@@ -37,7 +37,7 @@ After you switch, what you wrote is still on the screen. But only the **text of 
 
 ### Work info
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/first-prompt.webp" alt="The Work info field of the Basic preset, with the world and characters written in it" caption="Basic · Work info">
 
 In **Work info**, write the worldview → characters → hidden settings → progression rules under `####` subheadings. Write each item as `- **Item**: value`, and put a character's items under their name line.
 
@@ -49,7 +49,7 @@ The example work's work info is in [Create your first work](/create/first-work#2
 
 ### Image output rules and exceptions
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/prompt-basic-codes.webp" device="part" alt="The character code, situation code, and other code fields of the image output rules, with the exception and the component output rule" caption="Image output rules · Exception · Component output rules">
 
 Once you add images in the Assets tab and set their codes, a code table appears. Write a short **meaning** for each code.
 
@@ -72,7 +72,7 @@ Check the combined result of the fields in the **Assembled prompt** at the botto
 
 ## Write with Write it myself
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/prompt-custom.webp" device="part" alt="The prompt field and guidance text of the Write it myself way" caption="Write it myself · Prompt">
 
 You write everything in the single **Prompt** field. Don't leave out these three:
 

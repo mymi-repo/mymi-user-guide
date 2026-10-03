@@ -13,7 +13,7 @@ last_update:
 
 ## コンポーネントを追加する
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/components-top.webp" alt="コンポーネントタブ。StatusWindowコンポーネントのプレビューと、コンポーネントを追加、Gemで作るが表示されている" caption="コンポーネントタブ">
 
 1. **コンポーネントを追加**を押します。
 2. **JSXコード**欄にコードを貼り付けます。**貼り付け**を押すと、クリップボードのコードが入ります。
@@ -23,7 +23,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/components-editor.webp" device="part" alt="StatusWindowコンポーネントを開いた画面。プレビュー、JSXコード、変数のデフォルト値hp・mp、呼び出しタグとコピーボタン" caption="コンポーネントの編集">
 
 - **JSXコード**: `function 名前({ 変数 = デフォルト値 })`の形のコードです。コードフェンスとimport文は自動で整理されます。20,000文字まで書けます。
 - **変数のデフォルト値**: コードから読み取った変数とデフォルト値が表示されます。デフォルト値はAIが埋める値の例になり、プレビューにも使われます。

@@ -17,7 +17,7 @@ Generating and regenerating images in the creation screen is free. To generate, 
 
 ## How the Assets tab works
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-overview.webp" alt="The Assets tab, with the image BG1 outside any folder and images 1, 2, and 3 inside character folder A" caption="Assets tab">
 
 - **One folder is one character.** The folder name (for example `A`) becomes the **character code**.
 - The code of an image inside a folder (for example `1`) is the **situation code**. This image's path is `A/1`.
@@ -28,7 +28,7 @@ Generating and regenerating images in the creation screen is free. To generate, 
 
 Codes can only use letters and numbers, and they can't repeat within the same folder. You can only make folders one level deep.
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-help.webp" device="part" alt="The How do assets work? help, expanded" caption="How do assets work?">
 
 Select <strong>How do assets work?</strong> at the top of the tab to open help on codes and paths, character folders and base looks, generating and waiting, shared situation codes, and locking and unlocking.
 
@@ -63,21 +63,21 @@ Here is how the example work was prepared.
 
 When you make several images of the same character, make the **base look** first. The base look is the folder's face. Images you generate in that folder inherit the base look's art style and impression.
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-folder-empty.webp" alt="Character folder A just created, with a Create character button next to the folder name" caption="A new character folder">
 
 1. Select **Add character folder** and write a character code (for example `A`).
 2. Select **✦ Create character** next to the folder name.
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-gen-kind.webp" alt="Step 1 of Create base look, with Character chosen for the image kind and Male for the gender" caption="Step 1 · Kind and gender">
 
 3. Under <strong>What kind of image?</strong>, choose **Character**. A place with no people is **Background**.
 4. For a character, choose **Female** or **Male**, then select **Next**.
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-gen-style.webp" alt="The art style step, with the first of the Recommended Styles chosen" caption="Step 2 · Art style">
 
 5. Choose the **Art Style**.
    - **Recommended Styles**: Styles MYMI prepared. If this is your first time, choose here.
@@ -86,7 +86,7 @@ When you make several images of the same character, make the **base look** first
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-gen-tags.webp" alt="The hair step, with short hair (black) and messy hair chosen. The chosen tags gather at the top" caption="From step 3 · Choose tags">
 
 6. Choose tags in this order: **Background** → **Body - Hair** → **Body - Eyes** → **Body - Facial Features** → **Body - Skin** → **Body - Body Shape** → **Outfit** → **Props** → **Misc**. The tags you choose gather at the top. Skip steps you don't need with **Next**.
    - For hair, eye, and outfit tags that don't have a color yet (for example short hair), a window for choosing a color opens when you select them. Select a color, or select **Color already included** if you don't want to add one.
@@ -94,24 +94,20 @@ When you make several images of the same character, make the **base look** first
 
 </ScreenStep>
 
-:::info[Some tag names may appear in Korean]
-Tags found through search may be shown with Korean names. You choose them the same way, and the tag is turned into an English prompt.
-:::
-
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-gen-confirm.webp" alt="The Confirm & Generate step, showing the assigned character, art style, chosen tags, the char_prompt field, and the Generate base look button" caption="Last step · Confirm & Generate">
 
 7. Review the chosen tags in **Confirm & Generate**. The tags are turned into an English prompt and placed in the **char_prompt - final edit** field. You can edit this field yourself.
 8. Select **Generate base look**. When it finishes, the base look appears next to the folder name.
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-gen-expert.webp" alt="Expert Mode expanded, showing negative_prompt, guidance, steps, sampler, noise_schedule, and the image size" caption="Expert Mode">
 
 Expand **Expert Mode** to change what to leave out (`negative_prompt`), the generation settings (guidance, steps, sampler, noise_schedule), and the image size. If you're not sure, leave them as they are.
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-base-sheet.webp" alt="The A base look window, with the base look image and tags and the Edit prompt, Add as image, and Regenerate buttons" caption="Base look window">
 
 Select a folder's base look to open this window.
 
@@ -127,7 +123,7 @@ Min-woo was made with the male recommended style and tags like brown messy short
 
 ## Make more images in a folder
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-mode.webp" alt="The Generate image window for character folder A, offering Inherit the base look (recommended) and Start from scratch" caption="✦ Generate in a folder">
 
 Select **✦ Generate** in a folder to choose how to make the image.
 
@@ -144,7 +140,7 @@ On the last step, select **Generate now** to make it right away, or **Add to wai
 
 For situations every character needs, like "laughing" and "sad", prepare them all at once with **shared situation codes**.
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-situations.webp" alt="The Shared situation codes window, showing 1 smile · upper body, 2 sad · upper body, and 3 angry · upper body, each with an Apply button" caption="✦ Situation codes">
 
 1. Select **✦ Situation codes** at the top right of the tab.
 2. Use **Add situation code** to set a code (for example `1`) and tags such as the expression and pose.
@@ -152,7 +148,7 @@ For situations every character needs, like "laughing" and "sad", prepare them al
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-situation-apply.webp" alt="The window for applying situation code 3. Folder A already has 3 and is dimmed, and folder B is chosen" caption="Apply a situation code">
 
 4. Choose the character folders to apply it to. You can't choose a folder that already has the same code.
 5. Select **Apply to N characters**, and each folder gets a **blank** such as `A/3` and `B/3`.
@@ -163,7 +159,7 @@ Fill a blank by uploading an image or generating one. When you generate, the sit
 
 ## Generate in one go: the waiting list
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-queue.webp" alt="The Generate images window, with the waiting A/4 checked and the Generate 1 selected button" caption="Waiting list">
 
 If you have images in the waiting list or blanks, the tab shows **View N waiting** (and **N blank** together when there are blanks).
 
@@ -175,7 +171,7 @@ If you have images in the waiting list or blanks, the tab shows **View N waiting
 
 ## Manage one image
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-image-sheet.webp" alt="The image settings window, showing the preview, Edit prompt and Regenerate, location, Markdown, the Unlock required switch, and Save and Delete image" caption="Image settings window">
 
 Select an image thumbnail to open its settings window.
 

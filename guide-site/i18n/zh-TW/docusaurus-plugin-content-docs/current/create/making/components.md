@@ -13,7 +13,7 @@ last_update:
 
 ## 新增元件
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/components-top.webp" alt="元件分頁。可以看到 StatusWindow 元件的預覽、新增元件與用 Gem 製作" caption="元件分頁">
 
 1. 點選**新增元件**。
 2. 把程式碼貼到 **JSX 程式碼**欄。點選**貼上**，就會放入剪貼簿中的程式碼。
@@ -23,7 +23,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/components-editor.webp" device="part" alt="展開 StatusWindow 元件的畫面。預覽、JSX 程式碼、變數預設值 hp・mp、呼叫標籤與複製按鈕" caption="編輯元件">
 
 - **JSX 程式碼**：`function 名稱({ 變數 = 預設值 })` 形式的程式碼。程式碼圍欄和 import 語句會自動整理。最多可寫 20,000 字。
 - **變數預設值**：顯示從程式碼讀到的變數與預設值。預設值會成為 AI 填入值的範例，預覽也會用到。

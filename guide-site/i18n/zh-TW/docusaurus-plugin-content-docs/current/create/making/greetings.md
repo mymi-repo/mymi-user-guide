@@ -13,7 +13,7 @@ last_update:
 
 ## 建立開場
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/first-greeting.webp" alt="開場分頁。有開場清單、標題欄與第一則訊息欄" caption="開場分頁">
 
 1. 寫下**開場標題**。這是使用者選擇開始場景時看到的名稱。最多可寫 100 字。
 2. 在下方欄位寫下第一則訊息。最多 2,000 字。
@@ -39,7 +39,7 @@ last_update:
 
 素材分頁有圖片的話，就可以插入開場。在聊天中，插入的位置會顯示圖片。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/greeting-insert-image.webp" alt="插入素材圖片視窗。素材圖片與代碼一起以格狀顯示" caption="插入素材圖片">
 
 1. 在第一則訊息欄，點選想插入圖片的位置，放置游標。
 2. 點選**插入素材圖片**。
@@ -49,7 +49,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/greeting-preview-images.webp" device="part" alt="開場預覽。走廊背景與姜民宇的圖片顯示在敘述和對白之間" caption="放入圖片的開場預覽">
 
 在**預覽**確認圖片會顯示在哪裡。如果沒有符合代碼的圖片，該處會出現「素材分頁沒有這個代碼的圖片」的提示。
 

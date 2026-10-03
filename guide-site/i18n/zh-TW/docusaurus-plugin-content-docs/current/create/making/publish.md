@@ -23,14 +23,14 @@ last_update:
 
 完成畫面會依作品的狀態顯示不同的說明。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/complete-private.webp" alt="不公開作品的完成畫面。有不公開標示與公開方法的說明" caption="設為不公開的作品">
 
 - 設為**公開**的新作品：會顯示為**審查中**，審查完成後向其他使用者公開。（[建立第一個作品](/create/first-work#5-完成製作)的完成畫面）
 - 設為**不公開**的作品：只有你自己看得到。要公開的話，請在內容管理變更公開設定，審查會從那時開始。
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/complete-approved.webp" alt="修改已公開作品後的完成畫面。有已通過標示與修改內容已套用的說明" caption="修改已公開的作品時">
 
 - 如果修改的是**已通過**的作品：修改的內容會立刻顯示給其他使用者。不會每次修改都重新接受審查。
 - 不過，如果把**內容分級**從成人限定改成全年齡，就會重新接受審查。
@@ -39,7 +39,7 @@ last_update:
 
 ## 內容管理
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/manage-list.webp" alt="內容管理畫面。四個作品以卡片顯示，編輯按鈕、⋮ 選單、審查中標示上標有編號" caption="個人檔案 → 內容管理">
 
 你做的作品都集中在**個人檔案 → 內容管理**。
 
@@ -55,7 +55,7 @@ last_update:
 
 ## 修改已公開的作品
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/released-header.webp" alt="開啟已完成製作作品的製作畫面。標頭有套用變更而不是儲存草稿，素材分頁顯示無法變更資料夾名稱的說明" caption="已完成製作作品的製作畫面">
 
 1. 在**內容管理**點選**編輯**。
 2. 修改想改的地方。
@@ -89,7 +89,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/manage-appeal.webp" alt="退回原因視窗。退回原因下方有要傳給審查團隊的訊息欄與提交按鈕" caption="退回原因與重新審查申請（網頁）">
 
 4. 依照原因修改作品，並點選**套用變更**。修改的方法和[修改已公開的作品](#修改已公開的作品)相同。
 5. 再次點選 **⋮ → 申請重新審查**。
@@ -117,7 +117,7 @@ last_update:
 
 ## 推薦人設
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/settings-persona.webp" device="part" alt="其他設定中的推薦人設。已填入名稱韓智宇、性別、生日與詳細資訊" caption="其他設定 → 推薦人設">
 
 **推薦人設**是事先建立使用者開始對話時可以選擇的人設的功能。想提議適合作品世界的主角時使用。不建立也沒關係。
 

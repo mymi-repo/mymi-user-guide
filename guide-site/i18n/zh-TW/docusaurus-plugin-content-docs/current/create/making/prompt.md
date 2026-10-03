@@ -13,7 +13,7 @@ last_update:
 
 ## 兩種方式：基本型與自行撰寫
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/prompt-presets-open.webp" alt="提示詞預設清單。有自行撰寫與基本型兩種" caption="提示詞預設">
 
 點選分頁最上方的**提示詞預設**來選擇方式。一開始選的是**自行撰寫**。
 
@@ -37,7 +37,7 @@ last_update:
 
 ### 作品資訊
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/first-prompt.webp" alt="基本型的作品資訊欄寫下世界觀與登場人物的畫面" caption="基本型 · 作品資訊">
 
 在**作品資訊**中，用 `####` 小標題分成世界觀 → 登場人物 → 隱藏設定 → 進行規則來寫。項目寫成 `- **項目**: 值`，人物的項目寫在名字那一行的下方。
 
@@ -49,7 +49,7 @@ last_update:
 
 ### 圖片輸出規則與例外
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/prompt-basic-codes.webp" device="part" alt="圖片輸出規則的角色代碼・情境代碼・其他代碼欄位，以及例外與元件輸出規則" caption="圖片輸出規則 · 例外 · 元件輸出規則">
 
 在素材分頁放入圖片並設定代碼後，就會出現代碼表。為每個代碼簡短寫下**含義**。
 
@@ -72,7 +72,7 @@ last_update:
 
 ## 用自行撰寫的方式撰寫
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/prompt-custom.webp" device="part" alt="自行撰寫方式的提示詞欄與說明文字" caption="自行撰寫 · 提示詞">
 
 所有內容都寫在**提示詞**這一個欄位裡。請不要漏掉這三件事。
 

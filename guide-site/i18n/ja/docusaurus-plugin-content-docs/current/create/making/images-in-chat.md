@@ -23,7 +23,7 @@ last_update:
 
 ## 基本型: コードごとに意味を書く
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/prompt-basic-codes.webp" device="part" alt="基本型の画像出力ルール。キャラクターコードA=カン・ミヌ、B=イ・ソヨン、状況コード1=笑い・2=悲しみ・3=怒り、その他コードBG1=検疫所の廊下、例外としてB/3なし" caption="基本型 · 画像出力ルール">
 
 基本型なら、アセットタブのコードが**画像出力ルール**に表として表示されます。意味を短く書くだけで大丈夫です。
 
@@ -83,7 +83,7 @@ BG1=検疫所の廊下
 
 ## ロックしておいて会話で解放する: 解放が必要
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-image-sheet.webp" alt="画像設定の窓にある解放が必要スイッチ" caption="画像設定の窓 · 解放が必要">
 
 1. アセットタブで、ロックする画像のサムネイルを押します。
 2. 設定ウィンドウで**解放が必要**をオンにします。

@@ -17,7 +17,7 @@ last_update:
 
 ## 素材分頁的樣子
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-overview.webp" alt="素材分頁。資料夾外的圖片 BG1，以及角色資料夾 A 內的圖片 1・2・3" caption="素材分頁">
 
 - **一個資料夾就是一個角色**。資料夾名稱（例：`A`）就是**角色代碼**。
 - 資料夾裡圖片的代碼（例：`1`）是**情境代碼**。這張圖片的路徑是 `A/1`。
@@ -28,7 +28,7 @@ last_update:
 
 代碼只能使用英文與數字，同一個資料夾內不能重複。資料夾只能建立一層。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-help.webp" device="part" alt="展開素材是如何運作的？說明的畫面" caption="素材是如何運作的？">
 
 點選分頁上方的<strong>素材是如何運作的？</strong>，可以展開閱讀代碼與路徑、角色資料夾與基本形象、生成與等待、共用情境代碼、鎖定與解鎖的說明。
 
@@ -63,21 +63,21 @@ last_update:
 
 要為同一個人物製作多張圖片時，先建立**基本形象**。基本形象是資料夾的臉。在該資料夾生成的圖片，會繼承基本形象的畫風與印象。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-folder-empty.webp" alt="剛建立角色資料夾 A 的畫面。資料夾名稱旁有生成角色按鈕" caption="新的角色資料夾">
 
 1. 點選**新增角色資料夾**，寫下角色代碼（例：`A`）。
 2. 點選資料夾名稱旁的 **✦ 生成角色**。
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-gen-kind.webp" alt="建立基本形象的第 1 步。圖片種類選了角色，性別選了男性" caption="第 1 步 · 種類與性別">
 
 3. 在<strong>是什麼樣的圖片？</strong>選擇**角色**。沒有人物的地點是**背景**。
 4. 如果是角色，從**女性**、**男性**選擇性別後，點選**下一步**。
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-gen-style.webp" alt="選擇畫風的步驟。在推薦風格清單中選了第一個" caption="第 2 步 · 畫風">
 
 5. 選擇**畫風**。
    - **推薦風格**：MYMI 準備好的畫風。第一次的話，從這裡選。
@@ -86,7 +86,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-gen-tags.webp" alt="在頭髮步驟選了短髮（黑色）與亂髮的畫面（標籤以韓文顯示）。上方聚集了所選的標籤" caption="第 3 步起 · 選擇標籤">
 
 6. 依照**背景** → **身體 - 髮型** → **身體 - 眼睛** → **身體 - 臉部特徵** → **身體 - 膚色** → **身體 - 體型** → **服裝** → **道具** → **其他**的順序選擇標籤。選好的標籤會聚集顯示在上方。不需要的步驟用**下一步**跳過。
    - 髮型、眼睛、服裝的標籤中，還沒決定顏色的（例：短髮），點選後會開啟選擇顏色的視窗。點選顏色，不想指定顏色的話，就點選**已包含此顏色**。
@@ -94,24 +94,24 @@ last_update:
 
 </ScreenStep>
 
-:::info[標籤名稱可能顯示為韓文]
-目前標籤名稱可能以韓文顯示（搜尋到的標籤也一樣）。選擇方式不變，標籤會轉換成英文提示詞。
+:::info[標籤名稱可能顯示為韓文或英文]
+推薦標籤目前可能以韓文顯示，搜尋到的標籤若沒有繁體中文名稱則會以英文顯示。選擇方式不變，標籤會轉換成英文提示詞。
 :::
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-gen-confirm.webp" alt="確認並生成步驟。指定角色、畫風、所選標籤與 char_prompt 欄，以及生成基本形象按鈕" caption="最後一步 · 確認並生成">
 
 7. 在**確認並生成**檢查選好的標籤。標籤會轉成英文提示詞，放進 **char_prompt - 最終編輯**欄。這個欄位也可以直接修改。
 8. 點選**生成基本形象**。生成完成後，資料夾名稱旁會顯示基本形象。
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-gen-expert.webp" alt="展開專家模式的畫面。negative_prompt、guidance、steps、sampler、noise_schedule、圖片尺寸" caption="專家模式">
 
 展開**專家模式**，可以更改不要出現的元素（`negative_prompt`）、生成設定（guidance、steps、sampler、noise_schedule）和圖片尺寸。不確定的話，保持原樣就好。
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-base-sheet.webp" alt="A 的基本形象視窗。基本形象圖片與標籤，以及編輯提示詞、加為圖片、重新生成按鈕" caption="基本形象視窗">
 
 點選資料夾的基本形象，就會開啟這個視窗。
 
@@ -127,7 +127,7 @@ last_update:
 
 ## 在資料夾裡製作更多圖片
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-mode.webp" alt="角色資料夾 A 的生成圖片視窗。有繼承基本形象（推薦）與從頭製作" caption="資料夾的 ✦ 生成">
 
 點選資料夾裡的 **✦ 生成**，選擇製作方式。
 
@@ -144,7 +144,7 @@ last_update:
 
 像「笑」、「悲傷」這種所有人物都需要的情境，用**共用情境代碼**一次準備好。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-situations.webp" alt="共用情境代碼視窗。列出代碼 1、2、3（微笑・上半身、悲傷・上半身、憤怒・上半身，標籤以韓文顯示），各有套用按鈕" caption="✦ 情境代碼">
 
 1. 點選分頁右上角的 **✦ 情境代碼**。
 2. 用**新增情境代碼**決定代碼（例：`1`）和表情、姿勢等標籤。
@@ -152,7 +152,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-situation-apply.webp" alt="套用情境代碼 3 的視窗。資料夾 A 已經有 3 所以顯示為淡色，選了資料夾 B" caption="套用情境代碼">
 
 4. 選擇要套用的角色資料夾。已經有相同代碼的資料夾無法選擇。
 5. 點選**套用到 N 個角色**，每個資料夾就會產生像 `A/3`、`B/3` 這樣的**空白格**。
@@ -163,7 +163,7 @@ last_update:
 
 ## 一次生成：等待清單
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-queue.webp" alt="生成圖片視窗。勾選了等待中的 A/4，並有生成已選的 1 張按鈕" caption="生成等待清單">
 
 如果有加入等待清單的圖片或空白格，分頁上會顯示**查看等待生成的 N 張**（有空白格的話，會一起顯示**空白格 N 個**）。
 
@@ -175,7 +175,7 @@ last_update:
 
 ## 管理單張圖片
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/assets-image-sheet.webp" alt="圖片設定視窗。預覽、編輯提示詞・重新生成、位置、Markdown、需要解鎖開關、儲存・刪除圖片" caption="圖片設定視窗">
 
 點選圖片縮圖，會開啟設定視窗。
 

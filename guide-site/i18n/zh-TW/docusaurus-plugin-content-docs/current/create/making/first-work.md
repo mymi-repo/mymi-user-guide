@@ -28,7 +28,7 @@ last_update:
 
 點選下方選單的**建立**，會先開啟**基本資訊**分頁。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/first-basic-top.webp" alt="基本資訊分頁填入作品標題與一行簡介，並放上一張封面的畫面" caption="基本資訊分頁上方">
 
 1. 寫下**作品標題**。最多 30 字。
 2. 寫下**一句話簡介**。這是和標題一起顯示在作品卡片上的句子。最多 40 字。
@@ -38,7 +38,7 @@ last_update:
 
 > 範例 — 作品標題：`地下城市首爾` · 一句話簡介：`失去記憶後醒來的地方，是被封鎖的地下城市的檢疫所。`
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/first-basic-description.webp" device="part" alt="詳細說明欄以 Markdown 寫成的作品介紹" caption="詳細說明">
 
 **詳細說明**要寫會顯示在作品介紹畫面上的內容。寫劇情、登場人物和玩法就可以了。可以使用一般文字、Markdown、HTML，最多 50,000 字。
 
@@ -63,7 +63,7 @@ last_update:
 - 想找回記憶的話，就向書妍詢問線索。
 ```
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/first-basic-genres.webp" device="part" alt="類型選了科幻與懸疑・驚悚，並加入三個標籤的畫面" caption="類型與標籤">
 
 **類型**選 1～2 個。範例選的是**科幻**和**懸疑・驚悚**。
 
@@ -77,7 +77,7 @@ last_update:
 
 寫在**提示詞**分頁的文字，是 AI 每次產生回覆時都會讀取的設定。一開始用只要填欄位的**基本型**最輕鬆。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/first-prompt.webp" alt="在提示詞預設選擇基本型，並在作品資訊欄寫下世界觀與登場人物的畫面" caption="提示詞分頁 · 基本型">
 
 1. 點選**提示詞預設**，選擇**基本型**。一開始選的是**自行撰寫**。
 2. 在**作品資訊**欄寫下世界觀、登場人物、隱藏設定與進行規則。欄位空白時會顯示灰色範例，照著相同的樣式寫就可以。
@@ -115,7 +115,7 @@ last_update:
 - 當{{user}}試圖找回記憶時，書妍會一次給一條線索。
 ```
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/first-prompt-composed.webp" device="part" alt="組合後的提示詞欄，作品資訊已整合在一起的畫面" caption="分頁下方組合後的提示詞">
 
 分頁最下方的**組合後的提示詞**，會顯示把欄位內容合併後傳給 AI 的樣子。修改欄位，這裡也會跟著改變。
 
@@ -131,7 +131,7 @@ last_update:
 
 開場是對話開始時 AI 先傳出的第一則訊息。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/first-greeting.webp" alt="在開場分頁寫下標題與第一則訊息的畫面" caption="開場分頁">
 
 1. 寫下**開場標題**。這是使用者選擇開始場景時看到的名稱。
 2. 在下方欄位寫下第一則訊息。最多 2,000 字。動作與敘述放在 `*星號*` 之間，對話放在 `"雙引號"` 內，就會以與聊天相同的樣式顯示。
@@ -148,7 +148,7 @@ last_update:
 "這裡是首爾。更正確地說，是首爾的地底～所以，{{user}}。除了名字，你還記得什麼嗎？"
 ```
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/first-greeting-preview.webp" device="part" alt="開場預覽。敘述以斜體、對白以強調色顯示" caption="開場預覽">
 
 在欄位下方的**預覽**確認聊天中的樣子。
 
@@ -160,7 +160,7 @@ last_update:
 
 在**其他設定**分頁，把標有紅色 `*` 的項目全部選好。**公開設定**（公開）和**內容分級**（全年齡）一開始就已選好。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/first-settings-1.webp" alt="其他設定分頁上方。公開設定、作品公開範圍、收益限制" caption="其他設定分頁上方">
 
 - **公開設定**：**公開**是所有使用者都能看到，**不公開**是只有自己能看到。
 - **作品公開範圍**：**原創**是只在 MYMI 公開的作品。如果也要上傳到其他平台，就選**一般**。選擇原創時會顯示「設定為原創後，3個月內無法解除。」的提示。
@@ -168,7 +168,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/first-settings-2.webp" alt="其他設定分頁下方。圖片來源、讀者群、內容分級、同意行銷使用" caption="其他設定分頁下方">
 
 - **圖片來源**：圖片是在 MYMI 做的就選 **MYMI 生成**，用其他 AI 製作或親自繪製的就選**外部製作**。
 - **讀者群**：從**男性向**、**女性向**中選出作品主要面向的讀者。
@@ -183,7 +183,7 @@ last_update:
 
 點選畫面上方的**完成製作**。如果有缺漏的項目，會切換到該分頁，並在上方顯示提示。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/create-publish-check.webp" alt="因為作品標題是空的，畫面上方出現‘請輸入作品標題。’提示" caption="有欄位缺漏時">
 
 提示一次只會顯示一個。照著提示補齊後，再次點選**完成製作**。
 
@@ -191,7 +191,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/zh-TW/first-complete.webp" alt="作品製作完成畫面。作品卡片下方有審查中標示，以及查看作品與作品管理按鈕" caption="作品製作完成畫面">
 
 全部填好之後，會開啟**作品製作完成**畫面。
 

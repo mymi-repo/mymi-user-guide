@@ -13,7 +13,7 @@ Works used to be made in a seven-step creation screen. We call that the <strong>
 
 ## Tell whether your work is 1.0
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/legacy-editor.webp" alt="The legacy creation screen. The tab row shows Basic Info, Assets, Intro, Settings, Lorebook, and Components, with a Next button at the bottom right" caption="The screen that opens when you edit a 1.0 work">
 
 Select **Edit** on a work in **Profile → Content Management**.
 

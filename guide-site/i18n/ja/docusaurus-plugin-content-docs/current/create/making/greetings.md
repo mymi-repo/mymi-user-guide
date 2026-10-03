@@ -13,7 +13,7 @@ last_update:
 
 ## 導入部を作る
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/first-greeting.webp" alt="導入部タブ。導入部の一覧、タイトル欄、最初のメッセージ欄がある" caption="導入部タブ">
 
 1. **導入部のタイトル**を書きます。ユーザーが開始の場面を選ぶときに見る名前です。100文字まで書けます。
 2. 下の欄に最初のメッセージを書きます。2,000文字までです。
@@ -39,7 +39,7 @@ last_update:
 
 アセットタブに画像があれば、導入部に入れられます。チャットでは、入れた位置に画像が表示されます。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/greeting-insert-image.webp" alt="アセット画像を挿入する窓。アセットの画像がコードとともに格子状に表示されている" caption="アセット画像の挿入">
 
 1. 最初のメッセージ欄で、画像を入れたい位置を押してカーソルを置きます。
 2. **アセット画像を挿入**を押します。
@@ -49,7 +49,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/greeting-preview-images.webp" device="part" alt="導入部のプレビュー。廊下の背景とカン・ミヌの画像が、地の文とセリフの間に表示されている" caption="画像を入れた導入部のプレビュー">
 
 **プレビュー**で、画像がどこに表示されるか確認します。コードに合う画像がないと、その位置に「アセットタブにこのコードの画像がありません」という案内が表示されます。
 

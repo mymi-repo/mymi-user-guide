@@ -27,7 +27,7 @@ The 1.0 screen saves your changes to the work every time you go forward to a lat
 
 ### 1. Basic Info
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/legacy-editor.webp" alt="The Basic Info step of the legacy creation screen, with the content name, short description, total character count, and worldview fields" caption="1.0 · Basic Info">
 
 | Item | How to write it |
 | --- | --- |

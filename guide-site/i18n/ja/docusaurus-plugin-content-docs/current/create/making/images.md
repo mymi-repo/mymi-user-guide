@@ -17,7 +17,7 @@ last_update:
 
 ## アセットタブの構成
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-overview.webp" alt="アセットタブ。フォルダの外の画像BG1と、キャラクターフォルダA内の画像1・2・3が表示されている" caption="アセットタブ">
 
 - **フォルダ1つがキャラクター1人**です。フォルダ名（例: `A`）が**キャラクターコード**になります。
 - フォルダ内の画像のコード（例: `1`）が**シチュエーションコード**です。この画像のパスは`A/1`です。
@@ -28,7 +28,7 @@ last_update:
 
 コードには英数字だけを使え、同じフォルダの中で重複してはいけません。フォルダは1階層だけ作れます。アセットタブでは**シチュエーションコード**という名前ですが、プロンプトタブでは同じものが**状況コード**と表示されます。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-help.webp" device="part" alt="アセットはどう動く？の案内を開いた画面" caption="アセットはどう動く？">
 
 タブの上部にある<strong>アセットはどう動く？</strong>を押すと、コードとパス、キャラクターフォルダと基本ルック、生成と待機、共通シチュエーションコード、ロックと解放の案内を開いて読めます。
 
@@ -63,21 +63,21 @@ last_update:
 
 同じ人物の画像を何枚も作るときは、先に**基本ルック**を作ります。基本ルックはフォルダの顔です。そのフォルダで生成する画像が、基本ルックの画風と印象を引き継ぎます。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-folder-empty.webp" alt="キャラクターフォルダAを作った画面。フォルダ名の横にキャラクター生成ボタンがある" caption="新しいキャラクターフォルダ">
 
 1. **キャラクターフォルダを追加**を押して、キャラクターコード（例: `A`）を書きます。
 2. フォルダ名の横の<strong>✦ キャラクター生成</strong>を押します。
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-gen-kind.webp" alt="基本ルックを作る1ステップ目。画像の種類でキャラクター、性別で男性を選んだ画面" caption="1ステップ目 · 種類と性別">
 
 3. <strong>どんな画像ですか？</strong>で**キャラクター**を選びます。人物のいない場所は**背景**です。
 4. キャラクターなら**女性**・**男性**から性別を選んで、**次へ**を押します。
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-gen-style.webp" alt="画風選択のステップ。おすすめ画風の一覧から1つ目を選んだ画面" caption="2ステップ目 · 画風">
 
 5. **画風**を選びます。
    - **おすすめ画風**: MYMIが用意した画風です。初めてなら、ここから選びます。
@@ -86,7 +86,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-gen-tags.webp" alt="髪のステップでショートヘア（黒）と乱れた髪を選んだ画面。上に選んだタグが集まっている" caption="3ステップ目から · タグを選ぶ">
 
 6. **背景** → **身体 - 髪** → **身体 - 目** → **身体 - 顔の特徴** → **身体 - 肌** → **身体 - 体型** → **衣装** → **小道具** → **その他**の順にタグを選びます。選んだタグは上部にまとまって表示されます。不要なステップは**次へ**で飛ばします。
    - 髪・目・衣装のタグのうち、色が決まっていないもの（例: 短い髪）は、押すと色を選ぶウィンドウが開きます。色を押すか、色を入れたくないときは**すでに色が含まれています**を押します。
@@ -94,24 +94,24 @@ last_update:
 
 </ScreenStep>
 
-:::info[タグ名が韓国語で表示されることがあります]
-検索で見つけたタグなど、一部のタグは韓国語の名前で表示されることがあります。選び方は同じで、タグは英語のプロンプトに変換されます。
+:::info[タグ名が英語で表示されることがあります]
+検索で見つけたタグなど、日本語の名前がないタグは英語の名前で表示されることがあります。選び方は同じで、タグは英語のプロンプトに変換されます。
 :::
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-gen-confirm.webp" alt="確認して生成するステップ。所属キャラクター、画風、選んだタグとchar_prompt欄、基本ルックを生成ボタン" caption="最後のステップ · 確認して生成">
 
 7. **確認して生成**で、選んだタグを確認します。タグは英語のプロンプトに変換されて、**char_prompt - 最終編集**欄に入ります。この欄は直接直しても構いません。
 8. **基本ルックを生成**を押します。生成が終わると、フォルダ名の横に基本ルックが表示されます。
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-gen-expert.webp" alt="エキスパートモードを開いた画面。negative_prompt、guidance、steps、sampler、noise_schedule、画像サイズ" caption="エキスパートモード">
 
 **エキスパートモード**を開くと、入れない要素（`negative_prompt`）、生成設定（guidance、steps、sampler、noise_schedule）、画像サイズを変えられます。よくわからなければ、そのままにしてください。
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-base-sheet.webp" alt="Aの基本ルックの窓。基本ルックの画像とタグ、プロンプトを編集・画像として追加・再生成のボタン" caption="基本ルックの窓">
 
 フォルダの基本ルックを押すと、このウィンドウが開きます。
 
@@ -127,7 +127,7 @@ last_update:
 
 ## フォルダに画像をもっと作る
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-mode.webp" alt="キャラクターフォルダAの画像生成の窓。基本ルックを引き継ぐ（おすすめ）と最初から作る" caption="フォルダの✦生成">
 
 フォルダ内の<strong>✦ 生成</strong>を押すと、作り方を選びます。
 
@@ -144,7 +144,7 @@ last_update:
 
 「笑い」「悲しみ」のように、すべての人物に必要な場面は、**共通シチュエーションコード**でまとめて用意します。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-situations.webp" alt="共通シチュエーションコードの窓。1 微笑み・上半身、2 悲しみ・上半身、3 怒り・上半身と、それぞれの適用ボタン" caption="✦シチュエーションコード">
 
 1. タブの右上にある<strong>✦ シチュエーションコード</strong>を押します。
 2. **シチュエーションコードを追加**で、コード（例: `1`）と、表情・ポーズなどのタグを決めます。
@@ -152,7 +152,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-situation-apply.webp" alt="シチュエーションコード3を適用する窓。フォルダAにはすでに3があって薄く表示され、フォルダBを選んだ画面" caption="シチュエーションコードの適用">
 
 4. 適用するキャラクターフォルダを選びます。すでに同じコードがあるフォルダは選べません。
 5. **キャラクター N人に適用**を押すと、フォルダごとに`A/3`、`B/3`のような**空き枠**ができます。
@@ -163,7 +163,7 @@ last_update:
 
 ## まとめて生成する: 待機リスト
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-queue.webp" alt="画像生成の窓。待機中のA/4にチェックが入り、選択した1枚を生成ボタンがある" caption="生成待機リスト">
 
 待機リストに入れた画像や空き枠があると、タブに**生成待ち N枚を見る**（空き枠があれば**空き枠 N件**も一緒に）が表示されます。
 
@@ -175,7 +175,7 @@ last_update:
 
 ## 画像を1枚ずつ管理する
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/assets-image-sheet.webp" alt="画像設定の窓。プレビュー、プロンプトを編集・再生成、位置、マークダウン、解放が必要スイッチ、保存・画像を削除" caption="画像設定の窓">
 
 画像のサムネイルを押すと、設定ウィンドウが開きます。
 

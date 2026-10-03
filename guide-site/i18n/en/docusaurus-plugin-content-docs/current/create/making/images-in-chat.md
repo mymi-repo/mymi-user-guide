@@ -23,7 +23,7 @@ An image in a chat shows up when the AI writes a line like `![]({{URL}}/A/1.webp
 
 ## Basic: write what each code means
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/prompt-basic-codes.webp" device="part" alt="The image output rules of the Basic preset. Character codes A = Kang Min-woo and B = Lee Seo-yeon, situation codes 1 = laughing, 2 = sad, 3 = angry, other code BG1 = quarantine station corridor, and the exception that B/3 does not exist" caption="Basic · Image output rules">
 
 With the Basic preset, the codes from the Assets tab appear as a table in **Image output rules**. You only need to write a short meaning.
 
@@ -83,7 +83,7 @@ The opening is a first message you write ahead of time, so you choose where the 
 
 ## Lock it, then unlock it in chat: Unlock required
 
-<ScreenStep>
+<ScreenStep src="/img/screens/en/assets-image-sheet.webp" alt="The Unlock required switch in the image settings window" caption="Image settings · Unlock required">
 
 1. In the Assets tab, select the thumbnail of the image to lock.
 2. Turn on **Unlock required** in the settings window.

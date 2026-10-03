@@ -15,7 +15,7 @@ last_update:
 
 表紙は1〜10枚入れられます。複数枚の場合は、決めた間隔で次の1枚に切り替わります。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/profile-cover.webp" device="part" alt="表紙を2枚入れて、切り替え間隔を2秒にした画面" caption="表紙2枚と切り替え間隔">
 
 - **画像をアップロード**: 持っている画像をアップロードします。JPG、PNG、WEBP、GIF、HEICファイルを5MBまで使えます。
 - **アセットから取り込む**: **アセット**タブで作った画像を表紙に使います。
@@ -25,7 +25,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/profile-cover-picker.webp" alt="アセットから取り込む窓。アセットタブの画像が格子状に表示されている" caption="アセットから取り込む">
 
 **アセットから取り込む**を押すと、アセットタブの完成した画像がすべて表示されます。表紙にする画像を選んで、**N枚を表紙に追加**を押します。
 
@@ -41,7 +41,7 @@ last_update:
 
 **詳細説明**は、作品紹介画面の本文です。最大50,000文字で、通常の文章・マークダウン・HTMLを混ぜて書けます。
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/profile-description.webp" device="part" alt="詳細説明の欄と、その下のGemで作るボックス" caption="詳細説明とGemで作る">
 
 1. **プレビュー**: ユーザーに表示される見た目を確認します。
 2. **アセット情報をコピー**: アセットタブの画像の実際のアドレスをコピーします。Gemに貼り付けると、その画像を使った紹介を作れます。
@@ -49,7 +49,7 @@ last_update:
 
 </ScreenStep>
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/profile-description-preview.webp" alt="詳細説明のプレビュー窓に、タイトル・登場人物・楽しみ方が書式どおりに表示されている" caption="詳細説明のプレビュー">
 
 プレビューでは、マークダウンの見出し・箇条書き・太字が書式どおりに表示されます。
 
@@ -88,7 +88,7 @@ GemはMYMIの外にあるGoogleのサービスです。使うにはGoogleアカ�
 
 ## クリエイターガイド
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/profile-guide.webp" device="part" alt="クリエイターガイドの欄に利用のヒントを書いた画面" caption="クリエイターガイド">
 
 **クリエイターガイド**には、作品の楽しみ方や新しく追加した内容を書きます。作品紹介画面に別枠で表示されます。1つの文章に5,000文字まで書けます。
 
@@ -100,7 +100,7 @@ GemはMYMIの外にあるGoogleのサービスです。使うにはGoogleアカ�
 
 ## おすすめモデル
 
-<ScreenStep>
+<ScreenStep src="/img/screens/ja/profile-models.webp" device="part" alt="おすすめモデル0/5と選択するボタン" caption="おすすめモデル">
 
 作品に合うチャットモデルを、最大5個選んでおけます。作品紹介画面とチャットのモデル一覧に**おすすめ**と表示され、ユーザーはほかのモデルも選べます。
 
