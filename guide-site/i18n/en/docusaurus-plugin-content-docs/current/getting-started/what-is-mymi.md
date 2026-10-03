@@ -39,7 +39,7 @@ Each AI reply costs Sparks, based on the price of the AI model you chose. If you
 
 Log in and select **Create** in the bottom menu to open the **Create Content** screen. Fill in the **Basic info**, **Assets**, **Components**, **Prompt**, **Openings**, **Lorebook**, and **Settings** tabs, then select **Publish**. You can make a work with just one cover image and some text.
 
-If you're new, see what goes in each tab in [Before you start](/create/making/before-you-start.md), then follow [Create your first work](/create/making/first-work.md). The creation guide is in Korean for now.
+If you're new, see what goes in each tab in [Before you start](/create/making/before-you-start.md), then follow [Create your first work](/create/making/first-work.md).
 
 ## If you get stuck
 

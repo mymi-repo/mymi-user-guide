@@ -40,7 +40,7 @@ If you're new, start with accessing MYMI and signing up. If you already use it, 
 
 ## Create your own work
 
-The **creation guide** walks you through the creation screen by building one example work from start to finish. It's in Korean for now. If you're new, start with **Before you start** and **Create your first work**.
+The **creation guide** walks you through the creation screen by building one example work from start to finish. If you're new, start with **Before you start** and **Create your first work**.
 
 <CardGrid>
 <Card to="/create/before-you-start" icon="compass" title="Before you start">Learn the seven tabs of the creation screen and how saving works.</Card>
