@@ -150,8 +150,9 @@ The full conditions are in [Buying Sparks](/payment/payment-methods.md#invite-fr
 
 <summary>I can't buy the First Buy package</summary>
 
-- Only accounts that have completed phone verification can buy it. If you see "Purchase is only available for verified accounts.", verify first.
-- You can buy it only once per account. If you see "This promotion has already been used.", you already bought it.
+- The website's First Buy package ($1.99) needs only age confirmation.
+- In the app, only accounts that have completed phone verification can buy it. If you see "Purchase is only available for verified accounts.", verify first.
+- You can buy it only once per account, across the website and the app combined. If you see "This promotion has already been used.", you already bought it.
 
 </details>
 

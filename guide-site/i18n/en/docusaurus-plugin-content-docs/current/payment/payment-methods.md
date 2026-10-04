@@ -28,15 +28,16 @@ On the website, you pay with **PayPal** in US dollars (USD). PayPal also accepts
 4. Select the PayPal button that appears, and finish paying on the PayPal screen.
 5. Return to MYMI and check that the charge is complete.
 
-Website packages as of October 3, 2026:
+Website packages as of October 4, 2026:
 
 | Price | Sparks | Notes |
 | ---: | ---: | --- |
-| $3.49 | 5,000 | |
-| $6.99 | 10,000 | |
-| $20.99 | 31,500 | Includes a 1,500 bonus |
-| $34.99 | 55,000 | Includes a 5,000 bonus |
-| $69.99 | 115,000 | Includes a 15,000 bonus |
+| $1.99 | 5,000 | The one-time **First Buy** package. Each account can buy it once, across the website and the app combined. Age confirmation is enough, and phone verification isn't required |
+| $3.99 | 5,000 | |
+| $7.98 | 10,000 | |
+| $22.49 | 31,500 | Includes a 1,500 bonus |
+| $37.49 | 55,000 | Includes a 5,000 bonus |
+| $74.99 | 115,000 | Includes a 15,000 bonus |
 
 Exchange rates and cross-border fees follow the terms of your payment method, so your card issuer or PayPal may charge extra fees.
 
@@ -50,7 +51,7 @@ In the app, you pay through the **App Store** on iPhone or **Google Play** on An
 
 App prices are set by each store and shown in your local currency, so they differ from the website's. Check the amount on the purchase screen and in the store's payment sheet before you pay.
 
-The app also has a one-time **First Buy** package of 5,000 Sparks. Only accounts that have completed [phone verification](/account/adult-verification.md) can buy it, and each account can buy it once.
+The app also has a one-time **First Buy** package of 5,000 Sparks. In the app, only accounts that have completed [phone verification](/account/adult-verification.md) can buy it. Each account can buy it once across the website and the app combined, so if you've already bought the $1.99 package on the website, you can't buy it in the app.
 
 ## Get free Sparks
 
@@ -107,8 +108,8 @@ Select **Profile → My Spark → View Usage History** to open **Spark Usage His
 <details>
 <summary>I can't buy the First Buy package</summary>
 
-- If a window titled **Identity Verification Required** appears, select **Verify Identity** and finish [phone verification](/account/adult-verification.md) first.
-- If you see "You have already used this promotional plan." or "This promotion has already been used.", you have already bought it. Each account can buy it once.
+- On the website, the First Buy package needs only age confirmation. In the app, if a window titled **Identity Verification Required** appears, select **Verify Identity** and finish [phone verification](/account/adult-verification.md) first.
+- If you see "You have already used this promotional plan." or "This promotion has already been used.", you have already bought it. Each account can buy it once, across the website and the app combined.
 
 </details>
 
