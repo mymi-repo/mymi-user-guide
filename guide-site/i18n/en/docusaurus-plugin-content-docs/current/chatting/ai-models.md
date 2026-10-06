@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 last_update:
-  date: 2026-10-02
+  date: 2026-10-05
 description: How to choose the AI model that writes chat replies, Spark prices by model, and how many Sparks are deducted for longer replies and for replies that fail or are declined.
 ---
 
@@ -20,7 +20,7 @@ How to choose the AI model that writes chat replies, what each model costs in Sp
 - Models with a **50% OFF** badge show the discounted price. Models marked **Temporarily Disabled** can't be chosen right now.
 - The model you choose is saved in the browser or app you're using and stays the same in other chat rooms. Choose it again on another device.
 - **Creator's recommended models** on a work's detail page are the creator's suggestions. Choose the model you chat with using the ⚡ button.
-- Without logging in, you can try **Gemini 3.8 Flash** for up to 5 messages.
+- Without logging in, you can try **Grok 4.6** for up to 5 messages.
 
 ## Prices by model
 
@@ -61,6 +61,7 @@ Discounted models show the discounted price in the model selection window, so ch
 
 | Model and strength | Base price | Per extra 100 tokens |
 | --- | ---: | ---: |
+| **Grok 4.6**<br />Thinks before it answers | 120 | 8 |
 | **Grok 4.3**<br />Light, fast conversation | 60 | 4 |
 | **Grok 4.20**<br />Creative replies | 60 | 4 |
 
@@ -107,7 +108,7 @@ You can see deducted Sparks on the **Usage** tab in **Profile → My Spark → V
 <details>
 <summary>I don't see the ⚡ button</summary>
 
-Without logging in, you can't choose a model and you chat with the trial model, **Gemini 3.8 Flash**. Log in and the ⚡ button appears.
+Without logging in, you can't choose a model and you chat with the trial model, **Grok 4.6**. Log in and the ⚡ button appears.
 
 </details>
 
