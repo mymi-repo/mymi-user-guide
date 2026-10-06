@@ -1,4 +1,8 @@
 // @ts-check
+import {createHash} from 'node:crypto';
+import {readFileSync, readdirSync} from 'node:fs';
+import {join} from 'node:path';
+import {fileURLToPath} from 'node:url';
 import {themes as prismThemes} from 'prism-react-renderer';
 
 // 언어별 사이트 문구. navTitle은 로고 옆 짧은 제목, serviceUrl은 같은 언어의 서비스 화면이다.
@@ -44,11 +48,22 @@ const fontStylesheets = [
   ...(localeKey === 'ja' ? [`${PRETENDARD_CDN}/pretendardvariable-jp-dynamic-subset.min.css`] : []),
 ];
 
+// 화면 그림은 같은 이름으로 바꿔 넣는데, 웹(FE next.config)이 정적 그림에 1년 immutable 캐시를 붙여 Cloudflare·브라우저가
+// 옛 그림을 계속 준다(2026-10-07). 그림 폴더 내용의 해시를 Screenshot 주소 뒤(?v=)에 붙여 그림이 바뀐 배포에서만 주소가 바뀌게 한다.
+const screensDir = fileURLToPath(new URL('./static/img/screens/', import.meta.url));
+const screensHash = createHash('sha1');
+for (const locale of readdirSync(screensDir).sort()) {
+  for (const file of readdirSync(join(screensDir, locale)).sort()) {
+    screensHash.update(`${locale}/${file}`).update(readFileSync(join(screensDir, locale, file)));
+  }
+}
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: siteText.title,
   tagline: siteText.description,
   favicon: 'brand/favicon.png',
+  customFields: {screensVersion: screensHash.digest('hex').slice(0, 8)},
 
   future: {
     v4: true,

@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './styles.module.css';
 
 /**
@@ -14,7 +15,8 @@ import styles from './styles.module.css';
  * - 이미지를 누르면 원본 크기로 열린다. 캡처 속 작은 글자를 읽을 수 있게 한다.
  */
 export default function Screenshot({src, alt, caption, device = 'desktop', width}) {
-  const url = useBaseUrl(src);
+  // ?v= 는 그림 폴더 해시(docusaurus.config.js) — 같은 이름으로 바꾼 그림이 캐시에 남지 않게 한다
+  const url = `${useBaseUrl(src)}?v=${useDocusaurusContext().siteConfig.customFields.screensVersion}`;
   const isDesktop = device !== 'phone' && device !== 'part';
   return (
     <figure
