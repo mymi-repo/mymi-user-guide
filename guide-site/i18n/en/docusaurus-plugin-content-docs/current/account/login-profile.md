@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-10-02
+  date: 2026-10-07
 description: How to log in again with the account you signed up with, change your name, nickname, ID, profile picture, and display language, and log out.
 ---
 
@@ -65,7 +65,7 @@ The **Creator** button under **My Spark** on the main **Profile** screen opens t
 
 ## Change the display language
 
-Select **Language Settings** at the bottom of **Profile**, choose **한국어**, **日本語**, or **繁體中文**, and select **Confirm**. English isn't in this list. To see the website in English, open [www.mymi.live/en](https://www.mymi.live/en).
+Select **Language Settings** at the bottom of **Profile**, choose **한국어**, **日本語**, **English**, or **繁體中文**, and select **Confirm**.
 
 Changing the language changes the text on screen. Your account's verification and payment methods stay the same as when you signed up.
 

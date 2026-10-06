@@ -4,7 +4,7 @@ description: 跟著範例作品「地下城市首爾」，用專家模式搭配�
 slug: /create/first-work
 sidebar_position: 2
 last_update:
-  date: 2026-10-04
+  date: 2026-10-07
 ---
 
 # 用專家模式建立第一個作品
@@ -63,9 +63,9 @@ last_update:
 - 想找回記憶的話，就向書妍詢問線索。
 ```
 
-<ScreenStep src="/img/screens/zh-TW/first-basic-genres.webp" device="part" alt="類型選了科幻與懸疑・驚悚，並加入三個標籤的畫面" caption="類型與標籤">
+<ScreenStep src="/img/screens/zh-TW/first-basic-genres.webp" device="part" alt="類型選了「科幻」與「懸疑、驚悚」，並加入三個標籤的畫面" caption="類型與標籤">
 
-**類型**選 1～2 個。範例選的是**科幻**和**懸疑・驚悚**。
+**類型**選 1～2 個。範例選的是**科幻**和**懸疑、驚悚**。
 
 **標籤**至少加入 1 個。在欄位中輸入後點選**新增**，或按 Enter 就會加入。也可以用空格或逗號分隔，一次加入好幾個。
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-10-02
+  date: 2026-10-07
 description: MYMIのウェブサイトとAndroid・iPhoneアプリの開き方、ログインせずに試す方法、リンクが開かないときやログインできないときの解決方法を説明します。
 ---
 
@@ -24,7 +24,7 @@ MYMIは、ウェブサイトとAndroid・iPhoneアプリで同じアカウント
 | Android | [Google PlayでMYMIをインストール](https://play.google.com/store/apps/details?id=live.mymi.app) |
 | iPhone | [App StoreでMYMIをインストール](https://apps.apple.com/app/id6794338974) |
 
-スマートフォンのブラウザーでMYMIを開いている場合は、ホーム右上の**アプリをインストール**を押してもストアが開きます。インストールしたアプリを開き、下のメニューの**マイページ**からログインまたは新規登録します。
+スマートフォンのブラウザーでMYMIを開いている場合は、ホーム右上の**アプリ**を押してもストアが開きます。インストールしたアプリを開き、下のメニューの**マイページ**からログインまたは新規登録します。
 
 ## ウェブとアプリを一緒に使う
 

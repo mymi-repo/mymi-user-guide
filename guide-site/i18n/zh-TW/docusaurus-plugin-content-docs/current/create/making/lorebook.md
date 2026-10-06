@@ -4,7 +4,7 @@ description: 說明如何建立只在對話中出現特定關鍵字時才傳給 
 slug: /create/lorebook
 sidebar_position: 8
 last_update:
-  date: 2026-10-03
+  date: 2026-10-07
 ---
 
 # 撰寫設定集
@@ -12,7 +12,7 @@ last_update:
 設定集是**對話中出現關鍵字時，就把該條設定的內容傳給 AI 的設定資料庫**。寫下不需要隨時知道、但名稱出現時必須知道的事，例如世界觀用語、地點、組織、人物的秘密。
 
 :::info
-這是專家模式的說明。簡易模式請見 [Lorebook、Components 與選填](/create/simple/extras#lorebook)。兩種模式尋找條目的方式相同。
+這是專家模式的說明。簡易模式請見 [設定集、元件與選填](/create/simple/extras#lorebook)。兩種模式尋找條目的方式相同。
 :::
 
 ## 和提示詞有什麼不同

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-10-02
+  date: 2026-10-07
 description: Change how the AI replies and how the chat looks, set a user note and persona for a chat room, and reread, find, bookmark, or capture past conversations.
 ---
 
@@ -29,8 +29,8 @@ Change these in **Chat Settings** in the ⋮ menu. Changes apply from the next r
 | --- | --- |
 | **Writing Style** | **Novel** is rich in description and narration. **Light Novel** is lighter and focuses on dialogue |
 | **Story Booster** | When on, the AI actively creates events and the plot moves faster |
-| **Allow God Modding** | When on, the AI also writes your actions and lines. Turn it off if you want to write your own actions |
-| **One Cut** | When on, works with pictures show only one picture per reply. The amount of text stays the same |
+| **Let AI write my actions** | When on, the AI also writes your actions and lines. Turn it off if you want to write your own actions |
+| **One scene at a time** | When on, works with pictures show only one picture per reply. The amount of text stays the same |
 | **Response Length** | Lets you get longer replies. It can cost more Sparks, so it has its own section: [Get longer replies](/chatting/ai-models.md#get-longer-replies) |
 
 :::info[These settings apply to every chat room]
@@ -123,7 +123,7 @@ Select the eye icon at the top right of the chat room again to bring the text ba
 <details>
 <summary>I changed a setting and other chat rooms changed too</summary>
 
-Writing Style, Story Booster, Allow God Modding, One Cut, and Response Length in **Chat Settings**, as well as everything in **UI Settings**, apply to every chat room on this device. Write anything you want to differ by chat room in the **User Note**.
+Writing Style, Story Booster, Let AI write my actions, One scene at a time, and Response Length in **Chat Settings**, as well as everything in **UI Settings**, apply to every chat room on this device. Write anything you want to differ by chat room in the **User Note**.
 
 </details>
 

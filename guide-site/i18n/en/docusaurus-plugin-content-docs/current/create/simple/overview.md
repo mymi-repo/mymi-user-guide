@@ -4,7 +4,7 @@ description: Learn about Simple mode's seven steps, where you fill in fields and
 slug: /create/simple/overview
 sidebar_position: 1
 last_update:
-  date: 2026-10-04
+  date: 2026-10-07
 ---
 
 # Learn about Simple mode
@@ -18,7 +18,7 @@ Simple mode is the way you **fill in the fields and MYMI gathers what you wrote 
 
 ## The screen and the seven steps
 
-<ScreenStep src="/img/screens/en/simple-overview.webp" alt="The top and bottom of the Simple mode screen. At the top are the Create Work title and the reset button, with Basic Info, Assets, Intro, Settings, Lorebook, Components, and Optional in the tab row, and the next button at the bottom" caption="The Simple mode screen">
+<ScreenStep src="/img/screens/en/simple-overview.webp" alt="The top and bottom of the Simple mode screen. At the top are the Create title and the reset button, with Basic Info, Assets, Intro, Settings, Lorebook, Components, and Optional in the tab row, and the next button at the bottom" caption="The Simple mode screen">
 
 1. **↺** (Reset creation content): Clears the screen you're entering and starts over. Drafts you already saved stay in **Content Management**.
 2. **Tab row**: Basic Info · Assets · Intro · Settings · Lorebook · Components · Optional. The current step is shown in purple.
@@ -28,7 +28,7 @@ Simple mode is the way you **fill in the fields and MYMI gathers what you wrote 
 
 | Step | What you write | Required? |
 | --- | --- | --- |
-| **Basic Info** | Title, one-line description, worldview, characters, secrets | Only the secret is optional |
+| **Basic Info** | Title, one-line description, story setting, characters, secrets | Only the secret is optional |
 | **Assets** | Images to show in chats, a situation description for each, and a profile image | Required |
 | **Intro** | The first message the AI sends when a chat starts | Required |
 | **Settings** | Management items such as genres, hashtags, visibility, and publishing scope | Required |
@@ -46,7 +46,7 @@ In Simple mode, it matters which fields the AI reads and which ones users see.
 | --- | --- | --- |
 | Title | Reads it | Work card, work page |
 | One-line description | Doesn't read it | Work card |
-| Worldview | Reads it | Work page (when you haven't written a description) |
+| Story setting | Reads it | Work page (when you haven't written a description) |
 | Character names and descriptions | Reads them | Work page (when you haven't written a description) |
 | Secrets | Reads it | Not shown |
 | An asset's situation description | Reads it (when Image Output Instructions is **Internal Images**) | Not shown |
@@ -56,7 +56,7 @@ In Simple mode, it matters which fields the AI reads and which ones users see.
 | Creator's Note | Doesn't read it | Work page |
 
 :::warning[The world and character descriptions are shown to users too]
-If you don't write a **Description**, the **Description** area of the work page shows the worldview and the characters' names and descriptions as they are. Put any setting users shouldn't know in the **Secrets** field, not in the worldview or a character description. Only the AI reads the secrets. Users can't see them.
+If you don't write a **Description**, the **Description** area of the work page shows the story setting and the characters' names and descriptions as they are. Put any setting users shouldn't know in the **Secrets** field, not in the story setting or a character description. Only the AI reads the secrets. Users can't see them.
 :::
 
 ## When your work is saved
@@ -80,7 +80,7 @@ If any of the items below are empty when you select the next button, a message a
 
 | Step | What's checked |
 | --- | --- |
-| Basic Info | Title, one-line description, worldview, at least 1 character (name and description), and that no two names are the same |
+| Basic Info | Title, one-line description, story setting, at least 1 character (name and description), and that no two names are the same |
 | Assets | At least 1 image, a profile image, and a situation description for every image |
 | Intro | At least 1 opening, and that each has a title and content |
 | Settings | 1–2 genres, at least 1 hashtag, publishing scope, monetization limits, image source, audience, and marketing consent |
@@ -97,7 +97,7 @@ If any of the items below are empty when you select the next button, a message a
 
 It means a required item is missing in that step or an earlier one. The message tells you which field.
 
-- Basic Info: "Enter a title.", "Please enter the worldview.", "Please add at least one character."
+- Basic Info: "Enter a title.", "Describe your work's setting.", "Please add at least one character."
 - Assets: "Please add at least one asset.", "Please select a profile image.", "Please enter an asset description."
 - Intro: "Please enter a greeting title.", "Please enter greeting content."
 - Settings: "Select 1–2 genres.", "Add at least one hashtag.", "Choose the audience."
@@ -107,16 +107,16 @@ Fill it in as the message says, then select the next button again.
 </details>
 
 <details>
-<summary>What I wrote in the worldview shows up as it is on the work page</summary>
+<summary>What I wrote in the story setting shows up as it is on the work page</summary>
 
-That's how it works. If you haven't written a description, the work page shows the worldview and the character descriptions. Move any setting you need to hide from users to the **Secrets** field. If you want to decorate the work page yourself, set the **Description** in **Optional** to **Use** and write the introduction in HTML. Then that text is shown instead of the worldview and characters. ([Lorebook, components, and optional items](/create/simple/extras#description))
+That's how it works. If you haven't written a description, the work page shows the story setting and the character descriptions. Move any setting you need to hide from users to the **Secrets** field. If you want to decorate the work page yourself, set the **Description** in **Optional** to **Use** and write the introduction in HTML. Then that text is shown instead of the story setting and characters. ([Lorebook, components, and optional items](/create/simple/extras#description))
 
 </details>
 
 <details>
 <summary>There's no Prompt tab</summary>
 
-Simple mode has no Prompt tab. MYMI gathers what you wrote in the worldview, characters, and secrets fields and passes it to the AI. If you want to write the prompt yourself, set Creation mode to **Expert mode** and create a new work. ([Move to Expert mode](/create/simple/to-expert))
+Simple mode has no Prompt tab. MYMI gathers what you wrote in the story setting, characters, and secrets fields and passes it to the AI. If you want to write the prompt yourself, set Creation mode to **Expert mode** and create a new work. ([Move to Expert mode](/create/simple/to-expert))
 
 </details>
 

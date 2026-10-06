@@ -4,7 +4,7 @@ description: The character and count limits of the Simple mode screen, the requi
 slug: /create/simple/reference
 sidebar_position: 7
 last_update:
-  date: 2026-10-04
+  date: 2026-10-07
 ---
 
 # Fields and limits
@@ -17,7 +17,7 @@ This page collects the limits and rules of the Simple mode screen. The details o
 | --- | --- | --- |
 | Basic Info | Title | Required · 30 characters |
 | | One-line description | Required · 40 characters |
-| | Worldview · Character descriptions · Secrets | 10,000 characters across the three fields combined. The worldview and at least 1 character (name and description) are required, and secrets are optional |
+| | Story setting · Character descriptions · Secrets | 10,000 characters across the three fields combined. The story setting and at least 1 character (name and description) are required, and secrets are optional |
 | | Character name | 50 characters. Characters can't share a name |
 | Assets | Images | Required · 1–200. JPG, PNG, WEBP, GIF, HEIC · up to 5MB |
 | | Situation description | Required for every image · 60 characters |
@@ -47,7 +47,7 @@ When you select the next button or **Done**, it checks in the order below and sh
 
 | Order | Step | What's checked |
 | --- | --- | --- |
-| 1 | Basic Info | Title, one-line description, worldview, at least 1 character, each character's name and description, duplicate names |
+| 1 | Basic Info | Title, one-line description, story setting, at least 1 character, each character's name and description, duplicate names |
 | 2 | Assets | At least 1 image, a profile image, and a situation description for every image |
 | 3 | Intro | At least 1 opening, and that each has a title and content |
 | 4 | Settings | In the order Genres → Hashtags → Publishing scope → Monetization limits → Image source → Audience → Content rating → Marketing consent |
@@ -104,7 +104,7 @@ The connection may have dropped during saving, or the server may have been busy 
 <details>
 <summary>I can't type any more characters</summary>
 
-Once a field reaches its limit, no more goes in. The Basic Info step has a limit of 10,000 characters across the worldview, character descriptions, and secrets combined, so check how much you've written in the other fields too.
+Once a field reaches its limit, no more goes in. The Basic Info step has a limit of 10,000 characters across the story setting, character descriptions, and secrets combined, so check how much you've written in the other fields too.
 
 </details>
 

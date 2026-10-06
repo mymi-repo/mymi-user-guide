@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-02
+  date: 2026-10-07
 description: What you can do on MYMI, what works, characters, personas, and intros are, and how to start your first chat and your first work.
 ---
 
@@ -24,7 +24,7 @@ For example, in the work **Underground Seoul**, you wake up in a quarantine stat
 
 ## Chat with a work
 
-1. On **Home** in the bottom menu, choose a work from the **Recommended**, **Ranking**, **Tags**, or **Search** tab.
+1. On **Home** in the bottom menu, choose a work from the **Picks**, **Ranking**, **Tags**, or **Search** tab.
 2. Read the work's description and select **Start chatting**.
 3. Read the intro scene, then type and send your line or action. The character replies and the story continues.
 4. Later, pick up where you left off from **Chat** in the bottom menu.
@@ -37,7 +37,7 @@ Each AI reply costs Sparks, based on the price of the AI model you chose. If you
 
 ## Create your own work
 
-Log in and select **Create** in the bottom menu to open the **Create Work** screen. You can make a work in two ways. In **Simple mode**, you fill in the fields and the AI settings are built for you. In **Expert mode**, you write the settings and output rules the AI reads yourself. It opens in Simple mode at first. You can make a work with just one image and some text.
+Log in and select **Create** in the bottom menu to open the **Create** screen. You can make a work in two ways. In **Simple mode**, you fill in the fields and the AI settings are built for you. In **Expert mode**, you write the settings and output rules the AI reads yourself. It opens in Simple mode at first. You can make a work with just one image and some text.
 
 If you're new, see how the two modes differ in [Before you start](/create/start/before-you-start.md), then follow [Create your first work in Simple mode](/create/simple/first-work.md).
 

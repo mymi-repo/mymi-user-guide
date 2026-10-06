@@ -4,7 +4,7 @@ description: Learn how to copy a Simple mode work's settings into a new Expert m
 slug: /create/simple/to-expert
 sidebar_position: 8
 last_update:
-  date: 2026-10-04
+  date: 2026-10-07
 ---
 
 # Move to Expert mode
@@ -15,7 +15,7 @@ There's no way to change a work made in Simple mode into Expert mode. The conten
 
 - A new work is a **separate work**. The chats, likes, and comments of the original work aren't carried over to the new one.
 - Making a new work **leaves the original work as it is**. If you don't want to show it any more, open it from **Profile → Content Management → Edit**, change **Settings → Visibility** to **Private**, and select the next button to save.
-- You'll need the original work's text while you move. It's easier to copy the worldview, character descriptions, secrets, and situation descriptions into a notepad, or to keep the original open on another device and look at it as you go.
+- You'll need the original work's text while you move. It's easier to copy the story setting, character descriptions, secrets, and situation descriptions into a notepad, or to keep the original open on another device and look at it as you go.
 
 ## The steps
 
@@ -30,7 +30,7 @@ There's no way to change a work made in Simple mode into Expert mode. The conten
 | Where you wrote it in Simple mode | Where you write it in Expert mode | What to do when you move it |
 | --- | --- | --- |
 | Basic Info → Title · One-line description | Basic info → Title · One-line description | Copy them as they are |
-| Basic Info → Worldview | Prompt → work info (Basic) or the body (Write it myself) | Copy the era, places, and rules |
+| Basic Info → Story setting | Prompt → work info (Basic) or the body (Write it myself) | Copy the era, places, and rules |
 | Basic Info → Characters | Prompt → the characters in the work info | Under each name line, write the role, personality, way of speaking, and relationships |
 | Basic Info → Secrets | Prompt → the hidden settings in the work info | Write when they're revealed too. Don't move them into the description |
 | Assets → character link | The character folders in Assets + what the character codes mean in the prompt | Make a folder for each character and match the folder code to the name |
@@ -47,7 +47,7 @@ There's no way to change a work made in Simple mode into Expert mode. The conten
 
 ## Easy to miss
 
-Don't stop after moving the worldview and character descriptions. Take care of these too.
+Don't stop after moving the story setting and character descriptions. Take care of these too.
 
 1. **An image's situation description** → the codes in Assets and what they mean in the prompt. In Simple mode, MYMI gathered the situation descriptions and passed them to the AI, but in Expert mode you have to write in the prompt when to put images in.
 2. **A component's usage description** → the prompt's Component output rules.

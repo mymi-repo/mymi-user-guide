@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-10-02
+  date: 2026-10-07
 description: How to open the MYMI website and the Android and iPhone apps, try MYMI without logging in, and fix links that won't open or sign-ins that get blocked.
 ---
 
@@ -26,7 +26,7 @@ When the free trial runs out, a login window appears. If you sign up right there
 
 In the U.S. stores, the MYMI listing currently shows its name in Korean. The links above open the right app.
 
-If you opened MYMI in your phone's browser, you can also select **Install App** at the top right of Home to open the store. Open the installed app, then log in or sign up from **Profile** in the bottom menu.
+If you opened MYMI in your phone's browser, you can also select **Install app** at the top right of Home to open the store. Open the installed app, then log in or sign up from **Profile** in the bottom menu.
 
 ## Use the website and the app together
 

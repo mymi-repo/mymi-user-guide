@@ -4,7 +4,7 @@ description: Learn how to reopen and edit a work made in Simple mode from Conten
 slug: /create/simple/edit
 sidebar_position: 6
 last_update:
-  date: 2026-10-04
+  date: 2026-10-07
 ---
 
 # Edit a work
@@ -54,7 +54,7 @@ How to write in each step is the same as when you made the work.
 
 | Step | What you can change | Guide |
 | --- | --- | --- |
-| **Basic Info** | Title, one-line description, worldview, characters, secrets | [Write the settings and the intro](/create/simple/write) |
+| **Basic Info** | Title, one-line description, story setting, characters, secrets | [Write the settings and the intro](/create/simple/write) |
 | **Assets** | Adding and deleting images, situation descriptions, character links, the profile image, Unlock required | [Assets and AI images](/create/simple/assets) |
 | **Intro** | Adding and deleting openings, titles, the first message | [Write the settings and the intro](/create/simple/write#the-intro) |
 | **Settings** | Genres, hashtags, visibility, publishing scope, and more | [Choose your work settings](/create/settings) |

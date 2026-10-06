@@ -4,7 +4,7 @@ description: Learn how to upload images or make them with AI in Simple mode's As
 slug: /create/simple/assets
 sidebar_position: 4
 last_update:
-  date: 2026-10-04
+  date: 2026-10-07
 ---
 
 # Assets and AI images
@@ -185,7 +185,7 @@ The **Image Output Instructions** card in the **Settings** step decides how the 
 | Method | What it means | What the AI goes by to choose an image |
 | --- | --- | --- |
 | **Internal Images** | Sends the images you uploaded to Assets as `img:[name]`. It's chosen from the start | The situation description you wrote for each asset and the character you linked |
-| **External Images** | Sends the image addresses (URLs) you wrote in the settings as `![](address)` | The addresses, or rules for addresses, written in settings like the worldview and character descriptions. If it can't tell an address, it doesn't put an image in. The situation descriptions aren't passed to the AI |
+| **External Images** | Sends the image addresses (URLs) you wrote in the settings as `![](address)` | The addresses, or rules for addresses, written in settings like the story setting and character descriptions. If it can't tell an address, it doesn't put an image in. The situation descriptions aren't passed to the AI |
 
 If your work uses the images you uploaded in the Assets step, leave **Internal Images** as it is.
 

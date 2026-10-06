@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-03
+  date: 2026-10-07
 description: What to check and how to fix things when you're stuck with logging in, verification, Sparks, payments, chatting, or creating works.
 ---
 
@@ -63,7 +63,7 @@ They are two separate checks. The steps are in [Age confirmation and phone verif
 
 <summary>I want to turn off the Safety Filter / adult works don't show up</summary>
 
-1. The shield-shaped switch at the right end of the **Recommended**, **Ranking**, **Tags**, and **Search** tab row on Home is the Safety Filter. While it's on (green), adult works are hidden.
+1. The shield-shaped switch at the right end of the **Picks**, **Ranking**, **Tags**, and **Search** tab row on Home is the Safety Filter. While it's on (green), adult works are hidden.
 2. Tap the switch to turn it off. If you haven't confirmed your age, the **Age Confirmation** window appears first. Check **I confirm that I am 18 years of age or older.** only if that's true, and select **Confirm**. Then check that the switch turned gray.
 3. Works classified as sensitive content appear only when **Profile → Settings & Support → Show Sensitive Content** is on. It's a separate setting from the Safety Filter.
 
@@ -125,7 +125,7 @@ If you paid on the website, ask MYMI. If you paid in the app, ask the App Store 
 <summary>Attendance Check doesn't work</summary>
 
 - Only accounts that have completed phone verification can get the reward. When you select **Check-in and get Sparks**, a verification window opens.
-- You can get it once a day, and the day changes at 15:00 UTC. If you see "Already checked in today.", you can get the next one after the day changes.
+- You can get it once a day. The day changes at midnight in your device's time zone; on a new account it starts close to midnight in Korea and moves one hour later with each check-in. If you see "Already checked in today.", you can get the next one after the day changes.
 - If you skip a day, your streak starts again from day 1.
 
 The reward for each day is in [Buying Sparks](/payment/payment-methods.md#attendance-check).
@@ -150,8 +150,7 @@ The full conditions are in [Buying Sparks](/payment/payment-methods.md#invite-fr
 
 <summary>I can't buy the First Buy package</summary>
 
-- The website's First Buy package ($1.99) needs only age confirmation.
-- In the app, only accounts that have completed phone verification can buy it. If you see "Purchase is only available for verified accounts.", verify first.
+- The First Buy package ($1.99 on the website) needs no verification, on the website or in the app.
 - You can buy it only once per account, across the website and the app combined. If you see "This promotion has already been used.", you already bought it.
 
 </details>
@@ -318,7 +317,7 @@ In Expert mode, when you select **Publish**, you're taken to the tab with missin
 
 All the requirements are in [Limits and rules at a glance](/create/making/limits.md).
 
-In Simple mode, if the next button or **Done** doesn't let you move on, fill in the field the message points to. The ones often missed are the worldview, the characters, an asset's situation description and the profile image, the intro, and the genres, hashtags, and audience in Settings. All the requirements are in [Fields and limits](/create/simple/reference.md#whats-checked-at-next-and-done).
+In Simple mode, if the next button or **Done** doesn't let you move on, fill in the field the message points to. The ones often missed are the story setting, the characters, an asset's situation description and the profile image, the intro, and the genres, hashtags, and audience in Settings. All the requirements are in [Fields and limits](/create/simple/reference.md#whats-checked-at-next-and-done).
 
 </details>
 

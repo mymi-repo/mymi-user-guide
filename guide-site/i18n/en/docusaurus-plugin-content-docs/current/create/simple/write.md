@@ -1,24 +1,24 @@
 ---
 title: Write the settings and the intro
-description: Learn tips for writing the worldview, characters, and secrets in the Basic Info step of Simple mode, how the character total works, and how to write the first message and make several starting scenes in the Intro step.
+description: Learn tips for writing the story setting, characters, and secrets in the Basic Info step of Simple mode, how the character total works, and how to write the first message and make several starting scenes in the Intro step.
 slug: /create/simple/write
 sidebar_position: 3
 last_update:
-  date: 2026-10-04
+  date: 2026-10-07
 ---
 
 # Write the settings and the intro
 
-In Simple mode, the text the AI reads every time it chats is the worldview, characters, and secrets in the **Basic Info** step. The first scene of a chat is set in the **Intro** step. This page tells you how to write them well.
+In Simple mode, the text the AI reads every time it chats is the story setting, characters, and secrets in the **Basic Info** step. The first scene of a chat is set in the **Intro** step. This page tells you how to write them well.
 
 ## The title and the one-line description
 
 - The **Title** can be up to 30 characters. The AI reads it as the work's name too. `{{char}}` in the intro turns into this title when a chat happens.
 - The **One-line description** can be up to 40 characters. It's the sentence shown with the title on the work card. The AI doesn't read it.
 
-## Worldview
+## Story setting
 
-In **Worldview**, write the work's setting and rules, and how the story begins. Simple mode has no field for progression rules, so write where the story starts and where it heads in the worldview too.
+In **Story setting**, write the work's setting and rules, and how the story begins. Simple mode has no field for progression rules, so write where the story starts and where it heads in the story setting too.
 
 ```md
 In 2031 the surface was contaminated and abandoned. People went down and now live in Underground Seoul, a city built by joining subway stations and underground malls.
@@ -27,8 +27,8 @@ The Bureau controls the city, and the passages to the surface are sealed. Anyone
 The user wakes up on a bed in the quarantine station with no memory. The story begins as Min-woo guides the user out of the station, and when the user tries to recover their memory, Seo-yeon hands over clues one at a time.
 ```
 
-- **Write only what users are allowed to know.** If you don't write a description, the worldview shows on the work page as it is. Put twists and hidden backstory in **Secrets**.
-- **Keep it short and clear.** The AI reads the worldview for every chat. Longer isn't better.
+- **Write only what users are allowed to know.** If you don't write a description, the story setting shows on the work page as it is. Put twists and hidden backstory in **Secrets**.
+- **Keep it short and clear.** The AI reads the story setting for every chat. Longer isn't better.
 - **Send settings you only need when certain words come up to the lorebook.** Settings you don't need all the time, like an organization's name, a place, or a term, can go in the [Lorebook](/create/simple/extras#lorebook), and they reach the AI only when that word comes up.
 - **You can use Markdown.** `##` headings, `-` lists, and `**bold**` show up that way on the work page.
 
@@ -66,7 +66,7 @@ These are the example characters' descriptions.
 
 ## The character total
 
-You can write up to **10,000 characters** in the worldview, character descriptions, and secrets combined. **Worldview + Character Descriptions + Secrets Total Usage**, above the Worldview field, shows how much you've used and how many characters are left, as a number and a bar. The color changes as the count grows, and at 10,000 no more can be typed. Character names aren't counted in this total.
+You can write up to **10,000 characters** in the story setting, character descriptions, and secrets combined. **Total text used: setting + character descriptions + secrets**, above the Story setting field, shows how much you've used and how many characters are left, as a number and a bar. The color changes as the count grows, and at 10,000 no more can be typed. Character names aren't counted in this total.
 
 ## The intro
 
@@ -117,9 +117,9 @@ How to put asset images in the intro is in [Assets and AI images](/create/simple
 ## If you get stuck
 
 <details>
-<summary>I want to write more in the worldview or a character description, but I can't type</summary>
+<summary>I want to write more in the story setting or a character description, but I can't type</summary>
 
-The worldview, character descriptions, and secrets together have reached 10,000 characters. Cut the parts that aren't essential, or move settings you only need when certain words come up to the **Lorebook**.
+The story setting, character descriptions, and secrets together have reached 10,000 characters. Cut the parts that aren't essential, or move settings you only need when certain words come up to the **Lorebook**.
 
 </details>
 

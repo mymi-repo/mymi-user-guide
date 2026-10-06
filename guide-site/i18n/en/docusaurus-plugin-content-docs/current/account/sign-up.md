@@ -1,19 +1,19 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-02
+  date: 2026-10-07
 description: How to sign up for MYMI with Google, X, or Apple, choose your name, ID, and nickname, the ID rules, and what to do if you can't sign up.
 ---
 
 # Sign up
 
-Log in with Google, X, or Apple, then choose your name, ID, and nickname to finish signing up. Children under 14 need a parent or guardian's consent to use MYMI.
+Log in with Google, X, or Apple, then choose your name, ID, and nickname to finish signing up. You must be 18 or older to use MYMI's English service.
 
 :::warning[Make sure MYMI is in English before you sign up]
 The language MYMI is shown in when you sign up sets your account's country. It decides how you verify your phone and age and how you pay, and it can't be changed after you sign up.
 
 - On the website, open [www.mymi.live/en](https://www.mymi.live/en).
-- The app uses your phone's language when you first open it. If the app isn't in English, sign up on the website instead.
+- The app uses your phone's language when you first open it. If it isn't in English, select the language link below the login buttons (언어 설정, 言語設定, 語言設定), choose **English**, and confirm before you sign up.
 :::
 
 ## Choose a sign-in button

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-02
+  date: 2026-10-07
 description: 說明如何用 LINE、Google、X、Apple 帳號註冊 MYMI、設定名稱・ID・暱稱、ID 規則，以及無法註冊時的解決方法。
 ---
 
@@ -44,7 +44,7 @@ description: 說明如何用 LINE、Google、X、Apple 帳號註冊 MYMI、設�
 | **使用者 ID** | 像 `@moon_reader` 這樣用來辨識你的位址 | 3～20 字，需符合下方規則 |
 | **暱稱** | 其他使用者看到的名字 | 最多 30 字 |
 
-例如把顯示名稱設為 `小晴`、暱稱設為 `月光讀者`，角色會叫你「小晴」，其他使用者則會看到「月光讀者」。想在不同作品中用不同名字聊天，註冊後可以在 [Persona 設定](/account/persona.md)中新增。顯示名稱、ID 與暱稱在註冊後也能到[登入與個人檔案設定](/account/login-profile.md)中修改。
+例如把顯示名稱設為 `小晴`、暱稱設為 `月光讀者`，角色會叫你「小晴」，其他使用者則會看到「月光讀者」。想在不同作品中用不同名字聊天，註冊後可以在 [人設設定](/account/persona.md)中新增。顯示名稱、ID 與暱稱在註冊後也能到[登入與個人檔案設定](/account/login-profile.md)中修改。
 
 在 App 中，**顯示名稱**欄位可能已經預先填入社群帳號的名字。可以改成你希望在聊天中被稱呼的名字。
 
@@ -151,5 +151,5 @@ App 沒有 LINE 和 X 登入，Android App 也沒有 Apple 登入。請在網頁
 <CardGrid>
 <Card to="/account/adult-verification" icon="shield" title="年齡確認與手機號碼驗證">每天領取 Spark 需要手機號碼驗證，觀看成人作品需要年齡確認。</Card>
 <Card to="/chatting/chat-with-character" icon="chat" title="聊天">選擇作品並開始第一次聊天。</Card>
-<Card to="/account/persona" icon="persona" title="Persona 設定">建立更多在作品中使用的名字與身分。</Card>
+<Card to="/account/persona" icon="persona" title="人設設定">建立更多在作品中使用的名字與身分。</Card>
 </CardGrid>

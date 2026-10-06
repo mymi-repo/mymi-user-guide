@@ -4,7 +4,7 @@ description: 說明如何用 JSX 程式碼製作狀態視窗、道具欄、選�
 slug: /create/components
 sidebar_position: 9
 last_update:
-  date: 2026-10-03
+  date: 2026-10-07
 ---
 
 # 加入元件
@@ -12,7 +12,7 @@ last_update:
 元件是**AI 在聊天中顯示的 UI**。先做好狀態視窗、道具欄、選項這類想呈現的內容，AI 就會在需要時呼叫。不懂程式碼也沒關係，可以用**用 Gem 製作**來做。
 
 :::info
-這是專家模式的說明。簡易模式請見 [Lorebook、Components 與選填](/create/simple/extras#components)。
+這是專家模式的說明。簡易模式請見 [設定集、元件與選填](/create/simple/extras#components)。
 :::
 
 ## 新增元件

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 last_update:
-  date: 2026-10-02
+  date: 2026-10-07
 description: 說明角色忘記先前的事時，如何查看長期記憶與記憶片段，並用使用者備註修正。
 ---
 
@@ -85,6 +85,6 @@ description: 說明角色忘記先前的事時，如何查看長期記憶與記�
 ## 下一步
 
 <CardGrid>
-<Card to="/chatting/chat-room-settings" icon="sliders" title="聊天室設定">為這個聊天室設定使用者備註與 Persona。</Card>
+<Card to="/chatting/chat-room-settings" icon="sliders" title="聊天室設定">為這個聊天室設定使用者備註與人設。</Card>
 <Card to="/chatting/chat-with-character" icon="chat" title="聊天">了解如何重新生成或修改回覆。</Card>
 </CardGrid>

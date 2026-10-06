@@ -4,7 +4,7 @@ description: Follow the example work "Underground Seoul" and fill in only Basic 
 slug: /create/simple/first-work
 sidebar_position: 2
 last_update:
-  date: 2026-10-04
+  date: 2026-10-07
 ---
 
 # Create your first work in Simple mode
@@ -13,12 +13,12 @@ You can complete a work without a lorebook, components, or optional items. This 
 
 :::tip[What you need]
 - 1 image to show in chats (JPG, PNG, WEBP, GIF, HEIC · up to 5MB)
-- Notes on your worldview and characters. If you don't have any, you can write the example below as it is.
+- Notes on your story setting and characters. If you don't have any, you can write the example below as it is.
 :::
 
 | Step | Screen | What to fill in |
 | --- | --- | --- |
-| 1 | **Basic Info** | Title, one-line description, worldview, characters |
+| 1 | **Basic Info** | Title, one-line description, story setting, characters |
 | 2 | **Assets** | One image and its situation description |
 | 3 | **Intro** | The opening title and the first message |
 | 4 | **Settings** | Genres, hashtags, and five required items |
@@ -38,9 +38,9 @@ When you select **Create** in the bottom menu, the **Basic Info** step opens fir
 
 > Example — Title: `Underground Seoul` · One-line description: `You wake with no memory below Seoul.`
 
-<ScreenStep src="/img/screens/en/simple-basic-worldview.webp" device="part" alt="The Worldview field with the example text written in it. The Characters field follows below" caption="Worldview">
+<ScreenStep src="/img/screens/en/simple-basic-worldview.webp" device="part" alt="The Story setting field with the example text written in it. The Characters field follows below" caption="Story setting">
 
-In **Worldview**, write the setting of the work and how the story begins. The AI reads it, and if you don't write a description, the work page shows it as it is. So write only what users are allowed to know.
+In **Story setting**, write the setting of the work and how the story begins. The AI reads it, and if you don't write a description, the work page shows it as it is. So write only what users are allowed to know.
 
 </ScreenStep>
 
@@ -57,7 +57,7 @@ You need at least 1 **Characters** entry. Select **Add Character** and write a n
 
 **Secrets** are settings users must not see. They're optional, but if there's a twist or a hidden backstory the AI needs to know, write it here. Secrets don't show on the work page.
 
-Worldview, character descriptions, and secrets add up to 10,000 characters at most. The bar above the Worldview field shows how much you've used.
+Story setting, character descriptions, and secrets add up to 10,000 characters at most. The bar above the Story setting field shows how much you've used.
 
 </ScreenStep>
 
@@ -142,7 +142,7 @@ In the **Settings** step, choose every item marked with a red `*`. Start with **
 > Example — Hashtags: `underground`, `amnesia`, `dystopia`
 
 :::info[AI Recommend replaces every tag you chose]
-**AI Recommend** in the hashtag sheet reads the title, worldview, characters, and secrets and picks tags for you. The tags you already chose are replaced by its recommendations, and the audience may change along with them. After you use it, check the tags and the **Audience** again. It only works after you've written the title and worldview.
+**AI Recommend** in the hashtag sheet reads the title, story setting, characters, and secrets and picks tags for you. The tags you already chose are replaced by its recommendations, and the audience may change along with them. After you use it, check the tags and the **Audience** again. It only works after you've written the title and story setting.
 :::
 
 <ScreenStep src="/img/screens/en/simple-settings-2.webp" alt="The lower part of the Settings step. The Visibility, Publishing scope, Monetization limits, and Image source cards" caption="From Visibility to Image source">
@@ -217,9 +217,9 @@ In **Audience** under **Settings**, choose **For men** or **For women**. It can 
 </details>
 
 <details>
-<summary>What I wrote in the worldview shows on the work page too</summary>
+<summary>What I wrote in the story setting shows on the work page too</summary>
 
-That's how it works. If you haven't written a description, the work page shows the worldview and the character descriptions as they are. Move any setting you need to hide from users to the **Secrets** field.
+That's how it works. If you haven't written a description, the work page shows the story setting and the character descriptions as they are. Move any setting you need to hide from users to the **Secrets** field.
 
 </details>
 

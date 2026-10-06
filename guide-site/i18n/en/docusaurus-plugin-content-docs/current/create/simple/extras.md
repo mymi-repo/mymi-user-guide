@@ -4,7 +4,7 @@ description: Learn how to use Simple mode's optional steps, Lorebook, Components
 slug: /create/simple/extras
 sidebar_position: 5
 last_update:
-  date: 2026-10-04
+  date: 2026-10-07
 ---
 
 # Lorebook, components, and optional items
@@ -15,7 +15,7 @@ last_update:
 
 The lorebook is **a set of settings whose content reaches the AI only when a keyword comes up in the chat**. Write things the AI doesn't need all the time but must know when a name comes up, like a world's terms, places, organizations, and a character's secrets.
 
-The AI reads what you write in the worldview every time, but it reads a lore entry only when its keyword comes up. If you keep the settings needed every time in the worldview and characters of the Basic Info step, and the ones that come up now and then in the lorebook, the worldview stays short.
+The AI reads what you write in the story setting every time, but it reads a lore entry only when its keyword comes up. If you keep the settings needed every time in the story setting and characters of the Basic Info step, and the ones that come up now and then in the lorebook, the story setting stays short.
 
 <ScreenStep src="/img/screens/en/simple-lorebook.webp" alt="The Lorebook step. Below the 2/100 count and the guidance text, two lore entries, The Bureau and Exit 7, are shown folded, with the Add entry button" caption="The Lorebook step">
 
@@ -46,7 +46,7 @@ These are the example work's lore entries.
 
 - Write words that will actually come up in chats. Add abbreviations and nicknames too. For a name that can be written with or without a space, add both.
 - Avoid very common words. They match in almost every chat, so the lore entry you actually need may not make it into the 3.
-- Keep the content to short facts. Put the way of speaking and the direction of the story in the worldview and the character descriptions.
+- Keep the content to short facts. Put the way of speaking and the direction of the story in the story setting and the character descriptions.
 
 ## Components
 
@@ -118,7 +118,7 @@ The **Optional** step has a Description, recommended personas, and a Creator's N
 
 ### Description
 
-Decorate the text shown on the work page with HTML. If you don't use it, the work page shows the worldview and the character descriptions as they are.
+Decorate the text shown on the work page with HTML. If you don't use it, the work page shows the story setting and the character descriptions as they are.
 
 <ScreenStep src="/img/screens/en/simple-optional.webp" alt="The Optional step. Under Description, Use is chosen out of Use and Don't use, with the HTML field and the preview showing" caption="The Optional step · Description">
 
@@ -188,9 +188,9 @@ Some persona you made has an empty name, gender, birth date, or details field. T
 </details>
 
 <details>
-<summary>The work page shows only HTML, not the worldview</summary>
+<summary>The work page shows only HTML, not the story setting</summary>
 
-That's because you set **Description** to **Use**. If you write an HTML introduction, that text is shown instead of the worldview and the characters. To show the worldview and the character descriptions, change it to **Don't use**.
+That's because you set **Description** to **Use**. If you write an HTML introduction, that text is shown instead of the story setting and the characters. To show the story setting and the character descriptions, change it to **Don't use**.
 
 </details>
 

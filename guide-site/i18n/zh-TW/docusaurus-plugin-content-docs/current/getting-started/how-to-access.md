@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-10-02
+  date: 2026-10-07
 description: 說明如何開啟 MYMI 網頁版與 Android、iPhone App、不登入也能試用的方法，以及連結打不開或無法登入時的解決方法。
 ---
 
@@ -24,7 +24,7 @@ MYMI 的網頁版與 Android、iPhone App 使用同一個帳號。在電腦上�
 | Android | [在 Google Play 安裝 MYMI](https://play.google.com/store/apps/details?id=live.mymi.app) |
 | iPhone | [在 App Store 安裝 MYMI](https://apps.apple.com/app/id6794338974) |
 
-如果是用手機瀏覽器開啟 MYMI，也可以點選首頁右上角的**安裝應用程式**前往商店。開啟安裝好的 App 後，從下方選單的**個人檔案**登入或註冊。
+如果是用手機瀏覽器開啟 MYMI，也可以點選首頁右上角的**安裝 App**前往商店。開啟安裝好的 App 後，從下方選單的**個人檔案**登入或註冊。
 
 ## 同時使用網頁版與 App
 

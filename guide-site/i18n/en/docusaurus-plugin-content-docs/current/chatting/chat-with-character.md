@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-02
+  date: 2026-10-07
 description: Choose a work and start your first chat, get a different reply or edit one when you don't like it, and pick up a chat later.
 ---
 
@@ -21,7 +21,7 @@ Find works with the tabs at the top of **Home**.
 
 | Tab | How to find works |
 | --- | --- |
-| **Recommended** | Browse recommended collections |
+| **Picks** | Browse recommended collections |
 | **Ranking** | Pick from the real-time, daily, weekly, and monthly rankings |
 | **Tags** | Choose one category (Genre, Relationship, Setting, Personality, or Species) and pick up to 3 tags |
 | **Search** | Search by mood or keyword. Enter `@nickname` or `@ID` exactly to see that creator's works |

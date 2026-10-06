@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 last_update:
-  date: 2026-10-02
+  date: 2026-10-07
 description: When you need phone verification and when you need age confirmation, how to complete each, how to turn off the Safety Filter and turn on Show Sensitive Content, and what to do when verification fails.
 ---
 
@@ -15,10 +15,8 @@ MYMI uses two separate checks: **phone verification** and **age confirmation**. 
 | --- | --- | --- |
 | See adult works | Age confirmation | When you turn off the Safety Filter on Home, or **Verify to continue** on an adult work |
 | See works classified as sensitive content | Age confirmation | When you turn on **Profile → Settings & Support → Show Sensitive Content** |
-| Buy Sparks on the website | Age confirmation | When you buy any package |
 | Get Sparks from Attendance Check | Phone verification | **Check-in and get Sparks** in **Profile → Attendance Check** |
 | Register a friend's referral code | Phone verification | **Verify identity and complete registration** in **Profile → Invite Friends** |
-| Buy the First Buy package in the app | Phone verification | When you buy the **First Buy** package |
 | Generate AI images when creating a work | Phone verification | You can't start it on the creation screen. Verify from Attendance Check first |
 
 Some screens call phone verification "identity verification." It's the same check, done in the **Phone Verification** window.
@@ -46,7 +44,7 @@ False declarations may lead to restrictions on your use of the service. If you'r
 
 ## See adult works
 
-1. Open **Home** in the bottom menu and look at the right end of the **Recommended**, **Ranking**, **Tags**, and **Search** tab row. The small switch with just a shield icon is the Safety Filter. Green means it's on and adult works are hidden.
+1. Open **Home** in the bottom menu and look at the right end of the **Picks**, **Ranking**, **Tags**, and **Search** tab row. The small switch with just a shield icon is the Safety Filter. Green means it's on and adult works are hidden.
 2. Tap the switch. If you aren't logged in, a login window appears. If you haven't confirmed your age, the **Age Confirmation** window appears.
 3. After confirming, tap the switch again to turn it gray. Adult works now appear on Home and in search.
 

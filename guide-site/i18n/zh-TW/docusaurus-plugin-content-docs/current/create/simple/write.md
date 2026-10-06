@@ -4,7 +4,7 @@ description: 說明簡易模式基本資訊步驟中世界觀、角色、秘密�
 slug: /create/simple/write
 sidebar_position: 3
 last_update:
-  date: 2026-10-04
+  date: 2026-10-07
 ---
 
 # 撰寫設定與介紹
@@ -29,7 +29,7 @@ last_update:
 
 - **只寫使用者可以知道的內容。** 沒有寫詳細說明的話，世界觀會原封不動顯示在作品介紹畫面。反轉或隱藏的內情請寫在**秘密**。
 - **寫得簡短明確。** AI 每次聊天都會讀世界觀。不是越長越好。
-- **只在出現特定詞語時才需要的設定，交給 Lorebook。** 組織名稱、地點、用語這類不必隨時知道的設定，寫在 [Lorebook](/create/simple/extras#lorebook) 裡，只有那個詞語出現時才會傳給 AI。
+- **只在出現特定詞語時才需要的設定，交給設定集。** 組織名稱、地點、用語這類不必隨時知道的設定，寫在 [設定集](/create/simple/extras#lorebook) 裡，只有那個詞語出現時才會傳給 AI。
 - **可以使用 Markdown。** `##` 標題、`-` 清單、`**粗體**` 會在作品介紹畫面以那樣的樣式顯示。
 
 ## 角色
@@ -119,7 +119,7 @@ last_update:
 <details>
 <summary>想在世界觀或角色描述多寫一點，卻打不進去</summary>
 
-世界觀、角色描述、秘密加起來已經到 10,000 字了。請刪減不是必要的部分，或是把只在出現特定詞語時才需要的設定移到 **Lorebook**。
+世界觀、角色描述、秘密加起來已經到 10,000 字了。請刪減不是必要的部分，或是把只在出現特定詞語時才需要的設定移到**設定集**。
 
 </details>
 
@@ -148,5 +148,5 @@ last_update:
 
 <CardGrid>
 <Card to="/create/simple/assets" icon="image" title="素材與 AI 圖片">上傳或製作圖片，並寫下情境說明。</Card>
-<Card to="/create/simple/extras" icon="layers" title="Lorebook、Components 與選填">了解值得加入的其他步驟。</Card>
+<Card to="/create/simple/extras" icon="layers" title="設定集、元件與選填">了解值得加入的其他步驟。</Card>
 </CardGrid>

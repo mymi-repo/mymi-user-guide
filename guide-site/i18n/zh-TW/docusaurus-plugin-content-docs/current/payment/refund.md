@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-10-03
+  date: 2026-10-07
 description: 說明網頁版與 App 的購買要向哪裡申請退款、什麼情況下可以退款、怎麼申請，以及付款後沒收到 Spark 時該怎麼做。
 ---
 
@@ -76,13 +76,6 @@ App 內付款的退款，MYMI 無法處理。請在 App Store 或 Google Play �
 <summary>我用掉一部分 Spark 了，還能退款嗎？</summary>
 
 網頁版的購買，可能只有沒用到的 Spark 能退款。如果是 MYMI 這邊的問題，讓你沒辦法正常使用，請寄信到 [contact@mymi.live](mailto:contact@mymi.live) 說明狀況。
-
-</details>
-
-<details>
-<summary>孩子未經我同意買了 Spark</summary>
-
-在 MYMI，未成年人不能購買 Spark。如果是網頁版的購買，請附上付款資料，寄信到 [contact@mymi.live](mailto:contact@mymi.live)；如果是 App 的購買，請向 App Store 或 Google Play 申請。我們會依法令處理，包括法令賦予你的取消購買的權利。
 
 </details>
 

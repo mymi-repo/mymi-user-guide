@@ -6,7 +6,7 @@ sidebar_position: 0
 hide_title: true
 hide_table_of_contents: true
 last_update:
-  date: 2026-10-02
+  date: 2026-10-07
 ---
 
 <GuideHero
@@ -32,7 +32,7 @@ MYMI 是**和作品中的角色聊天、參與故事，也能創作自己作品�
 ## 想讓聊天更合自己的喜好
 
 <CardGrid>
-<Card to="/account/persona" icon="persona" title="Persona 設定">設定你在作品中使用的名字與身分。</Card>
+<Card to="/account/persona" icon="persona" title="人設設定">設定你在作品中使用的名字與身分。</Card>
 <Card to="/chatting/chat-room-settings" icon="sliders" title="聊天室設定">調整 AI 的回覆方式與畫面顯示。</Card>
 <Card to="/chatting/memory-book" icon="layers" title="長期記憶與記憶片段">角色忘記先前的事時，把它修正回來。</Card>
 <Card to="/chatting/ai-models" icon="model" title="AI 模型指南">了解聊天可以使用的 AI 模型與價格。</Card>

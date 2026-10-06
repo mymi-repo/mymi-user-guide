@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-10-03
+  date: 2026-10-07
 description: ウェブとアプリでの購入をキャンセル・返金してもらう方法と条件、支払ったのにスパークが入らないときの対応を説明します。
 ---
 
@@ -76,13 +76,6 @@ description: ウェブとアプリでの購入をキャンセル・返金して�
 <summary>スパークを少し使ったのですが、返金してもらえますか？</summary>
 
 ウェブでの購入は、使っていない分だけが返金の対象になることがあります。MYMI側の不具合で正しく使えなかったなど事情がある場合は、[contact@mymi.live](mailto:contact@mymi.live)に状況を書いて送ってください。
-
-</details>
-
-<details>
-<summary>子どもが勝手にスパークを購入しました</summary>
-
-MYMIでは、未成年の方はスパークを購入できません。ウェブでの購入は、決済の情報を添えて[contact@mymi.live](mailto:contact@mymi.live)にご連絡ください。アプリでの購入は、App StoreまたはGoogle Playに依頼してください。法令で認められている購入の取り消しの権利も含めて、法令に従って対応します。
 
 </details>
 

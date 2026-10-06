@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-03
+  date: 2026-10-07
 description: How to buy Sparks on the website and in the app, how to get free Sparks from Attendance Check and Invite Friends, when Sparks expire, and how to check your history.
 ---
 
@@ -23,16 +23,17 @@ While chatting, you can also select **Charge** in the notice that says you're ou
 On the website, you pay with **PayPal** in US dollars (USD). PayPal also accepts cards and other payment methods it supports.
 
 1. Choose a package on the purchase screen.
-2. Check the **Product** and **Total Amount**, then read the **Before you pay** box below them. It shows the seller, the price, when you are charged, when the Sparks arrive, and the refund terms.
-3. If you haven't confirmed your age yet, select **Verify Age** and complete [age confirmation](/account/adult-verification.md#confirm-your-age). You need to be 18 or older to buy Sparks.
-4. Select the PayPal button that appears, and finish paying on the PayPal screen.
-5. Return to MYMI and check that the charge is complete.
+2. Check the **Product** and **Total Amount**, then read the note below them. Sparks arrive right after payment, and completed purchases can't be cancelled or refunded except in the cases the policy lists. Seller details and the full terms are under **View the legal disclosure**.
+3. Select the PayPal button and finish paying on the PayPal screen.
+4. Return to MYMI and check that the charge is complete.
+
+Only users 18 or older can buy Sparks.
 
 Website packages as of October 4, 2026:
 
 | Price | Sparks | Notes |
 | ---: | ---: | --- |
-| $1.99 | 5,000 | The one-time **First Buy** package. Each account can buy it once, across the website and the app combined. Age confirmation is enough, and phone verification isn't required |
+| $1.99 | 5,000 | The one-time **First Buy** package. Each account can buy it once, across the website and the app combined. No verification is needed |
 | $3.99 | 5,000 | |
 | $7.98 | 10,000 | |
 | $22.49 | 31,500 | Includes a 1,500 bonus |
@@ -51,7 +52,7 @@ In the app, you pay through the **App Store** on iPhone or **Google Play** on An
 
 App prices are set by each store and shown in your local currency, so they differ from the website's. Check the amount on the purchase screen and in the store's payment sheet before you pay.
 
-The app also has a one-time **First Buy** package of 5,000 Sparks. In the app, only accounts that have completed [phone verification](/account/adult-verification.md) can buy it. Each account can buy it once across the website and the app combined, so if you've already bought the $1.99 package on the website, you can't buy it in the app.
+The app also has a one-time **First Buy** package of 5,000 Sparks. It doesn't need verification either. Each account can buy it once across the website and the app combined, so if you've already bought the $1.99 package on the website, you can't buy it in the app.
 
 ## Get free Sparks
 
@@ -66,7 +67,7 @@ Select **Check-in and get Sparks** in **Profile → Attendance Check** to get Sp
 
 - A full 10-day streak earns 2,920 Sparks, and the next day starts again from day 1.
 - If you skip a day, your streak starts again from day 1.
-- The day changes at 15:00 UTC. That is 11:00 a.m. Eastern or 8:00 a.m. Pacific during daylight saving time, and one hour earlier the rest of the year.
+- The day changes at midnight in your device's time zone. On a new account it starts close to midnight in Korea and moves one hour later each time you check in, until it reaches your midnight.
 
 ### Invite Friends
 
@@ -108,7 +109,6 @@ Select **Profile → My Spark → View Usage History** to open **Spark Usage His
 <details>
 <summary>I can't buy the First Buy package</summary>
 
-- On the website, the First Buy package needs only age confirmation. In the app, if a window titled **Identity Verification Required** appears, select **Verify Identity** and finish [phone verification](/account/adult-verification.md) first.
 - If you see "You have already used this promotional plan." or "This promotion has already been used.", you have already bought it. Each account can buy it once, across the website and the app combined.
 
 </details>
@@ -130,7 +130,7 @@ This appears if you close the payment window before you finish. Start again from
 <details>
 <summary>The PayPal button doesn't appear</summary>
 
-If you see **Verify Age** where the PayPal button should be, you haven't confirmed your age yet. Select it and complete age confirmation, and the PayPal button appears. If the button still doesn't show, refresh the page and choose the package again.
+Refresh the page and choose the package again.
 
 </details>
 
@@ -152,7 +152,7 @@ In the app, you pay the price set by the store, so it differs from the website. 
 <summary>I can't get my Attendance Check reward</summary>
 
 - Only accounts that have completed phone verification can receive it. When you select **Check-in and get Sparks**, a verification window opens.
-- If you see "Already checked in today.", you already got today's reward. You can get the next one after the day changes at 15:00 UTC.
+- If you see "Already checked in today.", you already got today's reward. You can get the next one after the day changes.
 
 </details>
 
@@ -178,5 +178,5 @@ For payment questions, email [contact@mymi.live](mailto:contact@mymi.live). Plea
 <CardGrid>
 <Card to="/payment/refund" icon="card" title="Cancellations and refunds">Learn how refunds work for website and app purchases.</Card>
 <Card to="/chatting/ai-models" icon="model" title="AI model guide">See how many Sparks each model uses.</Card>
-<Card to="/account/adult-verification" icon="shield" title="Age confirmation and phone verification">Complete the checks you need for purchases and Attendance Check.</Card>
+<Card to="/account/adult-verification" icon="shield" title="Age confirmation and phone verification">Verify your phone for daily Sparks, and confirm your age to see adult works.</Card>
 </CardGrid>

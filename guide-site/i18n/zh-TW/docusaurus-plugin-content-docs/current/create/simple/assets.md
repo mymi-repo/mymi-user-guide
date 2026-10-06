@@ -4,7 +4,7 @@ description: 說明在簡易模式的素材步驟上傳圖片或用 AI 製作圖
 slug: /create/simple/assets
 sidebar_position: 4
 last_update:
-  date: 2026-10-04
+  date: 2026-10-07
 ---
 
 # 素材與 AI 圖片
@@ -257,6 +257,6 @@ AI 的回覆每次都不一樣，偶爾可能挑不出合適的圖片。
 ## 下一步
 
 <CardGrid>
-<Card to="/create/simple/extras" icon="layers" title="Lorebook、Components 與選填">了解值得加入的其他步驟。</Card>
+<Card to="/create/simple/extras" icon="layers" title="設定集、元件與選填">了解值得加入的其他步驟。</Card>
 <Card to="/create/settings" icon="list" title="選擇作品設定">選擇圖片來源與公開範圍。</Card>
 </CardGrid>

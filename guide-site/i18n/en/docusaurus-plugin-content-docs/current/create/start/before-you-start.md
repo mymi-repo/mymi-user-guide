@@ -4,7 +4,7 @@ description: Learn how Simple mode and Expert mode differ, how to choose a creat
 slug: /create/before-you-start
 sidebar_position: 1
 last_update:
-  date: 2026-10-04
+  date: 2026-10-07
 ---
 
 # Before you start
@@ -13,7 +13,7 @@ A MYMI work is made of **settings the AI reads** and **screens users see**. Ther
 
 ## Choose a creation mode
 
-Select **Create** in the bottom menu to open the **Create Work** screen. At the very top of the first tab, **Basic Info**, is the **Creation mode** field. The web and the app have the same layout.
+Select **Create** in the bottom menu to open the **Create** screen. At the very top of the first tab, **Basic Info**, is the **Creation mode** field. The web and the app have the same layout.
 
 <ScreenStep src="/img/screens/en/mode-card.webp" alt="The Creation mode field at the top of the Basic Info tab. It has two buttons, Simple mode and Expert mode, with Simple mode selected" caption="The Creation mode field">
 
