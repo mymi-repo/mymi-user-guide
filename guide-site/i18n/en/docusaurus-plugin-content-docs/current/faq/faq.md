@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-07
+  date: 2026-10-19
 description: What to check and how to fix things when you're stuck with logging in, verification, Sparks, payments, chatting, or creating works.
 ---
 
@@ -204,7 +204,7 @@ If you see "Max output limit reached", the reply stopped at its length limit. Se
 
 An AI model can only look at so much at once, so it can lose track of the early part of a long chat.
 
-1. In the chat room's ⋮ menu, go to **Memory Management → Memory Fragments** and check that **Use Memory Fragments** (**Use Memory** in the app) is on.
+1. In the chat room's ⋮ menu, go to **Memory Management → Memory Fragments** and check that **Use Memory Fragments** is on.
 2. In **Memory Management → Long-term Memory**, check how the story so far has been summed up.
 3. Write relationships and settings that must be remembered in **Chat Settings → User Note** (up to 2,000 characters) and save.
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 last_update:
-  date: 2026-10-02
+  date: 2026-10-19
 description: When a character forgets earlier events, check long-term memory and memory fragments and correct it with a user note.
 ---
 
@@ -11,7 +11,7 @@ As a conversation gets longer, the AI may lose track of earlier parts. Here's wh
 
 ## When a character forgets
 
-1. In the ⋮ menu, open **Memory Management → Memory Fragments** and check that **Use Memory Fragments** (**Use Memory** in the app) is on.
+1. In the ⋮ menu, open **Memory Management → Memory Fragments** and check that **Use Memory Fragments** is on.
 2. Open **Memory Management → Long-term Memory** to see how the story so far has been summarized.
 3. If something is remembered wrong or missing, write the correct details in **Chat Settings → User Note** in the ⋮ menu and select **Save**.
 4. It can also help to bring it up in your next message. For example: "Do you remember the place we promised to meet?"
@@ -32,21 +32,25 @@ For example, the big picture that two characters made up goes into long-term mem
 
 ## View long-term memory
 
-1. In the ⋮ menu, select **Memory Management → Long-term Memory**.
-2. Read the summarized flow.
+1. In the ⋮ menu, select **Memory Management → Long-term Memory**. The **Long-term Memory** tab of the **Memory** screen opens.
+2. Read the summarized flow under **The Story So Far**.
 
-If you see "No long-term memory yet.", keep chatting. It's first created after about 20 messages, and it's updated again as the conversation continues.
+At the top, you can see how many exchanges are left until the next summary. The AI reads this story with every reply and rewrites it every 10 exchanges.
+
+If you see "No story written yet", keep chatting. The first summary is written after 10 exchanges.
 
 ## Find memory fragments
 
-1. In the ⋮ menu, select **Memory Management → Memory Fragments**.
-2. Each card shows a title, the characters involved, and where it happened in the conversation (like **T10-20**). Select a card to expand it, and select it again to collapse it.
-3. Type an event, character, or place in the search box at the top to find related fragments. It also finds fragments with a similar meaning.
-4. If there are many fragments, scroll down to see more. In the app, select **Load more**.
+1. In the ⋮ menu, select **Memory Management → Memory Fragments**. The **Memory Fragments** tab of the **Memory** screen opens.
+2. On the **Map**, circles are characters and small diamonds are memory fragments. Select a fragment to open its card. Select a character to see only their memories. Your persona is marked **Me**.
+3. Spread two fingers or select **＋** to zoom in, and fragment titles appear next to them. Drag to move around, and select **Show all** to go back to the full view. On a PC, you can also zoom with the mouse wheel.
+4. **Recently recalled** shows the fragments the AI recalled for its last reply.
+5. The map shows only the latest 24. To see them all, select **List**, and select **Load more** if there are many.
+6. Type a scene or name in the search box at the top to find related fragments. It also finds fragments with a similar meaning.
 
 ## Turn off memory fragments
 
-**Use Memory Fragments** (**Use Memory** in the app) is on by default. When you turn it off, replies leave out memory fragments while you're in that chat room. Long-term memory and the user note are still used.
+**Use Memory Fragments** at the top of the **Memory Fragments** tab is on by default. When you turn it off, replies leave out memory fragments while you're in that chat room. Long-term memory and the user note are still used.
 
 - Try turning it off for a while if the AI keeps bringing up the wrong memory fragment.
 - It turns back on when you leave the chat room and come back.
@@ -55,9 +59,9 @@ If you see "No long-term memory yet.", keep chatting. It's first created after a
 ## If you get stuck
 
 <details>
-<summary>It says "No long-term memory yet."</summary>
+<summary>It says "No story written yet"</summary>
 
-The conversation is still short. Long-term memory is first created after about 20 messages.
+The conversation is still short. The first summary is written after 10 exchanges. You can see how many exchanges are left at the top of the **Long-term Memory** tab.
 
 </details>
 
