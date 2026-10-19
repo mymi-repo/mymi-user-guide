@@ -27,7 +27,7 @@ Change these in **Chat Settings** in the ⋮ menu. Changes apply from the next r
 
 | Setting | What it does |
 | --- | --- |
-| **Writing Style** | **Novel** is rich in description and narration. **Light Novel** is lighter and focuses on dialogue |
+| **Writing Style** | **As Written** adds no style instructions and keeps the style the work is written in. **Novel** is rich in description and narration. **Light Novel** is lighter and focuses on dialogue. **Web Novel** uses short paragraphs and moves fast. **Romance** follows inner feelings and the emotional arc |
 | **Story Booster** | When on, the AI actively creates events and the plot moves faster |
 | **Let AI write my actions** | When on, the AI also writes your actions and lines. Turn it off if you want to write your own actions |
 | **One scene at a time** | When on, works with pictures show only one picture per reply. The amount of text stays the same |
