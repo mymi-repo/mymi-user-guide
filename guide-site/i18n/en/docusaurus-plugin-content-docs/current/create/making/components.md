@@ -9,7 +9,7 @@ last_update:
 
 # Add components
 
-A component is **UI the AI shows during a chat**. Build things you want to show, like a status window, an inventory, or choices, and the AI calls them when needed. You can make one without knowing code by using **Build with a Gem**.
+A component is **UI the AI shows during a chat**. Build things you want to show, like a status window, an inventory, or choices, and the AI calls them when needed. You can make one without knowing code by using **Create with AI Studio**.
 
 :::info
 This is the Expert mode guide. For Simple mode, see [Lorebook, components, and optional items](/create/simple/extras#components).
@@ -17,15 +17,11 @@ This is the Expert mode guide. For Simple mode, see [Lorebook, components, and o
 
 ## Add a component
 
-<ScreenStep src="/img/screens/en/components-top.webp" alt="The Components tab, showing the StatusWindow component preview, Add component, and Build with a Gem" caption="Components tab">
-
 1. Select **Add component**.
 2. Paste the code into the **JSX code** field. Select **Paste** to put in the code on your clipboard.
 3. Check in the preview how it will look in a chat.
 
 The component name and props are read from the code automatically.
-
-</ScreenStep>
 
 <ScreenStep src="/img/screens/en/components-editor.webp" device="part" alt="The StatusWindow component opened, showing the preview, JSX code, default prop values hp and mp, and the call tag with a Copy button" caption="Edit a component">
 
@@ -85,18 +81,26 @@ At the moment a rule applies, output the tag below on its own line, exactly as w
 A component only draws the values the AI gives it. Whether the values are right, like an HP calculation, depends on the AI's reply. Even with rules, the AI may occasionally leave out the tag or fill in values differently.
 :::
 
-## Build with a Gem
+## Create with AI Studio
 
-You don't have to write the code yourself. In **Build with a Gem** under the tab, you build it by talking with a Google Gemini Gem.
+[Open AI Studio](https://aistudio.google.com/apps/5e37a6ef-b980-4613-9c34-38b888e1bd1e?showPreview=true&showAssistant=true)
 
-1. If the component will use asset images, select **Copy asset info**. You can select it only when the Assets tab has a finished image.
-2. Select **Open Gem**, and in your first message briefly describe the work and the UI you want to make. Paste the asset info you copied too.
-3. Answer the Gem's questions, check the summary it puts together, and ask it to build.
-4. Copy the finished code and put it in **Paste** under **Add component**.
-5. Put the sentence the Gem also gives you for the Prompt tab into the Prompt tab.
+Use **Copy asset info** if you want to include asset images. You can start creating without any finished images.
 
-:::tip[Follow what the Gem says in its first reply]
-If the Gem asks you to switch to **Gemini Flash** or **Pro**, do it. To watch what it builds alongside, turn on <strong>＋ → Canvas</strong> below the Gemini input box.
+1. **Open the workspace template** — Select Open AI Studio and sign in with Google. If a notice says the app is from another developer, select Continue to the app. The MYMI app opens an external browser.
+2. **Remix your own workspace** — After the template loads, select Remix (Copy app) at the top, choose a name, then select Remix app. Start creating when your own workspace opens.
+3. **Tell Gemini what you want** — In the Gemini input on the left, ask for something like “Make a MYMI component that shows health and affinity.” Paste any copied work or asset information with your request.
+4. **Preview and refine** — After the build finishes, choose the component or profile HTML tab in Preview on the right. If Launch appears, select it to start the workspace. Ask Gemini to adjust colors, content, and layout.
+5. **Copy the finished code for MYMI** — Check the validation results in the component tab, then select MYMI에 붙여넣을 코드 복사 (Copy code for MYMI). If automatic copying is blocked, select and copy all the displayed code.
+6. **Paste it back into MYMI** — Go to Components → Add component → Paste. Check the default variable values and preview. Add the invocation tag and usage instructions from Gemini to your prompt, then save your work.
+7. Put the invocation tag and usage instructions from Gemini into the **Prompt** tab.
+
+:::info
+Create with a Google account within the free request allowance. This workflow needs no paid API key or deployment.
+:::
+
+:::tip
+If Remix shows a permission error, check your Google account, reload, and try Remix again. If the preview is blank, reload after the build finishes. If you reach the free request limit, continue after it resets.
 :::
 
 ## Components that use images

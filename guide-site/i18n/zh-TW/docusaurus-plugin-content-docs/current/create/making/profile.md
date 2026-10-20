@@ -1,6 +1,6 @@
 ---
 title: 美化作品介紹
-description: 說明如何放入多張封面、用 Markdown 與 HTML 美化詳細說明、用 Gem 製作介紹頁，以及創作者指南與推薦模型。
+description: 說明如何放入多張封面、用 Markdown 與 HTML 美化詳細說明、用 AI Studio 製作介紹頁，以及創作者指南與推薦模型。
 slug: /create/profile
 sidebar_position: 3
 last_update:
@@ -45,13 +45,9 @@ last_update:
 
 **詳細說明**是作品介紹畫面的本文。最多 50,000 字，可以混用一般文字、Markdown、HTML。
 
-<ScreenStep src="/img/screens/zh-TW/profile-description.webp" device="part" alt="詳細說明欄，以及其下方的用 Gem 製作區塊" caption="詳細說明與用 Gem 製作">
-
 1. **預覽**：確認使用者看到的樣子。
-2. **複製素材資訊**：複製素材分頁圖片的實際網址。貼到 Gem 裡，就能做出使用那些圖片的介紹。
-3. **開啟 Gem**：在 Google Gemini 開啟 MYMI 準備的 Gem。
-
-</ScreenStep>
+2. **複製素材資訊**：複製素材分頁圖片的實際網址。貼到 Gemini 裡，就能做出使用那些圖片的介紹。
+3. **開啟 AI Studio** — 按「開啟 AI Studio」並登入 Google。若出現此應用程式由其他開發者製作的提示，請按「Continue to the app」。MYMI App 會開啟外部瀏覽器。
 
 <ScreenStep src="/img/screens/zh-TW/profile-description-preview.webp" alt="詳細說明預覽視窗，標題、登場人物、遊玩方式依格式顯示" caption="詳細說明預覽">
 
@@ -66,24 +62,25 @@ last_update:
 
 </ScreenStep>
 
-### 用 Gem 製作介紹頁
+### 用 AI Studio 製作介紹頁
 
-不懂 HTML 也沒關係，可以一邊和 Gem 對話，一邊做出美化過的介紹頁。
+[開啟 AI Studio](https://aistudio.google.com/apps/5e37a6ef-b980-4613-9c34-38b888e1bd1e?showPreview=true&showAssistant=true)
 
-1. 如果素材分頁有圖片，先點選**複製素材資訊**。完全沒有完成的圖片時，這個按鈕無法點選。
-2. 點選**開啟 Gem**，在第一則訊息簡單介紹作品，並貼上複製的素材資訊後送出。
-3. Gem 會用編號詢問你想要的氣氛、結構，以及作品使用的語言等。可以從範例答案中挑選，也可以自己回答。
-4. Gem 整理出規格後，確認無誤再請它製作。完成的程式碼請整個程式碼區塊一起複製。
-5. 把複製的程式碼貼到**詳細說明**欄，用**預覽**確認。有想修改的地方就告訴 Gem，再把整段重新貼上。
+想使用圖片時，請按**複製素材資訊**。沒有圖片也能開始製作。
 
-:::tip[使用 Gem 時]
-- 如果 Gem 在第一次回覆時，請你把模型換成 **Gemini Flash** 或 **Pro**，請照做。用其他模型時，結果常常會跑掉。
-- 想一邊看結果一邊修改，請在 Gemini 輸入框下方開啟 **＋ → Canvas** 再提出要求。
-- 不貼素材資訊也能製作。貼上的話，會做出放入實際圖片的介紹。
-:::
+1. **開啟工作室範本** — 按「開啟 AI Studio」並登入 Google。若出現此應用程式由其他開發者製作的提示，請按「Continue to the app」。MYMI App 會開啟外部瀏覽器。
+2. **用 Remix 建立自己的工作室** — 範本載入完成後，按上方的「Remix（Copy app）」，輸入名稱後按「Remix app」。自己的工作室開啟後即可開始製作。
+3. **告訴 Gemini 想要的效果** — 在左側 Gemini 輸入框提出需求，例如「用個人介紹 HTML 模式製作這部作品的介紹頁」。若已複製作品或素材資訊，也可一起貼上。
+4. **在 Preview 確認並調整** — 建置完成後，在右側 Preview 選擇元件或個人介紹 HTML 分頁。若顯示 Launch，請按下啟動工作室。再請 Gemini 調整顏色、內容和排版。
+5. **複製完成的 MYMI 程式碼** — 在個人介紹 HTML 分頁確認驗證結果後，按「MYMI에 붙여넣을 코드 복사（複製 HTML）」。若無法自動複製，請選取畫面上的完整 HTML 並複製。
+6. **回到 MYMI 貼上** — 將 HTML 貼到基本資訊 → 詳細說明。在 MYMI 預覽中確認後儲存作品。
 
 :::info
-Gem 是 MYMI 之外的 Google 服務。使用時可能需要 Google 帳號，結果會依你和 Gem 的對話而不同。
+使用 Google 帳號即可在免費請求額度內製作。此流程不需要連結付費 API 金鑰或部署。
+:::
+
+:::tip
+Remix 時若出現權限錯誤，請確認 Google 帳號，重新整理後再按 Remix。預覽空白時，請等建置完成後重新整理。免費額度用完後，請待額度重設再繼續。
 :::
 
 :::warning[刪除圖片之前]
@@ -130,7 +127,7 @@ Gem 是 MYMI 之外的 Google 服務。使用時可能需要 Google 帳號，結
 <details>
 <summary>貼上 HTML 之後，預覽和我想的不一樣</summary>
 
-請確認 Gem 做的程式碼區塊是否從頭到尾完整複製。只貼上一部分，版面可能會跑掉。請再請 Gem 修改，然後把整段貼上。
+請確認 Gemini 做的程式碼區塊是否從頭到尾完整複製。只貼上一部分，版面可能會跑掉。請再請 Gemini 修改，然後把整段貼上。
 
 </details>
 

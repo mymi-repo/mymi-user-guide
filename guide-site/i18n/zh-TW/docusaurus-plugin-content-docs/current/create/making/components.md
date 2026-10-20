@@ -9,7 +9,7 @@ last_update:
 
 # 加入元件
 
-元件是**AI 在聊天中顯示的 UI**。先做好狀態視窗、道具欄、選項這類想呈現的內容，AI 就會在需要時呼叫。不懂程式碼也沒關係，可以用**用 Gem 製作**來做。
+元件是**AI 在聊天中顯示的 UI**。先做好狀態視窗、道具欄、選項這類想呈現的內容，AI 就會在需要時呼叫。不懂程式碼也沒關係，可以用**用 AI Studio 製作**來做。
 
 :::info
 這是專家模式的說明。簡易模式請見 [設定集、元件與選填](/create/simple/extras#components)。
@@ -17,15 +17,11 @@ last_update:
 
 ## 新增元件
 
-<ScreenStep src="/img/screens/zh-TW/components-top.webp" alt="元件分頁。可以看到 StatusWindow 元件的預覽、新增元件與用 Gem 製作" caption="元件分頁">
-
 1. 點選**新增元件**。
 2. 把程式碼貼到 **JSX 程式碼**欄。點選**貼上**，就會放入剪貼簿中的程式碼。
 3. 在預覽確認聊天中的樣子。
 
 元件名稱和變數會從程式碼自動讀取。
-
-</ScreenStep>
 
 <ScreenStep src="/img/screens/zh-TW/components-editor.webp" device="part" alt="展開 StatusWindow 元件的畫面。預覽、JSX 程式碼、變數預設值 hp・mp、呼叫標籤與複製按鈕" caption="編輯元件">
 
@@ -85,18 +81,26 @@ function StatusWindow({ hp = 100, mp = 40 }) {
 元件只是把 AI 填入的值畫得好看而已。像體力計算這類，數值對不對取決於 AI 的回覆。就算寫了規則，AI 偶爾還是可能漏掉標籤，或填入不同的值。
 :::
 
-## 用 Gem 製作
+## 用 AI Studio 製作
 
-不用自己寫程式碼也可以。在分頁下方的**用 Gem 製作**，和 Google Gemini 的 Gem 對話來製作。
+[開啟 AI Studio](https://aistudio.google.com/apps/5e37a6ef-b980-4613-9c34-38b888e1bd1e?showPreview=true&showAssistant=true)
 
-1. 如果元件要用素材圖片，先點選**複製素材資訊**。素材分頁要有完成的圖片才能點選。
-2. 點選**開啟 Gem**，在第一則訊息簡單介紹作品，並寫下想做的 UI。也要貼上複製的素材資訊。
-3. 回答 Gem 的問題，確認整理好的規格後，請它製作。
-4. 複製完成的程式碼，放到**新增元件**的**貼上**。
-5. 把 Gem 一併告訴你的、要貼到提示詞分頁的句子，放進提示詞分頁。
+想使用圖片時，請按**複製素材資訊**。沒有圖片也能開始製作。
 
-:::tip[照 Gem 第一次回覆的指示做]
-如果 Gem 請你把模型換成 **Gemini Flash** 或 **Pro**，請照做。想一邊看做好的樣子，請在 Gemini 輸入框下方開啟<strong>＋ → Canvas</strong>。
+1. **開啟工作室範本** — 按「開啟 AI Studio」並登入 Google。若出現此應用程式由其他開發者製作的提示，請按「Continue to the app」。MYMI App 會開啟外部瀏覽器。
+2. **用 Remix 建立自己的工作室** — 範本載入完成後，按上方的「Remix（Copy app）」，輸入名稱後按「Remix app」。自己的工作室開啟後即可開始製作。
+3. **告訴 Gemini 想要的效果** — 在左側 Gemini 輸入框提出需求，例如「製作顯示體力與好感度的 MYMI 元件」。若已複製作品或素材資訊，也可一起貼上。
+4. **在 Preview 確認並調整** — 建置完成後，在右側 Preview 選擇元件或個人介紹 HTML 分頁。若顯示 Launch，請按下啟動工作室。再請 Gemini 調整顏色、內容和排版。
+5. **複製完成的 MYMI 程式碼** — 在元件分頁確認驗證結果後，按「MYMI에 붙여넣을 코드 복사（複製 MYMI 程式碼）」。若無法自動複製，請選取畫面上的完整程式碼並複製。
+6. **回到 MYMI 貼上** — 貼到元件 → 新增元件 → 貼上。確認變數預設值與預覽，將 Gemini 提供的呼叫標籤與使用指示加入提示詞後儲存作品。
+7. 將 Gemini 提供的呼叫標籤與使用指示放入**提示詞**分頁。
+
+:::info
+使用 Google 帳號即可在免費請求額度內製作。此流程不需要連結付費 API 金鑰或部署。
+:::
+
+:::tip
+Remix 時若出現權限錯誤，請確認 Google 帳號，重新整理後再按 Remix。預覽空白時，請等建置完成後重新整理。免費額度用完後，請待額度重設再繼續。
 :::
 
 ## 使用圖片的元件

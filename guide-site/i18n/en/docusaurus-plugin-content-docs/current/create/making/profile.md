@@ -1,6 +1,6 @@
 ---
 title: Decorate your work page
-description: Add several covers, style the description with Markdown and HTML, build an intro page with a Gem, and set the creator guide and recommended models.
+description: Add several covers, style the description with Markdown and HTML, build an intro page with a AI Studio, and set the creator guide and recommended models.
 slug: /create/profile
 sidebar_position: 3
 last_update:
@@ -45,13 +45,9 @@ The cover is the first image people see in the work list. Put a vertical image t
 
 The **Description** is the body of the work page. It can be up to 50,000 characters, and you can mix plain text, Markdown, and HTML.
 
-<ScreenStep src="/img/screens/en/profile-description.webp" device="part" alt="The Description field with the Build with a Gem box below it" caption="Description and Build with a Gem">
-
 1. **Preview**: Check how users will see it.
-2. **Copy asset info**: Copies the real addresses of the images in the Assets tab. Paste it into the Gem to build an intro that uses those images.
-3. **Open Gem**: Opens the Gem that MYMI prepared in Google Gemini.
-
-</ScreenStep>
+2. **Copy asset info**: Copies the actual image addresses. Paste them into the Gemini input in your own workspace.
+3. **Open AI Studio**: Opens the MYMI workspace template in a new tab.
 
 <ScreenStep src="/img/screens/en/profile-description-preview.webp" alt="The description preview window, with the title, characters, and how to enjoy it shown in their formatting" caption="Description preview">
 
@@ -66,24 +62,25 @@ An introduction is easier to read in this order:
 
 </ScreenStep>
 
-### Build an intro page with a Gem
+### Create an intro page with AI Studio
 
-You don't need to know HTML. You can talk with a Gem to build a styled intro page.
+[Open AI Studio](https://aistudio.google.com/apps/5e37a6ef-b980-4613-9c34-38b888e1bd1e?showPreview=true&showAssistant=true)
 
-1. If the Assets tab has images, select **Copy asset info**. The button can't be selected if there isn't a single finished image.
-2. Select **Open Gem** to open the Gem. In your first message, briefly describe the work, paste the asset info you copied, and send it.
-3. The Gem asks you numbered questions about the mood and structure you want, the language of the work, and so on. Pick from the example answers or answer in your own words.
-4. When the Gem shows the summary it put together, check it and ask it to build the page. Copy the finished code along with its whole code block.
-5. Paste the copied code into the **Description** field and check it with **Preview**. If something needs fixing, tell the Gem and paste the whole thing again.
+Use **Copy asset info** if you want to include asset images. You can start creating without any finished images.
 
-:::tip[When you use the Gem]
-- If the Gem asks you in its first reply to switch to **Gemini Flash** or **Pro**, do it. Other models often break the result.
-- To watch the result while you edit it, turn on **＋ → Canvas** below the Gemini input box before you ask.
-- You can build the page without pasting asset info. If you paste it, the intro comes out with your real images.
-:::
+1. **Open the workspace template** — Select Open AI Studio and sign in with Google. If a notice says the app is from another developer, select Continue to the app. The MYMI app opens an external browser.
+2. **Remix your own workspace** — After the template loads, select Remix (Copy app) at the top, choose a name, then select Remix app. Start creating when your own workspace opens.
+3. **Tell Gemini what you want** — In the Gemini input on the left, ask for something like “Make an introduction page for this work in profile HTML mode.” Paste any copied work or asset information with your request.
+4. **Preview and refine** — After the build finishes, choose the component or profile HTML tab in Preview on the right. If Launch appears, select it to start the workspace. Ask Gemini to adjust colors, content, and layout.
+5. **Copy the finished code for MYMI** — Check the validation results in the profile HTML tab, then select MYMI에 붙여넣을 코드 복사 (Copy HTML). If automatic copying is blocked, select and copy all the displayed HTML.
+6. **Paste it back into MYMI** — Paste the HTML into Basic info → Description. Check the MYMI preview, then save your work.
 
 :::info
-The Gem is a Google service outside MYMI. You may need a Google account to use it, and the result depends on what you discuss with the Gem.
+Create with a Google account within the free request allowance. This workflow needs no paid API key or deployment.
+:::
+
+:::tip
+If Remix shows a permission error, check your Google account, reload, and try Remix again. If the preview is blank, reload after the build finishes. If you reach the free request limit, continue after it resets.
 :::
 
 :::warning[Before you delete images]
@@ -130,7 +127,7 @@ It works only when the Assets tab has a finished image. Upload or generate an im
 <details>
 <summary>I pasted the HTML, but the preview isn't what I expected</summary>
 
-Check that you copied the Gem's code block from start to finish. Pasting only part of it can break the layout. Ask the Gem to fix it again, then paste the whole thing.
+In the **profile HTML** tab, select **MYMI에 붙여넣을 코드 복사 (Copy code for MYMI)** and paste the complete result again. If the layout is still broken, ask Gemini to fix it.
 
 </details>
 
