@@ -93,7 +93,6 @@ Use **Copy asset info** if you want to include asset images. You can start creat
 4. **Preview and refine** — After the build finishes, choose the component or profile HTML tab in Preview on the right. If Launch appears, select it to start the workspace. Ask Gemini to adjust colors, content, and layout.
 5. **Copy the finished code for MYMI** — Check the validation results in the component tab, then select MYMI에 붙여넣을 코드 복사 (Copy code for MYMI). If automatic copying is blocked, select and copy all the displayed code.
 6. **Paste it back into MYMI** — Go to Components → Add component → Paste. Check the default variable values and preview. Add the invocation tag and usage instructions from Gemini to your prompt, then save your work.
-7. Put the invocation tag and usage instructions from Gemini into the **Prompt** tab.
 
 :::info
 Create with a Google account within the free request allowance. This workflow needs no paid API key or deployment.
