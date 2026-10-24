@@ -4,7 +4,7 @@ description: 說明簡易模式的選填步驟設定集、元件、選填的用�
 slug: /create/simple/extras
 sidebar_position: 5
 last_update:
-  date: 2026-10-07
+  date: 2026-10-24
 ---
 
 # 設定集、元件與選填
@@ -50,7 +50,7 @@ last_update:
 
 ## 元件 {/* #components */}
 
-元件是 **AI 在聊天中顯示的 UI**。把想顯示的東西做好，例如狀態視窗、道具欄、選項，AI 就會在需要時呼叫。不懂程式碼，也可以用 AI Studio 來做。
+元件是 **AI 在聊天中顯示的 UI**。把想顯示的東西做好，例如狀態視窗、道具欄、選項，AI 就會在需要時呼叫。不懂程式碼，也可以透過**用 Google AI Studio 製作**來做。
 
 <ScreenStep src="/img/screens/zh-TW/simple-components.webp" alt="元件步驟。上方有指南與複製作品上下文按鈕，StatusWindow 元件卡片與預覽，以及新增元件按鈕" caption="元件步驟">
 
@@ -105,23 +105,18 @@ AI 會讀取元件的名稱、使用描述、變數與預設值，並在適當�
 
 **用 AI Studio 製作**
 
-[開啟 AI Studio](https://aistudio.google.com/apps/5e37a6ef-b980-4613-9c34-38b888e1bd1e?showPreview=true&showAssistant=true)
+不懂程式碼，也可以和 Gemini 對話來製作元件。從元件步驟上方的**用 Google AI Studio 製作**開始。
 
-可用**複製作品上下文**準備作品設定。按**使用指南**可再次查看步驟。
+1. 點選**複製作品資訊**。作品設定和圖片網址會一起複製。
+2. 點選**開啟 Google AI Studio**。第一次使用時，用 **Remix** 建立自己的工作室。
+3. 在輸入框貼上作品資訊，再在下方寫一兩行想要的樣子後送出。
+4. 完成後點選 **MYMI에 붙여넣을 코드 복사**（複製 MYMI 程式碼），再貼到 MYMI 的**新增元件** → **JSX 程式碼**欄位。
+5. 複製 Gemini 回覆中寫著何時顯示的句子，貼到**使用描述**欄位。沒有這句話，元件就不會出現在聊天中。
 
-1. **開啟工作室範本** — 按「開啟 AI Studio」並登入 Google。若出現此應用程式由其他開發者製作的提示，請按「Continue to the app」。MYMI App 會開啟外部瀏覽器。
-2. **用 Remix 建立自己的工作室** — 範本載入完成後，按上方的「Remix（Copy app）」，輸入名稱後按「Remix app」。自己的工作室開啟後即可開始製作。
-3. **告訴 Gemini 想要的效果** — 在左側 Gemini 輸入框提出需求，例如「製作顯示體力與好感度的 MYMI 元件」。若已複製作品或素材資訊，也可一起貼上。
-4. **在 Preview 確認並調整** — 建置完成後，在右側 Preview 選擇元件或個人介紹 HTML 分頁。若顯示 Launch，請按下啟動工作室。再請 Gemini 調整顏色、內容和排版。
-5. **複製完成的 MYMI 程式碼** — 在元件分頁確認驗證結果後，按「MYMI에 붙여넣을 코드 복사（複製 MYMI 程式碼）」。若無法自動複製，請選取畫面上的完整程式碼並複製。
-6. **回到 MYMI 貼上** — 在元件畫面新增元件，並貼到 JSX 程式碼欄位。確認變數預設值與預覽後，前往下一步儲存。
+點選**使用指南**，會開啟分步驟的說明。實際的 AI Studio 畫面請見[跟著 Google AI Studio 畫面操作](/create/ai-studio)。
 
 :::info
-使用 Google 帳號即可在免費請求額度內製作。此流程不需要連結付費 API 金鑰或部署。
-:::
-
-:::tip
-Remix 時若出現權限錯誤，請確認 Google 帳號，重新整理後再按 Remix。預覽空白時，請等建置完成後重新整理。免費額度用完後，請待額度重設再繼續。
+可在 Google 帳號的免費請求額度內使用。不需要付款或 API 金鑰。
 :::
 
 ## 選填
@@ -141,26 +136,21 @@ Remix 時若出現權限錯誤，請確認 Google 帳號，重新整理後再按
 
 </ScreenStep>
 
+**用 AI Studio 製作**
 
-[開啟 AI Studio](https://aistudio.google.com/apps/5e37a6ef-b980-4613-9c34-38b888e1bd1e?showPreview=true&showAssistant=true)
+不懂 HTML，也可以和 Gemini 對話來製作介紹頁。從詳細說明標題下方的**用 Google AI Studio 製作**開始。
 
-可用**複製作品上下文**準備作品設定。按**使用指南**可再次查看步驟。
+1. 點選**複製作品資訊**。作品設定、圖片網址和目前寫的詳細說明會一起複製。
+2. 點選**開啟 Google AI Studio**。第一次使用時，用 **Remix** 建立自己的工作室。
+3. 在輸入框貼上作品資訊，再在下方寫一兩行想要的樣子後送出。
+4. 完成後，在上方確認已選擇**프로필 HTML**（個人介紹 HTML），再點選 **MYMI에 붙여넣을 코드 복사**（複製 MYMI 程式碼）。
+5. 在 MYMI 的詳細說明選擇**使用**，貼到 HTML 輸入欄。用預覽確認後點選**完成**。
 
-1. **開啟工作室範本** — 按「開啟 AI Studio」並登入 Google。若出現此應用程式由其他開發者製作的提示，請按「Continue to the app」。MYMI App 會開啟外部瀏覽器。
-2. **用 Remix 建立自己的工作室** — 範本載入完成後，按上方的「Remix（Copy app）」，輸入名稱後按「Remix app」。自己的工作室開啟後即可開始製作。
-3. **告訴 Gemini 想要的效果** — 在左側 Gemini 輸入框提出需求，例如「用個人介紹 HTML 模式製作這部作品的介紹頁」。若已複製作品或素材資訊，也可一起貼上。
-4. **在 Preview 確認並調整** — 建置完成後，在右側 Preview 選擇元件或個人介紹 HTML 分頁。若顯示 Launch，請按下啟動工作室。再請 Gemini 調整顏色、內容和排版。
-5. **複製完成的 MYMI 程式碼** — 在個人介紹 HTML 分頁確認驗證結果後，按「MYMI에 붙여넣을 코드 복사（複製 HTML）」。若無法自動複製，請選取畫面上的完整 HTML 並複製。
-6. **回到 MYMI 貼上** — 在詳細說明選擇使用 HTML，並貼到 HTML 程式碼欄位。確認預覽後，前往下一步儲存。
+點選**使用指南**，會開啟分步驟的說明。實際的 AI Studio 畫面請見[跟著 Google AI Studio 畫面操作](/create/ai-studio)。
 
 :::info
-使用 Google 帳號即可在免費請求額度內製作。此流程不需要連結付費 API 金鑰或部署。
+可在 Google 帳號的免費請求額度內使用。不需要付款或 API 金鑰。
 :::
-
-:::tip
-Remix 時若出現權限錯誤，請確認 Google 帳號，重新整理後再按 Remix。預覽空白時，請等建置完成後重新整理。免費額度用完後，請待額度重設再繼續。
-:::
-
 
 :::info[AI 不會讀詳細說明]
 詳細說明是顯示在作品介紹畫面的文字。AI 需要知道的設定，請寫在基本資訊步驟。

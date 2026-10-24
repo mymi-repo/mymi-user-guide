@@ -213,6 +213,7 @@ GitBook의 `{% hint %}` 블록은 Docusaurus admonition으로 자동 변환됨:
 - 카드 아이콘 이름: `compass` `device` `userPlus` `chat` `persona` `sliders` `layers` `model` `pen` `book` `card` `help` `shield` `mail` `spark` `history` `image` `code` `send` `list`. 새 아이콘은 `src/components/GuideCards/icons.js`에 같은 선 두께로 추가한다.
 - 카드 제목은 연결한 문서의 제목과 같게 쓴다. 문서 제목을 바꾸면 첫 화면 카드도 같이 고친다.
 - 화면 캡처는 `static/img/screens/<locale>/`에 WebP로 두고 각 언어의 화면을 쓴다. `alt`는 비워 두지 않는다. 실제 계정의 닉네임·아이디·잔액·채팅방 ID는 담지 않는다.
+- Google AI Studio 화면(`create/start/ai-studio.md`)은 언어와 관계없이 같아서 `static/img/screens/ai-studio/` 하나를 네 언어가 같이 쓴다. 원본을 소유하지 않은 테스트 계정으로 PC에서 찍고, 계정 이메일이 보이는 부분은 잘라 낸다. 누를 곳의 노란 테두리는 FE 저장소의 `local_scripts/FE/AI-Studio/make_guide_shots.py`(이 PC 전용)로 그린다. AI Studio 화면이나 MYMI 작업실 템플릿 문구가 바뀌면 다시 찍는다.
 - 페이지 끝은 **자주 막히는 곳**(`<details>`)과 **다음에 할 일**(`CardGrid`) 순서로 맺는다. 제작 가이드의 본문은 해요체로 쓴다.
 - 문서 본문에서 `{{user}}`, `{{char}}`, `{{URL}}`처럼 중괄호가 들어간 글은 반드시 `` ` `` 로 감싼다. MDX가 중괄호를 코드로 읽어 빌드가 깨진다.
 

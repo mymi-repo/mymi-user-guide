@@ -1,10 +1,10 @@
 ---
 title: Decorate your work page
-description: Add several covers, style the description with Markdown and HTML, build an intro page with a AI Studio, and set the creator guide and recommended models.
+description: Add several covers, style the description with Markdown and HTML, build an intro page with Google AI Studio, and set the creator guide and recommended models.
 slug: /create/profile
 sidebar_position: 3
 last_update:
-  date: 2026-10-03
+  date: 2026-10-24
 ---
 
 # Decorate your work page
@@ -45,9 +45,8 @@ The cover is the first image people see in the work list. Put a vertical image t
 
 The **Description** is the body of the work page. It can be up to 50,000 characters, and you can mix plain text, Markdown, and HTML.
 
-1. **Preview**: Check how users will see it.
-2. **Copy asset info**: Copies the actual image addresses. Paste them into the Gemini input in your own workspace.
-3. **Open AI Studio**: Opens the MYMI workspace template in a new tab.
+- **Preview**: Check how users will see it.
+- **Create with Google AI Studio**: It's below the input field. Chat with Gemini to make an HTML intro page. See the steps [below](#create-an-intro-page-with-ai-studio).
 
 <ScreenStep src="/img/screens/en/profile-description-preview.webp" alt="The description preview window, with the title, characters, and how to enjoy it shown in their formatting" caption="Description preview">
 
@@ -64,27 +63,22 @@ An introduction is easier to read in this order:
 
 ### Create an intro page with AI Studio
 
-[Open AI Studio](https://aistudio.google.com/apps/5e37a6ef-b980-4613-9c34-38b888e1bd1e?showPreview=true&showAssistant=true)
+Start from **Create with Google AI Studio** below the Description field. Chat with Gemini to make an HTML page with character art and an introduction to your work.
 
-Use **Copy asset info** if you want to include asset images. You can start creating without any finished images.
+1. Select **Copy work info**. Your work's settings, image addresses, and current description are copied together.
+2. Select **Open Google AI Studio**. If it's your first time, make your own workspace with **Remix**.
+3. Paste the work info into the input, add a line or two about what you want below it, and send.
+4. When it's done, check at the top that **프로필 HTML** (Profile HTML) is selected, then select **MYMI에 붙여넣을 코드 복사** (Copy code for MYMI).
+5. Paste it into the **Description** field in MYMI, check it with **Preview**, then select **Save draft**.
 
-1. **Open the workspace template** — Select Open AI Studio and sign in with Google. If a notice says the app is from another developer, select Continue to the app. The MYMI app opens an external browser.
-2. **Remix your own workspace** — After the template loads, select Remix (Copy app) at the top, choose a name, then select Remix app. Start creating when your own workspace opens.
-3. **Tell Gemini what you want** — In the Gemini input on the left, ask for something like “Make an introduction page for this work in profile HTML mode.” Paste any copied work or asset information with your request.
-4. **Preview and refine** — After the build finishes, choose the component or profile HTML tab in Preview on the right. If Launch appears, select it to start the workspace. Ask Gemini to adjust colors, content, and layout.
-5. **Copy the finished code for MYMI** — Check the validation results in the profile HTML tab, then select MYMI에 붙여넣을 코드 복사 (Copy HTML). If automatic copying is blocked, select and copy all the displayed HTML.
-6. **Paste it back into MYMI** — Paste the HTML into Basic info → Description. Check the MYMI preview, then save your work.
+Select **How to use** to open step-by-step instructions. To see the actual AI Studio screens, go to [Follow along in Google AI Studio](/create/ai-studio).
 
 :::info
-Create with a Google account within the free request allowance. This workflow needs no paid API key or deployment.
-:::
-
-:::tip
-If Remix shows a permission error, check your Google account, reload, and try Remix again. If the preview is blank, reload after the build finishes. If you reach the free request limit, continue after it resets.
+You can use it within your Google account's free request allowance. No payment or API key is needed. To include art, the Assets tab needs finished images, and images marked as adult-only are not used.
 :::
 
 :::warning[Before you delete images]
-HTML built from asset info contains the real addresses of your images. If you delete an image in the Assets tab, it also disappears from the intro page.
+HTML built from your work info contains the real addresses of your images. If you delete an image in the Assets tab, it also disappears from the intro page.
 :::
 
 ## Creator guide
@@ -118,9 +112,9 @@ Select **Choose** to open the same model list as the chat screen.
 ## If you get stuck
 
 <details>
-<summary>I can't select the Copy asset info button</summary>
+<summary>The copied work info has no image addresses</summary>
 
-It works only when the Assets tab has a finished image. Upload or generate an image, then select the button again.
+Image addresses are included only when the Assets tab has finished images. Upload or generate an image, then select **Copy work info** again.
 
 </details>
 

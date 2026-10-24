@@ -4,7 +4,7 @@ description: Learn how to use Simple mode's optional steps, Lorebook, Components
 slug: /create/simple/extras
 sidebar_position: 5
 last_update:
-  date: 2026-10-07
+  date: 2026-10-24
 ---
 
 # Lorebook, components, and optional items
@@ -50,7 +50,7 @@ These are the example work's lore entries.
 
 ## Components
 
-A component is **UI the AI shows during a chat**. Build things you want to show, like a status window, an inventory, or choices, and the AI calls them when needed. You can make one without knowing code by using AI Studio.
+A component is **UI the AI shows during a chat**. Build things you want to show, like a status window, an inventory, or choices, and the AI calls them when needed. You can make one without knowing code by using **Create with Google AI Studio**.
 
 <ScreenStep src="/img/screens/en/simple-components.webp" alt="The Components step. At the top are the Guide and Copy work context buttons, with a StatusWindow component card and its preview, and the Add component button" caption="The Components step">
 
@@ -105,23 +105,18 @@ A component only draws the values the AI gives it in a nice way. Whether the val
 
 **Create with AI Studio**
 
-[Open AI Studio](https://aistudio.google.com/apps/5e37a6ef-b980-4613-9c34-38b888e1bd1e?showPreview=true&showAssistant=true)
+You can make a component by chatting with Gemini, even without knowing code. Start from **Create with Google AI Studio** at the top of the Components step.
 
-Use **Copy work context** to prepare your work information. Select **How to use** to see these steps again.
+1. Select **Copy work info**. Your work's settings and image addresses are copied together.
+2. Select **Open Google AI Studio**. If it's your first time, make your own workspace with **Remix**.
+3. Paste the work info into the input, add a line or two about what you want below it, and send.
+4. When it's done, select **MYMI에 붙여넣을 코드 복사** (Copy code for MYMI), and paste it into the **Add component** → **JSX code** field in MYMI.
+5. Copy the sentence in Gemini's reply that says when to show it, and paste it into the **Usage Description** field. Without it, the component won't appear in chats.
 
-1. **Open the workspace template** — Select Open AI Studio and sign in with Google. If a notice says the app is from another developer, select Continue to the app. The MYMI app opens an external browser.
-2. **Remix your own workspace** — After the template loads, select Remix (Copy app) at the top, choose a name, then select Remix app. Start creating when your own workspace opens.
-3. **Tell Gemini what you want** — In the Gemini input on the left, ask for something like “Make a MYMI component that shows health and affinity.” Paste any copied work or asset information with your request.
-4. **Preview and refine** — After the build finishes, choose the component or profile HTML tab in Preview on the right. If Launch appears, select it to start the workspace. Ask Gemini to adjust colors, content, and layout.
-5. **Copy the finished code for MYMI** — Check the validation results in the component tab, then select MYMI에 붙여넣을 코드 복사 (Copy code for MYMI). If automatic copying is blocked, select and copy all the displayed code.
-6. **Paste it back into MYMI** — Add a component on the Components screen and paste into JSX code. Check the default variable values and preview, then continue to the next step to save.
+Select **How to use** to open step-by-step instructions. To see the actual AI Studio screens, go to [Follow along in Google AI Studio](/create/ai-studio).
 
 :::info
-Create with a Google account within the free request allowance. This workflow needs no paid API key or deployment.
-:::
-
-:::tip
-If Remix shows a permission error, check your Google account, reload, and try Remix again. If the preview is blank, reload after the build finishes. If you reach the free request limit, continue after it resets.
+You can use it within your Google account's free request allowance. No payment or API key is needed.
 :::
 
 ## Optional
@@ -141,26 +136,21 @@ Decorate the text shown on the work page with HTML. If you don't use it, the wor
 
 </ScreenStep>
 
+**Create with AI Studio**
 
-[Open AI Studio](https://aistudio.google.com/apps/5e37a6ef-b980-4613-9c34-38b888e1bd1e?showPreview=true&showAssistant=true)
+You can make an intro page by chatting with Gemini, even without knowing HTML. Start from **Create with Google AI Studio** under the Description heading.
 
-Use **Copy work context** to prepare your work information. Select **How to use** to see these steps again.
+1. Select **Copy work info**. Your work's settings, image addresses, and current description are copied together.
+2. Select **Open Google AI Studio**. If it's your first time, make your own workspace with **Remix**.
+3. Paste the work info into the input, add a line or two about what you want below it, and send.
+4. When it's done, check at the top that **프로필 HTML** (Profile HTML) is selected, then select **MYMI에 붙여넣을 코드 복사** (Copy code for MYMI).
+5. Under Description in MYMI, choose **Use** and paste it into the HTML field. Check it in the preview, then select **Done**.
 
-1. **Open the workspace template** — Select Open AI Studio and sign in with Google. If a notice says the app is from another developer, select Continue to the app. The MYMI app opens an external browser.
-2. **Remix your own workspace** — After the template loads, select Remix (Copy app) at the top, choose a name, then select Remix app. Start creating when your own workspace opens.
-3. **Tell Gemini what you want** — In the Gemini input on the left, ask for something like “Make an introduction page for this work in profile HTML mode.” Paste any copied work or asset information with your request.
-4. **Preview and refine** — After the build finishes, choose the component or profile HTML tab in Preview on the right. If Launch appears, select it to start the workspace. Ask Gemini to adjust colors, content, and layout.
-5. **Copy the finished code for MYMI** — Check the validation results in the profile HTML tab, then select MYMI에 붙여넣을 코드 복사 (Copy HTML). If automatic copying is blocked, select and copy all the displayed HTML.
-6. **Paste it back into MYMI** — Choose Use HTML under Description and paste into HTML code. Check the preview, then continue to the next step to save.
+Select **How to use** to open step-by-step instructions. To see the actual AI Studio screens, go to [Follow along in Google AI Studio](/create/ai-studio).
 
 :::info
-Create with a Google account within the free request allowance. This workflow needs no paid API key or deployment.
+You can use it within your Google account's free request allowance. No payment or API key is needed.
 :::
-
-:::tip
-If Remix shows a permission error, check your Google account, reload, and try Remix again. If the preview is blank, reload after the build finishes. If you reach the free request limit, continue after it resets.
-:::
-
 
 :::info[The AI doesn't read the Description]
 The Description is text shown on the work page. Write the settings the AI needs to know in the Basic Info step.

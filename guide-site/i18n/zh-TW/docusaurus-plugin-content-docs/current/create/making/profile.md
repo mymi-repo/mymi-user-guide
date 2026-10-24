@@ -1,10 +1,10 @@
 ---
 title: 美化作品介紹
-description: 說明如何放入多張封面、用 Markdown 與 HTML 美化詳細說明、用 AI Studio 製作介紹頁，以及創作者指南與推薦模型。
+description: 說明如何放入多張封面、用 Markdown 與 HTML 美化詳細說明、用 Google AI Studio 製作介紹頁，以及創作者指南與推薦模型。
 slug: /create/profile
 sidebar_position: 3
 last_update:
-  date: 2026-10-07
+  date: 2026-10-24
 ---
 
 # 美化作品介紹
@@ -45,9 +45,8 @@ last_update:
 
 **詳細說明**是作品介紹畫面的本文。最多 50,000 字，可以混用一般文字、Markdown、HTML。
 
-1. **預覽**：確認使用者看到的樣子。
-2. **複製素材資訊**：複製素材分頁圖片的實際網址。貼到 Gemini 裡，就能做出使用那些圖片的介紹。
-3. **開啟 AI Studio** — 按「開啟 AI Studio」並登入 Google。若出現此應用程式由其他開發者製作的提示，請按「Continue to the app」。MYMI App 會開啟外部瀏覽器。
+- **預覽**：確認使用者看到的樣子。
+- **用 Google AI Studio 製作**：在輸入欄下方。和 Gemini 對話，製作 HTML 介紹頁。步驟請見[下方](#用-ai-studio-製作介紹頁)。
 
 <ScreenStep src="/img/screens/zh-TW/profile-description-preview.webp" alt="詳細說明預覽視窗，標題、登場人物、遊玩方式依格式顯示" caption="詳細說明預覽">
 
@@ -64,27 +63,22 @@ last_update:
 
 ### 用 AI Studio 製作介紹頁
 
-[開啟 AI Studio](https://aistudio.google.com/apps/5e37a6ef-b980-4613-9c34-38b888e1bd1e?showPreview=true&showAssistant=true)
+從詳細說明欄位下方的**用 Google AI Studio 製作**開始。和 Gemini 對話，製作包含角色插圖與作品介紹的 HTML 頁面。
 
-想使用圖片時，請按**複製素材資訊**。沒有圖片也能開始製作。
+1. 點選**複製作品資訊**。作品設定、圖片網址和目前寫的詳細說明會一起複製。
+2. 點選**開啟 Google AI Studio**。第一次使用時，用 **Remix** 建立自己的工作室。
+3. 在輸入框貼上作品資訊，再在下方寫一兩行想要的樣子後送出。
+4. 完成後，在上方確認已選擇**프로필 HTML**（個人介紹 HTML），再點選 **MYMI에 붙여넣을 코드 복사**（複製 MYMI 程式碼）。
+5. 貼到 MYMI 的**詳細說明**欄位，用**預覽**確認後點選**儲存草稿**。
 
-1. **開啟工作室範本** — 按「開啟 AI Studio」並登入 Google。若出現此應用程式由其他開發者製作的提示，請按「Continue to the app」。MYMI App 會開啟外部瀏覽器。
-2. **用 Remix 建立自己的工作室** — 範本載入完成後，按上方的「Remix（Copy app）」，輸入名稱後按「Remix app」。自己的工作室開啟後即可開始製作。
-3. **告訴 Gemini 想要的效果** — 在左側 Gemini 輸入框提出需求，例如「用個人介紹 HTML 模式製作這部作品的介紹頁」。若已複製作品或素材資訊，也可一起貼上。
-4. **在 Preview 確認並調整** — 建置完成後，在右側 Preview 選擇元件或個人介紹 HTML 分頁。若顯示 Launch，請按下啟動工作室。再請 Gemini 調整顏色、內容和排版。
-5. **複製完成的 MYMI 程式碼** — 在個人介紹 HTML 分頁確認驗證結果後，按「MYMI에 붙여넣을 코드 복사（複製 HTML）」。若無法自動複製，請選取畫面上的完整 HTML 並複製。
-6. **回到 MYMI 貼上** — 將 HTML 貼到基本資訊 → 詳細說明。在 MYMI 預覽中確認後儲存作品。
+點選**使用指南**，會開啟分步驟的說明。實際的 AI Studio 畫面請見[跟著 Google AI Studio 畫面操作](/create/ai-studio)。
 
 :::info
-使用 Google 帳號即可在免費請求額度內製作。此流程不需要連結付費 API 金鑰或部署。
-:::
-
-:::tip
-Remix 時若出現權限錯誤，請確認 Google 帳號，重新整理後再按 Remix。預覽空白時，請等建置完成後重新整理。免費額度用完後，請待額度重設再繼續。
+可在 Google 帳號的免費請求額度內使用。不需要付款或 API 金鑰。要放入插圖，素材分頁裡需要有完成的圖片，標示為成人向的圖片不會使用。
 :::
 
 :::warning[刪除圖片之前]
-用素材資訊做出的 HTML 會包含圖片的實際網址。如果在素材分頁刪除那張圖片，介紹頁上的圖片也會無法顯示。
+用作品資訊做出的 HTML 會包含圖片的實際網址。如果在素材分頁刪除那張圖片，介紹頁上的圖片也會無法顯示。
 :::
 
 ## 創作者指南
@@ -118,16 +112,16 @@ Remix 時若出現權限錯誤，請確認 Google 帳號，重新整理後再按
 ## 遇到問題時
 
 <details>
-<summary>無法點選複製素材資訊按鈕</summary>
+<summary>複製的作品資訊裡沒有圖片網址</summary>
 
-素材分頁要有完成的圖片才能複製。請先上傳或生成圖片，再點選一次。
+素材分頁要有完成的圖片，才會包含圖片網址。請先上傳或生成圖片，再點選一次**複製作品資訊**。
 
 </details>
 
 <details>
 <summary>貼上 HTML 之後，預覽和我想的不一樣</summary>
 
-請確認 Gemini 做的程式碼區塊是否從頭到尾完整複製。只貼上一部分，版面可能會跑掉。請再請 Gemini 修改，然後把整段貼上。
+請在工作室的 **프로필 HTML**（個人介紹 HTML）分頁點選 **MYMI에 붙여넣을 코드 복사**（複製 MYMI 程式碼），再把整段重新貼上。如果版面還是跑掉，請 Gemini 修改。
 
 </details>
 
