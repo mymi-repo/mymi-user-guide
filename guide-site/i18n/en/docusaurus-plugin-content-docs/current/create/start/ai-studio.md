@@ -4,7 +4,7 @@ description: See, on the actual AI Studio screens, how to make components and de
 slug: /create/ai-studio
 sidebar_position: 4
 last_update:
-  date: 2026-10-24
+  date: 2026-10-25
 ---
 
 # Follow along in Google AI Studio
@@ -60,7 +60,7 @@ On a phone, select **Chat** at the bottom of the screen to bring up the input. P
 
 If you see a progress message in English like 'Running for …', it's still being made. A component usually takes 2–5 minutes, and a description 1–3 minutes. Keep the window open and wait. You don't need to understand the tables or technical terms in Gemini's reply.
 
-<Screenshot src="/img/screens/ai-studio/running.webp" alt="Gemini making it while showing Running for 28s, with a yellow outline on the progress message" caption="In progress" />
+<Screenshot src="/img/screens/ai-studio/running.webp" alt="Gemini making it while showing Running for 22s, with a yellow outline on the progress message" caption="In progress" />
 
 ## 6. Check the result and copy the code
 
@@ -74,7 +74,7 @@ If copying doesn't work, select **직접 선택해서 복사** (Select and copy)
 
 Do this **for components only**. Gemini's reply has a sentence that says when to show the component. Without it, the component won't appear in chats.
 
-<Screenshot src="/img/screens/ai-studio/usage-sentence.webp" alt="At the top left of Gemini's reply, the sentence that says when to show it, with a yellow outline" caption="The sentence in Gemini's reply that says when to show it" />
+<Screenshot src="/img/screens/ai-studio/usage-sentence.webp" alt="In Gemini's reply on the left, the sentence that says when to show it, with a yellow outline" caption="The sentence in Gemini's reply that says when to show it" />
 
 ## 8. Paste into MYMI and save
 

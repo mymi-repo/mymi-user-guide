@@ -4,7 +4,7 @@ description: コンポーネントと詳細説明のHTMLをGoogle AI Studioで�
 slug: /create/ai-studio
 sidebar_position: 4
 last_update:
-  date: 2026-10-24
+  date: 2026-10-25
 ---
 
 # Google AI Studioの画面を見ながら進める
@@ -60,7 +60,7 @@ Googleアカウントの無料リクエストの上限内で使えます。支�
 
 「Running for …」のような英語の進行メッセージが表示されていれば、作っている途中です。コンポーネントはふつう2〜5分、詳細説明は1〜3分かかります。ウィンドウを閉じずに待ちます。Geminiの返答にある表や専門用語は、わからなくても大丈夫です。
 
-<Screenshot src="/img/screens/ai-studio/running.webp" alt="GeminiがRunning for 28sと表示しながら作っている画面。進行メッセージに黄色い枠がある" caption="作成中" />
+<Screenshot src="/img/screens/ai-studio/running.webp" alt="GeminiがRunning for 22sと表示しながら作っている画面。進行メッセージに黄色い枠がある" caption="作成中" />
 
 ## 6. 結果を見てコードをコピーする
 
@@ -74,7 +74,7 @@ Googleアカウントの無料リクエストの上限内で使えます。支�
 
 **コンポーネントだけ**行います。Geminiの返答に、コンポーネントをいつ表示するかを書いた文があります。この文がないと、チャットにコンポーネントが表示されません。
 
-<Screenshot src="/img/screens/ai-studio/usage-sentence.webp" alt="Geminiの返答の左上に、いつ表示するかを書いた文があり、黄色い枠がある" caption="Geminiの返答にある、いつ表示するかの文" />
+<Screenshot src="/img/screens/ai-studio/usage-sentence.webp" alt="左側のGeminiの返答に、いつ表示するかを書いた文があり、黄色い枠がある" caption="Geminiの返答にある、いつ表示するかの文" />
 
 ## 8. MYMIに貼り付けて保存する
 

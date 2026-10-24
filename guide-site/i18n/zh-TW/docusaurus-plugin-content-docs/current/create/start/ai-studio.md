@@ -4,7 +4,7 @@ description: 用實際的 AI Studio 畫面，說明如何用 Google AI Studio �
 slug: /create/ai-studio
 sidebar_position: 4
 last_update:
-  date: 2026-10-24
+  date: 2026-10-25
 ---
 
 # 跟著 Google AI Studio 畫面操作
@@ -60,7 +60,7 @@ last_update:
 
 出現「Running for …」這類英文的進度訊息，就表示正在製作。元件通常需要 2～5 分鐘，詳細說明需要 1～3 分鐘。請不要關閉視窗，耐心等待。看不懂 Gemini 回覆裡的表格和專有名詞也沒關係。
 
-<Screenshot src="/img/screens/ai-studio/running.webp" alt="Gemini 顯示 Running for 28s、正在製作的畫面。進度訊息有黃色外框" caption="製作中" />
+<Screenshot src="/img/screens/ai-studio/running.webp" alt="Gemini 顯示 Running for 22s、正在製作的畫面。進度訊息有黃色外框" caption="製作中" />
 
 ## 6. 查看結果並複製程式碼
 
@@ -74,7 +74,7 @@ last_update:
 
 **只有元件**要做。Gemini 的回覆中有一句寫著何時顯示元件的句子。沒有這句話，元件就不會出現在聊天中。
 
-<Screenshot src="/img/screens/ai-studio/usage-sentence.webp" alt="Gemini 回覆的左上方有寫著何時顯示的句子，並有黃色外框" caption="Gemini 回覆中寫著何時顯示的句子" />
+<Screenshot src="/img/screens/ai-studio/usage-sentence.webp" alt="左側的 Gemini 回覆中有寫著何時顯示的句子，並有黃色外框" caption="Gemini 回覆中寫著何時顯示的句子" />
 
 ## 8. 貼到 MYMI 並儲存
 

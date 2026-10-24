@@ -4,7 +4,7 @@ description: 컴포넌트와 상세 설명 HTML을 Google AI Studio로 만드는
 slug: /create/ai-studio
 sidebar_position: 4
 last_update:
-  date: 2026-10-24
+  date: 2026-10-25
 ---
 
 # Google AI Studio 화면으로 따라 하기
@@ -60,7 +60,7 @@ Google 계정의 무료 요청 한도 안에서 쓸 수 있어요. 결제나 API
 
 'Running for …'처럼 영어 진행 문구가 보이면 만드는 중이에요. 컴포넌트는 보통 2~5분, 상세 설명은 1~3분 걸려요. 창을 닫지 말고 기다려요. Gemini 답변의 표와 영어 용어는 몰라도 괜찮아요.
 
-<Screenshot src="/img/screens/ai-studio/running.webp" alt="Gemini가 Running for 28s 문구를 보이며 만드는 중인 화면. 진행 문구에 노란 테두리가 있다" caption="만드는 중" />
+<Screenshot src="/img/screens/ai-studio/running.webp" alt="Gemini가 Running for 22s 문구를 보이며 만드는 중인 화면. 진행 문구에 노란 테두리가 있다" caption="만드는 중" />
 
 ## 6. 결과를 보고 코드를 복사해요
 
@@ -74,7 +74,7 @@ Google 계정의 무료 요청 한도 안에서 쓸 수 있어요. 결제나 API
 
 **컴포넌트만** 해요. Gemini 답변에 컴포넌트를 언제 보여 줄지 적힌 문장이 있어요. 이 문장이 없으면 채팅에 컴포넌트가 나오지 않아요.
 
-<Screenshot src="/img/screens/ai-studio/usage-sentence.webp" alt="Gemini 답변 왼쪽 위에 언제 보여 줄지 적힌 문장이 있고 노란 테두리가 있다" caption="Gemini 답변의 사용 시점 문장" />
+<Screenshot src="/img/screens/ai-studio/usage-sentence.webp" alt="왼쪽 Gemini 답변에 언제 보여 줄지 적힌 문장이 있고 노란 테두리가 있다" caption="Gemini 답변의 사용 시점 문장" />
 
 ## 8. MYMI에 붙여 넣고 저장해요
 
