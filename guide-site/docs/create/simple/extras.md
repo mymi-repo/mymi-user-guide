@@ -4,7 +4,7 @@ description: 간편 모드의 선택 단계인 로어북, 컴포넌트, 선택�
 slug: /create/simple/extras
 sidebar_position: 5
 last_update:
-  date: 2026-10-24
+  date: 2026-10-25
 ---
 
 # 로어북·컴포넌트·선택사항
@@ -52,7 +52,7 @@ last_update:
 
 컴포넌트는 **채팅 중에 AI가 띄우는 UI**예요. 상태창, 인벤토리, 선택지처럼 보여 줄 것을 만들어 두면 AI가 필요할 때 불러요. 코드를 몰라도 **Google AI Studio로 만들기**로 만들 수 있어요.
 
-<ScreenStep src="/img/screens/ko/simple-components.webp" alt="컴포넌트 단계. 위쪽에 가이드와 작품 정보 복사 버튼, StatusWindow 컴포넌트 카드와 미리보기, 컴포넌트 추가 버튼이 보인다" caption="컴포넌트 단계">
+<ScreenStep src="/img/screens/ko/simple-components.webp" alt="컴포넌트 단계. 위쪽에 Google AI Studio로 만들기(사용 가이드, 작품 정보 복사, Google AI Studio 열기)가 있고, StatusWindow 컴포넌트 카드와 미리보기, 컴포넌트 추가 버튼이 보인다" caption="컴포넌트 단계">
 
 1. **컴포넌트 추가**를 눌러 카드를 만들어요.
 2. 카드를 펼쳐 **JSX 코드** 칸에 코드를 붙여 넣어요. 함수 이름과 변수는 코드에서 자동으로 읽어요.
@@ -127,7 +127,7 @@ Google 계정의 무료 요청 한도 안에서 쓸 수 있어요. 결제나 API
 
 작품 소개 화면에 보여 줄 글을 HTML로 꾸며요. 쓰지 않으면 작품 소개에 세계관과 등장인물 설명이 그대로 보여요.
 
-<ScreenStep src="/img/screens/ko/simple-optional.webp" alt="선택사항 단계. 상세 설명에서 사용과 미사용 중 사용이 골라져 있고 HTML 입력 칸과 미리보기가 보인다" caption="선택사항 단계 · 상세 설명">
+<ScreenStep src="/img/screens/ko/simple-optional.webp" alt="선택사항 단계. 상세 설명 아래에 Google AI Studio로 만들기가 있고, 사용과 미사용 중 사용이 골라져 있으며 HTML 입력 칸과 미리보기가 보인다" caption="선택사항 단계 · 상세 설명">
 
 1. **사용**과 **미사용** 중에서 골라요. **미사용**은 일반 프로필만 써요.
 2. **사용**을 고르면 HTML 입력 칸이 나와요. 50,000자까지예요.

@@ -223,6 +223,7 @@ GitBook의 `{% hint %}` 블록은 Docusaurus admonition으로 자동 변환됨:
 
 **2026-10-07부터 문서에서 쓰는 제작 가이드 화면은 네 언어 모두 실제 웹 앱 캡처다**(언어별 69장). 문서에서 쓰지 않는 `legacy-assets`·`legacy-editor` 두 장만 예전 그림 그대로다. 찍는 도구는 사용자 PC 의 `C:\w\guide-capture`(Git 밖, 사용법은 `tools/README.md`)에 있다. origin/main 을 스크래치 복사본으로 뽑아 개발 서버(3100번)에서 찍고, API 는 가짜 응답으로 가로채며 외부 요청은 막는다. 예시 작품의 글은 각 언어 문서의 코드 블록과 표에서 읽어 문서와 화면이 글자까지 같다. 앱 화면이 바뀌면 같은 이름으로 다시 찍어 덮어쓴다.
 
+- 2026-10-25 에 간편 모드 `simple-components`·`simple-optional`(네 언어)을 'Google AI Studio로 만들기' 블록이 바뀐 화면으로 다시 찍었다. `C:\w\guide-capture` 가 이 PC 에 없어 FE 저장소의 `local_scripts/FE/guide-screens-simple`(같은 스크래치 복사본·3100번·가짜 응답 방식, 사용법은 그 폴더 README)로 찍었다. 그 단계에 처음 들어가면 뜨는 AI Studio 가이드 시트는 닫고 찍는다.
 - 추천 그림체 썸네일은 운영 공개 API(`/contents/recommended-image-styles`)가 주는 그림을 한 번 받아 쓴다. 추천 태그 이름은 앱 상수에서, 상수에 없는 예시 태그(지하철역·까칠한 수염 등)는 서버 번역(`tags_v4.translations`)에서 고른다.
 - 기본형의 조립된 프롬프트는 BE 조립 함수를 그대로 불러 찍는다. BE 템플릿이 한국어뿐이라 세 언어판 그림에도 `### 작품 정보` 같은 한국어 제목과 규칙 문장이 보인다(앱과 같다).
 - 추천 페르소나 카드 머리의 성별은 앱이 저장값(`여성`)을 그대로 보여 줘 모든 언어에서 한국어로 나온다(앱과 같다).

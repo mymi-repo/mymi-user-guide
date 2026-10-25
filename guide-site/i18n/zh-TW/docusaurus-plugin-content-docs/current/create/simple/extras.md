@@ -4,7 +4,7 @@ description: 說明簡易模式的選填步驟設定集、元件、選填的用�
 slug: /create/simple/extras
 sidebar_position: 5
 last_update:
-  date: 2026-10-24
+  date: 2026-10-25
 ---
 
 # 設定集、元件與選填
@@ -52,7 +52,7 @@ last_update:
 
 元件是 **AI 在聊天中顯示的 UI**。把想顯示的東西做好，例如狀態視窗、道具欄、選項，AI 就會在需要時呼叫。不懂程式碼，也可以透過**用 Google AI Studio 製作**來做。
 
-<ScreenStep src="/img/screens/zh-TW/simple-components.webp" alt="元件步驟。上方有指南與複製作品上下文按鈕，StatusWindow 元件卡片與預覽，以及新增元件按鈕" caption="元件步驟">
+<ScreenStep src="/img/screens/zh-TW/simple-components.webp" alt="元件步驟。上方有用 Google AI Studio 製作（使用指南、複製作品資訊、開啟 Google AI Studio），StatusWindow 元件卡片與預覽，以及新增元件按鈕" caption="元件步驟">
 
 1. 點選**新增元件**，建立卡片。
 2. 展開卡片，把程式碼貼到 **JSX 程式碼**欄位。函式名稱和變數會自動從程式碼讀取。
@@ -127,7 +127,7 @@ AI 會讀取元件的名稱、使用描述、變數與預設值，並在適當�
 
 用 HTML 美化要顯示在作品介紹畫面的文字。不使用的話，作品介紹會原封不動顯示世界觀和角色描述。
 
-<ScreenStep src="/img/screens/zh-TW/simple-optional.webp" alt="選填步驟。詳細說明的使用與不使用中選了使用，可以看到 HTML 輸入欄與預覽" caption="選填步驟 · 詳細說明">
+<ScreenStep src="/img/screens/zh-TW/simple-optional.webp" alt="選填步驟。詳細說明下方有用 Google AI Studio 製作，使用與不使用中選了使用，可以看到 HTML 輸入欄與預覽" caption="選填步驟 · 詳細說明">
 
 1. 在**使用**與**不使用**之間選擇。**不使用**是只使用標準檔案。
 2. 選了**使用**，就會出現 HTML 輸入欄。最多 50,000 字。

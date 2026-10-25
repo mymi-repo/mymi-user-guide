@@ -4,7 +4,7 @@ description: かんたんモードの任意ステップであるロアブック�
 slug: /create/simple/extras
 sidebar_position: 5
 last_update:
-  date: 2026-10-24
+  date: 2026-10-25
 ---
 
 # ロアブック・コンポーネント・オプション
@@ -52,7 +52,7 @@ last_update:
 
 コンポーネントは、**チャット中にAIが表示するUI**です。ステータスウィンドウ、インベントリ、選択肢のように見せたいものを作っておくと、AIが必要なときに呼び出します。コードが分からなくても、**Google AI Studioで作る**で作れます。
 
-<ScreenStep src="/img/screens/ja/simple-components.webp" alt="コンポーネントステップ。上部にガイドと作品情報をコピーのボタン、StatusWindowコンポーネントのカードとプレビュー、コンポーネントを追加ボタンが見える" caption="コンポーネントステップ">
+<ScreenStep src="/img/screens/ja/simple-components.webp" alt="コンポーネントステップ。上部にGoogle AI Studioで作る（使い方、作品情報をコピー、Google AI Studioを開く）があり、StatusWindowコンポーネントのカードとプレビュー、コンポーネントを追加ボタンが見える" caption="コンポーネントステップ">
 
 1. **コンポーネントを追加**を押して、カードを作ります。
 2. カードを開いて、**JSXコード**の欄にコードを貼り付けます。関数名と変数は、コードから自動で読み取ります。
@@ -127,7 +127,7 @@ Googleアカウントの無料リクエストの上限内で使えます。支�
 
 作品紹介画面に表示する文章を、HTMLで飾ります。使わないと、作品紹介に世界観とキャラクターの説明がそのまま表示されます。
 
-<ScreenStep src="/img/screens/ja/simple-optional.webp" alt="オプションステップ。詳細説明で使用と不使用のうち使用が選ばれていて、HTMLの入力欄とプレビューが見える" caption="オプションステップ · 詳細説明">
+<ScreenStep src="/img/screens/ja/simple-optional.webp" alt="オプションステップ。詳細説明の下にGoogle AI Studioで作るがあり、使用と不使用のうち使用が選ばれていて、HTMLの入力欄とプレビューが見える" caption="オプションステップ · 詳細説明">
 
 1. **使用**と**不使用**から選びます。**不使用**は、通常のプロフィールだけを使います。
 2. **使用**を選ぶと、HTMLの入力欄が表示されます。50,000文字までです。

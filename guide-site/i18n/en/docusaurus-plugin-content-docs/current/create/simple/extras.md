@@ -4,7 +4,7 @@ description: Learn how to use Simple mode's optional steps, Lorebook, Components
 slug: /create/simple/extras
 sidebar_position: 5
 last_update:
-  date: 2026-10-24
+  date: 2026-10-25
 ---
 
 # Lorebook, components, and optional items
@@ -52,7 +52,7 @@ These are the example work's lore entries.
 
 A component is **UI the AI shows during a chat**. Build things you want to show, like a status window, an inventory, or choices, and the AI calls them when needed. You can make one without knowing code by using **Create with Google AI Studio**.
 
-<ScreenStep src="/img/screens/en/simple-components.webp" alt="The Components step. At the top are the Guide and Copy work context buttons, with a StatusWindow component card and its preview, and the Add component button" caption="The Components step">
+<ScreenStep src="/img/screens/en/simple-components.webp" alt="The Components step. At the top is Create with Google AI Studio (How to use, Copy work info, Open Google AI Studio), with a StatusWindow component card and its preview, and the Add component button" caption="The Components step">
 
 1. Select **Add component** to make a card.
 2. Unfold the card and paste your code into the **JSX code** field. The function name and variables are read from the code automatically.
@@ -127,7 +127,7 @@ The **Optional** step has a Description, recommended personas, and a Creator's N
 
 Decorate the text shown on the work page with HTML. If you don't use it, the work page shows the story setting and the character descriptions as they are.
 
-<ScreenStep src="/img/screens/en/simple-optional.webp" alt="The Optional step. Under Description, Use is chosen out of Use and Don't use, with the HTML field and the preview showing" caption="The Optional step · Description">
+<ScreenStep src="/img/screens/en/simple-optional.webp" alt="The Optional step. Under Description is Create with Google AI Studio, and Use is chosen out of Use and Don't use, with the HTML field and the preview showing" caption="The Optional step · Description">
 
 1. Choose between **Use** and **Don't use**. **Don't use** means only the standard profile is used.
 2. If you choose **Use**, the HTML field appears. It can hold up to 50,000 characters.
