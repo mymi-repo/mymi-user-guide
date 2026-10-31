@@ -1,6 +1,7 @@
 ---
 title: MYMI 使用指南
-description: 了解如何在 MYMI 找到作品並與角色聊天，以及如何創作自己的作品。
+seo_title: MYMI 的使用說明、創作指南與說明中心
+description: MYMI 是和作品中的角色聊天、參與故事，也能創作自己作品的 AI 服務，可以在網頁版與 Android、iPhone App 上使用。這裡整理了從註冊、聊天到創作作品與常見問題的說明。
 slug: /
 sidebar_position: 0
 hide_title: true

@@ -1,5 +1,6 @@
 ---
 title: エキスパートモードについて
+seo_title: エキスパートモードについて - 7つのタブ
 description: AIが読む設定と出力ルールを自分で書くエキスパートモードの7つのタブがそれぞれ何をするか、いちばん小さい作品に必要なもの、保存はいつ行われるかを説明します。
 slug: /create/expert/overview
 sidebar_position: 1

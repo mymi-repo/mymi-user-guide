@@ -2,7 +2,8 @@
 sidebar_position: 2
 last_update:
   date: 2026-10-03
-description: What to do when you keep getting logged out, or only see the login screen, on the website. Log in again, then clear MYMI's cookies in your browser.
+seo_title: Clear cookies - Keep getting logged out?
+description: What to do when you keep getting logged out, or only see the login screen, on the website. Log in again, then clear MYMI's cookies in Chrome, Safari, or Edge.
 ---
 
 # Clear cookies

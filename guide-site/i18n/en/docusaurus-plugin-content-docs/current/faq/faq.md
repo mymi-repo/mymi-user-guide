@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /faq
 last_update:
   date: 2026-10-19
-description: What to check and how to fix things when you're stuck with logging in, verification, Sparks, payments, chatting, or creating works.
+description: What to check and how to fix problems with logging in, verification, Sparks, payments, chatting, creating works, or being a creator, and how to contact us.
 ---
 
 # Frequently asked questions (FAQ)

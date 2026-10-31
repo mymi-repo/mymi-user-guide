@@ -1,6 +1,7 @@
 ---
 title: 跟著 Google AI Studio 畫面操作
-description: 用實際的 AI Studio 畫面，說明如何用 Google AI Studio 製作元件與詳細說明 HTML。從複製作品資訊、Remix、提出需求、複製程式碼到貼到 MYMI，簡易模式和專家模式的步驟都一樣。
+seo_title: 跟著 Google AI Studio 畫面操作 - 元件與 HTML
+description: 用實際的 AI Studio 畫面，說明如何用 Google AI Studio 製作元件與詳細說明 HTML。從複製作品資訊、Remix、提出需求、複製程式碼到貼到 MYMI，簡易與專家模式步驟相同。
 slug: /create/ai-studio
 sidebar_position: 4
 last_update:

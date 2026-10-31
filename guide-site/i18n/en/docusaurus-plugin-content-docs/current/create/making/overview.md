@@ -1,6 +1,7 @@
 ---
 title: Learn about Expert mode
-description: Learn what each of Expert mode's seven tabs does, where you write the settings and output rules the AI reads yourself, what the smallest work needs, and when your work is saved.
+seo_title: Learn about Expert mode - The seven tabs
+description: Learn what Expert mode's seven tabs do, where you write the settings and output rules the AI reads, what the smallest work needs, and when your work is saved.
 slug: /create/expert/overview
 sidebar_position: 1
 last_update:

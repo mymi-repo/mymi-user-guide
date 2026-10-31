@@ -1,6 +1,7 @@
 ---
 title: Assets and AI images
-description: Learn how to upload images or make them with AI in Simple mode's Assets step, write a situation description and link a character for each image so the AI picks the right image for a scene, and how the profile image, Unlock required, and images in the intro work.
+seo_title: Assets and AI images - Simple mode
+description: Upload images or make them with AI in Simple mode's Assets step, write a situation description for each so the AI picks the right one, and set a profile image.
 slug: /create/simple/assets
 sidebar_position: 4
 last_update:

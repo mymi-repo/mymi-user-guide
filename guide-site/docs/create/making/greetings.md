@@ -1,6 +1,7 @@
 ---
 title: 도입부 쓰기
-description: 대화를 시작할 때 AI가 먼저 보내는 첫 메시지를 쓰고, 에셋 이미지를 넣고, 여러 시작 장면을 만드는 방법을 알아봐요.
+seo_title: 도입부 쓰기 - 좋은 첫 장면을 쓰는 요령
+description: 대화를 시작할 때 AI가 먼저 보내는 첫 메시지를 쓰고, 에셋 이미지를 넣고, 여러 시작 장면을 만드는 방법과 좋은 첫 장면을 쓰는 요령을 예시와 함께 알아봐요.
 slug: /create/greetings
 sidebar_position: 5
 last_update:

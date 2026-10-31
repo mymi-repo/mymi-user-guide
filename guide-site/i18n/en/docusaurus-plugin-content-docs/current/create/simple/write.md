@@ -1,6 +1,6 @@
 ---
 title: Write the settings and the intro
-description: Learn tips for writing the story setting, characters, and secrets in the Basic Info step of Simple mode, how the character total works, and how to write the first message and make several starting scenes in the Intro step.
+description: Tips for writing the story setting, characters, and secrets in Simple mode's Basic Info step, how the character total works, and how to write the intro.
 slug: /create/simple/write
 sidebar_position: 3
 last_update:

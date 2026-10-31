@@ -1,6 +1,7 @@
 ---
 title: 開始之前
-description: 說明簡易模式與專家模式有什麼不同、如何選擇創作模式、切換模式後寫過的內容會怎麼樣，以及為什麼從內容管理開啟的作品無法更換模式。
+seo_title: 開始之前 - 簡易模式與專家模式有什麼不同
+description: 說明簡易模式與專家模式有什麼不同、如何選擇創作模式、切換模式後寫過的內容會怎麼樣，以及為什麼從內容管理開啟的作品無法更換模式。也介紹本指南的範例作品。
 slug: /create/before-you-start
 sidebar_position: 1
 last_update:

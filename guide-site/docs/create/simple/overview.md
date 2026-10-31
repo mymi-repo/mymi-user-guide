@@ -1,6 +1,7 @@
 ---
 title: 간편 모드 알아보기
-description: 칸을 채우면 AI 설정이 자동으로 만들어지는 간편 모드의 일곱 단계, AI가 읽는 것과 유저가 보는 것, 저장이 일어나는 때, 꼭 채워야 하는 항목을 알아봐요.
+seo_title: 간편 모드 알아보기 - 화면과 일곱 단계
+description: 칸을 채우면 AI 설정이 자동으로 만들어지는 간편 모드의 일곱 단계, AI가 읽는 것과 유저가 보는 것, 저장이 일어나는 때, 꼭 채워야 하는 항목을 화면과 함께 알아봐요.
 slug: /create/simple/overview
 sidebar_position: 1
 last_update:

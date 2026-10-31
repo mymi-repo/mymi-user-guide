@@ -1,6 +1,7 @@
 ---
 title: Choose your work settings
-description: Learn what Visibility, Publishing scope, Monetization limits, Image source, Audience, Content rating, and Marketing consent each mean, and what changes depending on what you pick. Simple mode and Expert mode are the same.
+seo_title: Choose your work settings - Content rating
+description: What Visibility, Publishing scope, Monetization limits, Image source, Audience, Content rating, and Marketing consent mean, and what changes with each choice.
 slug: /create/settings
 sidebar_position: 2
 last_update:

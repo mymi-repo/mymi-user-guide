@@ -1,6 +1,7 @@
 ---
 title: 美化作品介紹
-description: 說明如何放入多張封面、用 Markdown 與 HTML 美化詳細說明、用 Google AI Studio 製作介紹頁，以及創作者指南與推薦模型。
+seo_title: 美化作品介紹 - 封面、詳細說明、類型與標籤
+description: 說明如何放入多張封面、用 Markdown 與 HTML 美化詳細說明、用 Google AI Studio 製作介紹頁，以及創作者指南、推薦模型、類型與標籤。也回答封面最多可以放幾張。
 slug: /create/profile
 sidebar_position: 3
 last_update:

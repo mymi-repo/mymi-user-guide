@@ -2,7 +2,8 @@
 sidebar_position: 4
 last_update:
   date: 2026-10-05
-description: 說明如何選擇產生聊天回覆的 AI 模型、各模型的 Spark 價格，以及取得較長回覆、回覆失敗或被拒絕時扣除的 Spark。
+seo_title: AI 模型指南 - 更換模型、各模型的 Spark 價格
+description: 說明如何選擇與更換產生聊天回覆的 AI 模型、MYMI・Gemini・Claude・xAI・OpenAI 各模型的 Spark 價格，以及取得更長的回覆、回覆失敗或被拒絕時 Spark 的扣除與退回。
 ---
 
 # AI 模型指南

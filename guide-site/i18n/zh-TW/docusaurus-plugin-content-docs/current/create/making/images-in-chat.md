@@ -1,6 +1,7 @@
 ---
 title: 在對話中顯示圖片
-description: 說明如何用代碼表和圖片輸出規則，讓 AI 在對話中依場景放入合適的圖片，以及例外與鎖定（需要解鎖）。
+seo_title: 在對話中顯示圖片 - 代碼表與圖片輸出規則
+description: 說明如何用代碼表和圖片輸出規則，讓 AI 在對話中依場景放入合適的圖片，以及例外與鎖定（需要解鎖）。也說明如何放進開場，以及 AI 不放圖片或圖片沒有顯示時該怎麼辦。
 slug: /create/images-in-chat
 sidebar_position: 7
 last_update:

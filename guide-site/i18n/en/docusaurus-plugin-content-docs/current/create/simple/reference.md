@@ -1,6 +1,7 @@
 ---
 title: Fields and limits
-description: The character and count limits of the Simple mode screen, the required items for each step, the img:[name] image syntax and where {{user}} and {{char}} are replaced, and when things are saved, all in one place.
+seo_title: Fields and limits - Image syntax, saving
+description: Simple mode's character and count limits, required items for each step, the img:[name] image syntax, where {{user}} and {{char}} are replaced, and saving.
 slug: /create/simple/reference
 sidebar_position: 7
 last_update:

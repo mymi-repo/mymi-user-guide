@@ -1,6 +1,7 @@
 ---
 title: MYMI 유저가이드
-description: MYMI에서 작품을 찾아 대화하고, 나만의 작품을 만드는 방법을 알려 드려요.
+seo_title: MYMI 이용 가이드·제작 가이드·도움말
+description: MYMI는 작품 속 인물과 대화하고 나만의 작품도 만들 수 있는 AI 서비스예요. 접속·회원가입부터 대화하기, 작품 만들기, 스파크 충전, 자주 묻는 질문까지 안내해요.
 slug: /
 sidebar_position: 0
 hide_title: true

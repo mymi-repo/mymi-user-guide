@@ -2,7 +2,7 @@
 sidebar_position: 3
 last_update:
   date: 2026-10-19
-description: When a character forgets earlier events, check long-term memory and memory fragments and correct it with a user note.
+description: When a character forgets earlier events, check long-term memory and memory fragments, correct it with a user note, and learn the three kinds of memory.
 ---
 
 # Long-term memory & memory fragments

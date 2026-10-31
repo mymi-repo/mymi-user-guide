@@ -1,6 +1,7 @@
 ---
 title: 컴포넌트 넣기
-description: 상태창·인벤토리·선택지처럼 대화 중에 뜨는 UI를 JSX 코드로 만들고, 변수 기본값과 미리보기를 확인하고, 프롬프트에 연결하는 방법을 알아봐요.
+seo_title: 컴포넌트 넣기 - 상태창·선택지 UI 만들기
+description: 상태창·인벤토리·선택지처럼 대화 중에 뜨는 UI를 JSX 코드나 AI Studio로 만들고, 변수 기본값과 미리보기 화면을 확인하고, 프롬프트에 연결하는 방법을 알아봐요.
 slug: /create/components
 sidebar_position: 9
 last_update:

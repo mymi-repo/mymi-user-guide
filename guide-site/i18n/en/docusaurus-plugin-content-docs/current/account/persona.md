@@ -2,7 +2,8 @@
 sidebar_position: 4
 last_update:
   date: 2026-10-02
-description: How to create the name and role you use in a work (a persona), set your primary persona, choose one when you start a chat, and change it in a chat room you're already using.
+seo_title: Persona settings - Create a persona
+description: How to create the name and role you use in a work (a persona), set your primary persona, choose one when you start a chat, and change it in an ongoing chat.
 ---
 
 # Persona settings

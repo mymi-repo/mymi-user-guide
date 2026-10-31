@@ -1,6 +1,7 @@
 ---
 title: 撰寫開場
-description: 說明如何寫下對話開始時 AI 先傳出的第一則訊息、插入素材圖片，以及建立多個開始場景。
+seo_title: 撰寫開場 - 寫出好的第一個場景的訣竅
+description: 說明如何寫下對話開始時 AI 先傳出的第一則訊息、插入素材圖片，以及建立多個開始場景。也用範例介紹寫出好的第一個場景的訣竅，以及開場沒有標題或內容時該怎麼辦。
 slug: /create/greetings
 sidebar_position: 5
 last_update:

@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-07
-description: How to buy Sparks on the website and in the app, how to get free Sparks from Attendance Check and Invite Friends, when Sparks expire, and how to check your history.
+seo_title: Buying Sparks - Website, app, free Sparks
+description: How to buy Sparks on the website and in the app, get free Sparks from Attendance Check and Invite Friends, when Sparks expire, and how to check your history.
 ---
 
 # Buying Sparks

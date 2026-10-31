@@ -1,6 +1,7 @@
 ---
 title: 제한과 규칙 한눈에
-description: 전문가 모드 작품 제작 화면의 글자 수·개수 제한, 제작 완료 때 확인하는 항목, 코드 규칙, {{user}}와 {{char}}가 바뀌는 곳을 한 표로 정리했어요.
+seo_title: 제한과 규칙 한눈에 - 글자 수와 코드 규칙
+description: 전문가 모드 작품 제작 화면의 글자 수·개수 제한, 제작 완료 때 확인하는 항목, 코드 규칙, {{user}}와 {{char}}가 바뀌는 곳, 저장·인증 조건을 한눈에 정리했어요.
 slug: /create/limits
 sidebar_position: 11
 last_update:

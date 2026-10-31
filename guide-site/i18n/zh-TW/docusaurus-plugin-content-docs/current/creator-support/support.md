@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-04
-description: 說明申請成為創作者的條件與方法、如何獲得 Leaf 並轉換為 Spark、官方創作者，以及如何追蹤喜歡的創作者並用留言支持。
+seo_title: 成為創作者與 Leaf - 申請條件與轉換為 Spark
+description: 說明申請成為創作者的條件與方法、如何獲得 Leaf 並轉換為 Spark、查看作品表現、成為官方創作者，以及如何追蹤喜歡的創作者並用留言支持。也說明 Leaf 沒有累積時怎麼辦。
 ---
 
 # 成為創作者與 Leaf

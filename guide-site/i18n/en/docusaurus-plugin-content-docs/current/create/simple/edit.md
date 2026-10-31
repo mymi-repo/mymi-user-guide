@@ -1,6 +1,7 @@
 ---
 title: Edit a work
-description: Learn how to reopen and edit a work made in Simple mode from Content Management, when things are saved as you move between steps, what to watch out for when editing a published work, and the fields to fill in the first time you open an older work.
+seo_title: Edit a work - Each step in Simple mode
+description: Reopen and edit a Simple mode work from Content Management, learn when changes are saved, what to watch for in a published work, and how to change visibility.
 slug: /create/simple/edit
 sidebar_position: 6
 last_update:

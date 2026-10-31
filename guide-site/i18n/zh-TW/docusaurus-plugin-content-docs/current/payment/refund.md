@@ -2,7 +2,8 @@
 sidebar_position: 2
 last_update:
   date: 2026-10-07
-description: 說明網頁版與 App 的購買要向哪裡申請退款、什麼情況下可以退款、怎麼申請，以及付款後沒收到 Spark 時該怎麼做。
+seo_title: 取消與退款 - 網頁版與 App 的退款申請
+description: 說明網頁版與 App 的購買要向哪裡申請退款、什麼情況下可以退款、怎麼申請，以及付款後沒收到 Spark 時該怎麼做。也回答用掉部分 Spark 後能否退款、刪除帳號前如何退款。
 ---
 
 # 取消與退款

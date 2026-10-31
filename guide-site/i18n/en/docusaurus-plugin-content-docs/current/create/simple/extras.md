@@ -1,6 +1,6 @@
 ---
 title: Lorebook, components, and optional items
-description: Learn how to use Simple mode's optional steps, Lorebook, Components, and Optional. It covers settings sent only when a keyword comes up, status windows that pop up in chats, a Description in HTML, recommended personas, and a Creator's Note.
+description: "Use Simple mode's optional steps: lore sent only when a keyword comes up, chat status windows, an HTML Description, recommended personas, and a Creator's Note."
 slug: /create/simple/extras
 sidebar_position: 5
 last_update:

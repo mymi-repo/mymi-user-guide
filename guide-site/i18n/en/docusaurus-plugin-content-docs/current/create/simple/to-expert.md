@@ -1,6 +1,7 @@
 ---
 title: Move to Expert mode
-description: Learn how to copy a Simple mode work's settings into a new Expert mode work. It covers where each item goes, the things that are easy to miss, and how to tidy up the original work.
+seo_title: Move to Expert mode - Where each item goes
+description: "Learn how to copy a Simple mode work's settings into a new Expert mode work: where each item goes, what's easy to miss, and how to tidy up the original work."
 slug: /create/simple/to-expert
 sidebar_position: 8
 last_update:

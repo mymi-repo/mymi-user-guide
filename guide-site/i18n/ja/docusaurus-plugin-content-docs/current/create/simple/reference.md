@@ -1,6 +1,7 @@
 ---
 title: 入力項目と制限
-description: かんたんモード画面の文字数・個数の制限、ステップごとの必須項目、img:[名前]の画像の書き方と{{user}}・{{char}}が置き換わる場所、保存されるタイミングを1つの表にまとめました。
+seo_title: 入力項目と制限 - 文字数と画像の書き方
+description: かんたんモードの文字数・個数の制限、ステップごとの必須項目、img:[名前]の画像の書き方と{{user}}・{{char}}が置き換わる場所、保存のタイミングを表にまとめました。
 slug: /create/simple/reference
 sidebar_position: 7
 last_update:

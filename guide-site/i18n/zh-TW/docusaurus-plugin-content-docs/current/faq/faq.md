@@ -4,7 +4,8 @@ sidebar_position: 1
 slug: /faq
 last_update:
   date: 2026-10-19
-description: 在登入、驗證、Spark、付款、聊天、作品製作遇到問題時，彙整了要確認的事項與解決方法。
+seo_title: 常見問題（FAQ） - 登入、驗證、付款與聊天
+description: 在登入、驗證、Spark、付款、聊天、作品製作與創作者方面遇到問題時，彙整了要確認的事項與解決方法。例如無法登入、付款後 Spark 沒有入帳等。也說明如何聯絡我們。
 ---
 
 # 常見問題（FAQ）

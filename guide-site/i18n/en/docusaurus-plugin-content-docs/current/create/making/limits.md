@@ -1,6 +1,7 @@
 ---
 title: Limits and rules at a glance
-description: The character and count limits of the Expert mode creation screen, what Publish checks, the code rules, and where {{user}} and {{char}} are replaced, all in one place.
+seo_title: Limits and rules at a glance - Code rules
+description: The character and count limits of the Expert mode creation screen, what Publish checks, code rules, and where {{user}} and {{char}} are replaced, in one place.
 slug: /create/limits
 sidebar_position: 11
 last_update:

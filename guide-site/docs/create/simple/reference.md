@@ -1,6 +1,7 @@
 ---
 title: 입력 항목과 제한
-description: 간편 모드 화면의 글자 수·개수 제한, 단계별 필수 항목, img:[이름] 이미지 문법과 {{user}}·{{char}}가 바뀌는 곳, 저장되는 때를 한 표로 정리했어요.
+seo_title: 입력 항목과 제한 - 간편 모드 이미지 문법
+description: 간편 모드 화면의 글자 수·개수 제한, 단계별 필수 항목, img:[이름] 이미지 문법과 {{user}}·{{char}}가 바뀌는 곳, 저장되는 때, 무료·인증 조건을 한곳에 모았어요.
 slug: /create/simple/reference
 sidebar_position: 7
 last_update:

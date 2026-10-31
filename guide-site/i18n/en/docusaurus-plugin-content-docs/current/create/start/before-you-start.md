@@ -1,6 +1,7 @@
 ---
 title: Before you start
-description: Learn how Simple mode and Expert mode differ, how to choose a creation mode, what happens to what you wrote when you switch modes, and why a work opened from Content Management keeps its mode.
+seo_title: Before you start - Choose a creation mode
+description: Learn how Simple mode and Expert mode differ, how to pick one, what happens to your writing when you switch, and why a work you've already made keeps its mode.
 slug: /create/before-you-start
 sidebar_position: 1
 last_update:

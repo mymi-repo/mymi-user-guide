@@ -1,6 +1,7 @@
 ---
 title: 輸入項目與限制
-description: 把簡易模式畫面的字數與數量限制、各步驟的必填項目、img:[名稱] 圖片語法與 {{user}}、{{char}} 會被替換的地方，以及何時會儲存，整理在一起。
+seo_title: 輸入項目與限制 - 簡易模式的字數與圖片語法
+description: 把簡易模式畫面的字數與數量限制、各步驟的必填項目、img:[名稱] 圖片語法與 {{user}}、{{char}} 會被替換的地方，以及何時會儲存，整理在一起。也包括免費與驗證的條件。
 slug: /create/simple/reference
 sidebar_position: 7
 last_update:

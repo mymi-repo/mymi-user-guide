@@ -1,6 +1,7 @@
 ---
 title: Write the prompt
-description: Learn to write the prompt the AI reads on every reply in two ways, Basic and Write it myself, and get tips for writing good work info.
+seo_title: Write the prompt - Two prompt presets
+description: Learn to write the prompt the AI reads on every reply in two ways, Basic and Write it myself, get tips for good work info, and see the assembled prompt.
 slug: /create/prompt
 sidebar_position: 4
 last_update:

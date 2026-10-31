@@ -1,6 +1,7 @@
 ---
 title: Learn about Simple mode
-description: Learn about Simple mode's seven steps, where you fill in fields and the AI settings are built for you, what the AI reads and what users see, when your work is saved, and what you have to fill in.
+seo_title: Learn about Simple mode - The seven steps
+description: Learn Simple mode's seven steps, where you fill in fields and the AI settings are built for you, what the AI reads versus what users see, and what's required.
 slug: /create/simple/overview
 sidebar_position: 1
 last_update:

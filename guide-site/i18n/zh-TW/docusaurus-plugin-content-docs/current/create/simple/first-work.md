@@ -1,6 +1,7 @@
 ---
 title: 用簡易模式建立第一個作品
-description: 跟著範例作品「地下城市首爾」，只填寫基本資訊、一張圖片、一個開場與設定，用簡易模式把第一個作品一路做到完成。
+seo_title: 用簡易模式建立第一個作品 - 跟著範例作品
+description: 跟著範例作品「地下城市首爾」，只填寫基本資訊、一張圖片、一個開場與設定，用簡易模式完成第一個作品。也說明按下一步卻顯示提示時怎麼辦，以及作品要從哪裡重新開啟。
 slug: /create/simple/first-work
 sidebar_position: 2
 last_update:

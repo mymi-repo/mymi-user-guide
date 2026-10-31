@@ -1,6 +1,6 @@
 ---
 title: Follow along in Google AI Studio
-description: See, on the actual AI Studio screens, how to make components and description HTML with Google AI Studio. From copying your work info through Remix, your request, and copying the code to pasting it into MYMI, Simple mode and Expert mode follow the same steps.
+description: "See on the actual AI Studio screens how to make components and description HTML: copy work info, Remix, send a request, copy the code, and paste it into MYMI."
 slug: /create/ai-studio
 sidebar_position: 4
 last_update:

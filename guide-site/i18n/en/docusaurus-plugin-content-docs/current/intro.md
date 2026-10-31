@@ -1,6 +1,7 @@
 ---
 title: MYMI User Guide
-description: Learn how to find works and chat with their characters on MYMI, and how to create a work of your own.
+seo_title: Using MYMI, creating works, and help
+description: MYMI is an AI service where you chat with the characters in a work and create works of your own. Learn how to sign up, chat, create, buy Sparks, and get help.
 slug: /
 sidebar_position: 0
 hide_title: true

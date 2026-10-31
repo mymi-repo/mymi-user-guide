@@ -1,5 +1,6 @@
 ---
 title: 素材與 AI 圖片
+seo_title: 素材與 AI 圖片 - 簡易模式的素材步驟
 description: 說明在簡易模式的素材步驟上傳圖片或用 AI 製作圖片，為每張圖片寫下情境說明與角色，讓 AI 挑出符合場景的圖片，以及個人檔案圖片、需要解鎖、在開場放入圖片的方法。
 slug: /create/simple/assets
 sidebar_position: 4

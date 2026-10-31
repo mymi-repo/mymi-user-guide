@@ -1,5 +1,6 @@
 ---
 title: かんたんモードについて
+seo_title: かんたんモードについて - 7つのステップ
 description: 項目を埋めるとAI設定が自動で作られるかんたんモードの7つのステップ、AIが読むものとユーザーが見るもの、保存が行われるタイミング、必ず埋める項目を説明します。
 slug: /create/simple/overview
 sidebar_position: 1

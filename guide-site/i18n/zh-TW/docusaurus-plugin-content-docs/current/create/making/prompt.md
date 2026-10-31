@@ -1,6 +1,7 @@
 ---
 title: 撰寫提示詞
-description: 說明如何用基本型與自行撰寫兩種方式寫出 AI 每次回覆都會讀取的提示詞，以及把作品資訊寫好的訣竅。
+seo_title: 撰寫提示詞 - 基本型與自行撰寫兩種方式
+description: 說明如何用基本型與自行撰寫兩種方式寫出 AI 每次回覆都會讀取的提示詞，以及把作品資訊寫好的訣竅。也說明圖片輸出規則與例外、元件輸出規則，以及組合後的提示詞。
 slug: /create/prompt
 sidebar_position: 4
 last_update:

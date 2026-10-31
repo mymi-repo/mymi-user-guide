@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-07
-description: How to sign up for MYMI with Google, X, or Apple, choose your name, ID, and nickname, the ID rules, and what to do if you can't sign up.
+seo_title: Sign up - Google, X, or Apple sign-in
+description: How to sign up for MYMI with Google, X, or Apple, choose your name, ID, and nickname, follow the ID rules, agree to the terms, and fix sign-up problems.
 ---
 
 # Sign up

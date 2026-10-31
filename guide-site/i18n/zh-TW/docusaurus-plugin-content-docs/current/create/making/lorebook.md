@@ -1,6 +1,7 @@
 ---
 title: 撰寫設定集
-description: 說明如何建立只在對話中出現特定關鍵字時才傳給 AI 的設定，以及挑選關鍵字的訣竅和一次傳送的量。
+seo_title: 撰寫設定集 - 建立設定與挑選關鍵字的訣竅
+description: 說明如何建立只在對話中出現特定關鍵字時才傳給 AI 的設定，以及挑選關鍵字的訣竅和一次傳送的量。也說明設定集和提示詞有什麼不同，以及 AI 不知道設定內容時該怎麼辦。
 slug: /create/lorebook
 sidebar_position: 8
 last_update:

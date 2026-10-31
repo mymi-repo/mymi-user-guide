@@ -1,6 +1,7 @@
 ---
 title: 加入元件
-description: 說明如何用 JSX 程式碼製作狀態視窗、道具欄、選項等在對話中彈出的 UI，確認變數預設值與預覽，並連結到提示詞。
+seo_title: 加入元件 - 製作狀態視窗、道具欄與選項
+description: 說明如何用 JSX 程式碼或 AI Studio 製作狀態視窗、道具欄、選項等在對話中彈出的 UI，確認變數預設值與預覽，並連結到提示詞。也說明元件輸出規則與使用圖片的元件。
 slug: /create/components
 sidebar_position: 9
 last_update:

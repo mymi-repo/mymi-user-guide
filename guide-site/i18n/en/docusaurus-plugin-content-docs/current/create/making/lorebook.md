@@ -1,5 +1,6 @@
 ---
 title: Write the lorebook
+seo_title: Write the lorebook - Entries and keywords
 description: Learn to make entries whose content is sent to the AI only when a certain keyword appears in a chat, how to choose keywords, and how much is sent at once.
 slug: /create/lorebook
 sidebar_position: 8

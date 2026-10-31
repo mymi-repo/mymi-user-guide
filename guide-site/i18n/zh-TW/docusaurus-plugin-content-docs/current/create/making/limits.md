@@ -1,6 +1,7 @@
 ---
 title: 限制與規則一覽
-description: 把專家模式作品製作畫面的字數與數量限制、完成製作時檢查的項目、代碼規則，以及 {{user}} 與 {{char}} 會被替換的地方，整理在一起。
+seo_title: 限制與規則一覽 - 字數與數量、代碼規則
+description: 把專家模式作品製作畫面的字數與數量限制、完成製作時檢查的項目、代碼規則，以及 {{user}} 與 {{char}} 會被替換的地方，整理在一起。也包括儲存、免費與驗證的條件。
 slug: /create/limits
 sidebar_position: 11
 last_update:

@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-04
-description: How to apply as a creator, how to earn Leaves and convert them into Sparks, how to become an Official Creator, and how to follow and comment on creators you like.
+seo_title: Apply as a creator and earn Leaves
+description: How to apply as a creator, earn Leaves and convert them into Sparks, see how your works are doing, become an Official Creator, and support creators you like.
 ---
 
 # Becoming a creator and Leaves

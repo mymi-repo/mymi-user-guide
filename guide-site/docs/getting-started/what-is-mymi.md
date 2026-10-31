@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-02
-description: MYMI에서 할 수 있는 일과 작품·등장인물·페르소나·도입부의 뜻, 첫 대화와 첫 작품을 시작하는 방법을 알려 드려요.
+seo_title: MYMI란? - 작품으로 대화하기와 작품 만들기
+description: MYMI에서 할 수 있는 일과 작품·등장인물·페르소나·도입부의 뜻, 첫 대화와 첫 작품을 시작하는 방법, 성인 작품이 보이지 않을 때 할 일과 앱이 있는지 알려 드려요.
 ---
 
 # MYMI란?

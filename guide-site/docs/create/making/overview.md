@@ -1,6 +1,7 @@
 ---
 title: 전문가 모드 알아보기
-description: AI가 읽을 설정과 출력 규칙을 직접 쓰는 전문가 모드의 일곱 탭이 각각 무슨 일을 하는지, 가장 작은 작품에 필요한 것, 저장은 언제 되는지 알아봐요.
+seo_title: 전문가 모드 알아보기 - 일곱 탭이 하는 일
+description: AI가 읽을 설정과 출력 규칙을 직접 쓰는 전문가 모드의 일곱 탭이 하는 일, 가장 작은 작품에 필요한 것, 저장은 언제 되는지, 작품의 모드를 바꿀 수 있는지 알아봐요.
 slug: /create/expert/overview
 sidebar_position: 1
 last_update:

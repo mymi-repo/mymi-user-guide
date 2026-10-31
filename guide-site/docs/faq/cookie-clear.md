@@ -2,7 +2,8 @@
 sidebar_position: 2
 last_update:
   date: 2026-10-02
-description: 웹에서 로그인이 계속 풀리거나 로그인 화면만 나올 때, 다시 로그인하고 브라우저에서 MYMI 쿠키를 지우는 방법을 알려 드려요.
+seo_title: 쿠키 삭제하기 - 로그인이 계속 풀릴 때
+description: 웹에서 로그인이 계속 풀리거나 로그인 화면만 나올 때, 다시 로그인하고 휴대폰·PC의 Chrome·삼성 인터넷·Safari·Edge·웨일에서 MYMI 쿠키를 지우는 방법을 알려 드려요.
 ---
 
 # 쿠키 삭제하기

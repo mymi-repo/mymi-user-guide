@@ -2,7 +2,7 @@
 sidebar_position: 3
 last_update:
   date: 2026-10-07
-description: When you need phone verification and when you need age confirmation, how to complete each, how to turn off the Safety Filter and turn on Show Sensitive Content, and what to do when verification fails.
+description: When you need phone verification and when you need age confirmation, how to do each, how to turn off the Safety Filter, and what to do if verification fails.
 ---
 
 # Age confirmation and phone verification

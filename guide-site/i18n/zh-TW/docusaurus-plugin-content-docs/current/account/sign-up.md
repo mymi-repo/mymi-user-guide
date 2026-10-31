@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-07
-description: 說明如何用 LINE、Google、X、Apple 帳號註冊 MYMI、設定名稱・ID・暱稱、ID 規則，以及無法註冊時的解決方法。
+seo_title: 註冊 - 用 LINE、Google、X、Apple 帳號註冊
+description: 說明如何用 LINE、Google、X、Apple 帳號註冊 MYMI、設定名稱・ID・暱稱、ID 規則、同意條款，以及完成註冊按鈕一直是灰色箭頭、ID 已被使用等無法註冊時的解決方法。
 ---
 
 # 註冊

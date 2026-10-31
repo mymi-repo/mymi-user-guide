@@ -1,6 +1,7 @@
 ---
 title: 로어북 쓰기
-description: 대화에 특정 키워드가 나올 때만 AI에게 전해지는 설정(로어)을 만들고, 키워드를 고르는 요령과 한 번에 전달되는 양을 알아봐요.
+seo_title: 로어북 쓰기 - 로어 만들기와 키워드 고르기
+description: 대화에 특정 키워드가 나올 때만 AI에게 전해지는 설정(로어)을 만들고, 키워드를 고르는 요령과 한 번에 전달되는 양, 프롬프트와 로어북은 무엇이 다른지 알아봐요.
 slug: /create/lorebook
 sidebar_position: 8
 last_update:

@@ -2,7 +2,8 @@
 sidebar_position: 2
 last_update:
   date: 2026-10-02
-description: MYMI 웹사이트와 Android·iPhone 앱을 여는 방법, 로그인 없이 체험하는 방법, 링크가 열리지 않거나 로그인이 막힐 때 해결 방법을 알려 드려요.
+seo_title: MYMI 접속 방법 - 웹 접속과 앱 설치하기
+description: MYMI 웹사이트와 Android·iPhone 앱을 여는 방법, 로그인 없이 체험하는 방법, 웹과 앱을 함께 쓰는 법, 링크가 열리지 않거나 로그인이 막힐 때 해결 방법을 알려 드려요.
 ---
 
 # MYMI 접속 방법

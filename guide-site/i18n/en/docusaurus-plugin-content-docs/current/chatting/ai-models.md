@@ -2,7 +2,8 @@
 sidebar_position: 4
 last_update:
   date: 2026-10-05
-description: How to choose the AI model that writes chat replies, Spark prices by model, and how many Sparks are deducted for longer replies and for replies that fail or are declined.
+seo_title: AI model guide - Prices and longer replies
+description: How to choose the AI model for chat replies, Spark prices by model, and the Sparks deducted for longer replies and for replies that fail or are declined.
 ---
 
 # AI model guide

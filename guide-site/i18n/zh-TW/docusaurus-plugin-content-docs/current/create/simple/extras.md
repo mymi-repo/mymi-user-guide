@@ -1,6 +1,7 @@
 ---
 title: 設定集、元件與選填
-description: 說明簡易模式的選填步驟設定集、元件、選填的用法。包括只在關鍵字出現時才傳出的設定、對話中彈出的狀態視窗、詳細說明（HTML）、推薦人設與創作者備註。
+seo_title: 設定集、元件與選填 - 簡易模式的選填步驟
+description: 說明簡易模式的選填步驟設定集、元件、選填的用法。包括只在關鍵字出現時才傳出的設定、對話中彈出的狀態視窗、詳細說明（HTML）、推薦人設、創作者備註與常見錯誤訊息。
 slug: /create/simple/extras
 sidebar_position: 5
 last_update:

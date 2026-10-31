@@ -1,5 +1,6 @@
 ---
 title: Decorate your work page
+seo_title: Decorate your work page - Covers, hashtags
 description: Add several covers, style the description with Markdown and HTML, build an intro page with Google AI Studio, and set the creator guide and recommended models.
 slug: /create/profile
 sidebar_position: 3

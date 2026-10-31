@@ -1,6 +1,7 @@
 ---
 title: 작품 소개 꾸미기
-description: 표지를 여러 장 넣고, 상세 설명을 마크다운·HTML로 꾸미고, Google AI Studio로 소개 페이지를 만드는 방법과 크리에이터 가이드·추천 모델을 알아봐요.
+seo_title: 작품 소개 꾸미기 - 표지·상세 설명·해시태그
+description: 표지를 여러 장 넣고, 상세 설명을 마크다운·HTML로 꾸미고, Google AI Studio로 소개 페이지를 만드는 방법과 크리에이터 가이드·추천 모델·장르와 해시태그를 알아봐요.
 slug: /create/profile
 sidebar_position: 3
 last_update:

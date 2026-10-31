@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-07
-description: Choose a work and start your first chat, get a different reply or edit one when you don't like it, and pick up a chat later.
+seo_title: Chatting - Choose a work and start a chat
+description: Choose a work and start your first chat, get a different reply or edit one when you don't like it, pick up a chat later, and fix "Not enough Spark" messages.
 ---
 
 # Chatting

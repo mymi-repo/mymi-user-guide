@@ -2,6 +2,7 @@
 sidebar_position: 2
 last_update:
   date: 2026-10-07
+seo_title: Access MYMI - Use the website or the app
 description: How to open the MYMI website and the Android and iPhone apps, try MYMI without logging in, and fix links that won't open or sign-ins that get blocked.
 ---
 

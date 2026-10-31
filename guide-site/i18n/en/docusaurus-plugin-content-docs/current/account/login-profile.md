@@ -2,7 +2,8 @@
 sidebar_position: 2
 last_update:
   date: 2026-10-07
-description: How to log in again with the account you signed up with, change your name, nickname, ID, profile picture, and display language, and log out.
+seo_title: Login and profile settings - Name and ID
+description: How to log in again with the account you signed up with, change your name, nickname, ID, profile picture, and display language, log out, and fix login problems.
 ---
 
 # Login and profile settings

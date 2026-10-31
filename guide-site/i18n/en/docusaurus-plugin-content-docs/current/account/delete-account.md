@@ -2,7 +2,8 @@
 sidebar_position: 5
 last_update:
   date: 2026-10-02
-description: How to delete your MYMI account, what to do first, what happens to your Sparks, works, and chats, and the 30-day limits on signing up again and reusing your phone number.
+seo_title: Account deletion - Before you delete
+description: How to delete your MYMI account, what to do first, what happens to your Sparks, works, and chats, and the 30-day limits on rejoining and reusing a phone number.
 ---
 
 # Account deletion

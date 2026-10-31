@@ -1,6 +1,7 @@
 ---
 title: 作品紹介を整える
-description: 表紙を複数枚入れ、詳細説明をマークダウンやHTMLで飾り、Google AI Studioで紹介ページを作る方法と、クリエイターガイド・おすすめモデルを説明します。
+seo_title: 作品紹介を整える - 表紙・詳細説明
+description: 表紙を複数枚入れ、詳細説明をマークダウンやHTMLで飾り、Google AI Studioで紹介ページを作る方法と、クリエイターガイド・おすすめモデル・ハッシュタグを説明します。
 slug: /create/profile
 sidebar_position: 3
 last_update:

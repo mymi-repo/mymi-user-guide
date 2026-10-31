@@ -1,6 +1,7 @@
 ---
 title: MYMI ユーザーガイド
-description: MYMIで作品を見つけて登場人物と会話する方法と、自分の作品を作る方法をご案内します。
+seo_title: MYMI ご利用ガイド・制作ガイド・ヘルプ
+description: MYMIは、作品の登場人物と会話しながら物語に参加し、自分の作品も作れるAIサービスです。アクセス方法と新規登録から会話、作品づくり、よくある質問までご案内します。
 slug: /
 sidebar_position: 0
 hide_title: true

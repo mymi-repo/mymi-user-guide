@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-02
-description: LINE・Google・X・AppleのアカウントでMYMIに登録する手順、名前・ID・ニックネームの決め方、IDのルール、登録できないときの解決方法を説明します。
+seo_title: 新規登録 - LINE・Google・X・Apple
+description: LINE・Google・X・AppleのアカウントでMYMIに登録する手順、名前・ID・ニックネームの決め方、IDのルール、規約への同意、登録できないときの解決方法を説明します。
 ---
 
 # 新規登録

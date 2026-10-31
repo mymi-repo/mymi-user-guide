@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-07
-description: 說明在 MYMI 能做什麼、作品・角色・人設・開場白的意思，以及如何開始第一次聊天和第一個作品。
+seo_title: 什麼是 MYMI？ - 用作品聊天與創作自己的作品
+description: 說明在 MYMI 能做什麼、作品・角色・人設・開場白的意思，以及如何開始第一次聊天和第一個作品。也回答看不到成人作品、點選建立後要求登入時該怎麼辦，以及有沒有 App。
 ---
 
 # 什麼是 MYMI？

@@ -2,7 +2,8 @@
 sidebar_position: 2
 last_update:
   date: 2026-10-07
-description: 說明如何開啟 MYMI 網頁版與 Android、iPhone App、不登入也能試用的方法，以及連結打不開或無法登入時的解決方法。
+seo_title: 如何使用 MYMI - 開啟網頁版與安裝 App
+description: 說明如何開啟 MYMI 網頁版與 Android、iPhone App、不登入也能試用的方法、同時使用網頁版與 App、畫面下方的選單，以及在 LINE 開啟連結後無法登入等問題的解決方法。
 ---
 
 # 如何使用 MYMI

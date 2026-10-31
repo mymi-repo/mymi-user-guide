@@ -1,6 +1,6 @@
 ---
 title: Google AI Studioの画面を見ながら進める
-description: コンポーネントと詳細説明のHTMLをGoogle AI Studioで作る手順を、実際のAI Studioの画面で説明します。作品情報のコピー、Remix、依頼、コードのコピー、MYMIへの貼り付けまで、かんたんモードとエキスパートモードで同じ手順です。
+description: コンポーネントと詳細説明のHTMLをGoogle AI Studioで作る手順を、画面で説明します。作品情報のコピー、Remix、依頼、コードのコピー、MYMIへの貼り付けまで扱います。
 slug: /create/ai-studio
 sidebar_position: 4
 last_update:

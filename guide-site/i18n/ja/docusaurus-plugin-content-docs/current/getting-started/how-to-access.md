@@ -2,7 +2,8 @@
 sidebar_position: 2
 last_update:
   date: 2026-10-07
-description: MYMIのウェブサイトとAndroid・iPhoneアプリの開き方、ログインせずに試す方法、リンクが開かないときやログインできないときの解決方法を説明します。
+seo_title: MYMIへのアクセス方法 - ウェブとアプリ
+description: MYMIのウェブサイトとAndroid・iPhoneアプリの開き方、ログインせずに試す方法、画面下のメニュー、リンクが開かないときやログインできないときの解決方法を説明します。
 ---
 
 # MYMIへのアクセス方法

@@ -1,6 +1,7 @@
 ---
 title: 대화에 이미지 띄우기
-description: AI가 대화 중 장면에 맞는 이미지를 넣도록 코드표와 이미지 출력 규칙을 쓰는 방법, 예외와 잠금(해금 필요)을 알아봐요.
+seo_title: 대화에 이미지 띄우기 - 이미지 출력 규칙
+description: AI가 대화 중 장면에 맞는 이미지를 넣도록 코드표와 이미지 출력 규칙을 쓰는 방법, 예외와 잠금(해금 필요), 도입부에 넣는 법과 이미지가 안 나올 때 할 일을 알아봐요.
 slug: /create/images-in-chat
 sidebar_position: 7
 last_update:

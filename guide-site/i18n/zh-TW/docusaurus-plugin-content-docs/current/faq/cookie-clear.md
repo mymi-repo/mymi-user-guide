@@ -2,7 +2,8 @@
 sidebar_position: 2
 last_update:
   date: 2026-10-03
-description: 在網頁版一直被登出，或只看到登入畫面時，重新登入並清除瀏覽器中 MYMI 的 Cookie 的方法。
+seo_title: 清除 Cookie - 網頁版一直被登出時的解決方法
+description: 在網頁版一直被登出，或只看到登入畫面時，重新登入並清除瀏覽器中 MYMI 的 Cookie 的方法。也說明清除 Cookie 後還是無法登入、其他網站也一起被登出時該怎麼辦。
 ---
 
 # 清除 Cookie

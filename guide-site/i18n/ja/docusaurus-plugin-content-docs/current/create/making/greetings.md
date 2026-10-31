@@ -1,6 +1,7 @@
 ---
 title: 導入部を書く
-description: 会話を始めるときにAIが最初に送るメッセージを書き、アセット画像を入れ、複数の開始場面を作る方法を説明します。
+seo_title: 導入部を書く - 最初の場面を書くコツ
+description: 会話を始めるときにAIが最初に送るメッセージを書き、アセット画像を入れ、複数の開始場面を作る方法と、いい最初の場面を書くコツを、例の作品とともに説明します。
 slug: /create/greetings
 sidebar_position: 5
 last_update:

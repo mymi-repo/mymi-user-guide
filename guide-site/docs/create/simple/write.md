@@ -1,5 +1,6 @@
 ---
 title: 설정과 도입부 쓰기
+seo_title: 설정과 도입부 쓰기 - 세계관·등장인물·비밀
 description: 간편 모드의 기본 정보 단계에서 세계관·등장인물·비밀을 쓰는 요령과 글자 수 합계, 도입부 단계에서 첫 메시지를 쓰고 여러 시작 장면을 만드는 방법을 알아봐요.
 slug: /create/simple/write
 sidebar_position: 3

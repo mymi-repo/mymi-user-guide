@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-07
-description: What you can do on MYMI, what works, characters, personas, and intros are, and how to start your first chat and your first work.
+seo_title: What is MYMI? - Chat with a work
+description: What you can do on MYMI, what works, characters, personas, and intros are, how to start your first chat and your first work, and whether there's an app.
 ---
 
 # What is MYMI?

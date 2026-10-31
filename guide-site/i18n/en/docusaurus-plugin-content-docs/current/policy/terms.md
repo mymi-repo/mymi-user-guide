@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-03
-description: Where to find MYMI's terms and policies, what you must not do and what happens if you do, and how to report a work or user, ask us to remove an intimate image, send a copyright notice, or appeal a sanction.
+seo_title: Terms and policies - Report a work or user
+description: Where to find MYMI's terms and policies, what you must not do, what happens if you break the rules, and how to report a work or user, or appeal a sanction.
 ---
 
 # Terms and policies

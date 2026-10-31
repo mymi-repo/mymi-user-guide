@@ -2,7 +2,8 @@
 sidebar_position: 4
 last_update:
   date: 2026-10-05
-description: 채팅 답변을 만드는 AI 모델을 고르는 방법, 모델별 스파크 가격, 더 긴 답변을 받을 때와 답변이 실패하거나 거부될 때 차감되는 스파크를 알려 드려요.
+seo_title: AI 모델 안내 - 모델 바꾸기와 모델별 가격
+description: 채팅 답변을 만드는 AI 모델을 고르는 방법, Gemini·Claude 등 모델별 스파크 가격, 더 긴 답변을 받을 때와 답변이 실패하거나 거부될 때 차감되는 스파크를 알려 드려요.
 ---
 
 # AI 모델 안내

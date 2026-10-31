@@ -1,5 +1,6 @@
 ---
 title: 画像を用意する
+seo_title: 画像を用意する - キャラクターフォルダ
 description: アセットタブでキャラクターフォルダを作り、基本ルックを生成し、共通シチュエーションコードと待機リストで複数の人物の画像をまとめて作る方法を説明します。
 slug: /create/images
 sidebar_position: 6

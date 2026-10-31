@@ -2,6 +2,7 @@
 sidebar_position: 2
 last_update:
   date: 2026-10-03
+seo_title: Cancellations and refunds - Website or app
 description: Where to ask for a refund for website and app purchases, when refunds are possible, how to ask, and what to do if you paid but your Sparks did not arrive.
 ---
 

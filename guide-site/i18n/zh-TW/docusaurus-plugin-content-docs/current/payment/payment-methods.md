@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-07
-description: 說明如何在網頁版與 App 儲值 Spark、如何用簽到和邀請朋友免費領取 Spark、Spark 的有效期限，以及如何查看紀錄。
+seo_title: 儲值 Spark - 網頁版與 App 儲值、免費領取
+description: 說明如何在網頁版與 App 儲值 Spark、如何用簽到和邀請朋友免費領取、Spark 的有效期限，以及如何查看紀錄。也說明買不到首次購買商品、付款後 Spark 沒有入帳時怎麼辦。
 ---
 
 # 儲值 Spark

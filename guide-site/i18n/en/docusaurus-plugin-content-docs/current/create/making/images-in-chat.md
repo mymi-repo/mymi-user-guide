@@ -1,6 +1,7 @@
 ---
 title: Show images in chat
-description: Learn to write a code table and image output rules so the AI puts fitting images into a chat, plus exceptions and locking (Unlock required).
+seo_title: Show images in chat - Image output rules
+description: Write a code table and image output rules so the AI puts fitting images into a chat, plus exceptions, locking (Unlock required), and images in the opening.
 slug: /create/images-in-chat
 sidebar_position: 7
 last_update:

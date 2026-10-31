@@ -1,6 +1,6 @@
 ---
 title: Create your first work in Simple mode
-description: Follow the example work "Underground Seoul" and fill in only Basic Info, one image, one intro, and Settings to take your first Simple mode work all the way to Done.
+description: Follow the example work "Underground Seoul" and fill in only Basic Info, one image, one intro, and Settings to take your first Simple mode work to Done.
 slug: /create/simple/first-work
 sidebar_position: 2
 last_update:

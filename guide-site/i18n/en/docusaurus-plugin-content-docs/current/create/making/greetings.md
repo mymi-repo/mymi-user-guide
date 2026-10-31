@@ -1,6 +1,7 @@
 ---
 title: Write the opening
-description: Learn to write the first message the AI sends when a chat starts, insert asset images, and make several starting scenes.
+seo_title: Write the opening - Tips for a first scene
+description: Learn to write the first message the AI sends when a chat starts, insert asset images, make several starting scenes, and get tips for a good first scene.
 slug: /create/greetings
 sidebar_position: 5
 last_update:

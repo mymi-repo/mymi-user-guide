@@ -1,6 +1,7 @@
 ---
 title: Add components
-description: Build UI that pops up during a chat, like status windows, inventories, and choices, with JSX code, check the default prop values and the preview, and connect it to the prompt.
+seo_title: Add components - Status windows, choices
+description: Build UI that pops up in chats, like status windows, inventories, and choices, with JSX code or AI Studio, check the preview, and connect it to the prompt.
 slug: /create/components
 sidebar_position: 9
 last_update:

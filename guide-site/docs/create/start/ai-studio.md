@@ -1,6 +1,6 @@
 ---
 title: Google AI Studio 화면으로 따라 하기
-description: 컴포넌트와 상세 설명 HTML을 Google AI Studio로 만드는 순서를 실제 AI Studio 화면으로 보여 줘요. 작품 정보 복사, Remix, 요청, 코드 복사, MYMI에 붙여 넣기까지 간편 모드와 전문가 모드가 같은 순서예요.
+description: 컴포넌트와 상세 설명 HTML을 Google AI Studio로 만드는 순서를 화면으로 봐요. 작품 정보 복사, Remix, 요청, 코드 복사, 붙여 넣기까지 간편·전문가 모드 모두 같아요.
 slug: /create/ai-studio
 sidebar_position: 4
 last_update:

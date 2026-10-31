@@ -1,6 +1,7 @@
 ---
 title: 에셋과 AI 이미지
-description: 간편 모드의 에셋 단계에서 이미지를 올리거나 AI로 만들고, 이미지마다 상황 설명과 인물을 적어 AI가 장면에 맞는 이미지를 고르게 하는 방법, 대표 이미지와 해금 필요, 도입부에 이미지를 넣는 방법을 알아봐요.
+seo_title: 에셋과 AI 이미지 - 간편 모드 에셋 단계
+description: 에셋 단계에서 이미지를 올리거나 AI로 만들고, 이미지마다 상황 설명을 적어 AI가 장면에 맞는 이미지를 고르게 하는 방법과 대표 이미지, 해금 필요를 알아봐요.
 slug: /create/simple/assets
 sidebar_position: 4
 last_update:

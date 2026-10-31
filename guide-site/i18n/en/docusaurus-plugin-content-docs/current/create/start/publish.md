@@ -1,6 +1,7 @@
 ---
 title: Publish and edit
-description: Learn how review and going public work after you finish a work, how to edit your work in Content Management (Simple mode and Expert mode), how to ask for a re-review of a rejected work, and recommended personas.
+seo_title: Publish and edit - Review and re-review
+description: Learn how review and going public work after you finish a work, how to edit it in Content Management, how to ask for a re-review, and recommended personas.
 slug: /create/publish
 sidebar_position: 3
 last_update:

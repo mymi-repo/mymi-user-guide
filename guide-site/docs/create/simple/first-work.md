@@ -1,6 +1,7 @@
 ---
 title: 간편 모드로 첫 작품 만들기
-description: 예시 작품 ‘지하 도시 서울’을 따라 기본 정보, 이미지 한 장, 도입부 하나, 기타 설정만 채워 간편 모드로 첫 작품을 완료까지 만들어요.
+seo_title: 간편 모드로 첫 작품 만들기 - 따라 하기
+description: 예시 작품 ‘지하 도시 서울’을 따라 기본 정보, 이미지 한 장, 도입부 하나, 기타 설정만 채워 간편 모드로 첫 작품을 완료까지 만들어요. 자주 막히는 곳도 정리했어요.
 slug: /create/simple/first-work
 sidebar_position: 2
 last_update:

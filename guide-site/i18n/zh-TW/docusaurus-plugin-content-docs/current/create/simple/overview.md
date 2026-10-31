@@ -1,6 +1,7 @@
 ---
 title: 認識簡易模式
-description: 說明填寫欄位就能自動產生 AI 設定的簡易模式，包括七個步驟、AI 讀取的內容與使用者看到的內容、何時會儲存，以及一定要填寫的項目。
+seo_title: 認識簡易模式 - 畫面、七個步驟與何時會儲存
+description: 說明填寫欄位就能自動產生 AI 設定的簡易模式的七個步驟、AI 讀取的內容與使用者看到的內容、何時會儲存，以及一定要填寫的項目。也說明按了下一步卻沒有往下走時怎麼辦。
 slug: /create/simple/overview
 sidebar_position: 1
 last_update:

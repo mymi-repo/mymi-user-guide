@@ -1,6 +1,7 @@
 ---
 title: 프롬프트 쓰기
-description: AI가 답할 때마다 읽는 프롬프트를 기본형과 직접 작성 두 가지 방식으로 쓰는 방법, 작품 정보를 잘 쓰는 요령을 알아봐요.
+seo_title: 프롬프트 쓰기 - 기본형과 직접 작성
+description: AI가 답할 때마다 읽는 프롬프트를 기본형과 직접 작성 두 방식으로 쓰는 방법, 작품 정보를 잘 쓰는 요령, 이미지·컴포넌트 출력 규칙과 조립된 프롬프트를 알아봐요.
 slug: /create/prompt
 sidebar_position: 4
 last_update:

@@ -99,7 +99,8 @@ FE `scripts/build-guide.mjs`가 가이드 다음에 블로그를 빌드해 `publ
 
 각 .md 파일 frontmatter:
 - `sidebar_position`: 사이드바 순서
-- `description`: 메타 description (검색 결과에 표시됨)
+- `description`: 메타 description (검색 결과·링크 미리보기에 표시됨). 그 문서 화면에 있는 내용만으로 폭 150~160(한·중·일 글자는 2칸)에 맞춘다
+- `seo_title`: 검색 결과·브라우저 탭·링크 미리보기 제목(2026-10-31). 문서 이름 뒤에 그 문서 절 제목의 낱말을 붙이고, 뒤에 붙는 사이트 이름까지 폭 50~60으로 쓴다. 화면 제목(`# 제목`)·사이드바·이전/다음 이름은 바뀌지 않는다(`src/theme/DocItem/Metadata`). 폭은 FE `tests/seo/guide-meta-length.test.mjs`가 확인한다
 - `slug`: URL 경로 (`intro.md`만 `slug: /` 사용해서 루트로 매핑)
 - `last_update.date`: 내용을 실제로 수정·검토한 날짜 (`YYYY-MM-DD`)
 

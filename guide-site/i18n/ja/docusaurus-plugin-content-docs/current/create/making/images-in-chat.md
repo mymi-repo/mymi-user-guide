@@ -1,6 +1,7 @@
 ---
 title: 会話に画像を表示する
-description: AIが会話の中で場面に合う画像を入れられるように、コード表と画像出力ルールを書く方法と、例外、ロック（解放が必要）を説明します。
+seo_title: 会話に画像を表示する - 画像出力ルール
+description: AIが会話の中で場面に合う画像を入れられるように、コード表と画像出力ルールを書く方法と、例外、ロック（解放が必要）、導入部に画像を入れる方法を説明します。
 slug: /create/images-in-chat
 sidebar_position: 7
 last_update:

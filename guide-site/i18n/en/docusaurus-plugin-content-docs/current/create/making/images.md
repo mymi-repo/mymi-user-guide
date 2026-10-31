@@ -1,6 +1,7 @@
 ---
 title: Prepare images
-description: Create character folders in the Assets tab, generate base looks, and make images for several characters at once with shared situation codes and the waiting list.
+seo_title: Prepare images - Assets tab and base looks
+description: Add character folders in the Assets tab, generate base looks, and make images for several characters at once with shared situation codes and the waiting list.
 slug: /create/images
 sidebar_position: 6
 last_update:

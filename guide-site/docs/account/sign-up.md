@@ -2,7 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-10-07
-description: 카카오·Google·Apple 계정으로 MYMI에 가입하는 순서와 이름·아이디·닉네임 정하는 법, 아이디 규칙, 가입이 안 될 때 해결 방법을 알려 드려요.
+seo_title: 회원가입 - 카카오·Google·Apple로 가입하기
+description: 카카오·Google·Apple 계정으로 MYMI에 가입하는 순서와 이름·아이디·닉네임 정하는 법, 아이디 규칙, 회원가입 완료 버튼이 회색일 때 해결 방법을 알려 드려요.
 ---
 
 # 회원가입

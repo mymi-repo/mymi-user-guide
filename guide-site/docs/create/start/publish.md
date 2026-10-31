@@ -1,5 +1,6 @@
 ---
 title: 공개하고 고치기
+seo_title: 공개하고 고치기 - 검토·공개·재심사 요청
 description: 작품을 완성한 뒤 검토와 공개가 어떻게 진행되는지, 작품 관리에서 작품을 고치는 방법(간편 모드·전문가 모드), 거절된 작품의 재심사 요청과 추천 페르소나를 알아봐요.
 slug: /create/publish
 sidebar_position: 3

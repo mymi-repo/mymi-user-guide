@@ -1,6 +1,7 @@
 ---
 title: 認識專家模式
-description: 說明自己撰寫 AI 讀取的設定與輸出規則的專家模式，七個分頁各自負責什麼、最小的作品需要什麼，以及何時會儲存。
+seo_title: 認識專家模式 - 七個分頁的作用與何時會儲存
+description: 說明自己撰寫 AI 讀取的設定與輸出規則的專家模式，七個分頁各自負責什麼、最小的作品需要什麼，以及何時會儲存。也說明有簡易模式作品時該怎麼做，並介紹範例作品。
 slug: /create/expert/overview
 sidebar_position: 1
 last_update:

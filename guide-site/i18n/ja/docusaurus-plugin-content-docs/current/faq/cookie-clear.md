@@ -2,7 +2,8 @@
 sidebar_position: 2
 last_update:
   date: 2026-10-03
-description: ウェブでログインが何度も外れたり、ログイン画面しか出なかったりするときに、ログインし直して、ブラウザーでMYMIのCookieを削除する方法を説明します。
+seo_title: Cookieの削除 - ログインが外れるとき
+description: ウェブでログインが何度も外れたり、ログイン画面しか出なかったりするときに、ログインし直して、Chrome・Safari・Edgeの公式ヘルプでCookieを削除する方法を案内します。
 ---
 
 # Cookieの削除

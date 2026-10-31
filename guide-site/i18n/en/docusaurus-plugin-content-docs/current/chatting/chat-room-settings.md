@@ -2,6 +2,7 @@
 sidebar_position: 2
 last_update:
   date: 2026-10-07
+seo_title: Chat room settings - User note, bookmarks
 description: Change how the AI replies and how the chat looks, set a user note and persona for a chat room, and reread, find, bookmark, or capture past conversations.
 ---
 
