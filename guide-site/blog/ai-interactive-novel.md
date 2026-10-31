@@ -85,17 +85,17 @@ MYMI에 올라와 있는 작품 가운데 분위기가 서로 다른 다섯 편�
 
 | 붙은 태그 | 예로 볼 작품 | 시작하는 상황 |
 |---|---|---|
-| 현대판타지·코미디 | [루멘특구 공공서비스국](https://www.mymi.live/ko/contents/68f2d2f6d9d6c7fa0491805b/profile) | 마법이 산업이 된 도시의 관공서 |
-| 판타지·서양풍 | [제니퍼](https://www.mymi.live/ko/contents/688348e5cec88400732f7758/profile) | 왕국 최강의 여기사가 누군가를 지키는 이야기 |
-| 현대·유명인 | [한도경](https://www.mymi.live/ko/contents/6a7c623910993bc18b8dc4d0/profile) | 자기 영화를 싫어한다는 상대 앞에 선 영화감독 |
-| 현대·첫사랑 | [이찬희](https://www.mymi.live/ko/contents/6aade55aa2d51b86b38b07dd/profile) | 제복 차림으로 찾아온 사람과의 재회 |
-| 퍼리·코미디 | [호랑이 경호원 백하린](https://www.mymi.live/ko/contents/68e4e04e54dda974237f43e3/profile) | 호랑이 경호원이 선배로 있는 직장 |
+| 현대판타지·코미디 | [루멘특구 공공서비스국](https://www.mymi.live/ko/contents/68f2d2f6d9d6c7fa0491805b/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_ai_interactive_novel) | 마법이 산업이 된 도시의 관공서 |
+| 판타지·서양풍 | [제니퍼](https://www.mymi.live/ko/contents/688348e5cec88400732f7758/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_ai_interactive_novel) | 왕국 최강의 여기사가 누군가를 지키는 이야기 |
+| 현대·유명인 | [한도경](https://www.mymi.live/ko/contents/6a7c623910993bc18b8dc4d0/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_ai_interactive_novel) | 자기 영화를 싫어한다는 상대 앞에 선 영화감독 |
+| 현대·첫사랑 | [이찬희](https://www.mymi.live/ko/contents/6aade55aa2d51b86b38b07dd/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_ai_interactive_novel) | 제복 차림으로 찾아온 사람과의 재회 |
+| 퍼리·코미디 | [호랑이 경호원 백하린](https://www.mymi.live/ko/contents/68e4e04e54dda974237f43e3/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_ai_interactive_novel) | 호랑이 경호원이 선배로 있는 직장 |
 
 홈 위쪽이나 탭마다 있는 캐릭터 필터에서 '여성 캐릭터'나 '남성 캐릭터'를 고르면 남성향·여성향 작품 위주로 나눠 볼 수도 있어요. 성향별로 운영팀이 고른 작품은 [남성향 AI 채팅 추천](./male-oriented-ai-chat.md)과 [여성향 AI 연애 채팅 추천](./female-oriented-ai-chat.md)에 따로 정리했어요.
 
 ## 어떻게 시작하나요?
 
-1. 브라우저에서 [www.mymi.live](https://www.mymi.live/ko)를 열어요. Android와 iPhone 앱도 같은 계정으로 쓸 수 있어요.
+1. 브라우저에서 [www.mymi.live](https://www.mymi.live/ko?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_ai_interactive_novel)를 열어요. Android와 iPhone 앱도 같은 계정으로 쓸 수 있어요.
 2. 처음 들어가면 주로 보고 싶은 캐릭터를 묻는 창이 떠요. '여성 캐릭터', '남성 캐릭터', '전부 볼래요' 중에서 고르면 홈이 거기에 맞춰져요.
 3. 홈의 추천·랭킹·장르·검색 탭에서 작품을 골라 '대화 시작하기'를 눌러요.
 4. 로그인하지 않은 상태로는 5번까지 대화해 볼 수 있어요. 답을 다시 생성하는 것도 1번으로 세요.

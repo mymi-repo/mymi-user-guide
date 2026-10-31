@@ -6,6 +6,8 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 const SITE = 'https://www.mymi.live';
+// 블로그에서 서비스로 넘어간 방문을 관리자 '콘텐츠 유입 분석'에서 보게 UTM 을 붙인다(2026-10-31 사용자 요청). 글 본문 링크는 utm_content=ko_blog_<slug>.
+const SERVICE = `${SITE}/ko?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_menu`;
 const title = 'MYMI 블로그';
 const description = 'AI 인터랙티브 소설과 AI 캐릭터 채팅을 고르고 즐기는 법, MYMI의 작품 데이터를 정리합니다.';
 const PRETENDARD_CDN = 'https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable';
@@ -72,13 +74,13 @@ const config = {
         logo: {alt: 'MYMI', src: `${SITE}/guide/brand/mymi-lockup.svg`, srcDark: `${SITE}/guide/brand/mymi-lockup-white.svg`},
         items: [
           {href: `${SITE}/guide`, label: '유저가이드', position: 'left', target: '_self'},
-          {href: `${SITE}/ko`, label: '서비스 바로가기', position: 'right', className: 'navbar-cta', target: '_self'},
+          {href: SERVICE, label: '서비스 바로가기', position: 'right', className: 'navbar-cta', target: '_self'},
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          {title: 'MYMI', items: [{label: 'mymi.live', href: `${SITE}/ko`}, {label: '유저가이드', href: `${SITE}/guide`}]},
+          {title: 'MYMI', items: [{label: 'mymi.live', href: SERVICE}, {label: '유저가이드', href: `${SITE}/guide`}]},
           {title: '도움말', items: [{label: '자주 묻는 질문', href: `${SITE}/guide/faq`}, {label: '약관과 정책', href: `${SITE}/guide/policy/terms`}]},
         ],
         copyright: `Copyright © ${new Date().getFullYear()} WonMo Inc.`,

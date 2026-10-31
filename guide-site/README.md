@@ -91,6 +91,7 @@ FE `scripts/build-guide.mjs`가 가이드 다음에 블로그를 빌드해 `publ
 - 목록 화면 요약이 끝나는 곳: `{/* truncate */}`(HTML 주석 `<!-- -->`은 오류)
 - 접기 블록: `<details>`와 `<summary>…</summary>`를 각각 한 줄에 쓴다
 - 가이드·서비스 링크는 전체 주소(`https://www.mymi.live/guide/...`)로 쓴다. `/guide/...`는 블로그 주소(`/blog/guide/...`)가 된다. 블로그 글끼리는 `./<파일 이름>.md`로 잇는다
+- 서비스(`https://www.mymi.live/ko...`)로 가는 링크에는 UTM을 붙인다(2026-10-31): `?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_<슬러그의 -를 _로>`. 블로그 화면은 정적 파일이라 방문을 기록하지 않고, 독자가 서비스로 넘어간 방문만 관리자 '콘텐츠 유입 분석'에 잡힌다. 새 글을 올리면 그 화면의 글 목록(MYMI_admin `src/app/admin/content-inflow/helpers.js` `POSTS`)에도 등록한다. 상단·하단 메뉴의 서비스 링크는 `utm_content=ko_blog_menu`다
 
 ## 콘텐츠 수정
 

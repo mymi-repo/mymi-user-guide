@@ -28,11 +28,11 @@ status: published
 
 | 여성향 작품 | 붙은 태그 | 10월 31일까지 누적 대화 수 | 작품에 적힌 소개 |
 |---|---|---:|---|
-| [한도경](https://www.mymi.live/ko/contents/6a7c623910993bc18b8dc4d0/profile) | 로맨스·현대·유명인 | 9,468 | “내 영화 싫어해도 돼요. 근데 나까지 싫어할 필요는 없잖아.” |
-| [이찬희](https://www.mymi.live/ko/contents/6aade55aa2d51b86b38b07dd/profile) | 로맨스·현대·첫사랑 | 8,237 | 갈아입으면 늦을 것 같아서 정복 그대로 왔어. 보고 싶었다, 그 말 하려고. |
-| [길가에 쓰러져있는 조폭을 주웠다!](https://www.mymi.live/ko/contents/69303bbcf7a46b2f7d344f74/profile) | 로맨스·느와르·액션 | 4,280 | 길가에 쓰러진 남자를 데려와 치료해 줬더니 조폭 두목이었을 때. |
-| [우태오](https://www.mymi.live/ko/contents/6aa654d61e665994654e89b7/profile) | 로맨스·순애·유명인 | 3,918 | "네가 원하면 내일 다 까. 네가 내 여자친구라고." |
-| [한이겸](https://www.mymi.live/ko/contents/6a6c4f7c309ff3c63bafe18b/profile) | 로맨스·코미디·일상 | 3,793 | 재벌가 장남이 매일 우리 가게로 찾아온다 |
+| [한도경](https://www.mymi.live/ko/contents/6a7c623910993bc18b8dc4d0/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_female_oriented_ai_chat) | 로맨스·현대·유명인 | 9,468 | “내 영화 싫어해도 돼요. 근데 나까지 싫어할 필요는 없잖아.” |
+| [이찬희](https://www.mymi.live/ko/contents/6aade55aa2d51b86b38b07dd/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_female_oriented_ai_chat) | 로맨스·현대·첫사랑 | 8,237 | 갈아입으면 늦을 것 같아서 정복 그대로 왔어. 보고 싶었다, 그 말 하려고. |
+| [길가에 쓰러져있는 조폭을 주웠다!](https://www.mymi.live/ko/contents/69303bbcf7a46b2f7d344f74/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_female_oriented_ai_chat) | 로맨스·느와르·액션 | 4,280 | 길가에 쓰러진 남자를 데려와 치료해 줬더니 조폭 두목이었을 때. |
+| [우태오](https://www.mymi.live/ko/contents/6aa654d61e665994654e89b7/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_female_oriented_ai_chat) | 로맨스·순애·유명인 | 3,918 | "네가 원하면 내일 다 까. 네가 내 여자친구라고." |
+| [한이겸](https://www.mymi.live/ko/contents/6a6c4f7c309ff3c63bafe18b/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_female_oriented_ai_chat) | 로맨스·코미디·일상 | 3,793 | 재벌가 장남이 매일 우리 가게로 찾아온다 |
 
 표의 숫자는 작품이 생긴 뒤부터 2026년 10월 31일까지 쌓인 대화 수예요. 답을 새로 받으려고 누른 다시 생성하기는 빠져 있어서, 그것까지 함께 세는 작품 페이지의 채팅 수와는 작품에 따라 몇백 회쯤 차이가 나기도 해요.
 
@@ -52,31 +52,31 @@ status: published
 
 ### 한도경
 
-[한도경](https://www.mymi.live/ko/contents/6a7c623910993bc18b8dc4d0/profile)은 설명 대신 대사 한 줄을 소개로 내걸었어요. 영화 & 티비·유명인 태그가 붙어 있고, 작품 화면의 인물 소개로는 상대가 영화감독이에요.
+[한도경](https://www.mymi.live/ko/contents/6a7c623910993bc18b8dc4d0/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_female_oriented_ai_chat)은 설명 대신 대사 한 줄을 소개로 내걸었어요. 영화 & 티비·유명인 태그가 붙어 있고, 작품 화면의 인물 소개로는 상대가 영화감독이에요.
 
 능글·까칠·다정·무뚝뚝처럼 결이 다른 태그가 함께 붙어 있어, 한 사람의 말투가 상황마다 달라지는 걸 지켜보는 재미가 있어요. 일 얘기와 마음이 뒤섞인 대화를 좋아한다면 맞는 작품이에요. 고른 작품 가운데 대화 수가 가장 많아요.
 
 ### 이찬희
 
-[이찬희](https://www.mymi.live/ko/contents/6aade55aa2d51b86b38b07dd/profile)의 소개는 그가 직접 건네는 말이에요. 옷을 갈아입으면 늦을 것 같아 정복 그대로 왔다는 것, 그리고 보고 싶었다는 한마디요.
+[이찬희](https://www.mymi.live/ko/contents/6aade55aa2d51b86b38b07dd/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_female_oriented_ai_chat)의 소개는 그가 직접 건네는 말이에요. 옷을 갈아입으면 늦을 것 같아 정복 그대로 왔다는 것, 그리고 보고 싶었다는 한마디요.
 
 제복·첫사랑·무뚝뚝 태그가 붙어 있어서, 좀처럼 속을 내보이지 않던 사람이 먼저 마음을 꺼내는 장면부터 이야기가 열려요.
 
 ### 길가에 쓰러져있는 조폭을 주웠다!
 
-[길가에 쓰러져있는 조폭을 주웠다!](https://www.mymi.live/ko/contents/69303bbcf7a46b2f7d344f74/profile)는 제목이 곧 첫 장면이에요. 길에 쓰러진 남자를 데려와 치료해 줬는데, 알고 보니 조폭 두목이었다는 설정이에요.
+[길가에 쓰러져있는 조폭을 주웠다!](https://www.mymi.live/ko/contents/69303bbcf7a46b2f7d344f74/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_female_oriented_ai_chat)는 제목이 곧 첫 장면이에요. 길에 쓰러진 남자를 데려와 치료해 줬는데, 알고 보니 조폭 두목이었다는 설정이에요.
 
 느와르·액션·마피아 태그 옆에 구원·순정 태그가 나란히 붙어 있어, 위험한 세계에 사는 사람과의 관계가 어디로 흘러갈지가 이야기의 중심이에요.
 
 ### 우태오
 
-[우태오](https://www.mymi.live/ko/contents/6aa654d61e665994654e89b7/profile)의 소개는 "네가 원하면 내일 다 까"로 시작하는 한마디예요. 작품 화면에 적힌 대로 상대는 이름난 힙합 아티스트이고, 나는 그와 남몰래 사귀는 사이에서 출발해요.
+[우태오](https://www.mymi.live/ko/contents/6aa654d61e665994654e89b7/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_female_oriented_ai_chat)의 소개는 "네가 원하면 내일 다 까"로 시작하는 한마디예요. 작품 화면에 적힌 대로 상대는 이름난 힙합 아티스트이고, 나는 그와 남몰래 사귀는 사이에서 출발해요.
 
 남자친구·순애·다정 태그 옆에 츤데레가 함께 붙어 있어요. 관계를 감추고 싶은 나와 굳이 감출 생각이 없는 그 사이의 온도 차가 이야기를 끌고 가요.
 
 ### 한이겸
 
-[한이겸](https://www.mymi.live/ko/contents/6a6c4f7c309ff3c63bafe18b/profile)은 내가 꾸리는 작은 가게가 무대예요. 작품 화면에 따르면 그는 그룹의 전략본부장이고, 가게 단골이 된 아버지를 모시러 문 닫을 무렵마다 들르는 사람이에요.
+[한이겸](https://www.mymi.live/ko/contents/6a6c4f7c309ff3c63bafe18b/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_female_oriented_ai_chat)은 내가 꾸리는 작은 가게가 무대예요. 작품 화면에 따르면 그는 그룹의 전략본부장이고, 가게 단골이 된 아버지를 모시러 문 닫을 무렵마다 들르는 사람이에요.
 
 코미디·일상·가족 태그에 츤데레와 까칠이 더해져 있어서, 들를 때마다 트집을 잡으면서도 발길은 끊지 않는 사람과 주고받는 순한 로맨틱 코미디예요. 웃음 사이로 아버지와 아들의 애틋한 사정이 함께 흘러요.
 

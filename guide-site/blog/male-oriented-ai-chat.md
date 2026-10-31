@@ -29,10 +29,10 @@ status: published
 
 | 작품 | 태그 | 대화 수 | 한 줄 소개 |
 |---|---|---:|---|
-| [루멘특구 공공서비스국](https://www.mymi.live/ko/contents/68f2d2f6d9d6c7fa0491805b/profile) | 현대판타지·코미디·오피스 | 8,834 | 마법이 산업이 된 도시, 루멘특구 공공서비스국. 무엇을 도와드릴까요? |
-| [제니퍼](https://www.mymi.live/ko/contents/688348e5cec88400732f7758/profile) | 판타지·서양풍·기사 | 2,791 | 세계의 운명을 품은 자를 지키는 왕국 최강의 여기사 |
-| [이지은](https://www.mymi.live/ko/contents/68840ffd6c957b7adf00dbfb/profile) | 로맨스·일상·현대 | 1,982 | 한별 그룹 상속녀이지만 모델로 자립하며, 몰래 게임에 푹 빠진 20살 지은이 |
-| [호랑이 경호원 백하린](https://www.mymi.live/ko/contents/68e4e04e54dda974237f43e3/profile) | 로맨스·코미디·퍼리 | 1,779 | 당신의 선배 경호원 백하린! |
+| [루멘특구 공공서비스국](https://www.mymi.live/ko/contents/68f2d2f6d9d6c7fa0491805b/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_male_oriented_ai_chat) | 현대판타지·코미디·오피스 | 8,834 | 마법이 산업이 된 도시, 루멘특구 공공서비스국. 무엇을 도와드릴까요? |
+| [제니퍼](https://www.mymi.live/ko/contents/688348e5cec88400732f7758/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_male_oriented_ai_chat) | 판타지·서양풍·기사 | 2,791 | 세계의 운명을 품은 자를 지키는 왕국 최강의 여기사 |
+| [이지은](https://www.mymi.live/ko/contents/68840ffd6c957b7adf00dbfb/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_male_oriented_ai_chat) | 로맨스·일상·현대 | 1,982 | 한별 그룹 상속녀이지만 모델로 자립하며, 몰래 게임에 푹 빠진 20살 지은이 |
+| [호랑이 경호원 백하린](https://www.mymi.live/ko/contents/68e4e04e54dda974237f43e3/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_male_oriented_ai_chat) | 로맨스·코미디·퍼리 | 1,779 | 당신의 선배 경호원 백하린! |
 
 작품 화면에 뜨는 채팅 수는 다시 생성한 횟수까지 함께 세기 때문에, 위 표보다 조금 크게 보일 수 있어요.
 
@@ -40,25 +40,25 @@ status: published
 
 ### 루멘특구 공공서비스국
 
-[루멘특구 공공서비스국](https://www.mymi.live/ko/contents/68f2d2f6d9d6c7fa0491805b/profile)의 배경은 마법이 하나의 산업으로 자리 잡은 도시예요. 그 도시의 공공서비스국이 "무엇을 도와드릴까요?"라는 말로 찾아온 사람을 맞는 곳이고, 창구 너머로 들어오는 일을 하나씩 받아 처리해 나가는 판이 깔려 있어요.
+[루멘특구 공공서비스국](https://www.mymi.live/ko/contents/68f2d2f6d9d6c7fa0491805b/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_male_oriented_ai_chat)의 배경은 마법이 하나의 산업으로 자리 잡은 도시예요. 그 도시의 공공서비스국이 "무엇을 도와드릴까요?"라는 말로 찾아온 사람을 맞는 곳이고, 창구 너머로 들어오는 일을 하나씩 받아 처리해 나가는 판이 깔려 있어요.
 
 등장인물이 4명이라 한 장면에 여러 사람이 끼어드는 일이 잦고, 현대판타지·코미디·오피스 태그가 함께 붙어 있어요. 넷 가운데 대화 수가 가장 많은 작품이라, 남성향 작품을 처음 열어 본다면 여기서 출발해도 좋아요.
 
 ### 제니퍼
 
-[제니퍼](https://www.mymi.live/ko/contents/688348e5cec88400732f7758/profile)에서 마주하는 상대는 왕국에서 가장 강한 여기사예요. 소개에 따르면 그녀가 지키는 상대는 '세계의 운명을 품은 자'이고, 이세계·서양풍·기사 태그가 배경을 알려 줘요.
+[제니퍼](https://www.mymi.live/ko/contents/688348e5cec88400732f7758/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_male_oriented_ai_chat)에서 마주하는 상대는 왕국에서 가장 강한 여기사예요. 소개에 따르면 그녀가 지키는 상대는 '세계의 운명을 품은 자'이고, 이세계·서양풍·기사 태그가 배경을 알려 줘요.
 
 같이 붙은 태그는 애증·쿨데레·까칠이에요. 처음부터 친절한 호위를 기대하기보다, 칼을 든 사람과 지켜지는 사람 사이의 거리가 대화로 어떻게 줄어드는지 보는 작품에 가까워요.
 
 ### 이지은
 
-[이지은](https://www.mymi.live/ko/contents/68840ffd6c957b7adf00dbfb/profile)은 소개 한 줄에 인물이 거의 다 들어 있어요. 한별 그룹의 상속녀인데 모델로 스스로 서려 하고, 남들 모르게 게임에 빠져 있는 스무 살이에요.
+[이지은](https://www.mymi.live/ko/contents/68840ffd6c957b7adf00dbfb/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_male_oriented_ai_chat)은 소개 한 줄에 인물이 거의 다 들어 있어요. 한별 그룹의 상속녀인데 모델로 스스로 서려 하고, 남들 모르게 게임에 빠져 있는 스무 살이에요.
 
 로맨스·일상·현대 태그에 쿨데레와 다정이 함께 붙어 있어, 큰 사건보다 대화의 온도가 이야기를 끌고 가요. 그녀가 숨겨 둔 취미를 언제 꺼내게 될지가 관계를 여는 고리가 될 만해요.
 
 ### 호랑이 경호원 백하린
 
-[호랑이 경호원 백하린](https://www.mymi.live/ko/contents/68e4e04e54dda974237f43e3/profile)은 "당신의 선배 경호원 백하린!"이라는 짧은 소개로 관계부터 정해 둔 작품이에요. 상대는 선배 경호원이고, 나는 그 밑으로 들어온 후배 자리에서 시작해요.
+[호랑이 경호원 백하린](https://www.mymi.live/ko/contents/68e4e04e54dda974237f43e3/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_male_oriented_ai_chat)은 "당신의 선배 경호원 백하린!"이라는 짧은 소개로 관계부터 정해 둔 작품이에요. 상대는 선배 경호원이고, 나는 그 밑으로 들어온 후배 자리에서 시작해요.
 
 퍼리·제복 태그에 힐링·코미디가 더해져 있어서, 긴장보다는 웃음이 먼저 오는 직장 이야기를 찾을 때 열어 보기 좋아요.
 
