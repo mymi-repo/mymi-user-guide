@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-07
+  date: 2026-11-01
 seo_title: What is MYMI? - Chat with a work
 description: What you can do on MYMI, what works, characters, personas, and intros are, how to start your first chat and your first work, and whether there's an app.
 ---
@@ -30,7 +30,7 @@ For example, in the work **Underground Seoul**, you wake up in a quarantine stat
 3. Read the intro scene, then type and send your line or action. The character replies and the story continues.
 4. Later, pick up where you left off from **Chat** in the bottom menu.
 
-You can view the same chat in three ways: **Novel**, **Chat**, and **1:1**. See [Chatting](/chatting/chat-with-character.md) for details.
+You can view the same chat in four ways: **Novel**, **Chat**, **1:1**, and **Story**. See [Chatting](/chatting/chat-with-character.md) for details.
 
 :::info[Chatting uses Sparks]
 Each AI reply costs Sparks, based on the price of the AI model you chose. If you aren't logged in, you can try up to 5 messages for free. Once you sign up and verify your phone number, you can get Sparks every day with **Attendance Check**. Ways to buy Sparks and get them for free are in [Buying Sparks](/payment/payment-methods.md).

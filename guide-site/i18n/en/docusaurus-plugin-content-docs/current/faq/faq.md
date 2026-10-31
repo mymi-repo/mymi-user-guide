@@ -3,7 +3,7 @@ sidebar_position: 1
 # 폴더와 이름이 같은 문서는 주소 끝에 / 가 붙는데, 웹(Next)은 끝 / 를 308 로 떼어 내 표준 주소·언어 연결이 리다이렉트를 가리켰다(2026-10-24).
 slug: /faq
 last_update:
-  date: 2026-10-19
+  date: 2026-11-01
 description: What to check and how to fix problems with logging in, verification, Sparks, payments, chatting, creating works, or being a creator, and how to contact us.
 ---
 
@@ -271,7 +271,7 @@ If a reply can't be made, the Sparks deducted up front are returned. You can see
 
 <summary>I want to change how the chat screen looks</summary>
 
-Select the palette icon at the top right of the chat screen, then **UI Settings**, and choose **UI Mode** from **Chat / 1:1 / Novel**. Every mode shows the same chat history in a different way. More details are in [Chat room settings](/chatting/chat-room-settings.md).
+Select the palette icon at the top right of the chat screen, then **UI Settings**, and choose **UI Mode** from **Chat / 1:1 / Novel / Story**. Every mode shows the same chat history in a different way. More details are in [Chat room settings](/chatting/chat-room-settings.md).
 
 </details>
 

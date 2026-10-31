@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-07
+  date: 2026-11-01
 seo_title: Chatting - Choose a work and start a chat
 description: Choose a work and start your first chat, get a different reply or edit one when you don't like it, pick up a chat later, and fix "Not enough Spark" messages.
 ---
@@ -86,6 +86,7 @@ Chats open in the **Novel** view at first. Select the palette icon at the top ri
 | **Novel** | Narration and dialogue read as continuous text |
 | **Chat** | Speech bubbles going back and forth |
 | **1:1** | One paragraph at a time over the picture (**Previous** · **Next**) |
+| **Story** | Only the text, read continuously over a full-screen background picture. When the text reaches a picture, it becomes the new background |
 
 Change the font size and colors in [Chat room settings](/chatting/chat-room-settings.md#change-text-and-display-settings).
 

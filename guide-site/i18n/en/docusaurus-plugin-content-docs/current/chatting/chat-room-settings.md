@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-10-07
+  date: 2026-11-01
 seo_title: Chat room settings - User note, bookmarks
 description: Change how the AI replies and how the chat looks, set a user note and persona for a chat room, and reread, find, bookmark, or capture past conversations.
 ---
@@ -103,10 +103,10 @@ Select the palette icon at the top right of a chat room to open **UI Settings**.
 
 | Group | What you can change |
 | --- | --- |
-| View | **UI Mode**: **Novel**, **Chat**, **1:1** |
+| View | **UI Mode**: **Novel**, **Chat**, **1:1**, **Story** |
 | Reading | **Font Size**, **Line Height**, **Font Family**, **Streaming Speed** (how fast text appears) |
 | Colors | **Text Colors**: Character Dialogue, User Dialogue, Character Narration, User Narration |
-| Screen | **Chat Height**, **Chat Opacity**, **Image Height** (Novel), **Show Character Names** (Chat) |
+| Screen | **Chat Height**, **Chat Opacity** (in Story, how dark the background is), **Image Height** (Novel), **Show Character Names** (Chat) |
 | Video | **Loop Video**, and **Image Mode**, which shows pictures instead of video |
 
 - Each view keeps its own settings. **Reset** restores the defaults for the current view only.

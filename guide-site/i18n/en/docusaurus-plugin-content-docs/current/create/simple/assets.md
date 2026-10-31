@@ -5,7 +5,7 @@ description: Upload images or make them with AI in Simple mode's Assets step, wr
 slug: /create/simple/assets
 sidebar_position: 4
 last_update:
-  date: 2026-10-07
+  date: 2026-11-01
 ---
 
 # Assets and AI images
@@ -83,6 +83,7 @@ With **Internal Images** (the starting value), the AI chooses, for **each charac
 
 - In **Chat** and **1:1** views, each part of a reply starts with that character's image.
 - In **Novel** view, the images of the characters in the scene are worked naturally into the text.
+- In **Story** view, images are not placed between the text. They become the full-screen background, which changes when the text reaches that point.
 
 (You change a chat room's view in **UI Settings → UI Mode**, from the palette icon at the top right of the chat room. ([Chatting](/chatting/chat-with-character)))
 
