@@ -224,7 +224,11 @@ const config = {
           },
           {
             title: '서비스',
-            items: [{label: 'mymi.live', href: siteText.serviceUrl}],
+            items: [
+              {label: 'mymi.live', href: siteText.serviceUrl},
+              // 블로그(/blog)는 한국어만 있어 한국어 가이드에만 둔다(2026-10-31). 같은 도메인이라 새 탭으로 열지 않는다.
+              ...(localeKey === 'ko' ? [{label: '블로그', href: 'https://www.mymi.live/blog', target: '_self'}] : []),
+            ],
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} WonMo Inc.`,

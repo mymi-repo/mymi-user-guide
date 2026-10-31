@@ -75,6 +75,23 @@ npm run serve -- --port 3001   # 이미 빌드한 모든 언어의 결과 확인
 
 가이드만 로컬 확인할 때는 이 디렉터리에서 빌드한다. FE 루트의 빌드를 실행하면 가이드 복사 외에 FE 빌드도 진행된다.
 
+## 블로그 (`www.mymi.live/blog`)
+
+같은 사이트에서 설정 파일만 바꿔(`docusaurus.blog.config.js`) 따로 빌드한다. 설계는 FE `docs/FE/SEO/2026-10-27-블로그-설계안.md`이고, 처음에는 한국어만 있다.
+
+```bash
+npm run build:blog                                                              # build-blog/
+npm run serve -- --dir build-blog --config docusaurus.blog.config.js --port 3002   # http://localhost:3002/blog/
+```
+
+FE `scripts/build-guide.mjs`가 가이드 다음에 블로그를 빌드해 `public/blog/`로 복사하고, 글 끝 접기 블록(`<details>`)으로 FAQPage 구조화 데이터를 넣는다.
+
+글은 `blog/<슬러그>.md`에 쓴다. 머리말 항목은 설계안 3절을 따르고, 글쓴이는 `authors: [mymi]`(`blog/authors.yml`, 'MYMI 팀')다. 태그는 쓰지 않는다(글이 적을 때 태그 페이지는 얇은 페이지라 빌드가 막는다). 글은 MDX로 읽혀서 아래처럼 쓴다.
+
+- 목록 화면 요약이 끝나는 곳: `{/* truncate */}`(HTML 주석 `<!-- -->`은 오류)
+- 접기 블록: `<details>`와 `<summary>…</summary>`를 각각 한 줄에 쓴다
+- 가이드·서비스 링크는 전체 주소(`https://www.mymi.live/guide/...`)로 쓴다. `/guide/...`는 블로그 주소(`/blog/guide/...`)가 된다. 블로그 글끼리는 `./<파일 이름>.md`로 잇는다
+
 ## 콘텐츠 수정
 
 `docs/` 디렉토리의 한국어 마크다운 파일을 직접 수정한다. 로컬 수정과 미리보기만으로 운영 사이트에 배포되지는 않는다.
@@ -242,6 +259,7 @@ Pretendard(한국어판)에는 한국식 한자·가나 글리프가 들어 있�
 2. Chrome에서 `og/card.html?locale=ko`를 연다.
 3. 개발자 도구의 기기 모드에서 크기를 1200×630, 배율을 100%로 맞춘다.
 4. 명령 메뉴의 **Capture screenshot**으로 저장하고 `static/img/og/og-ko.png`를 교체한다. 다른 언어는 `locale` 값만 바꿔 반복한다.
+5. 블로그(`/blog`)의 공유 이미지 `static/img/og/og-blog.png`는 `og/card.html?site=blog`를 같은 방법으로 캡처한다. 블로그 설정(`docusaurus.blog.config.js`)이 가이드 주소(`/guide/img/og/og-blog.png`)로 가져다 쓴다.
 
 ### 예시 작품 이미지
 

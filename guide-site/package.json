@@ -6,6 +6,7 @@
     "docusaurus": "docusaurus",
     "start": "node scripts/run-docusaurus.mjs start",
     "build": "node scripts/run-docusaurus.mjs build",
+    "build:blog": "node scripts/run-docusaurus.mjs build --config docusaurus.blog.config.js --out-dir build-blog",
     "preview": "node scripts/run-docusaurus.mjs serve --build --port 3001 --host localhost --no-open",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",

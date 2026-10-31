@@ -3,6 +3,7 @@
   링크 공유 이미지(static/img/og/og-<locale>.png)의 원본.
   브라우저에서 card.html?locale=ko 처럼 열고 1200×630 크기로 캡처한다. 방법은 README의 "링크 공유 이미지".
   문구는 docusaurus.config.js 의 siteTexts(navTitle·description)와 맞춘다.
+  블로그(static/img/og/og-blog.png)는 card.html?site=blog 로 열어 같은 방법으로 캡처한다.
 -->
 <html lang="ko">
   <head>
@@ -130,7 +131,7 @@
       <img class="lockup" src="../static/brand/mymi-lockup-white.svg" alt="" />
       <h1 class="title" id="title"></h1>
       <p class="description" id="description"></p>
-      <div class="url">mymi.live/guide</div>
+      <div class="url" id="url">mymi.live/guide</div>
     </div>
     <script>
       // 사이트 설명(description)과 같은 문장이다. \n 은 이미지에서 줄을 바꿀 위치다.
@@ -157,6 +158,13 @@
       document.documentElement.lang = locale;
       document.getElementById('title').textContent = texts[locale].title;
       document.getElementById('description').textContent = texts[locale].description;
+      // 블로그(/blog)는 한국어만 있다. 설명은 docusaurus.blog.config.js 의 description 과 같은 문장이다.
+      if (new URLSearchParams(location.search).get('site') === 'blog') {
+        document.getElementById('title').textContent = '블로그';
+        document.getElementById('description').textContent =
+          'AI 인터랙티브 소설과 AI 캐릭터 채팅을\n고르고 즐기는 법, MYMI의 작품 데이터를 정리합니다';
+        document.getElementById('url').textContent = 'mymi.live/blog';
+      }
     </script>
   </body>
 </html>
