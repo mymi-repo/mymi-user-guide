@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-10-07
+  date: 2026-11-01
 seo_title: Login and profile settings - Name and ID
 description: How to log in again with the account you signed up with, change your name, nickname, ID, profile picture, and display language, log out, and fix login problems.
 ---
@@ -41,12 +41,10 @@ Select the row with your profile picture and nickname at the top of **Profile** 
 | Field | What it's for |
 | --- | --- |
 | **Name** | What characters call you |
-| **Gender**, **Birthdate** | Info about you that characters take into account. These lock once you verify your phone number |
+| **Gender**, **Birthdate** | Info about you that characters take into account |
 | **Nickname** | The name other users see, and the creator name on your works |
 | **ID** | Your `@ID`, used in your public profile address |
 | **Details** | Info about you that characters use in chats. Up to 1,000 characters |
-
-Set your gender and birthdate before you verify your phone number, because you can't change them afterward.
 
 The ID rules are the same as in [Sign up](/account/sign-up.md#id-rules). The ID is checked for duplicates as you type, so save after you see **Available**. Changing your ID also changes your public profile address. If you've shared a profile link before, share the new one.
 
@@ -117,13 +115,6 @@ The app has no X sign-in, and the Android app has no Apple sign-in. Open [www.my
 <summary>I can't select Save Changes</summary>
 
 Nothing has been changed yet, or something you entered has an error. Check the message under the field and fix it. If you changed your ID, check that **Available** appears.
-
-</details>
-
-<details>
-<summary>I can't change my gender or birthdate</summary>
-
-After you verify your phone number, your gender and birthdate can't be changed. To chat with different settings in different works, create a persona in [Persona settings](/account/persona.md). Each persona has its own gender and birthdate.
 
 </details>
 

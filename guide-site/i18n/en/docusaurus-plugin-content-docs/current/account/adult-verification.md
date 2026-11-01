@@ -31,7 +31,6 @@ Some screens call phone verification "identity verification." It's the same chec
 
 - You can verify only mobile numbers from the United States (+1), Japan (+81), or Taiwan (+886). Numbers from other countries, including Canada, can't be used.
 - If the text doesn't arrive, select **Resend code** after the waiting time. If you entered the wrong number, select **Change number**.
-- Once your phone is verified, your gender and birthdate on **Edit Profile** can't be changed.
 
 ## Confirm your age
 
@@ -144,7 +143,7 @@ Verify only with your own phone number. Don't use someone else's. Contact us fir
 <details>
 <summary>I want to check whether I'm verified</summary>
 
-Select the nickname row at the top of **Profile** to open **Edit Profile**. If **Gender** and **Birthdate** are locked, your phone is verified. If you can turn off the Safety Filter without a prompt, your age is confirmed.
+Select **Check-in and get Sparks** in **Profile → Attendance Check**. If the **Phone Verification** window doesn't open, your phone is verified. If you can turn off the Safety Filter without a prompt, your age is confirmed.
 
 </details>
 
