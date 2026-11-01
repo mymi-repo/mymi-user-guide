@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 last_update:
-  date: 2026-10-07
+  date: 2026-11-01
 description: When you need phone verification and when you need age confirmation, how to do each, how to turn off the Safety Filter, and what to do if verification fails.
 ---
 
@@ -44,7 +44,7 @@ False declarations may lead to restrictions on your use of the service. If you'r
 
 ## See adult works
 
-1. Open **Home** in the bottom menu and look at the right end of the **Picks**, **Ranking**, **Tags**, and **Search** tab row. The small switch with just a shield icon is the Safety Filter. Green means it's on and adult works are hidden.
+1. Open **Home** in the bottom menu and look at the right end of the **Picks**, **Ranking**, **Genres**, and **Search** tab row. The small switch with just a shield icon is the Safety Filter. Green means it's on and adult works are hidden.
 2. Tap the switch. If you aren't logged in, a login window appears. If you haven't confirmed your age, the **Age Confirmation** window appears.
 3. After confirming, tap the switch again to turn it gray. Adult works now appear on Home and in search.
 

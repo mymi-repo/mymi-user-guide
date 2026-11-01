@@ -25,7 +25,7 @@ For example, in the work **Underground Seoul**, you wake up in a quarantine stat
 
 ## Chat with a work
 
-1. On **Home** in the bottom menu, choose a work from the **Picks**, **Ranking**, **Tags**, or **Search** tab.
+1. On **Home** in the bottom menu, choose a work from the **Picks**, **Ranking**, **Genres**, or **Search** tab.
 2. Read the work's description and select **Start chatting**.
 3. Read the intro scene, then type and send your line or action. The character replies and the story continues.
 4. Later, pick up where you left off from **Chat** in the bottom menu.

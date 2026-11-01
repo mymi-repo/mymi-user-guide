@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 last_update:
-  date: 2026-10-19
+  date: 2026-11-01
 description: When a character forgets earlier events, check long-term memory and memory fragments, correct it with a user note, and learn the three kinds of memory.
 ---
 
@@ -35,7 +35,7 @@ For example, the big picture that two characters made up goes into long-term mem
 1. In the ⋮ menu, select **Memory Management → Long-term Memory**. The **Long-term Memory** tab of the **Memory** screen opens.
 2. Read the summarized flow under **The Story So Far**.
 
-At the top, you can see how many exchanges are left until the next summary. The AI reads this story with every reply and rewrites it every 10 exchanges.
+At the top, you can see how many exchanges are left until the next summary. The AI reads this story with every reply and adds what happened next every 10 exchanges. When the story gets very long, the oldest lines drop off, so put anything that must hold to the end in your **User Note**.
 
 If you see "No story written yet", keep chatting. The first summary is written after 10 exchanges.
 

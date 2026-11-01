@@ -65,7 +65,7 @@ They are two separate checks. The steps are in [Age confirmation and phone verif
 
 <summary>I want to turn off the Safety Filter / adult works don't show up</summary>
 
-1. The shield-shaped switch at the right end of the **Picks**, **Ranking**, **Tags**, and **Search** tab row on Home is the Safety Filter. While it's on (green), adult works are hidden.
+1. The shield-shaped switch at the right end of the **Picks**, **Ranking**, **Genres**, and **Search** tab row on Home is the Safety Filter. While it's on (green), adult works are hidden.
 2. Tap the switch to turn it off. If you haven't confirmed your age, the **Age Confirmation** window appears first. Check **I confirm that I am 18 years of age or older.** only if that's true, and select **Confirm**. Then check that the switch turned gray.
 3. Works classified as sensitive content appear only when **Profile → Settings & Support → Show Sensitive Content** is on. It's a separate setting from the Safety Filter.
 

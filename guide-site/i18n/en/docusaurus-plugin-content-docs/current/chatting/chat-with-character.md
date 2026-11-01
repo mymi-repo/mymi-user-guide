@@ -24,7 +24,7 @@ Find works with the tabs at the top of **Home**.
 | --- | --- |
 | **Picks** | Browse recommended collections |
 | **Ranking** | Pick from the real-time, daily, weekly, and monthly rankings |
-| **Tags** | Choose one category (Genre, Relationship, Setting, Personality, or Species) and pick up to 3 tags |
+| **Genres** | Choose **All** or one of 13 genres, such as Romance, Fantasy, or Wuxia, and sort by Popular, Weekly popularity, or Newest |
 | **Search** | Search by mood or keyword. Enter `@nickname` or `@ID` exactly to see that creator's works |
 
 - The first time you visit, a "Choose the characters you want to see" window appears. Pick **Female characters**, **Male characters**, or **Show me everything** to see works featuring those characters first. You can change it anytime with the gender filter on each tab.
