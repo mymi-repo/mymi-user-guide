@@ -22,7 +22,7 @@ MYMI는 웹사이트와 Android·iPhone 앱에서 같은 계정으로 이용해�
 
 | 기기 | 설치 |
 | --- | --- |
-| Android | [Google Play에서 MYMI 설치](https://play.google.com/store/apps/details?id=live.mymi.app) |
+| Android | [Google Play에서 MYMI 설치](https://play.google.com/store/apps/details?id=live.mymi.app&hl=ko) |
 | iPhone | [App Store에서 MYMI 설치](https://apps.apple.com/app/id6794338974) |
 
 휴대폰 브라우저로 MYMI를 열었다면 홈 오른쪽 위 **앱 설치**를 눌러도 스토어가 열려요. 설치한 앱을 열고 하단 **마이페이지**에서 로그인하거나 가입해요.

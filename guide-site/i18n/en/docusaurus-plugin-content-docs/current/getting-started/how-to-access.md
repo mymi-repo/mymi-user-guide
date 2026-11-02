@@ -22,7 +22,7 @@ When the free trial runs out, a login window appears. If you sign up right there
 
 | Device | Install |
 | --- | --- |
-| Android | [Get MYMI on Google Play](https://play.google.com/store/apps/details?id=live.mymi.app) |
+| Android | [Get MYMI on Google Play](https://play.google.com/store/apps/details?id=live.mymi.app&hl=en) |
 | iPhone | [Get MYMI on the App Store](https://apps.apple.com/app/id6794338974) |
 
 In the U.S. stores, the MYMI listing currently shows its name in Korean. The links above open the right app.

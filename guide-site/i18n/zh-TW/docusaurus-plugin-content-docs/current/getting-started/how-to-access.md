@@ -22,7 +22,7 @@ MYMI 的網頁版與 Android、iPhone App 使用同一個帳號。在電腦上�
 
 | 裝置 | 安裝 |
 | --- | --- |
-| Android | [在 Google Play 安裝 MYMI](https://play.google.com/store/apps/details?id=live.mymi.app) |
+| Android | [在 Google Play 安裝 MYMI](https://play.google.com/store/apps/details?id=live.mymi.app&hl=zh_TW) |
 | iPhone | [在 App Store 安裝 MYMI](https://apps.apple.com/app/id6794338974) |
 
 如果是用手機瀏覽器開啟 MYMI，也可以點選首頁右上角的**安裝 App**前往商店。開啟安裝好的 App 後，從下方選單的**個人檔案**登入或註冊。
