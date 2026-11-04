@@ -65,6 +65,22 @@ Yes, there are Android and iPhone apps, and they use the same account as the web
 
 </details>
 
+## Who runs MYMI
+
+MYMI is run by **Wonmo Inc.**
+
+| Item | Details |
+| --- | --- |
+| Company | Wonmo Inc. |
+| CEO | Jungwon Kim |
+| Address | J86, 1 Gukhoe-daero 36-gil, Yeongdeungpo-gu, Seoul, Republic of Korea |
+| Business Registration Number | 151-86-03288 |
+| E-commerce Registration Number | 2026-Seoul Yeongdeungpo-1176 |
+| Phone | +82-70-4571-4226 |
+| Email | [contact@mymi.live](mailto:contact@mymi.live) |
+
+If you get stuck, reach us on Discord or by email as described in [Contact us](/faq/faq.md#contact-us).
+
 ## Next steps
 
 <CardGrid>

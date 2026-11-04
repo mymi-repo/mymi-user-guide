@@ -65,6 +65,22 @@ MYMI 是**和 AI 扮演的作品角色聊天，一起推進故事的服務**。�
 
 </details>
 
+## 營運公司
+
+MYMI 由 **Wonmo Inc.** 營運。
+
+| 項目 | 內容 |
+| --- | --- |
+| 公司名稱 | Wonmo Inc. |
+| 代表人 | Jungwon Kim |
+| 地址 | 大韓民國首爾特別市永登浦區國會大路36街1號 J86 2樓 |
+| 營業登記號碼 | 151-86-03288 |
+| 通訊販賣業申報編號 | 2026-首爾永登浦-1176 |
+| 電話 | +82-70-4571-4226 |
+| Email | [contact@mymi.live](mailto:contact@mymi.live) |
+
+遇到問題時，請透過[聯絡我們](/faq/faq.md#聯絡我們)裡的 Discord 或 Email 告訴我們。
+
 ## 下一步
 
 <CardGrid>
