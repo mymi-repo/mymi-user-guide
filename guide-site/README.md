@@ -206,6 +206,8 @@ i18n/zh-TW/docusaurus-plugin-content-docs/current/account/sign-up.md
 
 2026-11-04 대화하기·채팅방 설정하기·AI 모델 안내 4개 언어를 10/18 뒤 화면(이어서 진행·다시 생성 창, 1:1 아이콘)과 11/03 유저 노트·페르소나 로그인, 지금 모델 목록·값에 맞췄다. 로그인하지 않았을 때의 체험 모델은 BE `utils/credit_config.py`의 게스트 고정 모델 값(`GUEST_FIXED_MODEL`)이 정본이다. 이 값이 바뀌면 네 언어 `chatting/ai-models.md`의 두 줄(모델 바꾸기 목록의 체험 줄, 자주 막히는 곳 '⚡ 버튼이 보이지 않아요')과 네 언어 `faq/chat-without-login.md` 표의 모델 줄('모델 고르기')을 고친다.
 
+2026-11-04 네 언어 「MYMI란?」(`getting-started/what-is-mymi.md`)에 운영하는 회사 절을 더했다. 한국어 웹 푸터의 'MYMI 소개' 링크가 이 쪽으로 온다. 값(회사·대표자·주소·사업자등록번호·통신판매업신고번호·전화·메일)은 FE `packages/src/i18n/messages/<언어>/common.json`의 `Footer` 문구와 글자까지 같다. 회사 정보가 바뀌면 두 곳을 함께 고친다.
+
 GitBook의 `{% hint %}` 블록은 Docusaurus admonition으로 자동 변환됨:
 - `:::info` / `:::tip` / `:::warning` / `:::danger`
 
