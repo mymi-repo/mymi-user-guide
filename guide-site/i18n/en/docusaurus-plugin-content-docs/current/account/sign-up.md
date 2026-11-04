@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-07
+  date: 2026-11-04
 seo_title: Sign up - Google, X, or Apple sign-in
 description: How to sign up for MYMI with Google, X, or Apple, choose your name, ID, and nickname, follow the ID rules, agree to the terms, and fix sign-up problems.
 ---
@@ -76,7 +76,7 @@ The result appears on the right of the field as you type your ID. If you see **A
 
 ## Finish signing up
 
-The button at the bottom of the screen stays a gray arrow until everything is filled in. Fill in the four fields, make sure your ID shows **Available**, and check the three required items. The button then changes to **Complete Sign Up**. Select it to finish and go to Home.
+The button at the bottom of the screen stays a gray arrow until everything is filled in. Fill in the four fields, make sure your ID shows **Available**, and check the three required items. The button then changes to **Complete Sign Up**. Select it to finish and go to Home. If you signed up from the login window in a chat room, you go back to that chat room instead.
 
 You need Sparks to chat. After you verify your phone number, you can get them free every day from **Profile → Attendance Check**. See [Age confirmation and phone verification](/account/adult-verification.md) and [Buying Sparks](/payment/payment-methods.md#attendance-check).
 

@@ -3,7 +3,7 @@ sidebar_position: 1
 # 폴더와 이름이 같은 문서는 주소 끝에 / 가 붙는데, 웹(Next)은 끝 / 를 308 로 떼어 내 표준 주소·언어 연결이 리다이렉트를 가리켰다(2026-10-24).
 slug: /faq
 last_update:
-  date: 2026-11-01
+  date: 2026-11-04
 description: What to check and how to fix problems with logging in, verification, Sparks, payments, chatting, creating works, or being a creator, and how to contact us.
 ---
 
@@ -174,7 +174,7 @@ The periods are listed in [When do Sparks expire?](/payment/payment-methods.md#w
 
 <summary>It says "Your free trial has ended" or "You've used all trial messages. Sign up to enjoy more conversations!"</summary>
 
-Without logging in, you can chat up to **5 times**. Regenerate counts as one too. If you sign up right where you were trying it out, you can continue that chat on your new account. See [Sign up](/account/sign-up.md) for how to sign up.
+You've used up the chats you can have without logging in (up to **5**), or you started with none left. A reply from the ≫ button, a regenerated reply, and a reply the model declined each count as one. To keep chatting, sign up or log in. A new account starts with no Sparks. If you select a login button in the browser or app where you were trying it out and sign up with a social account you haven't used on MYMI before, your trial chat rooms move to the new account. See [Can I chat with AI without logging in?](/faq/chat-without-login.md) for the details and [Sign up](/account/sign-up.md) for how to sign up.
 
 </details>
 

@@ -22,7 +22,7 @@ const sidebars = {
     {type: 'category', label: '크리에이터', items: ['creator-support/support']},
   ],
   helpSidebar: [
-    {type: 'category', label: '자주 묻는 질문', collapsed: false, items: ['faq/faq', 'faq/cookie-clear']},
+    {type: 'category', label: '자주 묻는 질문', collapsed: false, items: ['faq/faq', 'faq/cookie-clear', 'faq/chat-without-login']},
     {type: 'category', label: '약관과 정책', items: ['policy/terms']},
   ],
 };

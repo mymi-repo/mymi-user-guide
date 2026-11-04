@@ -130,7 +130,7 @@ If you set the response length above the default, that amount is deducted first 
 <details>
 <summary>It says "Free trial has ended!"</summary>
 
-You've used the 5 tries available without logging in. Replies you get with ≫ or by regenerating count as one each, and so does a reply the model declined. Log in to keep chatting. If you sign up right where you were trying it out, you can continue that chat on your new account.
+You've used up the chats you can have without logging in (up to **5**), or you started with none left. Replies you get with ≫ or by regenerating count as one each, and so does a reply the model declined. Log in to keep chatting. If you sign up with a social account you haven't used on MYMI before, in the same browser or app where you were trying it out, your trial chat moves to your new account. See [Can I chat with AI without logging in?](/faq/chat-without-login.md) for the details.
 
 </details>
 

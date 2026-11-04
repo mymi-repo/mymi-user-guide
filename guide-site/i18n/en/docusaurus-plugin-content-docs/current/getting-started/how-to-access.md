@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-10-07
+  date: 2026-11-04
 seo_title: Access MYMI - Use the website or the app
 description: How to open the MYMI website and the Android and iPhone apps, try MYMI without logging in, and fix links that won't open or sign-ins that get blocked.
 ---
@@ -14,9 +14,9 @@ You use MYMI on the website and in the Android and iPhone apps with the same acc
 
 1. Open [www.mymi.live/en](https://www.mymi.live/en) in a browser such as Chrome or Safari. There's nothing to install.
 2. The first time you visit, a "Choose the characters you want to see" window appears. Pick **Female characters**, **Male characters**, or **Show me everything**, and Home shows works featuring those characters first. You can change it later with the filter on Home.
-3. Open a work you like and start chatting. You can try up to 5 messages for free without logging in.
+3. Open a work you like and start chatting. Without logging in, you can chat up to 5 times. How they're counted, and when you might have fewer, is explained in [Can I chat with AI without logging in?](/faq/chat-without-login.md).
 
-When the free trial runs out, a login window appears. If you sign up right there, you can continue the chat you tried on your new account. See [Sign up](/account/sign-up.md). Adult works open only after you log in and complete age confirmation (18 or older).
+When the trial runs out, a login window appears. If you sign up with a social account you haven't used on MYMI before, in the same browser or app where you tried it, your trial chat moves to your new account. See [Sign up](/account/sign-up.md). Adult works open only after you log in and complete age confirmation (18 or older).
 
 ## Install the app
 

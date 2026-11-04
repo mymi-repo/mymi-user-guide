@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-07
+  date: 2026-11-04
 seo_title: 註冊 - 用 LINE、Google、X、Apple 帳號註冊
 description: 說明如何用 LINE、Google、X、Apple 帳號註冊 MYMI、設定名稱・ID・暱稱、ID 規則、同意條款，以及完成註冊按鈕一直是灰色箭頭、ID 已被使用等無法註冊時的解決方法。
 ---
@@ -79,9 +79,9 @@ description: 說明如何用 LINE、Google、X、Apple 帳號註冊 MYMI、設�
 
 ## 完成註冊
 
-在條件全部滿足前，畫面下方的按鈕會顯示為灰色箭頭。填好四個項目、ID 顯示**可使用**，並勾選三個必要項目後，按鈕就會變成**完成註冊**。點選後就完成註冊並前往首頁。
+在條件全部滿足前，畫面下方的按鈕會顯示為灰色箭頭。填好四個項目、ID 顯示**可使用**，並勾選三個必要項目後，按鈕就會變成**完成註冊**。點選後就完成註冊並前往首頁。如果是從聊天室開啟的登入視窗註冊，會回到那個聊天室，而不是首頁。
 
-聊天需要 Spark。完成手機號碼驗證後，就能在**個人檔案 → 簽到**每天免費領取。方法請見[年齡確認與手機號碼驗證](/account/adult-verification.md)與[儲值 Spark](/payment/payment-methods.md#簽到)。
+聊天需要 Spark，Spark 需要儲值取得。完成手機號碼驗證後，也能在**個人檔案 → 簽到**每天領取獎勵。方法請見[年齡確認與手機號碼驗證](/account/adult-verification.md)與[儲值 Spark](/payment/payment-methods.md#簽到)。
 
 ## 遇到問題時
 
