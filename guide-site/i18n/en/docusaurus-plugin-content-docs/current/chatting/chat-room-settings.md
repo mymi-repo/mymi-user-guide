@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-11-01
+  date: 2026-11-04
 seo_title: Chat room settings - User note, bookmarks
 description: Change how the AI replies and how the chat looks, set a user note and persona for a chat room, and reread, find, bookmark, or capture past conversations.
 ---
@@ -30,17 +30,19 @@ Change these in **Chat Settings** in the ⋮ menu. Changes apply from the next r
 | --- | --- |
 | **Writing Style** | **As Written** adds no style instructions and keeps the style the work is written in. **Novel** is rich in description and narration. **Light Novel** is lighter and focuses on dialogue. **Web Novel** uses short paragraphs and moves fast. **Romance** follows inner feelings and the emotional arc |
 | **Story Booster** | When on, the AI actively creates events and the plot moves faster |
-| **Let AI write my actions** | When on, the AI also writes your actions and lines. Turn it off if you want to write your own actions |
+| **Let AI write my actions** | When on, the AI can also write your actions and lines when it helps move the scene along. It doesn't always do so. It's off at first; keep it off if you want to write your own actions |
 | **One scene at a time** | When on, works with pictures show only one picture per reply. The amount of text stays the same |
 | **Response Length** | Lets you get longer replies. It can cost more Sparks, so it has its own section: [Get longer replies](/chatting/ai-models.md#get-longer-replies) |
 
+Even with **Let AI write my actions** on, a turn you pass by selecting ≫ with an empty message box asks the AI not to write your character's lines, actions, or decisions. To let the AI write your actions too, type at least one line and send it.
+
 :::info[These settings apply to every chat room]
-The five settings above are saved in the browser or app you're using, so they apply to your other chat rooms too. On another device, choose them again. The **User Note** and **My Info** below are saved separately for each chat room.
+The five settings above are saved in the browser or app you're using, so they apply to your other chat rooms too. In another browser or app, choose them again (the app and a browser on the same device are separate too). The **User Note** and **My Info** below are saved separately for each chat room.
 :::
 
 ## User note and persona
 
-These are saved only for this chat room, and they stay the same when you open it on another device.
+These are saved only for this chat room, and they stay the same when you open it on another device. They open only when you're logged in. If you aren't, selecting them opens the login window.
 
 In the **User Note**, write up to 2,000 characters about your relationship with the character, your background, or anything you want remembered. Write it in **Chat Settings → User Note** in the ⋮ menu and select **Save**. The AI refers to it every time it replies in this chat room.
 
@@ -124,7 +126,7 @@ Select the eye icon at the top right of the chat room again to bring the text ba
 <details>
 <summary>I changed a setting and other chat rooms changed too</summary>
 
-Writing Style, Story Booster, Let AI write my actions, One scene at a time, and Response Length in **Chat Settings**, as well as everything in **UI Settings**, apply to every chat room on this device. Write anything you want to differ by chat room in the **User Note**.
+Writing Style, Story Booster, Let AI write my actions, One scene at a time, and Response Length in **Chat Settings**, as well as everything in **UI Settings**, apply to every chat room in the browser or app you're using. Write anything you want to differ by chat room in the **User Note**.
 
 </details>
 

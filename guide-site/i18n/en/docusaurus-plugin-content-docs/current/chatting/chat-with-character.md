@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-11-01
+  date: 2026-11-04
 seo_title: Chatting - Choose a work and start a chat
 description: Choose a work and start your first chat, get a different reply or edit one when you don't like it, pick up a chat later, and fix "Not enough Spark" messages.
 ---
@@ -13,7 +13,7 @@ This page walks you through choosing a work, starting your first chat, getting a
 :::info[Chatting uses Sparks]
 Each AI reply costs Sparks, based on the price of the model you chose. **Gemini 3.1 Pro** is selected at first, and you can switch models with the ⚡ button to the left of the message box. Prices for each model are in the [AI model guide](/chatting/ai-models.md).
 
-If you aren't logged in, you can try up to 5 messages for free.
+If you aren't logged in, you can't choose a model. You can chat up to 5 times with a fixed trial model.
 :::
 
 ## Choose a work
@@ -55,23 +55,37 @@ Wrap actions in asterisks (`*`) to show them in a different color from dialogue.
 ```
 
 :::tip[When you don't know what to say]
-Leave the message box empty, select ↑, and select **Proceed** in the "Send an empty message?" window. The character continues the story. This also costs the same Sparks as one reply.
+When the message box is empty, the ↑ button turns into a ≫ button. Select ≫ to open the **Continue the story** window.
+
+- **Just continue**: The character carries on with the story as it's going.
+- **Time skip**, **Scene change**, **Something happens**, **New character**: The direction written under the option is added to this turn only.
+
+Whichever option you choose, it costs the same Sparks as one reply.
 :::
 
 ## When you don't like a reply
 
-Three buttons appear under the most recent AI reply.
+Use the buttons under the most recent AI reply to get a different reply or fix it.
 
 | Button | What it does |
 | --- | --- |
-| Circular arrow (**Regenerate**) | Gets a new reply to the same message. Costs Sparks again |
+| Circular arrow (**Regenerate**) | Opens the **Regenerate** window. Gets a new reply the way you choose, and costs Sparks again |
 | Pencil (**Edit Message**) | Lets you rewrite the reply yourself, then **Save** |
 | Trash can (**Delete Message**) | Deletes the reply. The message of yours that led to it is deleted too |
 
+In the **Regenerate** window, choose what you want from the new reply. Your choice applies to this regeneration only.
+
+| Option | New reply |
+| --- | --- |
+| **Just regenerate** | Gets a new reply with no extra request |
+| **Stay in character**, **Follow User Note**, **No repetition**, **Leave my actions out** | Adds the request written under the option |
+| The box at the bottom | Type what you want, up to 150 characters, and send it |
+
+- If you got the reply by choosing a direction with ≫, regenerating it adds that first direction again.
 - If you regenerate and end up with several replies, use ‹ › to flip between them and keep the one you like. Flipping between them is free.
 - These buttons appear only on the most recent AI reply. You can't edit earlier replies or the messages you sent, so if you want to change the direction, say so in your next message.
 - You also can't change a reply you bookmarked. See [Bookmarks and branches](/chatting/chat-room-settings.md#bookmarks-and-branches).
-- In the **1:1** view, the same buttons are labeled **Regenerate**, **Edit Content**, and **Delete**.
+- In the **1:1** view, the same icon buttons appear when you reach the end of the most recent reply. On a computer, hover over them to see their names: **Regenerate**, **Edit Content**, and **Delete**.
 
 :::warning[Deleting can't be undone]
 Deleting a reply also deletes the message of yours that led to it, and neither can be restored. If you only want a different reply, use **Regenerate**.
@@ -116,7 +130,7 @@ If you set the response length above the default, that amount is deducted first 
 <details>
 <summary>It says "Free trial has ended!"</summary>
 
-You've used the 5 free messages available without logging in. **Regenerate** counts as one too. Log in to keep chatting. If you sign up right where you were trying it out, you can continue that chat on your new account.
+You've used the 5 tries available without logging in. Replies you get with ≫ or by regenerating count as one each, and so does a reply the model declined. Log in to keep chatting. If you sign up right where you were trying it out, you can continue that chat on your new account.
 
 </details>
 

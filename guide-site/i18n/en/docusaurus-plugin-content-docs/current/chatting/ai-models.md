@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 last_update:
-  date: 2026-10-05
+  date: 2026-11-04
 seo_title: AI model guide - Prices and longer replies
 description: How to choose the AI model for chat replies, Spark prices by model, and the Sparks deducted for longer replies and for replies that fail or are declined.
 ---
@@ -19,50 +19,52 @@ How to choose the AI model that writes chat replies, what each model costs in Sp
 - **Gemini 3.1 Pro** is selected at first.
 - The dot in front of a model name shows its current status: green is **Smooth**, orange is **Normal** (replies tend to be slow), and red is **Busy** (failures are more frequent). If replies keep failing, switch to a model with a green dot.
 - Models with a **50% OFF** badge show the discounted price. Models marked **Temporarily Disabled** can't be chosen right now.
-- The model you choose is saved in the browser or app you're using and stays the same in other chat rooms. Choose it again on another device.
+- The model you choose is saved in the browser or app you're using and stays the same in other chat rooms. Choose it again in another browser or app.
 - **Creator's recommended models** on a work's detail page are the creator's suggestions. Choose the model you chat with using the ⚡ button.
-- Without logging in, you can try **Grok 4.6** for up to 5 messages.
+- Without logging in, you can chat up to 5 times with a fixed trial model (currently **Gemini 3.8 Flash**).
 
 ## Prices by model
 
-These are **list prices as of October 1, 2026**, in Sparks.
+These are **list prices as of November 4, 2026**, in Sparks.
 
 - **Base price**: The price of one reply, including the default length.
 - **Per extra 100 tokens**: What you pay for length beyond the default when you raise the response length. Tokens are the unit the AI uses to count text.
 
 Discounted models show the discounted price in the model selection window, so check it before you send.
 
+The table groups models by provider, so the order may differ from the order in the model selection window.
+
 ### MYMI Models
 
 | Model and strength | Base price | Per extra 100 tokens |
 | --- | ---: | ---: |
 | **MYMI Plus v2**<br />Rich description and in-depth conversation | 60 | 4 |
+| **MYMI Flash v1**<br />Fast replies and solid description | 25 | 1 |
 | **MYMI Lite v2**<br />Light, everyday conversation | 20 | 1 |
 
 ### Gemini Models
 
 | Model and strength | Base price | Per extra 100 tokens |
 | --- | ---: | ---: |
+| **Gemini 4 Argon**<br />Google's flagship model | 240 | 16 |
 | **Gemini 3.1 Pro**<br />Strong context understanding | 120 | 8 |
-| **Gemini 2.5 Pro**<br />Deep immersion and nuanced expression | 80 | 5 |
 | **Gemini 3.8 Flash**<br />Keeps the story on track to the end | 100 | 6 |
 | **Gemini 3.7 Flash**<br />Follows your setup closely | 100 | 6 |
 | **Gemini 3 Flash**<br />Balance of fast replies and performance | 50 | 3 |
-| **Gemini 2.5 Flash**<br />Fast replies at a low price | 40 | 2 |
 
 ### Claude Models
 
 | Model and strength | Base price | Per extra 100 tokens |
 | --- | ---: | ---: |
+| **Claude Opus 5.5**<br />Richer prose and deeper storytelling | 300 | 20 |
 | **Claude Opus 4.6**<br />Deep reasoning | 300 | 20 |
+| **Claude Sonnet 5.5**<br />Fast replies with richer prose | 100 | 6 |
 | **Claude Sonnet 4.6**<br />Nuanced emotional expression | 100 | 6 |
-| **Claude Sonnet 4.5**<br />Fast, stable conversation | 100 | 6 |
 
 ### xAI Models
 
 | Model and strength | Base price | Per extra 100 tokens |
 | --- | ---: | ---: |
-| **Grok 4.6**<br />Thinks before it answers | 120 | 8 |
 | **Grok 4.3**<br />Light, fast conversation | 60 | 4 |
 | **Grok 4.20**<br />Creative replies | 60 | 4 |
 
@@ -109,7 +111,7 @@ You can see deducted Sparks on the **Usage** tab in **Profile → My Spark → V
 <details>
 <summary>I don't see the ⚡ button</summary>
 
-Without logging in, you can't choose a model and you chat with the trial model, **Grok 4.6**. Log in and the ⚡ button appears.
+Without logging in, you can't choose a model and you chat with a fixed trial model (currently **Gemini 3.8 Flash**). Log in and the ⚡ button appears.
 
 </details>
 
@@ -137,7 +139,7 @@ If you raised the response length, that amount is deducted first when you send. 
 <details>
 <summary>The model is different on another device</summary>
 
-The model and response length are saved separately on each device. Choose them again on that device.
+The model and response length are saved separately in each browser and app. Even on one device, the app and the browser keep their own, so choose them again where you're chatting now.
 
 </details>
 
