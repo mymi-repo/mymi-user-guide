@@ -67,7 +67,7 @@ Yes, there are Android and iPhone apps, and they use the same account as the web
 
 ## Who runs MYMI
 
-MYMI is run by **Wonmo Inc.**
+MYMI is run by **Wonmo Inc.** We made MYMI so that stories don't stop at reading: anyone can enjoy a story whose next scene changes with what they say and choose. We also want anyone who has a world and characters they love to be able to turn them into a work and share it with others.
 
 | Item | Details |
 | --- | --- |
