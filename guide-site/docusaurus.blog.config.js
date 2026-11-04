@@ -18,7 +18,7 @@ const config = {
   tagline: description,
   favicon: `${SITE}/guide/brand/favicon.png`,
   // Vercel 빌드 서버(CLI 업로드)에는 .git 이 없어 기본값(git 조회)이면 "outside any Git worktree" 로 빌드가 멈춘다.
-  // 블로그는 수정일 표시를 쓰지 않고 글 날짜는 머리말 date 로 정하므로 git 을 읽지 않는다.
+  // 그래서 git 을 읽지 않는다. 발행일은 머리말 date, 고친 날은 머리말 last_update.date 로 정한다.
   future: {v4: true, experimental_vcs: 'disabled'},
   url: SITE,
   baseUrl: '/blog/',
@@ -52,6 +52,9 @@ const config = {
           // 글 3편 미만의 목록 페이지는 얇은 페이지라 처음에는 태그·보관함을 쓰지 않는다(설계안 7절).
           archiveBasePath: null,
           showReadingTime: false,
+          // 고친 날(last_update.date)을 사이트맵 lastmod·BlogPosting dateModified 로 낸다. 그래야 BE IndexNow 크론이 고친 글도 알린다(2026-11-04).
+          // 화면에는 나오지 않는다 — 글 꼬리는 태그·editUrl 이 있을 때만 그려진다.
+          showLastUpdateTime: true,
           onInlineTags: 'throw',
           onInlineAuthors: 'throw',
           onUntruncatedBlogPosts: 'throw',

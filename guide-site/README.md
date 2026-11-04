@@ -86,7 +86,11 @@ npm run serve -- --dir build-blog --config docusaurus.blog.config.js --port 3002
 
 FE `scripts/build-guide.mjs`가 가이드 다음에 블로그를 빌드해 `public/blog/`로 복사하고, 글 끝 접기 블록(`<details>`)으로 FAQPage 구조화 데이터를 넣는다.
 
-글은 `blog/<슬러그>.md`에 쓴다. 머리말 항목은 설계안 3절을 따르고, 글쓴이는 `authors: [mymi]`(`blog/authors.yml`, 'MYMI 팀')다. 태그는 쓰지 않는다(글이 적을 때 태그 페이지는 얇은 페이지라 빌드가 막는다). 글은 MDX로 읽혀서 아래처럼 쓴다.
+글은 `blog/<슬러그>.md`에 쓴다. 머리말 항목은 설계안 3절을 따르고, 글쓴이는 `authors: [mymi]`(`blog/authors.yml`, 'MYMI 팀')다. 태그는 쓰지 않는다(글이 적을 때 태그 페이지는 얇은 페이지라 빌드가 막는다).
+
+고친 날은 머리말 `last_update: {date: YYYY-MM-DD}`로 적는다(2026-11-04). 새 글은 `date`와 같게 두고, 내용이 실제로 바뀌면 고친 날로 바꾼다. 빌드 서버(Vercel)에 `.git`이 없어 블로그는 git 날짜를 읽지 않는다(`experimental_vcs: 'disabled'`). 그래서 이 머리말이 사이트맵 `lastmod`와 BlogPosting `dateModified`의 유일한 출처다. 화면에는 나오지 않는다(글 꼬리는 태그·editUrl이 있을 때만 그려진다). lastmod가 바뀐 글은 BE IndexNow 크론이 네이버·빙에 알린다.
+
+글은 MDX로 읽혀서 아래처럼 쓴다.
 
 - 목록 화면 요약이 끝나는 곳: `{/* truncate */}`(HTML 주석 `<!-- -->`은 오류)
 - 접기 블록: `<details>`와 `<summary>…</summary>`를 각각 한 줄에 쓴다

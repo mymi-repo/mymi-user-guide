@@ -5,6 +5,7 @@ description: "AI 채팅으로 소설 속 인물과 대화를 시작하는 법을
 image: ./img/ai-chat-start/cover.png
 authors: [mymi]
 date: 2026-11-04
+last_update: {date: 2026-11-04}
 question: "AI 채팅으로 소설 속 인물과 대화하려면 어떻게 시작하나요?"
 answer: "AI 채팅은 작품 하나를 골라 첫 장면 끝에 내 몸짓과 한마디를 덧붙여 보내면 시작돼요."
 type: question

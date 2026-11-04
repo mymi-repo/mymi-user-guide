@@ -5,6 +5,7 @@ description: "AI 채팅에서 AI가 내 대사와 행동까지 써 버리는 이
 image: https://www.mymi.live/guide/img/og/og-blog.png
 authors: [mymi]
 date: 2026-11-02
+last_update: {date: 2026-11-04}
 question: "AI가 왜 내 대사와 행동까지 대신 쓰나요?"
 answer: "AI는 이야기를 이어 쓰는 데 익숙해서, 장면을 밀다 보면 내 캐릭터의 말과 행동까지 채우기 쉬워요."
 type: question

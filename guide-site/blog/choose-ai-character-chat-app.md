@@ -5,6 +5,7 @@ description: "AI 캐릭터 채팅 앱은 원하는 작품이 있는지, 대화�
 image: https://www.mymi.live/guide/img/og/og-blog.png
 authors: [mymi]
 date: 2026-11-03
+last_update: {date: 2026-11-03}
 question: "AI 캐릭터 채팅 앱은 무엇을 보고 고르나요?"
 answer: "원하는 작품이 있는지, 대화가 길어져도 이야기가 이어지는지, 답 한 번의 값이 얼마인지부터 보세요."
 type: comparison

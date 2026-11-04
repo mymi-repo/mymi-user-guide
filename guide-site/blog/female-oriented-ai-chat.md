@@ -5,6 +5,7 @@ description: "연애 로맨스를 찾는 분께 권할 MYMI 여성향 작품을 
 image: https://www.mymi.live/guide/img/og/og-blog.png
 authors: [mymi]
 date: 2026-10-31
+last_update: {date: 2026-10-31}
 question: "여성향 AI 채팅은 어떤 작품부터 해 보면 좋을까요?"
 answer: "2026년 10월 31일 기준 여성향 AI 채팅으로는 「한도경」·「이찬희」·「길가에 쓰러져있는 조폭을 주웠다!」·「우태오」·「한이겸」을 추천해요."
 type: data

@@ -5,6 +5,7 @@ description: "AI 캐릭터와 나누는 이야기가 바라던 분위기에서 �
 image: ./img/ai-story-mood/cover.png
 authors: [mymi]
 date: 2026-11-04
+last_update: {date: 2026-11-04}
 question: "AI 채팅에서 이야기를 원하는 분위기로 이끌려면 어떻게 하나요?"
 answer: "지금 장면은 내 메시지로 이끌고, 이야기 내내 지킬 분위기는 유저 노트에 적어 두세요."
 type: question

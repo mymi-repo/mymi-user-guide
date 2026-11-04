@@ -5,6 +5,7 @@ description: "MYMI 남성향 인기 작품을 2026년 10월 31일 기준 대화 
 image: https://www.mymi.live/guide/img/og/og-blog.png
 authors: [mymi]
 date: 2026-10-31
+last_update: {date: 2026-10-31}
 question: "남성향 AI 채팅, 어떤 작품을 추천하나요?"
 answer: "2026년 10월 31일 기준으로 추천하는 남성향 AI 채팅은 「루멘특구 공공서비스국」·「제니퍼」·「이지은」·「호랑이 경호원 백하린」이에요."
 type: data

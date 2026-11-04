@@ -5,6 +5,7 @@ description: "AI 인터랙티브 소설은 AI가 등장인물을 연기하고 �
 image: https://www.mymi.live/guide/img/og/og-blog.png
 authors: [mymi]
 date: 2026-10-31
+last_update: {date: 2026-11-02}
 question: "AI 인터랙티브 소설이 뭔가요?"
 answer: "AI 인터랙티브 소설은 AI가 등장인물을 연기하고, 내가 주인공이 되어 대화로 이야기를 이어 가는 소설이에요."
 type: glossary

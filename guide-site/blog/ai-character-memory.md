@@ -5,6 +5,7 @@ description: "AI 캐릭터가 지난 약속이나 호칭을 잊는 건 AI가 답
 image: https://www.mymi.live/guide/img/og/og-blog.png
 authors: [mymi]
 date: 2026-11-01
+last_update: {date: 2026-11-01}
 question: "AI 캐릭터는 왜 지난 대화를 잊나요?"
 answer: "AI 캐릭터가 지난 일을 잊는 건, AI가 답할 때마다 함께 읽는 글의 양에 한계가 있어서예요."
 type: question
