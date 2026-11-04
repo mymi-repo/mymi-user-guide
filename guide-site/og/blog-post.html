@@ -1,0 +1,115 @@
+<!doctype html>
+<!--
+  블로그 글마다 쓰는 대표 그림(공유·검색 미리보기, 글 첫머리)의 원본. card.html?site=blog 와 같은 바탕이다.
+  blog-post.html?t=<제목>&s=<부제> 처럼 열고 1200×630 으로 캡처해 blog/img/<슬러그>/cover.png 로 둔다(글 머리말 image 와 글 첫머리 그림).
+  제목의 | 는 줄을 바꿀 자리다. 검색 결과는 그림 가운데를 잘라 보여 주므로 글자는 가운데에 둔다.
+-->
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <title>MYMI blog post card</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+    <style>
+      html,
+      body {
+        margin: 0;
+        width: 1200px;
+        height: 630px;
+        overflow: hidden;
+      }
+
+      body {
+        background: #151516;
+        color: #fafafa;
+        font-family: 'Pretendard Variable', 'Pretendard', sans-serif;
+      }
+
+      .card {
+        position: relative;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 1200px;
+        height: 630px;
+        padding: 64px 96px;
+        overflow: hidden;
+        text-align: center;
+        background:
+          radial-gradient(760px 520px at 88% 14%, rgb(168 85 247 / 38%), rgb(168 85 247 / 0%) 62%),
+          radial-gradient(620px 460px at 4% 108%, rgb(147 51 234 / 22%), rgb(147 51 234 / 0%) 60%),
+          #151516;
+      }
+
+      .dots {
+        position: absolute;
+        inset: 0;
+        background-image: radial-gradient(rgb(255 255 255 / 6%) 1.2px, transparent 1.2px);
+        background-size: 28px 28px;
+      }
+
+      .head {
+        position: relative;
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        color: #d4d4d8;
+        font-size: 26px;
+        font-weight: 600;
+      }
+
+      .lockup {
+        display: block;
+        height: 34px;
+      }
+
+      .title {
+        position: relative;
+        margin: auto 0 0;
+        font-size: 60px;
+        font-weight: 800;
+        letter-spacing: -0.03em;
+        line-height: 1.2;
+        word-break: keep-all;
+        white-space: pre-line;
+      }
+
+      .sub {
+        position: relative;
+        margin: 30px 0 auto;
+        padding: 10px 26px;
+        border: 1px solid rgb(216 180 254 / 45%);
+        border-radius: 999px;
+        color: #e9d5ff;
+        font-size: 28px;
+        font-weight: 600;
+      }
+
+      .url {
+        position: relative;
+        color: #a1a1aa;
+        font-size: 22px;
+        font-weight: 600;
+        letter-spacing: 0.01em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <div class="dots"></div>
+      <div class="head"><img class="lockup" src="../static/brand/mymi-lockup-white.svg" alt="" /><span>블로그</span></div>
+      <h1 class="title" id="title"></h1>
+      <p class="sub" id="sub"></p>
+      <div class="url">mymi.live/blog</div>
+    </div>
+    <script>
+      const q = new URLSearchParams(location.search);
+      document.getElementById('title').textContent = (q.get('t') || '').split('|').join('\n');
+      const sub = q.get('s') || '';
+      if (sub) document.getElementById('sub').textContent = sub;
+      else document.getElementById('sub').remove();
+    </script>
+  </body>
+</html>

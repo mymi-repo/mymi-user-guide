@@ -90,7 +90,11 @@ FE `scripts/build-guide.mjs`가 가이드 다음에 블로그를 빌드해 `publ
 
 - 목록 화면 요약이 끝나는 곳: `{/* truncate */}`(HTML 주석 `<!-- -->`은 오류)
 - 접기 블록: `<details>`와 `<summary>…</summary>`를 각각 한 줄에 쓴다
-- 가이드·서비스 링크는 전체 주소(`https://www.mymi.live/guide/...`)로 쓴다. `/guide/...`는 블로그 주소(`/blog/guide/...`)가 된다. 블로그 글끼리는 `./<파일 이름>.md`로 잇는다
+- 가이드·서비스 링크는 전체 주소(`https://www.mymi.live/guide/...`)로 쓴다. `/guide/...`는 블로그 주소(`/blog/guide/...`)가 된다. 블로그 글끼리는 `./<파일 이름>.md`로 잇는다. 빌드는 같은 사이트 전체 주소를 호스트 없이 같은 탭에서 여는 링크로 내보낸다(`src/theme/MDXComponents.js`의 `a`, 2026-11-04)
+- 그림(2026-11-04): 글마다 `blog/img/<슬러그>/`에 둔다. `static/`은 블로그에 복사되지 않는다.
+  - 대표 그림 `cover.png`(1200×630)는 `og/blog-post.html?t=<제목>&s=<부제>`를 찍은 것이다. 머리말 `image: ./img/<슬러그>/cover.png`로 공유·검색 미리보기에 쓰고, 첫 문단 바로 아래에도 `![…](./img/<슬러그>/cover.png)`로 넣는다
+  - 화면 캡처는 가이드와 같은 틀로 넣는다: `<Screenshot src={require('./img/<슬러그>/<이름>.webp').default} alt="화면이 보여 주는 것 한 문장" caption="…" device="part" />`
+  - 글과 그 글의 `img/` 폴더는 같은 커밋에 넣는다. 그림이 빠지면 블로그 빌드가 깨져 웹 배포가 멈춘다
 - 서비스(`https://www.mymi.live/ko...`)로 가는 링크에는 UTM을 붙인다(2026-10-31): `?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_<슬러그의 -를 _로>`. 블로그 화면은 정적 파일이라 방문을 기록하지 않고, 독자가 서비스로 넘어간 방문만 관리자 '콘텐츠 유입 분석'에 잡힌다. 새 글을 올리면 그 화면의 글 목록(MYMI_admin `src/app/admin/content-inflow/helpers.js` `POSTS`)에도 등록한다. 상단·하단 메뉴의 서비스 링크는 `utm_content=ko_blog_menu`다
 
 ## 콘텐츠 수정
