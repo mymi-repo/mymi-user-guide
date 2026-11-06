@@ -99,7 +99,8 @@ FE `scripts/build-guide.mjs`가 가이드 다음에 블로그를 빌드해 `publ
   - 대표 그림 `cover.png`(1200×630)는 `og/blog-post.html?t=<제목>&s=<부제>`를 찍은 것이다. 머리말 `image: ./img/<슬러그>/cover.png`로 공유·검색 미리보기에 쓰고, 첫 문단 바로 아래에도 `![…](./img/<슬러그>/cover.png)`로 넣는다
   - 화면 캡처는 가이드와 같은 틀로 넣는다: `<Screenshot src={require('./img/<슬러그>/<이름>.webp').default} alt="화면이 보여 주는 것 한 문장" caption="…" device="part" />`
   - 글과 그 글의 `img/` 폴더는 같은 커밋에 넣는다. 그림이 빠지면 블로그 빌드가 깨져 웹 배포가 멈춘다
-- 서비스(`https://www.mymi.live/ko...`)로 가는 링크에는 UTM을 붙인다(2026-10-31): `?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_<슬러그의 -를 _로>`. 블로그 화면은 정적 파일이라 방문을 기록하지 않고, 독자가 서비스로 넘어간 방문만 관리자 '콘텐츠 유입 분석'에 잡힌다. 새 글을 올리면 그 화면의 글 목록(MYMI_admin `src/app/admin/content-inflow/helpers.js` `POSTS`)에도 등록한다. 상단·하단 메뉴의 서비스 링크는 `utm_content=ko_blog_menu`다
+- 글 조회수는 Vercel Web Analytics로 센다(2026-11-06). 설정의 `scripts`가 모든 블로그 쪽에 `/_vercel/insights/script.js`를 넣고, 숫자는 Vercel 대시보드의 Analytics에서 `/blog` 경로로 걸러 본다. 서비스와 같은 Vercel 프로젝트라서 되는 것이라, 블로그를 다른 곳에서 열면(로컬 미리보기 등) 이 스크립트는 404가 나고 세지 않는다
+- 서비스(`https://www.mymi.live/ko...`)로 가는 링크에는 UTM을 붙인다(2026-10-31): `?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_<슬러그의 -를 _로>`. 블로그 화면은 정적 파일이라 서비스 방문 기록에는 남지 않고(조회수는 위 Vercel Web Analytics), 독자가 서비스로 넘어간 방문만 관리자 '콘텐츠 유입 분석'에 잡힌다. 새 글을 올리면 그 화면의 글 목록(MYMI_admin `src/app/admin/content-inflow/helpers.js` `POSTS`)에도 등록한다. 상단·하단 메뉴의 서비스 링크는 `utm_content=ko_blog_menu`다
 
 ## 콘텐츠 수정
 

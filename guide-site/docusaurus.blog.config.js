@@ -29,6 +29,9 @@ const config = {
   staticDirectories: [],
   i18n: {defaultLocale: 'ko', locales: ['ko'], localeConfigs: {ko: {label: '한국어', htmlLang: 'ko'}}},
   stylesheets: [{href: `${PRETENDARD_CDN}/pretendardvariable-dynamic-subset.min.css`, type: 'text/css'}],
+  // 글 조회수를 Vercel Web Analytics 로 센다(2026-11-06 김상래 「진행해줘」, 10/31 '블로그 조회 수 측정 보류'를 바꿈).
+  // 서비스와 같은 Vercel 프로젝트(www.mymi.live)라 이 경로의 스크립트가 그대로 동작하고, 쿠키를 쓰지 않는다.
+  scripts: [{src: '/_vercel/insights/script.js', defer: true}],
   headTags: [
     {tagName: 'meta', attributes: {property: 'og:site_name', content: title}},
     {tagName: 'meta', attributes: {name: 'theme-color', media: '(prefers-color-scheme: dark)', content: '#151516'}},
