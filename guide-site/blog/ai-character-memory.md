@@ -5,7 +5,7 @@ description: "AI 캐릭터가 지난 약속이나 호칭을 잊는 건 AI가 답
 image: ./img/ai-character-memory/cover.png
 authors: [mymi]
 date: 2026-11-01
-last_update: {date: 2026-11-05}
+last_update: {date: 2026-11-06}
 question: "AI 캐릭터는 왜 지난 대화를 잊나요?"
 answer: "AI 캐릭터가 지난 일을 잊는 건, AI가 답할 때마다 함께 읽는 글의 양에 한계가 있어서예요."
 type: question
@@ -156,3 +156,5 @@ AI 모델은 지난 대화를 따로 쌓아 두지 않아요. 답을 쓸 때마�
 이어 가던 이야기가 있다면 [MYMI](https://www.mymi.live/ko?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_ai_character_memory)에서 그 채팅방의 ⋮ 메뉴부터 열어 보세요. AI 인터랙티브 소설이 처음이라면 [AI 인터랙티브 소설이란?](./ai-interactive-novel.md)부터 읽어 보면 좋아요. 새로 시작할 작품은 [남성향 AI 채팅 추천](./male-oriented-ai-chat.md)과 [여성향 AI 연애 채팅 추천](./female-oriented-ai-chat.md)에서 골라 볼 수 있고, 다른 글은 [MYMI 블로그](https://www.mymi.live/blog)에 모여 있어요.
 
 _2026년 11월 5일 고침: 답마다 떠올리는 기억 조각 설명, 장기 기억이 길어질 때 줄이는 방식, 체험한 대화가 새 계정으로 옮겨지는 조건을 지금 동작에 맞게 바로잡고, 화면 그림을 더했어요. 장기 기억과 기억 조각을 직접 고칠 수 있게 된 것도 반영했어요._
+
+_2026년 11월 6일 고침: 바뀐 메모리 화면에 맞춰 장기 기억 탭과 기억 조각 탭 그림을 새로 찍었어요._
