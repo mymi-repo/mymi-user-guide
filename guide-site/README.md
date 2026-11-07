@@ -77,7 +77,9 @@ npm run serve -- --port 3001   # 이미 빌드한 모든 언어의 결과 확인
 
 ## 블로그 (`www.mymi.live/blog`)
 
-같은 사이트에서 설정 파일만 바꿔(`docusaurus.blog.config.js`) 따로 빌드한다. 설계는 FE `docs/FE/SEO/2026-10-27-블로그-설계안.md`이고, 처음에는 한국어만 있다.
+같은 사이트에서 설정 파일만 바꿔(`docusaurus.blog.config.js`) 따로 빌드한다. 설계는 FE `docs/FE/SEO/2026-10-27-블로그-설계안.md`다. 한국어 원문은 `/blog/`, 번체중국어 시험판은 `/blog/zh-TW/`에 있다(2026-11-07 사용자 승인).
+
+번체 원고·그림·저자는 `i18n-blog/zh-TW/docusaurus-plugin-content-blog/`에 둔다. 시험판은 `ai-interactive-novel`, `ai-character-memory`, `ai-chat-start` 3편만 빌드한다. 설정의 `translatedPosts`와 `include`는 미번역 한국어 글이 번체 주소에 복제되는 것을 막으며, `src/theme/SiteMetadata`는 실제 번역이 있는 글끼리만 hreflang을 잇는다. 번역 글 추가는 운영안의 확대 결정 후 이 목록도 함께 바꾼다. 언어마다 사이트맵·RSS가 별도이며, 네이버 Yeti는 FE robots.txt에서 번체 경로를 제외하고 BE IndexNow는 기존 한국어 사이트맵만 사용한다.
 
 ```bash
 npm run build:blog                                                              # build-blog/
@@ -101,6 +103,8 @@ FE `scripts/build-guide.mjs`가 가이드 다음에 블로그를 빌드해 `publ
   - 글과 그 글의 `img/` 폴더는 같은 커밋에 넣는다. 그림이 빠지면 블로그 빌드가 깨져 웹 배포가 멈춘다
 - 글 조회수는 Vercel Web Analytics로 센다(2026-11-06). **다만 2026-11-06 확인 때 Vercel 프로젝트 `mymi-frontend`에서 Web Analytics가 꺼져 있어(2025-07-02부터) 아직 쌓이지 않는다. 소유자 계정이 대시보드 mymi-frontend → Analytics → Enable 을 눌러야 다음 배포부터 쌓이고, 숫자는 FE Actions 「Blog Web Analytics (read-only)」로 읽는다.** 설정의 `scripts`가 모든 블로그 쪽에 `/_vercel/insights/script.js`를 넣고, 숫자는 Vercel 대시보드의 Analytics에서 `/blog` 경로로 걸러 본다. 서비스와 같은 Vercel 프로젝트라서 되는 것이라, 블로그를 다른 곳에서 열면(로컬 미리보기 등) 이 스크립트는 404가 나고 세지 않는다
 - 서비스(`https://www.mymi.live/ko...`)로 가는 링크에는 UTM을 붙인다(2026-10-31): `?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_<슬러그의 -를 _로>`. 블로그 화면은 정적 파일이라 서비스 방문 기록에는 남지 않고(조회수는 위 Vercel Web Analytics), 독자가 서비스로 넘어간 방문만 관리자 '콘텐츠 유입 분석'에 잡힌다. 새 글을 올리면 그 화면의 글 목록(MYMI_admin `src/app/admin/content-inflow/helpers.js` `POSTS`)에도 등록한다. 상단·하단 메뉴의 서비스 링크는 `utm_content=ko_blog_menu`다
+
+번체 서비스 링크는 `/zh-TW`로 연결하고 `utm_content=zh-TW_blog_<슬러그의 -를 _로>`를 쓴다. 메뉴는 `zh-TW_blog_menu`다. source·medium·campaign은 한국어와 같고, 관리자 `POSTS`에도 대소문자를 그대로 등록한다.
 
 ## 콘텐츠 수정
 

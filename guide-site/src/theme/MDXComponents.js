@@ -16,7 +16,7 @@ const OriginalA = MDXComponents.a;
 function A(props) {
   const {siteConfig} = useDocusaurusContext();
   const href = props.href ?? '';
-  if (siteConfig.baseUrl === '/blog/' && href.startsWith(`${SITE}/`)) {
+  if (siteConfig.baseUrl.startsWith('/blog/') && href.startsWith(`${SITE}/`)) {
     return <a {...props} href={href.slice(SITE.length)} />;
   }
   return <OriginalA {...props} />;

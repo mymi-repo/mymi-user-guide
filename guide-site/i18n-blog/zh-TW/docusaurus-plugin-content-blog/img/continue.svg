@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="628" viewBox="0 0 760 628" role="img" aria-labelledby="title desc">
+<title id="title">卡住時，先選故事的方向</title><desc id="desc">概念示意：每次推進仍會取得一則新的AI回覆</desc>
+<style>text{font-family:"Microsoft JhengHei","PingFang TC","Noto Sans TC",sans-serif} .label{font-size:34px;font-weight:700;fill:#f4edff}.body{font-size:32px;fill:#d7d4e0}.sub{font-size:28px;fill:#d7d4e0}</style>
+<rect width="760" height="628" rx="24" fill="#19151f"/>
+<text x="36" y="57" class="label">卡住時，先選故事的方向</text>
+<text x="36" y="100" class="sub">概念示意：每次推進仍會取得一則新的AI回覆</text>
+<rect x="26" y="136" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="179" class="label">繼續眼前的場景</text>
+<text x="47" y="222" class="body">想再看看對方接下來怎麼做。</text>
+<text x="47" y="262" class="body">不用先替他寫好台詞。</text>
+<rect x="26" y="292" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="335" class="label">讓時間往前</text>
+<text x="47" y="378" class="body">目前這一幕已經告一段落。</text>
+<text x="47" y="418" class="body">用時間的變化帶出下一段。</text>
+<rect x="26" y="448" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="491" class="label">換一個場景</text>
+<text x="47" y="534" class="body">想從另一個地方接著聊。</text>
+<text x="47" y="574" class="body">提出方向，仍由AI生成後續內容。</text>
+</svg>
