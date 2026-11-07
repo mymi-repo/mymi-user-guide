@@ -5,7 +5,7 @@ description: "츤데레는 겉으로는 쌀쌀맞게 굴지만 속으로는 상�
 image: ./img/tsundere-meaning/cover.png
 authors: [mymi]
 date: 2026-11-06
-last_update: {date: 2026-11-06}
+last_update: {date: 2026-11-07}
 question: "츤데레가 무슨 뜻인가요?"
 answer: "츤데레는 겉으로는 쌀쌀맞게 굴지만 속으로는 상대를 아끼고 챙기는 성격을 뜻해요."
 type: glossary
@@ -127,7 +127,7 @@ status: published
 <details>
 <summary>츤데레와 얀데레는 어떻게 다른가요?</summary>
 
-츤데레는 좋아하는 마음을 감추려고 차갑게 구는 성격이고, 얀데레는 좋아하는 마음이 지나쳐 집착이 되는 성격이에요. 츤데레는 마음을 숨기는 쪽으로, 얀데레는 마음이 넘치는 쪽으로 엇나간다고 기억하면 쉬워요.
+츤데레는 좋아하는 마음을 감추려고 차갑게 구는 성격이고, 얀데레는 좋아하는 마음이 지나쳐 집착이 되는 성격이에요. 츤데레는 마음을 숨기는 쪽으로, 얀데레는 마음이 넘치는 쪽으로 엇나간다고 기억하면 쉬워요. 얀데레를 어떤 단계로 나눠 볼 수 있는지는 [얀데레 뜻](./yandere-meaning.md)에 따로 정리했어요.
 
 </details>
 
@@ -139,3 +139,5 @@ status: published
 </details>
 
 어떤 결의 츤데레가 끌리는지 감이 왔다면, [츤데레 태그 페이지](https://www.mymi.live/ko/tag/%EC%B8%A4%EB%8D%B0%EB%A0%88?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_tsundere_meaning)에서 작품을 몇 편 열어 보고 첫 장면이 마음에 드는 한 편부터 시작해 보세요. 여자 캐릭터가 나오는 작품부터 보고 싶다면 [남성향 AI 채팅 추천](./male-oriented-ai-chat.md)을, 남자 캐릭터 작품이라면 [여성향 AI 연애 채팅 추천](./female-oriented-ai-chat.md)을 먼저 열어 보세요. 대화 요령을 다룬 다른 글들은 [MYMI 블로그](https://www.mymi.live/blog)에 있어요.
+
+_2026년 11월 7일 고침: 자주 묻는 질문 「츤데레와 얀데레는 어떻게 다른가요?」에 얀데레 글 링크를 더했어요._
