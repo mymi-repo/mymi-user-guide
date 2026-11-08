@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510" role="img" aria-labelledby="title desc" lang="zh-Hans">
+  <title id="title">人设、用户备注与写作风格的用途</title>
+  <desc id="desc">概念示意。人设描述你是谁，用户备注保留这段故事中的事实，写作风格影响新的回复如何表达。不是产品菜单截图。</desc>
+  <rect width="1000" height="510" rx="24" fill="#181220"/>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif">
+    <text x="50" y="65" font-size="30" font-weight="700" fill="#fff">把要保留的内容，放在合适的位置</text>
+    <text x="50" y="103" font-size="18" fill="#c4b5d9">概念示意 · 实际操作请见使用指南</text>
+    <rect x="45" y="140" width="910" height="95" rx="14" fill="#292035"/>
+    <rect x="45" y="250" width="910" height="95" rx="14" fill="#292035"/>
+    <rect x="45" y="360" width="910" height="95" rx="14" fill="#292035"/>
+    <g fill="#d8b4fe" font-size="26" font-weight="700"><text x="70" y="184">人设</text><text x="70" y="294">用户备注</text><text x="70" y="404">写作风格</text></g>
+    <g fill="#eee7f5" font-size="23"><text x="280" y="180">你在故事中是谁</text><text x="280" y="290">这段对话中需要参考的事实</text><text x="280" y="400">新的回复采用怎样的文体</text></g>
+    <g fill="#a99cb7" font-size="18"><text x="280" y="211">例如：我叫小晴，是书店的常客。</text><text x="280" y="321">例如：我们已经约好明晚在灯塔见面。</text><text x="280" y="431">改变表达方式，不会自动改写过去的对话。</text></g>
+  </g>
+</svg>

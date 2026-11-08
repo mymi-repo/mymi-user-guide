@@ -5,11 +5,11 @@ description: "想和AI角色聊天，卻不知道除了你好還能說什麼？�
 image: ./img/start-cover.png
 authors: [mymi]
 date: 2026-11-07
-last_update: {date: 2026-11-07}
+last_update: {date: 2026-11-08}
 question: "第一次和AI角色聊天，不知道說什麼時要怎麼開始？"
 answer: "先選一個你想參與的開場場景，接住角色最後的話或動作，再送出自己的一個動作與一句台詞，就能開始第一輪互動。"
 type: question
-data_asof: 2026-11-07
+data_asof: 2026-11-08
 sources:
   - "MYMI使用指南：聊天 https://www.mymi.live/guide/zh-TW/chatting/chat-with-character"
   - "MYMI使用指南：聊天室設定 https://www.mymi.live/guide/zh-TW/chatting/chat-room-settings"
@@ -73,7 +73,7 @@ MYMI可用星號包住動作，例如 `*把毛巾遞過去*`，讓動作和台�
 
 <Screenshot src={require('./img/chat-settings.png').default} alt="聊天設定選單中的使用者備註、人設與寫作風格" caption="想固定自己的身分，用人設；想留下這段對話的事實，用使用者備註。" device="part" />
 
-截至2026年11月7日，人設詳細資料可寫1,000字，使用者備註可寫2,000字，但不是寫越滿越好。先放與目前場景有關的資訊，關係改變後再更新。
+截至2026年11月8日，人設詳細資料可寫1,000字，使用者備註最多可寫3,000字。備註較長時，每次回覆可能額外使用Spark，費用以畫面顯示為準。不是寫越滿越好。先放與目前場景有關的資訊，關係改變後再更新。
 
 **寫作風格**調整的是敘述方式，例如偏小說描寫或較輕快的台詞節奏。它不等於改變兩人的關係。詳細操作放在[聊天室設定](https://www.mymi.live/guide/zh-TW/chatting/chat-room-settings)，避免只想改稱呼時，卻一直切換文體。
 
@@ -99,7 +99,7 @@ MYMI可用星號包住動作，例如 `*把毛巾遞過去*`，讓動作和台�
 <details>
 <summary>還沒註冊，也能先試聊嗎？</summary>
 
-截至2026年11月7日，未登入最多可取得5次體驗回覆，重新生成也計入；可用次數可能因先前體驗而較少。若想把聊天室帶到新帳號，請直接從體驗中的瀏覽器或App登入按鈕註冊。完整條件請看[不登入可以使用AI聊天嗎？](https://www.mymi.live/guide/zh-TW/faq/chat-without-login)。
+截至2026年11月8日，未登入最多可取得5次體驗回覆，重新生成也計入；可用次數可能因先前體驗而較少。若想把聊天室帶到新帳號，請直接從體驗中的瀏覽器或App登入按鈕註冊。完整條件請看[不登入可以使用AI聊天嗎？](https://www.mymi.live/guide/zh-TW/faq/chat-without-login)。
 
 </details>
 

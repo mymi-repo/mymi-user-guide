@@ -7,13 +7,16 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 const SITE = 'https://www.mymi.live';
 // 블로그에서 서비스로 넘어간 방문을 관리자 '콘텐츠 유입 분석'에서 보게 UTM 을 붙인다(2026-10-31 사용자 요청). 글 본문 링크는 utm_content=ko_blog_<slug>.
-const locale = process.env.DOCUSAURUS_CURRENT_LOCALE === 'zh-TW' ? 'zh-TW' : 'ko';
+const requestedLocale = process.env.DOCUSAURUS_CURRENT_LOCALE;
+const locale = ['zh-TW', 'zh-Hans'].includes(requestedLocale) ? requestedLocale : 'ko';
 const isTw = locale === 'zh-TW';
+const isHans = locale === 'zh-Hans';
+const isTranslated = locale !== 'ko';
 const translatedPosts = ['ai-interactive-novel', 'ai-character-memory', 'ai-chat-start'];
 const SERVICE = `${SITE}/${locale}?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=${locale}_blog_menu`;
-const GUIDE = `${SITE}/guide${isTw ? '/zh-TW' : ''}`;
-const title = isTw ? 'MYMI 部落格' : 'MYMI 블로그';
-const description = isTw ? '認識 AI 互動小說與角色聊天，從第一句對話到記憶設定，找到讓故事繼續下去的方法。' : 'AI 인터랙티브 소설과 AI 캐릭터 채팅을 고르고 즐기는 법, MYMI의 작품 데이터를 정리합니다.';
+const GUIDE = `${SITE}/guide${isTranslated ? `/${locale}` : ''}`;
+const title = isHans ? 'MYMI 博客' : isTw ? 'MYMI 部落格' : 'MYMI 블로그';
+const description = isHans ? '了解 AI 互动小说与角色聊天，从第一句对话到记忆设置，找到让故事继续下去的方法。' : isTw ? '認識 AI 互動小說與角色聊天，從第一句對話到記憶設定，找到讓故事繼續下去的方法。' : 'AI 인터랙티브 소설과 AI 캐릭터 채팅을 고르고 즐기는 법, MYMI의 작품 데이터를 정리합니다.';
 const PRETENDARD_CDN = 'https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -33,9 +36,10 @@ const config = {
   markdown: {hooks: {onBrokenMarkdownLinks: 'warn'}},
   staticDirectories: [],
   // 가이드의 메뉴·번역 파일과 섞지 않는다. 번역 안 된 한국어 글을 외국어 경로에 복사하지 않는다.
-  i18n: {defaultLocale: 'ko', locales: ['ko', 'zh-TW'], path: 'i18n-blog', localeConfigs: {
+  i18n: {defaultLocale: 'ko', locales: ['ko', 'zh-TW', 'zh-Hans'], path: 'i18n-blog', localeConfigs: {
     ko: {label: '한국어', htmlLang: 'ko'},
     'zh-TW': {label: '繁體中文', htmlLang: 'zh-TW'},
+    'zh-Hans': {label: '简体中文', htmlLang: 'zh-Hans'},
   }},
   stylesheets: [{href: `${PRETENDARD_CDN}/pretendardvariable-dynamic-subset.min.css`, type: 'text/css'}],
   // 글 조회수를 Vercel Web Analytics 로 센다(2026-11-06 김상래 「진행해줘」, 10/31 '블로그 조회 수 측정 보류'를 바꿈).
@@ -55,12 +59,12 @@ const config = {
         blog: {
           routeBasePath: '/',
           path: 'blog',
-          ...(isTw ? {include: translatedPosts.map((slug) => `${slug}.md`)} : {}),
+          ...(isTranslated ? {include: translatedPosts.map((slug) => `${slug}.md`)} : {}),
           authorsMapPath: 'authors.yml',
           blogTitle: title,
           blogDescription: description,
           postsPerPage: 'ALL',
-          blogSidebarTitle: isTw ? '所有文章' : '모든 글',
+          blogSidebarTitle: isTranslated ? '所有文章' : '모든 글',
           blogSidebarCount: 'ALL',
           // 글 3편 미만의 목록 페이지는 얇은 페이지라 처음에는 태그·보관함을 쓰지 않는다(설계안 7절).
           archiveBasePath: null,
@@ -75,30 +79,30 @@ const config = {
         },
         theme: {customCss: './src/css/custom.css'},
         // 글쓴이 목록(/blog/authors)은 'MYMI 팀' 한 줄뿐인 얇은 페이지라 사이트맵에서 뺀다. Docusaurus 가 끌 수 없게 만든다.
-        sitemap: {changefreq: 'weekly', priority: 0.5, lastmod: 'date', filename: 'sitemap.xml', ignorePatterns: ['/blog/authors', '/blog/authors/**', '/blog/zh-TW/authors', '/blog/zh-TW/authors/**']},
+        sitemap: {changefreq: 'weekly', priority: 0.5, lastmod: 'date', filename: 'sitemap.xml', ignorePatterns: ['/blog/authors', '/blog/authors/**', '/blog/zh-TW/authors', '/blog/zh-TW/authors/**', '/blog/zh-Hans/authors', '/blog/zh-Hans/authors/**']},
       }),
     ],
   ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: `${SITE}/guide/img/og/og-blog${isTw ? '-zh-TW' : ''}.png`,
+      image: isHans ? `${SITE}/api/og/guide/zh-Hans` : `${SITE}/guide/img/og/og-blog${isTw ? '-zh-TW' : ''}.png`,
       metadata: [{name: 'description', content: description}],
       colorMode: {defaultMode: 'dark', respectPrefersColorScheme: true},
       navbar: {
-        title: isTw ? '部落格' : '블로그',
+        title: isHans ? '博客' : isTw ? '部落格' : '블로그',
         logo: {alt: 'MYMI', src: `${SITE}/guide/brand/mymi-lockup.svg`, srcDark: `${SITE}/guide/brand/mymi-lockup-white.svg`},
         items: [
-          {href: GUIDE, label: isTw ? '使用指南' : '유저가이드', position: 'left', target: '_self'},
-          {href: `${SITE}/blog${isTw ? '' : '/zh-TW'}`, label: isTw ? '한국어' : '繁體中文', position: 'right', target: '_self'},
-          {href: SERVICE, label: isTw ? '前往 MYMI' : '서비스 바로가기', position: 'right', className: 'navbar-cta', target: '_self'},
+          {href: GUIDE, label: isTranslated ? '使用指南' : '유저가이드', position: 'left', target: '_self'},
+          {type: 'localeDropdown', position: 'right'},
+          {href: SERVICE, label: isTranslated ? '前往 MYMI' : '서비스 바로가기', position: 'right', className: 'navbar-cta', target: '_self'},
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          {title: 'MYMI', items: [{label: 'mymi.live', href: SERVICE}, {label: isTw ? '使用指南' : '유저가이드', href: GUIDE}]},
-          {title: isTw ? '說明中心' : '도움말', items: [{label: isTw ? '常見問題' : '자주 묻는 질문', href: `${GUIDE}/faq`}, {label: isTw ? '條款與政策' : '약관과 정책', href: `${GUIDE}/policy/terms`}]},
+          {title: 'MYMI', items: [{label: 'mymi.live', href: SERVICE}, {label: isTranslated ? '使用指南' : '유저가이드', href: GUIDE}]},
+          {title: isHans ? '帮助中心' : isTw ? '說明中心' : '도움말', items: [{label: isHans ? '常见问题' : isTw ? '常見問題' : '자주 묻는 질문', href: `${GUIDE}/faq`}, {label: isHans ? '条款与政策' : isTw ? '條款與政策' : '약관과 정책', href: `${GUIDE}/policy/terms`}]},
         ],
         copyright: `Copyright © ${new Date().getFullYear()} WonMo Inc.`,
       },

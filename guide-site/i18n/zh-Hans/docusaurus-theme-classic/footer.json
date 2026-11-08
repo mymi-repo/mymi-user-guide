@@ -1,0 +1,41 @@
+{
+  "link.title.이용 가이드": {
+    "message": "使用说明"
+  },
+  "link.title.제작 가이드": {
+    "message": "创作指南"
+  },
+  "link.title.도움말": {
+    "message": "说明中心"
+  },
+  "link.title.서비스": {
+    "message": "服务"
+  },
+  "link.item.label.MYMI란?": {
+    "message": "什么是 MYMI？"
+  },
+  "link.item.label.대화하기": {
+    "message": "聊天"
+  },
+  "link.item.label.스파크 충전하기": {
+    "message": "充值 Spark"
+  },
+  "link.item.label.시작하기 전에": {
+    "message": "开始之前"
+  },
+  "link.item.label.첫 작품 만들기": {
+    "message": "创建第一个作品"
+  },
+  "link.item.label.공개하고 고치기": {
+    "message": "公开与修改"
+  },
+  "link.item.label.자주 묻는 질문": {
+    "message": "常见问题"
+  },
+  "link.item.label.약관과 정책": {
+    "message": "服务条款与政策"
+  },
+  "link.item.label.문의하기": {
+    "message": "联系我们"
+  }
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="628" viewBox="0 0 760 628" role="img" aria-labelledby="title desc">
+<title id="title">换个方式，读同一段故事</title><desc id="desc">阅读方式的概念示意，并非产品操作画面</desc>
+<style>text{font-family:"Microsoft JhengHei","PingFang TC","Noto Sans TC",sans-serif} .label{font-size:34px;font-weight:700;fill:#f4edff}.body{font-size:32px;fill:#d7d4e0}.sub{font-size:28px;fill:#d7d4e0}</style>
+<rect width="760" height="628" rx="24" fill="#19151f"/>
+<text x="36" y="57" class="label">换个方式，读同一段故事</text>
+<text x="36" y="100" class="sub">阅读方式的概念示意，并非产品操作画面</text>
+<rect x="26" y="136" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="179" class="label">小说｜连续读叙述与台词</text>
+<text x="47" y="222" class="body">把注意力放在场景与文字。</text>
+<text x="47" y="262" class="body">你仍然是故事里的一个角色。</text>
+<rect x="26" y="292" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="335" class="label">聊天｜习惯一来一往的消息</text>
+<text x="47" y="378" class="body">用熟悉的聊天方式读对话。</text>
+<text x="47" y="418" class="body">切换显示方式，不会重写原本的故事。</text>
+<rect x="26" y="448" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="491" class="label">写作风格｜对新回复提出要求</text>
+<text x="47" y="534" class="body">这是另一项设置。</text>
+<text x="47" y="574" class="body">它要求AI怎么写，而不是画面怎么显示。</text>
+</svg>

@@ -35,6 +35,13 @@ const siteTexts = {
     keywords: 'MYMI, AI, 聊天, 互動故事, 使用指南, 創作',
     serviceUrl: 'https://www.mymi.live/zh-TW',
   },
+  "zh-Hans": {
+    title: 'MYMI 使用指南',
+    navTitle: '使用指南',
+    description: '与 AI 故事中的角色自由对话，创作属于自己的作品。',
+    keywords: "MYMI, AI, 聊天, 互动故事, 使用指南, 创作",
+    serviceUrl: 'https://www.mymi.live/zh-Hans',
+  },
 };
 const requestedLocale = process.env.DOCUSAURUS_CURRENT_LOCALE ?? 'ko';
 const localeKey = siteTexts[requestedLocale] ? requestedLocale : 'ko';
@@ -89,12 +96,13 @@ const config = {
 
   i18n: {
     defaultLocale: 'ko',
-    locales: ['ko', 'en', 'ja', 'zh-TW'],
+    locales: ['ko', 'en', 'ja', 'zh-TW', 'zh-Hans'],
     localeConfigs: {
       ko: {label: '한국어', htmlLang: 'ko'},
       en: {label: 'English', htmlLang: 'en'},
       ja: {label: '日本語', htmlLang: 'ja'},
       'zh-TW': {label: '繁體中文', htmlLang: 'zh-TW'},
+      "zh-Hans": {label: '简体中文', htmlLang: 'zh-Hans'},
     },
   },
 
@@ -219,7 +227,8 @@ const config = {
               {label: '약관과 정책', to: '/policy/terms'},
               // 네 언어 FAQ 모두 디스코드·메일을 함께 안내하는 문의하기 절이 있어 그리로 보낸다.
               // 절 제목(=앵커)은 언어마다 다르니 FAQ의 마지막 절 제목을 바꾸면 여기도 같이 고친다.
-              {label: '문의하기', to: `/faq#${{ko: '문의하기', en: 'contact-us', ja: 'お問い合わせ', 'zh-TW': '聯絡我們'}[localeKey]}`},
+              {label: '문의하기', to: `/faq#${{ko: '문의하기', en: 'contact-us', ja: 'お問い合わせ', 'zh-TW': '聯絡我們',
+              "zh-Hans": '联系我们'}[localeKey]}`},
             ],
           },
           {

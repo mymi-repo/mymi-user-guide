@@ -1,0 +1,32 @@
+{
+  "sidebar.useSidebar.category.MYMI 시작하기": {
+    "message": "开始使用 MYMI"
+  },
+  "sidebar.useSidebar.category.계정": {
+    "message": "账号"
+  },
+  "sidebar.useSidebar.category.대화하기": {
+    "message": "聊天"
+  },
+  "sidebar.useSidebar.category.스파크와 결제": {
+    "message": "Spark 与付款"
+  },
+  "sidebar.createSidebar.category.작품 만들기": {
+    "message": "创建作品"
+  },
+  "sidebar.createSidebar.category.간편 모드": {
+    "message": "简易模式"
+  },
+  "sidebar.createSidebar.category.전문가 모드": {
+    "message": "专家模式"
+  },
+  "sidebar.createSidebar.category.크리에이터": {
+    "message": "创作者"
+  },
+  "sidebar.helpSidebar.category.자주 묻는 질문": {
+    "message": "常见问题"
+  },
+  "sidebar.helpSidebar.category.약관과 정책": {
+    "message": "条款与政策"
+  }
+}

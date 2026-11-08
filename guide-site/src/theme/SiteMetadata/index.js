@@ -10,8 +10,8 @@ export default function SiteMetadata() {
   const context = useDocusaurusContext();
   const {pathname} = useLocation();
   const translated = context.siteConfig.customFields?.blogTranslatedPosts;
-  const slug = pathname.replace(/^\/blog(?:\/zh-TW)?\/?/, '').replace(/\/$/, '');
-  if (!translated || context.i18n.currentLocale === 'zh-TW' || slug === '' || translated.includes(slug)) {
+  const slug = pathname.replace(/^\/blog(?:\/(?:zh-TW|zh-Hans))?\/?/, '').replace(/\/$/, '');
+  if (!translated || ['zh-TW', 'zh-Hans'].includes(context.i18n.currentLocale) || slug === '' || translated.includes(slug)) {
     return <OriginalSiteMetadata />;
   }
   const localeConfigs = {ko: context.i18n.localeConfigs.ko};

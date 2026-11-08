@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="628" viewBox="0 0 760 628" role="img" aria-labelledby="title desc">
+<title id="title">AI回复前，会参考一组文字</title><desc id="desc">概念示意：可读的篇幅有限，并非永久记住全部</desc>
+<style>text{font-family:"Microsoft JhengHei","PingFang TC","Noto Sans TC",sans-serif} .label{font-size:34px;font-weight:700;fill:#f4edff}.body{font-size:32px;fill:#d7d4e0}.sub{font-size:28px;fill:#d7d4e0}</style>
+<rect width="760" height="628" rx="24" fill="#19151f"/>
+<text x="36" y="57" class="label">AI回复前，会参考一组文字</text>
+<text x="36" y="100" class="sub">概念示意：可读的篇幅有限，并非永久记住全部</text>
+<rect x="26" y="136" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="179" class="label">角色设置与近期对话</text>
+<text x="47" y="222" class="body">对方是谁，最近发生了什么。</text>
+<text x="47" y="262" class="body">旧对话不一定仍能完整放进去。</text>
+<rect x="26" y="292" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="335" class="label">长期记忆与相关片段</text>
+<text x="47" y="378" class="body">摘要保留故事主线。</text>
+<text x="47" y="418" class="body">片段在找到相关内容时提供参考。</text>
+<rect x="26" y="448" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="491" class="label">人设与用户备注</text>
+<text x="47" y="534" class="body">你是谁，哪些事实仍然成立。</text>
+<text x="47" y="574" class="body">提供给AI，不代表一定不会漏看。</text>
+</svg>

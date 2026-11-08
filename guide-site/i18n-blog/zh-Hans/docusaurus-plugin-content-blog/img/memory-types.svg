@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="628" viewBox="0 0 760 628" role="img" aria-labelledby="title desc">
+<title id="title">先分清楚，你要修正哪一种内容</title><desc id="desc">概念示意，并非产品操作画面</desc>
+<style>text{font-family:"Microsoft JhengHei","PingFang TC","Noto Sans TC",sans-serif} .label{font-size:34px;font-weight:700;fill:#f4edff}.body{font-size:32px;fill:#d7d4e0}.sub{font-size:28px;fill:#d7d4e0}</style>
+<rect width="760" height="628" rx="24" fill="#19151f"/>
+<text x="36" y="57" class="label">先分清楚，你要修正哪一种内容</text>
+<text x="36" y="100" class="sub">概念示意，并非产品操作画面</text>
+<rect x="26" y="136" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="179" class="label">长期记忆｜故事的大方向</text>
+<text x="47" y="222" class="body">「我们在灯塔前谈开了误会。」</text>
+<text x="47" y="262" class="body">查看摘要是否遗漏、写错或互相矛盾。</text>
+<rect x="26" y="292" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="335" class="label">记忆片段｜某一件事的细节</text>
+<text x="47" y="378" class="body">「予安把银色钥匙交给我。」</text>
+<text x="47" y="418" class="body">确认相关片段是否存在、内容是否正确。</text>
+<rect x="26" y="448" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="491" class="label">用户备注｜持续成立的事实</text>
+<text x="47" y="534" class="body">「银色钥匙现在由我保管。」</text>
+<text x="47" y="574" class="body">关系或持有人改变时，要一起更新。</text>
+</svg>

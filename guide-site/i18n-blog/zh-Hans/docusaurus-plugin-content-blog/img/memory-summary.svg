@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="668" viewBox="0 0 760 668" role="img" aria-labelledby="title desc">
+<title id="title">摘要有主线，不一定留住细节</title><desc id="desc">灯塔与钥匙为说明而设计的虚构例子</desc>
+<style>text{font-family:"Microsoft JhengHei","PingFang TC","Noto Sans TC",sans-serif} .label{font-size:34px;font-weight:700;fill:#f4edff}.body{font-size:32px;fill:#d7d4e0}.sub{font-size:28px;fill:#d7d4e0}</style>
+<rect width="760" height="668" rx="24" fill="#19151f"/>
+<text x="36" y="57" class="label">摘要有主线，不一定留住细节</text>
+<text x="36" y="100" class="sub">灯塔与钥匙为说明而设计的虚构例子</text>
+<rect x="26" y="136" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="179" class="label">原本发生的事</text>
+<text x="47" y="222" class="body">两人在灯塔和好。</text>
+<text x="47" y="262" class="body">予安把银色钥匙交给我保管。</text>
+<rect x="26" y="292" width="708" height="140" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="335" class="label">缩短后的摘要</text>
+<text x="47" y="378" class="body">「两人在灯塔和好。」</text>
+<text x="47" y="418" class="body">事件留下来了，钥匙的持有人却漏了。</text>
+<rect x="26" y="448" width="708" height="180" rx="15" fill="#2b213a" stroke="#59406f"/>
+<text x="47" y="491" class="label">需要持续保留的备注</text>
+<text x="47" y="534" class="body">「银色钥匙是予安交给我的，</text>
+<text x="47" y="574" class="body">现在由我保管。」</text>
+</svg>

@@ -376,16 +376,16 @@ html:not([lang='ko']) [lang='ko'] {
    이 너비로도 넘치는 표는 표 안에서 가로로 스크롤된다(Infima 의 table은 display:block; overflow:auto). */
 html[lang='ja'] .markdown table th,
 html[lang='ja'] .markdown table td,
-html[lang='zh-TW'] .markdown table th,
-html[lang='zh-TW'] .markdown table td {
+html:is([lang='zh-TW'], [lang='zh-Hans']) .markdown table th,
+html:is([lang='zh-TW'], [lang='zh-Hans']) .markdown table td {
   min-width: 6.1em;
 }
 
 /* 첫 열에는 マイページ·オリジナル 같은 다섯 글자 항목 이름이 자주 와서 다섯 글자(5em) 너비를 준다. */
 html[lang='ja'] .markdown table th:first-child,
 html[lang='ja'] .markdown table td:first-child,
-html[lang='zh-TW'] .markdown table th:first-child,
-html[lang='zh-TW'] .markdown table td:first-child {
+html:is([lang='zh-TW'], [lang='zh-Hans']) .markdown table th:first-child,
+html:is([lang='zh-TW'], [lang='zh-Hans']) .markdown table td:first-child {
   min-width: 7.1em;
 }
 
@@ -400,15 +400,15 @@ html[lang='zh-TW'] .markdown table td:first-child {
 
   html[lang='ja'] .markdown table th,
   html[lang='ja'] .markdown table td,
-  html[lang='zh-TW'] .markdown table th,
-  html[lang='zh-TW'] .markdown table td {
+  html:is([lang='zh-TW'], [lang='zh-Hans']) .markdown table th,
+  html:is([lang='zh-TW'], [lang='zh-Hans']) .markdown table td {
     min-width: 5.6em;
   }
 
   html[lang='ja'] .markdown table th:first-child,
   html[lang='ja'] .markdown table td:first-child,
-  html[lang='zh-TW'] .markdown table th:first-child,
-  html[lang='zh-TW'] .markdown table td:first-child {
+  html:is([lang='zh-TW'], [lang='zh-Hans']) .markdown table th:first-child,
+  html:is([lang='zh-TW'], [lang='zh-Hans']) .markdown table td:first-child {
     min-width: 6.6em;
   }
 }
@@ -633,3 +633,6 @@ html[lang='zh-TW'] .markdown table td:first-child {
     transition: none;
   }
 }
+
+/* Simplified Chinese uses Simplified glyphs while retaining the existing layout. */
+html[lang='zh-Hans'] { --ifm-font-family-base: 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', system-ui, sans-serif; }
