@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-11-04
+  date: 2026-11-09
 seo_title: Chat room settings - User note, bookmarks
 description: Change how the AI replies and how the chat looks, set a user note and persona for a chat room, and reread, find, bookmark, or capture past conversations.
 ---
@@ -44,7 +44,7 @@ The five settings above are saved in the browser or app you're using, so they ap
 
 These are saved only for this chat room, and they stay the same when you open it on another device. They open only when you're logged in. If you aren't, selecting them opens the login window.
 
-In the **User Note**, write up to 2,000 characters about your relationship with the character, your background, or anything you want remembered. Write it in **Chat Settings → User Note** in the ⋮ menu and select **Save**. The AI refers to it every time it replies in this chat room.
+In the **User Note**, write up to 3,000 characters about your relationship with the character, your background, or anything you want remembered. Write it in **Chat Settings → User Note** in the ⋮ menu and select **Save**. The AI refers to it every time it replies in this chat room. A longer note may use extra Sparks per message, and the screen shows how many.
 
 ```text
 I'm Seo-yeon's childhood friend, and we talk casually with each other.

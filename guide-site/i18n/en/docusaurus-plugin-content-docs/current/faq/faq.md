@@ -3,7 +3,7 @@ sidebar_position: 1
 # 폴더와 이름이 같은 문서는 주소 끝에 / 가 붙는데, 웹(Next)은 끝 / 를 308 로 떼어 내 표준 주소·언어 연결이 리다이렉트를 가리켰다(2026-10-24).
 slug: /faq
 last_update:
-  date: 2026-11-04
+  date: 2026-11-09
 description: What to check and how to fix problems with logging in, verification, Sparks, payments, chatting, creating works, or being a creator, and how to contact us.
 ---
 
@@ -208,7 +208,7 @@ An AI model can only look at so much at once, so it can lose track of the early 
 
 1. In the chat room's ⋮ menu, go to **Memory Management → Memory Fragments** and check that **Use Memory Fragments** is on.
 2. In **Memory Management → Long-term Memory**, check how the story so far has been summed up.
-3. Write relationships and settings that must be remembered in **Chat Settings → User Note** (up to 2,000 characters) and save.
+3. Write relationships and settings that must be remembered in **Chat Settings → User Note** (up to 3,000 characters) and save. A longer note may use extra Sparks per message, and the screen shows how many.
 
 More details are in [Long-term memory & memory fragments](/chatting/memory-book.md).
 
