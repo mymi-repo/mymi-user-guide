@@ -5,7 +5,7 @@ description: "로판은 '로맨스 판타지'의 줄임말이에요. 회귀·빙
 image: ./img/rofan-meaning/cover.png
 authors: [mymi]
 date: 2026-11-08
-last_update: {date: 2026-11-08}
+last_update: {date: 2026-11-09}
 question: "로판이 무슨 뜻인가요?"
 answer: "로판은 '로맨스 판타지'의 줄임말로, 판타지 세계에서 사랑 이야기가 중심인 장르예요."
 type: glossary
@@ -122,7 +122,7 @@ MYMI 작품 태그 목록은 장르·설정·성향 같은 묶음으로 나뉘�
 *찻잔을 내려놓고 전하를 똑바로 바라본다* 청혼은 받겠어요. 대신 조건이 있어요. 1년 동안은 서로의 일에 끼어들지 않기로 해요.
 ```
 
-웹소설처럼 빙의나 회귀로 시작하고 싶다면 그것을 내 인물의 사정으로 적어 볼 수 있어요. 로그인했다면 '나는 이 이야기의 결말을 알고 있다' 같은 사정을 유저 노트(2,000자까지)에 저장해 두세요. 이 채팅방에서 새 답이 나올 때마다 AI가 그 메모를 함께 읽어요([채팅방 설정하기](https://www.mymi.live/guide/chatting/chat-room-settings)). 다만 작품이 정해 둔 이야기와 크게 어긋나면 답이 엇갈릴 수 있으니, 작품 소개와 도입부를 먼저 읽고 맞춰 적어요. 가입하기 전에는 모든 작품을 통틀어 최대 다섯 번까지 체험으로 답을 받을 수 있어요([로그인 없이 AI 채팅할 수 있나요?](https://www.mymi.live/guide/faq/chat-without-login)).
+웹소설처럼 빙의나 회귀로 시작하고 싶다면 그것을 내 인물의 사정으로 적어 볼 수 있어요. 로그인했다면 '나는 이 이야기의 결말을 알고 있다' 같은 사정을 유저 노트(3,000자까지)에 저장해 두세요. 이 채팅방에서 새 답이 나올 때마다 AI가 그 메모를 함께 읽어요([채팅방 설정하기](https://www.mymi.live/guide/chatting/chat-room-settings)). 다만 작품이 정해 둔 이야기와 크게 어긋나면 답이 엇갈릴 수 있으니, 작품 소개와 도입부를 먼저 읽고 맞춰 적어요. 가입하기 전에는 모든 작품을 통틀어 최대 다섯 번까지 체험으로 답을 받을 수 있어요([로그인 없이 AI 채팅할 수 있나요?](https://www.mymi.live/guide/faq/chat-without-login)).
 
 ## 자주 묻는 질문
 
@@ -148,3 +148,5 @@ MYMI 작품 태그 목록은 장르·설정·성향 같은 묶음으로 나뉘�
 </details>
 
 로판 작품에도 붙는 성격 태그가 궁금하다면 [츤데레 뜻과 유래](./tsundere-meaning.md)와 [얀데레 뜻](./yandere-meaning.md)을, 첫 메시지를 어떻게 쓸지 막막하다면 [AI 채팅으로 소설 속 인물과 대화하기](./ai-chat-start.md)를 함께 읽어 보세요. 다른 연애 작품을 둘러보려면 [여성향 AI 연애 채팅 추천](./female-oriented-ai-chat.md)과 [남성향 AI 채팅 추천](./male-oriented-ai-chat.md)을 열어 보세요. 지금까지 쓴 글은 [MYMI 블로그](https://www.mymi.live/blog) 첫 화면에서 한눈에 볼 수 있어요. 이 글에서 본 낱말을 알고 나면 작품 소개가 한결 잘 읽혀요. [MYMI](https://www.mymi.live/ko?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_rofan_meaning)에서 로판 작품 하나를 골라, 내가 맡을 인물을 정하고 첫 메시지를 보내 보세요.
+
+_2026년 11월 9일 고침: 유저 노트에 적을 수 있는 글자가 3,000자로 늘어난 것을 반영했어요._
