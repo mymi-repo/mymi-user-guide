@@ -2,10 +2,10 @@
 title: "남성향 AI 채팅 추천: MYMI 운영팀이 고른 작품 4편(2026년 10월)"
 slug: male-oriented-ai-chat
 description: "MYMI 남성향 인기 작품을 2026년 10월 31일 기준 대화 수 순서로 살펴, 처음 열어 보기 좋은 전체이용가 작품 4편을 운영팀이 골랐어요. 작품마다 붙은 태그와 누적 대화 수, 한 줄 소개, 어떤 이야기로 시작하는지, 로그인하기 전에 먼저 해 보는 법까지 담았어요."
-image: https://www.mymi.live/guide/img/og/og-blog.png
+image: ./img/male-oriented-ai-chat/cover.png
 authors: [mymi]
 date: 2026-10-31
-last_update: {date: 2026-10-31}
+last_update: {date: 2026-11-09}
 question: "남성향 AI 채팅, 어떤 작품을 추천하나요?"
 answer: "2026년 10월 31일 기준으로 추천하는 남성향 AI 채팅은 「루멘특구 공공서비스국」·「제니퍼」·「이지은」·「호랑이 경호원 백하린」이에요."
 type: data
@@ -19,6 +19,8 @@ status: published
 ---
 
 2026년 10월 31일 기준으로 추천하는 남성향 AI 채팅은 「루멘특구 공공서비스국」·「제니퍼」·「이지은」·「호랑이 경호원 백하린」이에요.
+
+![MYMI 블로그 표지: 남성향 AI 채팅 추천 작품 4편, 대화 수·이야기의 시작·처음 해 보는 법](./img/male-oriented-ai-chat/cover.png)
 
 {/* truncate */}
 
@@ -67,6 +69,16 @@ status: published
 
 가입 전에는 작품마다가 아니라 모두 합쳐 5번까지 대화할 수 있고, 답을 다시 생성해도 그중 1번으로 들어가요. 가입한 뒤로는 답변을 받을 때마다 스파크가 들어요. 네 작품을 한 번씩 건드려 보기보다, 한 작품의 도입부를 끝까지 읽고 그 장면에서 몇 마디 주고받아 보는 편이 감을 잡기 쉬워요. 대화를 보내는 방법은 [대화하기](https://www.mymi.live/guide/chatting/chat-with-character) 안내에 있어요.
 
+이 네 편을 읽어 본 뒤 비슷한 작품을 더 찾을 때는 홈의 추천·랭킹·장르·검색 탭을 써요. 캐릭터 성별을 '여성 캐릭터'로 한 번 골라 두면 어느 탭에서 골랐든 네 탭이 같은 설정을 따라가요.
+
+<Screenshot src={require('./img/male-oriented-ai-chat/filter-menu.webp').default} alt="추천 탭 캐릭터 성별 메뉴에 전체, 여성 캐릭터, 남성 캐릭터가 있고 여성 캐릭터가 골라져 있는 화면" caption="추천 탭 오른쪽 위의 캐릭터 성별 메뉴. 전체·여성 캐릭터·남성 캐릭터 가운데 골라요" device="part" width="15rem" />
+
+<Screenshot src={require('./img/male-oriented-ai-chat/ranking.webp').default} alt="홈 랭킹 탭에 실시간, 일간, 주간, 월간 단추가 나란히 있고 같은 줄 오른쪽 메뉴가 여성 캐릭터로 되어 있는 화면" caption="랭킹 탭. 실시간·일간·주간·월간 가운데 기간을 고르고, 같은 줄 오른쪽 메뉴에서 캐릭터 성별을 바꿔요" device="part" />
+
+<Screenshot src={require('./img/male-oriented-ai-chat/genre-menu.webp').default} alt="장르 탭 메뉴의 정렬순에서 인기순이, 캐릭터 성별에서 여성 캐릭터가 골라져 있는 화면" caption="장르 탭은 정렬(인기순·주간 인기순·최신순)과 캐릭터 성별을 한 메뉴에서 바꿔요" device="part" width="20rem" />
+
+<Screenshot src={require('./img/male-oriented-ai-chat/search.webp').default} alt="홈 검색 탭의 검색창에 츤데레 마법사와 제작자명을 예로 든 안내 문구가 있고 그 아래 오른쪽에 필터 설정이 보이는 화면" caption="검색 탭. 분위기나 키워드로 찾고, 검색창 아래 '필터 설정'에서 정렬과 캐릭터 성별을 골라요" device="part" />
+
 AI 인터랙티브 소설이 처음이라면 [AI 인터랙티브 소설이란?](./ai-interactive-novel.md)을 먼저 읽어 보세요. 여성향 쪽 목록은 [여성향 AI 연애 채팅 추천](./female-oriented-ai-chat.md)에 따로 있어요.
 
 ## 자주 묻는 질문
@@ -91,3 +103,5 @@ AI 인터랙티브 소설이 처음이라면 [AI 인터랙티브 소설이란?](
 그렇다고 단정할 수는 없어요. 대화 수는 그 작품에서 이야기가 얼마나 많이 오갔는지를 보여 주는 숫자일 뿐이에요. 일찍 공개된 작품일수록 숫자가 쌓일 시간이 길었으니, 고를 때는 한 줄 소개와 태그가 내 취향과 맞는지를 함께 보세요.
 
 </details>
+
+_2026년 11월 9일 고침: 홈 추천 탭의 캐릭터 성별 메뉴, 랭킹 탭, 장르 탭 메뉴, 검색 탭 화면 그림을 더했어요._
