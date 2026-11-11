@@ -3,7 +3,7 @@ sidebar_position: 1
 # 폴더와 이름이 같은 문서는 주소 끝에 / 가 붙는데, 웹(Next)은 끝 / 를 308 로 떼어 내 표준 주소·언어 연결이 리다이렉트를 가리켰다(2026-10-24).
 slug: /faq
 last_update:
-  date: 2026-11-09
+  date: 2026-11-11
 description: What to check and how to fix problems with logging in, verification, Sparks, payments, chatting, creating works, or being a creator, and how to contact us.
 ---
 
@@ -152,7 +152,7 @@ The full conditions are in [Buying Sparks](/payment/payment-methods.md#invite-fr
 
 <summary>I can't buy the First Buy package</summary>
 
-- The First Buy package ($1.99 on the website) needs no verification, on the website or in the app.
+- The First Buy package ($2.19 on the website) needs no verification, on the website or in the app.
 - You can buy it only once per account, across the website and the app combined. If you see "This promotion has already been used.", you already bought it.
 
 </details>

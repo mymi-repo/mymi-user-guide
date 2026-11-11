@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-07
+  date: 2026-11-11
 seo_title: Buying Sparks - Website, app, free Sparks
 description: How to buy Sparks on the website and in the app, get free Sparks from Attendance Check and Invite Friends, when Sparks expire, and how to check your history.
 ---
@@ -30,16 +30,16 @@ On the website, you pay with **PayPal** in US dollars (USD). PayPal also accepts
 
 Only users 18 or older can buy Sparks.
 
-Website packages as of October 4, 2026:
+Website packages as of November 11, 2026:
 
 | Price | Sparks | Notes |
 | ---: | ---: | --- |
-| $1.99 | 5,000 | The one-time **First Buy** package. Each account can buy it once, across the website and the app combined. No verification is needed |
-| $3.99 | 5,000 | |
-| $7.98 | 10,000 | |
-| $22.49 | 31,500 | Includes a 1,500 bonus |
-| $37.49 | 55,000 | Includes a 5,000 bonus |
-| $74.99 | 115,000 | Includes a 15,000 bonus |
+| $2.19 | 5,000 | The one-time **First Buy** package. Each account can buy it once, across the website and the app combined. No verification is needed |
+| $4.09 | 5,000 | |
+| $8.09 | 10,000 | |
+| $24.49 | 31,500 | Includes a 1,500 bonus |
+| $40.49 | 55,000 | Includes a 5,000 bonus |
+| $80.99 | 115,000 | Includes a 15,000 bonus |
 
 Exchange rates and cross-border fees follow the terms of your payment method, so your card issuer or PayPal may charge extra fees.
 
@@ -51,9 +51,9 @@ In the app, you pay through the **App Store** on iPhone or **Google Play** on An
 2. Finish paying in the store's payment sheet.
 3. Check that the charge is complete.
 
-App prices are set by each store and shown in your local currency, so they differ from the website's. Check the amount on the purchase screen and in the store's payment sheet before you pay.
+App prices are set by each store and shown in your local currency, so they may differ from the website's. Check the amount on the purchase screen and in the store's payment sheet before you pay.
 
-The app also has a one-time **First Buy** package of 5,000 Sparks. It doesn't need verification either. Each account can buy it once across the website and the app combined, so if you've already bought the $1.99 package on the website, you can't buy it in the app.
+The app also has a one-time **First Buy** package of 5,000 Sparks. It doesn't need verification either. Each account can buy it once across the website and the app combined, so if you've already bought the $2.19 package on the website, you can't buy it in the app.
 
 ## Get free Sparks
 
