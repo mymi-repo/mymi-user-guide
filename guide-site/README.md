@@ -108,6 +108,8 @@ FE `scripts/build-guide.mjs`가 가이드 다음에 블로그를 빌드해 `publ
 
 간체 원고·그림·저자는 `i18n-blog/zh-Hans/docusaurus-plugin-content-blog/`에 둔다. 현재 번체와 같은 설명 글 3편만 `translatedPosts`/`include`로 빌드하며, 미번역 한국어 글은 간체 주소에 복제하지 않는다. `SiteMetadata`는 이 세 글의 한국어·번체·간체 사이에만 hreflang을 잇는다. 간체 서비스 링크는 `/zh-Hans`, UTM은 `zh-Hans_blog_<슬러그의 -를 _로>`, 메뉴는 `zh-Hans_blog_menu`다. 언어별 sitemap·RSS를 유지하고 Yeti는 간체 경로도 제외한다. 기존 한국어 IndexNow 제출 범위는 확대하지 않는다. 원래 한국어용 `check_post.py`의 고정 UTM 기대값만 간체에 맞춰 실행한 검사와 원본 검사에서의 차이를 작업 기록에 남긴다.
 
+일본어·영어 원고·그림·저자는 `i18n-blog/ja/`·`i18n-blog/en/` 아래 `docusaurus-plugin-content-blog/`에 둔다(2026-11-13 김상래 지시로 「AI 인터랙티브 소설이란?」 1편씩). 언어마다 낼 글은 설정의 `translatedPosts`(언어 → 슬러그 목록)로 정하고, 글을 더하면 그 목록과 관리자 `POSTS`에 함께 더한다. hreflang은 그 글을 옮긴 언어끼리만 잇는다(`src/theme/SiteMetadata`). 서비스 링크는 `/ja`·`/en`, `utm_content=ja_blog_<슬러그>`·`en_blog_<슬러그>`, 메뉴는 `ja_blog_menu`·`en_blog_menu`다. 허브 대표 그림은 `static/img/og/og-blog-ja.png`·`og-blog-en.png`다.
+
 ## 콘텐츠 수정
 
 `docs/` 디렉토리의 한국어 마크다운 파일을 직접 수정한다. 로컬 수정과 미리보기만으로 운영 사이트에 배포되지는 않는다.
