@@ -2,10 +2,10 @@
 title: "여성향 AI 연애 채팅 추천: 처음 해 보기 좋은 로맨스 5편(2026년 10월)"
 slug: female-oriented-ai-chat
 description: "연애 로맨스를 찾는 분께 권할 MYMI 여성향 작품을 골랐어요. 2026년 10월 31일 기준 대화가 많은 인기작 가운데 전체이용가 작품만 추렸고, 작품별 누적 대화 수와 한 줄 소개, 상대와 어떤 관계에서 이야기가 시작되는지, 대화를 시작하기 전에 정해 둘 것까지 담았어요."
-image: https://www.mymi.live/guide/img/og/og-blog.png
+image: ./img/female-oriented-ai-chat/cover.png
 authors: [mymi]
 date: 2026-10-31
-last_update: {date: 2026-10-31}
+last_update: {date: 2026-11-13}
 question: "여성향 AI 채팅은 어떤 작품부터 해 보면 좋을까요?"
 answer: "2026년 10월 31일 기준 여성향 AI 채팅으로는 「한도경」·「이찬희」·「길가에 쓰러져있는 조폭을 주웠다!」·「우태오」·「한이겸」을 추천해요."
 type: data
@@ -20,6 +20,8 @@ status: published
 ---
 
 2026년 10월 31일 기준 여성향 AI 채팅으로는 「한도경」·「이찬희」·「길가에 쓰러져있는 조폭을 주웠다!」·「우태오」·「한이겸」을 추천해요.
+
+![MYMI 블로그 표지: 여성향 AI 연애 채팅 추천 작품 5편, 대화 수·관계의 출발점·시작 전에 정할 것](./img/female-oriented-ai-chat/cover.png)
 
 {/* truncate */}
 
@@ -57,11 +59,19 @@ status: published
 
 능글·까칠·다정·무뚝뚝처럼 결이 다른 태그가 함께 붙어 있어, 한 사람의 말투가 상황마다 달라지는 걸 지켜보는 재미가 있어요. 일 얘기와 마음이 뒤섞인 대화를 좋아한다면 맞는 작품이에요. 고른 작품 가운데 대화 수가 가장 많아요.
 
+<Screenshot src={require('./img/female-oriented-ai-chat/han-dokyung-set.webp').default} alt="노을빛 하늘 아래 조명 장비가 놓인 촬영장에서 검은 셔츠를 입은 남성이 종이 뭉치를 들고 읽는 그림" caption="「한도경」 · reerer" device="part" />
+
+<Screenshot src={require('./img/female-oriented-ai-chat/han-dokyung-cafe.webp').default} alt="창가 자리에서 검은 코트를 입은 남성이 턱을 괸 채 탁자에 놓인 원고에 펜으로 무언가를 적는 그림" caption="「한도경」 · reerer" device="part" />
+
 ### 이찬희
 
 [이찬희](https://www.mymi.live/ko/contents/6aade55aa2d51b86b38b07dd/profile?utm_source=mymi_blog&utm_medium=referral&utm_campaign=global_content_2026q4&utm_content=ko_blog_female_oriented_ai_chat)의 소개는 그가 직접 건네는 말이에요. 옷을 갈아입으면 늦을 것 같아 정복 그대로 왔다는 것, 그리고 보고 싶었다는 한마디요.
 
 제복·첫사랑·무뚝뚝 태그가 붙어 있어서, 좀처럼 속을 내보이지 않던 사람이 먼저 마음을 꺼내는 장면부터 이야기가 열려요.
+
+<Screenshot src={require('./img/female-oriented-ai-chat/lee-chanhee-uniform.webp').default} alt="짙은 남색 정복에 넥타이를 맨 남성이 술집 문 안으로 들어서는 그림" caption="「이찬희」 · 초코바나나딸기" device="part" />
+
+<Screenshot src={require('./img/female-oriented-ai-chat/lee-chanhee-smile.webp').default} alt="정복을 입은 남성이 술집 탁자에 앉아 옆을 보며 웃는 그림" caption="「이찬희」 · 초코바나나딸기" device="part" />
 
 ### 길가에 쓰러져있는 조폭을 주웠다!
 
@@ -81,13 +91,17 @@ status: published
 
 코미디·일상·가족 태그에 츤데레와 까칠이 더해져 있어서, 들를 때마다 트집을 잡으면서도 발길은 끊지 않는 사람과 주고받는 순한 로맨틱 코미디예요. 웃음 사이로 아버지와 아들의 애틋한 사정이 함께 흘러요.
 
+<Screenshot src={require('./img/female-oriented-ai-chat/han-igyeom-umbrella.webp').default} alt="남색 정장에 자주색 넥타이를 맨 남성이 비 오는 밤거리에서 검은 우산을 쓰고 서 있는 그림" caption="「한이겸」 · 초코바나나딸기" device="part" />
+
+<Screenshot src={require('./img/female-oriented-ai-chat/han-igyeom-teacup.webp').default} alt="남색 정장을 입은 남성이 한 손을 주머니에 넣고 다른 손으로 찻잔을 든 그림" caption="「한이겸」 · 초코바나나딸기" device="part" />
+
 ## 대화를 시작하기 전에 무엇을 정하면 좋을까요?
 
 관계에서 출발하는 작품은 내가 어떤 사람인지에 따라 같은 장면도 다르게 흘러가요. 그래서 대화 시작하기 옆의 프로필 아이콘에서 페르소나를 먼저 골라 두면 좋아요.
 
-페르소나 상세정보에는 내 역할과 성격, 말투, 상대와의 관계를 1,000자까지 적을 수 있어요. 제작자가 그 작품에 맞춰 준비한 추천 페르소나가 있으면 그걸 골라도 돼요. 만드는 방법은 [페르소나 설정](https://www.mymi.live/guide/account/persona)에 있어요.
+페르소나는 로그인한 뒤에 만들 수 있어요. 상세정보에는 내 역할과 성격, 말투, 상대와의 관계를 1,000자까지 적을 수 있고, 만드는 방법은 [페르소나 설정](https://www.mymi.live/guide/account/persona)에 있어요.
 
-페르소나를 정했다면 가입하기 전이라도 다시 생성하기를 포함해 모든 작품을 합쳐 다섯 번까지 이야기를 주고받아 볼 수 있어요. 다섯 번을 다 쓴 뒤에는 가입해야 이어 갈 수 있고, 그때부터 답변마다 스파크가 차감돼요.
+가입하기 전에도 다시 생성하기를 포함해 모든 작품을 합쳐 다섯 번까지 이야기를 주고받아 볼 수 있어요. 이때는 내 페르소나를 만들 수 없어서, 첫 메시지에서 내가 누구이고 상대와 어떤 사이인지부터 밝히고 시작하면 좋아요. 다섯 번을 다 쓴 뒤에는 가입해야 이어 갈 수 있고, 그때부터 답변마다 스파크가 차감돼요.
 
 AI 인터랙티브 소설이 어떻게 굴러가는지 궁금하다면 [AI 인터랙티브 소설이란?](./ai-interactive-novel.md)을, 남성향 쪽 목록은 [남성향 AI 채팅 추천](./male-oriented-ai-chat.md)을 보면 돼요.
 
@@ -113,3 +127,5 @@ AI 인터랙티브 소설이 어떻게 굴러가는지 궁금하다면 [AI 인�
 작품 상세의 도입부 칸에서 장면을 눌러 바꾸면 돼요. 아무것도 고르지 않으면 첫 번째 도입부로 시작해요. 나중에 다른 장면으로도 해 보고 싶다면 그 장면을 골라 채팅방을 하나 더 열면 되고, 먼저 하던 채팅방은 지워지지 않아요. 장면과 역할을 고르는 순서는 [대화하기](https://www.mymi.live/guide/chatting/chat-with-character) 안내의 '시작 장면과 내 역할 정하기'에 나와 있어요.
 
 </details>
+
+_2026년 11월 13일 고침: 「한도경」·「이찬희」·「한이겸」의 작품 그림을 더하고, 페르소나는 로그인한 뒤에 만들 수 있다는 점을 바로잡았어요._
