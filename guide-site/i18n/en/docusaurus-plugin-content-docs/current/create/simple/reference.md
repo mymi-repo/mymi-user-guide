@@ -5,7 +5,7 @@ description: Simple mode's character and count limits, required items for each s
 slug: /create/simple/reference
 sidebar_position: 7
 last_update:
-  date: 2026-10-07
+  date: 2026-11-17
 ---
 
 # Fields and limits
@@ -35,7 +35,7 @@ This page collects the limits and rules of the Simple mode screen. The details o
 | | Content | 400 characters |
 | | Amount passed on at once | Found in the last 10 messages, at most 3 · 1,500 characters |
 | Components | Usage Description | Required for each component · 500 characters |
-| | JSX code | Required · 10,000 characters. Needs a function name and at least 1 variable |
+| | JSX code | Required · 20,000 characters. Needs a function name and at least 1 variable |
 | Optional | Description (HTML) | Optional · 50,000 characters |
 | | Recommended personas | Optional. If you make one, it needs a name (20 characters), gender, birth date (14 or older), and details (1,000 characters) |
 | | Creator's Note | Optional · 3,000 characters |

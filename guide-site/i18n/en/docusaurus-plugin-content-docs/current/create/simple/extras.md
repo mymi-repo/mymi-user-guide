@@ -4,7 +4,7 @@ description: "Use Simple mode's optional steps: lore sent only when a keyword co
 slug: /create/simple/extras
 sidebar_position: 5
 last_update:
-  date: 2026-10-25
+  date: 2026-11-17
 ---
 
 # Lorebook, components, and optional items
@@ -61,7 +61,7 @@ A component is **UI the AI shows during a chat**. Build things you want to show,
 
 </ScreenStep>
 
-- **JSX code**: Code in the shape `function Name({ variable = default })`. You can write up to 10,000 characters. Code fences and import statements are tidied up automatically.
+- **JSX code**: Code in the shape `function Name({ variable = default })`. You can write up to 20,000 characters. Code fences and import statements are tidied up automatically.
 - **Default prop values**: Shows the variables read from the code and their defaults. The defaults are used in the preview and become examples of what the AI fills in.
 - **Usage Description**: Up to 500 characters. It's what the AI goes by to decide when to use this component.
 
