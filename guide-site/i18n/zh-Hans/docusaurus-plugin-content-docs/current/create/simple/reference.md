@@ -1,7 +1,7 @@
 ---
 title: 输入项目与限制
 seo_title: 输入项目与限制 - 简易模式的字数与图词组法
-description: 把简易模式画面的字数与数量限制、各步骤的必填项目、img:[名称] 图词组法与 {{user}}、{{char}} 会被替换的地方，以及何时会保存，整理在一起。也包括图片费用与年龄确认的条件。
+description: 把简易模式画面的字数与数量限制、各步骤的必填项目、img:[名称] 图词组法与 {{user}}、{{char}} 会被替换的地方，以及何时会保存，整理在一起。也含费用与年龄确认条件。
 slug: /create/simple/reference
 sidebar_position: 7
 last_update:

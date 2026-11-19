@@ -2,7 +2,8 @@
 sidebar_position: 3
 last_update:
   date: 2026-11-19
-description: When you need age confirmation, how to do it, how to turn off the Safety Filter, and what to do if it doesn't work.
+seo_title: Age confirmation - See adult works
+description: When you need age confirmation, how to confirm that you're 18 or older, how to turn off the Safety Filter to see adult works, and what to do if you get stuck.
 ---
 
 # Age confirmation

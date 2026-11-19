@@ -2,8 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-11-19
-seo_title: 充值 Spark - 网页版与 App 充值
-description: 说明如何在网页版与 App 充值 Spark、Spark 的有效期限，以及如何查看纪录。也说明买不到首次购买商品、付款后 Spark 没有入帐时怎么办。
+seo_title: 充值 Spark - 网页版与 App 充值、有效期限
+description: 说明如何在网页版与 App 充值 Spark、活动或比赛赠送的 Spark、Spark 的有效期限，以及如何查看纪录。也说明买不到首次购买商品、付款后 Spark 没有入帐时怎么办。
 ---
 
 # 充值 Spark

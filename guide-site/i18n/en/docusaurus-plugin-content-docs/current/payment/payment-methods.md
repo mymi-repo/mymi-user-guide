@@ -2,8 +2,8 @@
 sidebar_position: 1
 last_update:
   date: 2026-11-19
-seo_title: Buying Sparks - Website and app
-description: How to buy Sparks on the website and in the app, when Sparks expire, and how to check your history.
+seo_title: Buying Sparks - Website, app, expiry
+description: How to buy Sparks on the website and in the app, how the one-time First Buy package works, when your Sparks expire, and how to check your Spark history.
 ---
 
 # Buying Sparks
