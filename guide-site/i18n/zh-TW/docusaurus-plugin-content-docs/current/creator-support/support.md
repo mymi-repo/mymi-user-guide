@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-04
+  date: 2026-11-20
 seo_title: 成為創作者與 Leaf - 申請條件與轉換為 Spark
 description: 說明申請成為創作者的條件與方法、如何獲得 Leaf 並轉換為 Spark、查看作品表現、成為官方創作者，以及如何追蹤喜歡的創作者並用留言支持。也說明 Leaf 沒有累積時怎麼辦。
 ---
@@ -83,9 +83,10 @@ description: 說明申請成為創作者的條件與方法、如何獲得 Leaf �
 - 原創作品的 Leaf 比例變成 7%。
 - 你自己在自己的作品中的聊天也會累積 Leaf。
 - 100 Leaf 可以轉換成 100 Spark。
+- 居住在台灣的話，可以把 Leaf 提領為現金。比例與上限、付款日程、稅金寫在 [MYMI 創作者條款](https://www.mymi.live/zh-TW/legal/creator-terms)的第 4-1 條。
 
-:::info[台灣帳號無法把 Leaf 換成現金]
-未居住在韓國的創作者，目前無法使用 Leaf 的現金提領，Leaf 只能轉換成 Spark。創作者畫面可能會顯示附有韓元額度的**現金提領**，但不適用於台灣帳號。詳細內容請看 [MYMI 創作者條款](https://www.mymi.live/zh-TW/legal/creator-terms)的第 4-1 條。
+:::info[現金會以新臺幣匯到 PayPal]
+每 1,000 Leaf 換算為新臺幣 12 元，每月最高可提領新臺幣 2,400 元。款項會匯到你本人名義的台灣 PayPal 帳戶。畫面上的**現金提領**目前還不能直接申請，想提領時請從[聯絡我們](/faq/faq.md#聯絡我們)告訴我們。
 :::
 
 :::info[關於官方創作者的資格]
@@ -142,7 +143,7 @@ description: 說明申請成為創作者的條件與方法、如何獲得 Leaf �
 <details>
 <summary>點選現金提領沒有反應</summary>
 
-未居住在韓國的帳號無法使用現金提領。請把 Leaf 轉換成 Spark 使用。
+畫面上的**現金提領**目前還不能直接申請。居住在台灣的官方創作者，請從[聯絡我們](/faq/faq.md#聯絡我們)告訴我們。提領條件寫在 [MYMI 創作者條款](https://www.mymi.live/zh-TW/legal/creator-terms)的第 4-1 條。
 
 </details>
 

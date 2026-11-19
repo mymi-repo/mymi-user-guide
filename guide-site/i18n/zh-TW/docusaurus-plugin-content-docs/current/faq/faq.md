@@ -3,7 +3,7 @@ sidebar_position: 1
 # 폴더와 이름이 같은 문서는 주소 끝에 / 가 붙는데, 웹(Next)은 끝 / 를 308 로 떼어 내 표준 주소·언어 연결이 리다이렉트를 가리켰다(2026-10-24).
 slug: /faq
 last_update:
-  date: 2026-11-19
+  date: 2026-11-20
 seo_title: 常見問題（FAQ） - 登入、驗證、付款與聊天
 description: 在登入、驗證、Spark、付款、聊天、作品製作與創作者方面遇到問題時，彙整了要確認的事項與解決方法。例如無法登入、付款後 Spark 沒有入帳等。也說明如何聯絡我們。
 ---
@@ -354,7 +354,7 @@ Leaf 是在你成為創作者之後，其他使用者在已通過審核並公開
 
 <summary>Leaf 可以換成現金嗎？</summary>
 
-台灣帳號不行。未居住在韓國的創作者無法使用現金提領，Leaf 只能轉換成 Spark。Leaf 過 30 天就會消失，請及時轉換。詳細內容請看[成為創作者與 Leaf](/creator-support/support.md#把-leaf-轉換成-spark)。
+居住在台灣的官方創作者可以。Leaf 會換算成新臺幣，匯到你本人名義的台灣 PayPal 帳戶。其他情況下，Leaf 只能轉換成 Spark。Leaf 過 30 天就會消失，請及時轉換或提領。詳細內容請看[成為創作者與 Leaf](/creator-support/support.md#成為官方創作者)。
 
 </details>
 
