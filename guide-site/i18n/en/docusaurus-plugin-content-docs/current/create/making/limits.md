@@ -86,7 +86,7 @@ Visibility (Public) and Content rating (All ages) are already chosen.
 
 ## Image costs and age confirmation
 
-- In the app, you get a set number of free AI images each week; after that, each image costs Sparks. On the website, every image costs Sparks.
+- In the Android app, you get a set number of free AI images each week; after that, each image costs Sparks. On the website, every image costs Sparks. The iPhone app doesn't have AI image generation.
 - Adults only works can be used only by users who have completed age confirmation.
 - Only accounts that have completed age confirmation can turn off the Safety Filter at the tag steps of image generation.
 

@@ -83,7 +83,7 @@ last_update:
 <details>
 <summary>要生成图片时显示「需要身份验证才能生成 AI 图片。」</summary>
 
-旧版 App 可能会出现这个提示。请把 App 更新到最新版本后再试。也可以改用网页版生成，网页版每张图片都需要 Spark。
+旧版 iPhone App 可能会出现这个提示。不管是哪个版本，iPhone App 都没有 AI 图片生成功能，请改用网页版或 Android App 生成。
 
 上传自己已有的图片不受这个提示影响。
 

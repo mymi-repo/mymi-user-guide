@@ -80,7 +80,7 @@ The Expert mode guide follows the example work **Underground Seoul**. It uses th
 <details>
 <summary>I try to make an image and it says "Identity verification is required to generate AI images."</summary>
 
-This message can appear in older versions of the app. Update to the latest version and try again. You can also generate the image on the website, where each image costs Sparks.
+This message can appear in an older version of the iPhone app. The latest version doesn't have AI image generation either, so generate the image on the website or in the Android app.
 
 You can still upload images you already have.
 

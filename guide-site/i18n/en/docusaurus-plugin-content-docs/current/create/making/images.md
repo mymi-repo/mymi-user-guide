@@ -13,7 +13,7 @@ last_update:
 You prepare the images to show in chats in the **Assets** tab. You can upload images you already have, or generate them in MYMI. Give each image a code, and you can call it by that code in the prompt and the opening.
 
 :::info[What AI images cost]
-In the app, you get a set number of free AI images each week, and the screen shows how many you have left. Once they're used up, each image costs Sparks. On the website, every image costs Sparks. You see the cost before you confirm. Uploading images you already have costs nothing.
+In the Android app, you get a set number of free AI images each week, and the screen shows how many you have left. Once they're used up, each image costs Sparks. On the website, every image costs Sparks. You see the cost before you confirm. The iPhone app doesn't have AI image generation. Uploading images you already have costs nothing, and it works in the iPhone app too.
 :::
 
 :::info
@@ -67,6 +67,8 @@ Here is how the example work was prepared.
 ## Create a character folder and a base look
 
 When you make several images of the same character, make the **base look** first. The base look is the folder's face. Images you generate in that folder inherit the base look's art style and impression.
+
+Generating images works on the website and in the Android app. The iPhone app doesn't show the generate buttons in the steps below, so upload images instead.
 
 <ScreenStep src="/img/screens/en/assets-folder-empty.webp" alt="Character folder A just created, with a Create character button next to the folder name" caption="A new character folder">
 
@@ -205,7 +207,7 @@ If you change a code or delete an image on a public work, the image also disappe
 <details>
 <summary>It says "Identity verification is required to generate AI images."</summary>
 
-This message can appear in older versions of the app. Update to the latest version and try again. You can also generate the image on the website, where each image costs Sparks.
+This message can appear in an older version of the iPhone app. The latest version doesn't have AI image generation either, so generate the image on the website or in the Android app.
 
 You can still upload images you already have.
 
