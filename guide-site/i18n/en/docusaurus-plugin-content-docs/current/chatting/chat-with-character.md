@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-11-04
+  date: 2026-11-19
 seo_title: Chatting - Choose a work and start a chat
 description: Choose a work and start your first chat, get a different reply or edit one when you don't like it, pick up a chat later, and fix "Not enough Spark" messages.
 ---
@@ -28,7 +28,7 @@ Find works with the tabs at the top of **Home**.
 | **Search** | Search by mood or keyword. Enter `@nickname` or `@ID` exactly to see that creator's works |
 
 - The first time you visit, a "Choose the characters you want to see" window appears. Pick **Female characters**, **Male characters**, or **Show me everything** to see works featuring those characters first. You can change it anytime with the gender filter on each tab.
-- Adult works are hidden while the Safety Filter is on. The Safety Filter is the shield-shaped switch at the right end of the Home tab row. Turning it off requires age confirmation (18 or older). See [Age confirmation and phone verification](/account/adult-verification.md).
+- Adult works are hidden while the Safety Filter is on. The Safety Filter is the shield-shaped switch at the right end of the Home tab row. Turning it off requires age confirmation (18 or older). See [Age confirmation](/account/adult-verification.md).
 
 ## Pick an opening scene and your role
 
@@ -116,7 +116,7 @@ Change the font size and colors in [Chat room settings](/chatting/chat-room-sett
 <details>
 <summary>The message box is locked and says "Not enough Spark"</summary>
 
-You have fewer Sparks than the current model costs. Select **Charge** on the screen, or switch to a cheaper model with the ⚡ button to the left of the message box. Ways to get free Sparks are in [Buying Sparks](/payment/payment-methods.md#get-free-sparks).
+You have fewer Sparks than the current model costs. Select **Charge** on the screen, or switch to a cheaper model with the ⚡ button to the left of the message box. Packages and prices are in [Buying Sparks](/payment/payment-methods.md).
 
 </details>
 
@@ -158,7 +158,7 @@ No persona is selected yet. Select the profile icon to the right of the button a
 <details>
 <summary>I can't open adult works</summary>
 
-Log in and complete age confirmation (18 or older). Phone verification alone doesn't unlock adult works. See [Age confirmation and phone verification](/account/adult-verification.md).
+Log in and complete age confirmation (18 or older). See [Age confirmation](/account/adult-verification.md).
 
 </details>
 

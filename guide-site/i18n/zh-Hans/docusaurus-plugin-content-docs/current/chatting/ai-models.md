@@ -146,6 +146,6 @@ description: 说明如何选择与更换产生聊天回复的 AI 模型、MYMI�
 ## 下一步
 
 <CardGrid>
-<Card to="/payment/payment-methods" icon="card" title="充值 Spark">充值 Spark，或免费获得 Spark。</Card>
+<Card to="/payment/payment-methods" icon="card" title="充值 Spark">在网页版或 App 充值 Spark。</Card>
 <Card to="/chatting/chat-room-settings" icon="sliders" title="聊天室设置">调整 AI 的回复方式与画面显示。</Card>
 </CardGrid>

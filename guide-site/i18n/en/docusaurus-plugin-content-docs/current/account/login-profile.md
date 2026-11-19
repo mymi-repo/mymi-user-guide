@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-11-01
+  date: 2026-11-19
 seo_title: Login and profile settings - Name and ID
 description: How to log in again with the account you signed up with, change your name, nickname, ID, profile picture, and display language, log out, and fix login problems.
 ---
@@ -66,7 +66,7 @@ The **Creator** button under **My Spark** on the main **Profile** screen opens t
 
 Select **Language Settings** at the bottom of **Profile**, choose **한국어**, **日本語**, **English**, or **繁體中文**, and select **Confirm**.
 
-Changing the language changes the text on screen. Your account's verification and payment methods stay the same as when you signed up.
+Changing the language changes the text on screen. How you confirm your age and how you pay stay the same as when you signed up.
 
 ## Log out
 
@@ -82,10 +82,8 @@ Select **Profile → Settings & Support → Logout**. To use MYMI again, log in 
 | Unblock works or creators you blocked | **Block Management** |
 | Chat with a different name and role in each work | **Persona Settings** |
 | See creators you follow and comments you wrote | **My Activity** |
-| Get free Sparks every day | **Attendance Check** |
-| Invite friends or enter a referral code you received | **Invite Friends** |
 | Read news or contact us | **Discord** |
-| Also see works classified as sensitive content | **Settings & Support → Show Sensitive Content**. See [Age confirmation and phone verification](/account/adult-verification.md) |
+| Also see works classified as sensitive content | **Settings & Support → Show Sensitive Content**. See [Age confirmation](/account/adult-verification.md) |
 | Send your app details when contacting us | **Settings & Support → Version Info → Copy support info** |
 
 ## If you get stuck
@@ -138,6 +136,6 @@ If that doesn't solve it, reach us in the support channel on Discord from **Prof
 
 <CardGrid>
 <Card to="/account/persona" icon="persona" title="Persona settings">Chat with a different name and role in each work.</Card>
-<Card to="/account/adult-verification" icon="shield" title="Age confirmation and phone verification">Verify your phone for daily Sparks, and confirm your age to see adult works.</Card>
-<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">Get Sparks from Attendance Check or buy more.</Card>
+<Card to="/account/adult-verification" icon="shield" title="Age confirmation">Confirm your age to see adult works.</Card>
+<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">Buy Sparks on the website or in the app.</Card>
 </CardGrid>

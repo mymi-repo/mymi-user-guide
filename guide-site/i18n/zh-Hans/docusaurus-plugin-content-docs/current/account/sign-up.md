@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-11-08
+  date: 2026-11-19
 seo_title: 注册 - 用 LINE、Google、X、Apple 账号注册
 description: 说明如何用 LINE、Google、X、Apple 账号注册 MYMI、设置名称・ID・昵称、ID 规则、同意条款，以及完成注册按钮一直是灰色箭头、ID 已被使用等无法注册时的解决方法。
 ---
@@ -11,9 +11,9 @@ description: 说明如何用 LINE、Google、X、Apple 账号注册 MYMI、设�
 用 LINE、Google、X、Apple 其中一个账号登录后，设置名称、ID 与昵称就完成注册了。使用前请阅读适用于账号的服务条款；简体中文海外服务按年满 18 岁的国际服务条件提供。
 
 :::warning[注册前，请确认显示语言]
-简体中文注册使用现有国际服务的认证与支付规则，网页充值使用 USD／PayPal。注册时选择的语言会影响账号适用的服务规则；这不代表你的实际所在地，也不会改变应用商店的销售国家。
+简体中文注册使用现有国际服务的年龄确认与支付规则，网页充值使用 USD／PayPal。注册时选择的语言会影响账号适用的服务规则；这不代表你的实际所在地，也不会改变应用商店的销售国家。
 
-如果希望使用简体中文，请依下列步骤切换后再注册。已有账号切换显示语言，不会更改原本的认证政策、余额或购买记录。
+如果希望使用简体中文，请依下列步骤切换后再注册。已有账号切换显示语言，不会更改原本的年龄确认方式、余额或购买记录。
 
 1. 点击下方菜单最右边（个人资料）。
 2. 点击登录按钮下方的语言链接（언어 설정、Language Settings、言語設定、語言設定）。
@@ -81,7 +81,7 @@ description: 说明如何用 LINE、Google、X、Apple 账号注册 MYMI、设�
 
 在条件全部满足前，画面下方的按钮会显示为灰色箭头。填好四个项目、ID 显示**可使用**，并勾选三个必要项目后，按钮就会变成**完成注册**。点击后就完成注册并前往首页。如果是从聊天室打开的登录窗口注册，会回到那个聊天室，而不是首页。
 
-聊天需要 Spark，可以充值取得。目前签到等奖励需要完成手机号码验证。若账号画面明确提示「请在 App 中领取」，请按该提示操作。具体条件以账号页面为准，方法请见[年龄确认与手机号码验证](/account/adult-verification.md)与[充值 Spark](/payment/payment-methods.md#签到)。
+聊天需要 Spark，可以充值取得。方法请见[充值 Spark](/payment/payment-methods.md)。
 
 ## 遇到问题时
 
@@ -120,7 +120,7 @@ description: 说明如何用 LINE、Google、X、Apple 账号注册 MYMI、设�
 <details>
 <summary>显示「重新加入受限」与「删除账号后 30 天内无法重新加入。」</summary>
 
-用这个社区账号创建的 MYMI 账号删除后还不到 30 天。30 天后就能用同一个社区账号重新注册，并以新账号开始。现在也可以改用其他社区账号注册，但在删除的账号中验证过的手机号码，要等删除后满 30 天才能再次使用。
+用这个社区账号创建的 MYMI 账号删除后还不到 30 天。30 天后就能用同一个社区账号重新注册，并以新账号开始。现在也可以改用其他社区账号注册。如果以前在已删除的账号中验证过手机号码，该号码要等删除后满 30 天才能用于其他账号。
 
 </details>
 
@@ -150,7 +150,7 @@ App 没有 LINE 和 X 登录，Android App 也没有 Apple 登录。请在网页
 ## 下一步
 
 <CardGrid>
-<Card to="/account/adult-verification" icon="shield" title="年龄确认与认证方式">了解年龄确认与手机号码验证。</Card>
+<Card to="/account/adult-verification" icon="shield" title="年龄确认">观看成人作品需要年龄确认。</Card>
 <Card to="/chatting/chat-with-character" icon="chat" title="聊天">选择作品并开始第一次聊天。</Card>
 <Card to="/account/persona" icon="persona" title="人设设置">创建更多在作品中使用的名字与身份。</Card>
 </CardGrid>

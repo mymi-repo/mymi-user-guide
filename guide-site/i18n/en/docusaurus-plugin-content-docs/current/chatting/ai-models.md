@@ -146,6 +146,6 @@ The model and response length are saved separately in each browser and app. Even
 ## Next steps
 
 <CardGrid>
-<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">Buy Sparks or get them for free.</Card>
+<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">Buy Sparks on the website or in the app.</Card>
 <Card to="/chatting/chat-room-settings" icon="sliders" title="Chat room settings">Change how the AI replies and how the chat looks.</Card>
 </CardGrid>

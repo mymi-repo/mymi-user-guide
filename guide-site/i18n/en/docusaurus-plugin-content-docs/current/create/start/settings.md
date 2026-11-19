@@ -74,7 +74,7 @@ Choose **For men** or **For women** for who the work is mainly aimed at.
 This affects the conversation and the generated images.
 
 - **All ages**: Anyone can use it.
-- **Adults only**: Only users who have completed adult verification can use it. ([Age confirmation and phone verification](/account/adult-verification))
+- **Adults only**: Only users who have completed age confirmation can use it. ([Age confirmation](/account/adult-verification))
 
 If you change an already published work's rating from Adults only to All ages, it goes through review again.
 
@@ -118,7 +118,7 @@ It means a card hasn't been chosen. Messages appear one at a time. Simple mode c
 <details>
 <summary>I made an Adults only work and other users can't see it</summary>
 
-An Adults only work is shown only to users who have completed adult verification. Also check that your own account is verified. ([Age confirmation and phone verification](/account/adult-verification))
+An Adults only work is shown only to users who have completed age confirmation. Also check that you've confirmed your age on your own account. ([Age confirmation](/account/adult-verification))
 
 </details>
 

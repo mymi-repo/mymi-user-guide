@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 last_update:
-  date: 2026-11-08
+  date: 2026-11-19
 seo_title: 不登录也能和 AI 聊天吗？ - 5 次试用怎么算
 description: 说明在 MYMI 不登录也能和 AI 角色聊天几次、哪些回复会算一次，登录后的模型、用户备注和成人作品有什么不同，以及注册后怎样才能把试用时的聊天室移到新账号。
 ---
@@ -10,7 +10,7 @@ description: 说明在 MYMI 不登录也能和 AI 角色聊天几次、哪些回
 
 可以。在 MYMI 不用注册，也能和 AI 角色聊天，最多 5 次。
 
-打开作品并点击**开始聊天**，不必经过登录画面就会直接打开聊天室。作品中只有成人作品需要登录。本页内容以 2026 年 11 月 4 日为准。
+打开作品并点击**开始聊天**，不必经过登录画面就会直接打开聊天室。作品中只有成人作品需要登录。本页内容以 2026 年 11 月 19 日为准。
 
 ## 5 次试用怎么算
 
@@ -32,7 +32,7 @@ description: 说明在 MYMI 不登录也能和 AI 角色聊天几次、哪些回
 | 创建作品 | 只会看到登录提示 | 从下方的**创建**开始制作 |
 | 试用时的聊天 | 用完 5 次后，消息输入框会被锁住，并提示注册或登录 | 在试用时的浏览器或 App 注册新账号，就会移到新账号 |
 
-Spark 需要充值取得。充值方法和其他可领取的奖励，请看[充值 Spark](/payment/payment-methods.md)。在聊天室重新取得或修改回复的方法，请看[聊天](/chatting/chat-with-character.md)。
+Spark 需要充值取得。充值方法请看[充值 Spark](/payment/payment-methods.md)。在聊天室重新取得或修改回复的方法，请看[聊天](/chatting/chat-with-character.md)。
 
 ## 遇到问题时
 
@@ -73,6 +73,6 @@ Spark 需要充值取得。充值方法和其他可领取的奖励，请看[充�
 <CardGrid>
 <Card to="/account/sign-up" icon="userPlus" title="注册">确认用社区账号注册的步骤。</Card>
 <Card to="/chatting/chat-with-character" icon="chat" title="聊天">开始聊天，并修改不满意的回复。</Card>
-<Card to="/payment/payment-methods" icon="card" title="充值 Spark">充值或领取登录后聊天要用的 Spark。</Card>
+<Card to="/payment/payment-methods" icon="card" title="充值 Spark">充值登录后聊天要用的 Spark。</Card>
 <Card to="/faq" icon="help" title="常见问题（FAQ）">遇到问题时寻找解决方法。</Card>
 </CardGrid>

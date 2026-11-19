@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-11-08
+  date: 2026-11-19
 seo_title: 登录与个人资料设置 - 修改名称、昵称与 ID
 description: 说明如何用注册的账号重新登录、修改名称・昵称・ID・个人资料照片与显示语言，以及注销的方法。也整理了登录后出现注册画面、看不到先前的聊天和 Spark 时的解决方法。
 ---
@@ -66,7 +66,7 @@ ID 规则和[注册](/account/sign-up.md#id-规则)相同。输入后会立即�
 
 点击**个人资料**最下方的**语言设置**，选择**简体中文**或其他已提供的语言，再点击**确认**。
 
-切换语言后，画面上的文字会改变。手机号码验证、年龄确认的方式与付款方式，仍会维持注册时的设置。
+切换语言后，画面上的文字会改变。年龄确认的方式与付款方式，仍会维持注册时的设置。
 
 ## 注销
 
@@ -82,10 +82,8 @@ ID 规则和[注册](/account/sign-up.md#id-规则)相同。输入后会立即�
 | 重新查看封锁的作品或创作者 | **封锁管理** |
 | 在每部作品用不同的名字与身份聊天 | **人设设置** |
 | 查看追踪的创作者或自己写的留言 | **我的活动** |
-| 每天免费领取 Spark | **签到** |
-| 邀请朋友，或输入收到的推荐码 | **邀请朋友** |
 | 查看消息或询问问题 | **Discord** |
-| 也想看到被归类为敏感内容的作品 | **设置与支持 → 显示敏感内容**。请参阅[年龄确认与手机号码验证](/account/adult-verification.md) |
+| 也想看到被归类为敏感内容的作品 | **设置与支持 → 显示敏感内容**。请参阅[年龄确认](/account/adult-verification.md) |
 | 在 App 中询问时想提供使用环境 | **设置与支持 → 版本信息 → 复制客服信息** |
 
 ## 遇到问题时
@@ -145,6 +143,6 @@ App 没有 LINE 和 X 登录，Android App 也没有 Apple 登录。请用 Chrom
 
 <CardGrid>
 <Card to="/account/persona" icon="persona" title="人设设置">在每部作品用不同的名字与身份聊天。</Card>
-<Card to="/account/adult-verification" icon="shield" title="年龄确认与手机号码验证">每天领取 Spark 需要手机号码验证，观看成人作品需要年龄确认。</Card>
-<Card to="/payment/payment-methods" icon="card" title="充值 Spark">用签到领取 Spark，或进行充值。</Card>
+<Card to="/account/adult-verification" icon="shield" title="年龄确认">观看成人作品需要年龄确认。</Card>
+<Card to="/payment/payment-methods" icon="card" title="充值 Spark">在网页版或 App 充值 Spark。</Card>
 </CardGrid>

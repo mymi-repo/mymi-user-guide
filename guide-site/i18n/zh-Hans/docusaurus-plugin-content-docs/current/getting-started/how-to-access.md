@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-11-08
+  date: 2026-11-19
 seo_title: 如何使用 MYMI - 打开网页版与安装 App
 description: 说明如何打开 MYMI 网页版与 Android、iPhone App、不登录也能试用的方法、同时使用网页版与 App、画面下方的菜单，以及在 LINE 打开链接后无法登录等问题的解决方法。
 ---
@@ -42,7 +42,7 @@ App 没有 LINE 和 X 登录，Android App 也没有 Apple 登录。这种情况
 | **首页** | 寻找作品 |
 | **聊天** | 打开聊过的作品，接着聊下去 |
 | **创建** | 创作自己的作品 |
-| **个人资料** | 登录、查看个人信息与 Spark、签到、内容管理 |
+| **个人资料** | 登录、查看个人信息与 Spark、内容管理 |
 
 ## 遇到问题时
 

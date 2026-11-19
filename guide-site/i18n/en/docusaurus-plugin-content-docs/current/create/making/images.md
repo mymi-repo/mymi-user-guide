@@ -5,15 +5,15 @@ description: Add character folders in the Assets tab, generate base looks, and m
 slug: /create/images
 sidebar_position: 6
 last_update:
-  date: 2026-10-03
+  date: 2026-11-19
 ---
 
 # Prepare images
 
-You prepare the images to show in chats in the **Assets** tab. You can upload images you already have, or generate them for free in MYMI. Give each image a code, and you can call it by that code in the prompt and the opening.
+You prepare the images to show in chats in the **Assets** tab. You can upload images you already have, or generate them in MYMI. Give each image a code, and you can call it by that code in the prompt and the opening.
 
-:::info[Image generation is free, but it needs phone verification]
-Generating and regenerating images in the creation screen is free. To generate, your account must have completed [phone verification](/account/adult-verification). You don't need verification just to upload images.
+:::info[What AI images cost]
+In the app, you get a set number of free AI images each week, and the screen shows how many you have left. Once they're used up, each image costs Sparks. On the website, every image costs Sparks. You see the cost before you confirm. Uploading images you already have costs nothing.
 :::
 
 :::info
@@ -205,13 +205,9 @@ If you change a code or delete an image on a public work, the image also disappe
 <details>
 <summary>It says "Identity verification is required to generate AI images."</summary>
 
-Only accounts that have completed phone verification can generate. You can't start verification on the creation screen, so do this:
+This message can appear in older versions of the app. Update to the latest version and try again. You can also generate the image on the website, where each image costs Sparks.
 
-1. Select **Save draft** at the top right (**Apply changes** for a work you've already published) to save your work.
-2. Select **Check-in and get Sparks** in **Profile → Attendance Check** and complete phone verification.
-3. Open the work again from **Profile → Content Management** and generate the image.
-
-You don't need verification just to upload images.
+You can still upload images you already have.
 
 </details>
 

@@ -5,15 +5,15 @@ description: Upload images or make them with AI in Simple mode's Assets step, wr
 slug: /create/simple/assets
 sidebar_position: 4
 last_update:
-  date: 2026-11-01
+  date: 2026-11-19
 ---
 
 # Assets and AI images
 
-You prepare the images to show in chats in the **Assets** step. You can upload images you already have, or make them for free in MYMI. When you write a **situation description** for each image, the AI reads it and picks which image to show in which scene.
+You prepare the images to show in chats in the **Assets** step. You can upload images you already have, or make them in MYMI. When you write a **situation description** for each image, the AI reads it and picks which image to show in which scene.
 
-:::info[Image generation is free, but it needs verification]
-Generating and regenerating images in work creation is free. To generate, your account needs to have completed [phone verification](/account/adult-verification). Uploading images doesn't need verification.
+:::info[What AI images cost]
+In the app, you get a set number of free AI images each week, and the screen shows how many you have left. Once they're used up, each image costs Sparks. On the website, every image costs Sparks. You see the cost before you confirm. Uploading images you already have costs nothing.
 :::
 
 ## What the Assets step looks like
@@ -196,13 +196,9 @@ If your work uses the images you uploaded in the Assets step, leave **Internal I
 <details>
 <summary>I try to make an image and it says "Identity verification is required to generate AI images."</summary>
 
-Image generation in work creation is free, but only accounts that have completed phone verification can use it. You can't start verification on the creation screen, so do this:
+This message can appear in older versions of the app. Update to the latest version and try again. You can also make the image on the website, where each image costs Sparks.
 
-1. Save what you've written with the next button.
-2. Select **Check-in and get Sparks** in **Profile → Attendance Check** and complete phone verification.
-3. Open the work again from **Profile → Content Management** and make the image.
-
-You don't need verification just to upload images you already have. For how to verify, see [Age confirmation and phone verification](/account/adult-verification).
+You can still upload images you already have.
 
 </details>
 

@@ -158,7 +158,7 @@ In the **Settings** step, choose every item marked with a red `*`. Start with **
 
 - **Image Output Instructions**: **Internal Images** is already chosen. Leave it, since you use the images uploaded in the Assets step.
 - **Audience**: Choose who the work is mainly for, **For men** or **For women**.
-- **Content rating**: **All ages** is already chosen. **Adults only** is available only to users who have completed adult verification.
+- **Content rating**: **All ages** is already chosen. **Adults only** is available only to users who have completed age confirmation.
 - **Marketing consent**: If you agree, MYMI may feature this work in ads and social media.
 
 </ScreenStep>

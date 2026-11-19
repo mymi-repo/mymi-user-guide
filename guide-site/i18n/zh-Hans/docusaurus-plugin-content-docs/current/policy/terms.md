@@ -98,5 +98,5 @@ description: 说明 MYMI 条款与政策的原文在哪里看、不能做的事�
 <CardGrid>
 <Card to="/faq" icon="help" title="常见问题（FAQ）">寻找遇到问题时的解决方法。</Card>
 <Card to="/create/publish" icon="send" title="公开与修改">了解审核，以及被退回时该怎么做。</Card>
-<Card to="/account/adult-verification" icon="shield" title="年龄确认与手机号码验证">完成年龄确认，才能观看成人作品。</Card>
+<Card to="/account/adult-verification" icon="shield" title="年龄确认">完成年龄确认，才能观看成人作品。</Card>
 </CardGrid>

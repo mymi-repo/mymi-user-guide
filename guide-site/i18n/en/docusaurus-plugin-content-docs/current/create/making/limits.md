@@ -5,7 +5,7 @@ description: The character and count limits of the Expert mode creation screen, 
 slug: /create/limits
 sidebar_position: 11
 last_update:
-  date: 2026-10-03
+  date: 2026-11-19
 ---
 
 # Limits and rules at a glance
@@ -84,9 +84,9 @@ Visibility (Public) and Content rating (All ages) are already chosen.
 | A work in progress | Automatically when you switch tabs if there are changes; when you first upload or generate a cover or asset image; when you select **Save draft**. After the draft exists, changes in the Assets tab are saved right away |
 | A published work | Text and settings when you select **Apply changes**. Asset changes take effect right away |
 
-## Free and verification
+## Image costs and age confirmation
 
-- Generating and regenerating images in the creation screen is free. To generate, you need phone verification.
+- In the app, you get a set number of free AI images each week; after that, each image costs Sparks. On the website, every image costs Sparks.
 - Adults only works can be used only by users who have completed age confirmation.
 - Only accounts that have completed age confirmation can turn off the Safety Filter at the tag steps of image generation.
 

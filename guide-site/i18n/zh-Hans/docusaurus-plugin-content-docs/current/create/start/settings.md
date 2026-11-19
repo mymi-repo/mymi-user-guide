@@ -74,7 +74,7 @@ last_update:
 会影响对话内容与生成的图片。
 
 - **全年龄**：任何人都可以使用。
-- **成人限定**：只有完成成人验证的用户才能使用。（[年龄确认与手机号码验证](/account/adult-verification)）
+- **成人限定**：只有完成年龄确认的用户才能使用。（[年龄确认](/account/adult-verification)）
 
 已经公开的作品，如果把分级从成人限定改成全年龄，会再次接受审查。
 
@@ -118,7 +118,7 @@ last_update:
 <details>
 <summary>设成成人限定，其他用户却看不到</summary>
 
-成人限定的作品，只会显示给完成成人验证的用户。也请确认自己的账号是否已通过验证。（[年龄确认与手机号码验证](/account/adult-verification)）
+成人限定的作品，只会显示给完成年龄确认的用户。也请确认自己的账号是否已完成年龄确认。（[年龄确认](/account/adult-verification)）
 
 </details>
 

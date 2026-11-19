@@ -3,8 +3,8 @@ sidebar_position: 1
 # 폴더와 이름이 같은 문서는 주소 끝에 / 가 붙는데, 웹(Next)은 끝 / 를 308 로 떼어 내 표준 주소·언어 연결이 리다이렉트를 가리켰다(2026-10-24).
 slug: /faq
 last_update:
-  date: 2026-11-11
-description: What to check and how to fix problems with logging in, verification, Sparks, payments, chatting, creating works, or being a creator, and how to contact us.
+  date: 2026-11-19
+description: What to check and how to fix problems with logging in, age confirmation, Sparks, payments, chatting, creating works, or being a creator, and how to contact us.
 ---
 
 # Frequently asked questions (FAQ)
@@ -48,16 +48,15 @@ The language MYMI is shown in when you sign up sets your account's country, and 
 
 </details>
 
-## Verification and adult works
+## Age confirmation and adult works
 
 <details>
 
-<summary>Where do I verify my phone number or confirm my age?</summary>
+<summary>Where do I confirm my age?</summary>
 
-- **Phone verification**: Select **Check-in and get Sparks** in **Profile → Attendance Check**. If you haven't verified yet, the **Phone Verification** window opens.
-- **Age confirmation**: When you turn off the Safety Filter on Home, or turn on **Show Sensitive Content** in **Profile → Settings & Support**, the **Age Confirmation** window opens.
+When you turn off the Safety Filter on Home, or turn on **Show Sensitive Content** in **Profile → Settings & Support**, the **Age Confirmation** window opens.
 
-They are two separate checks. The steps are in [Age confirmation and phone verification](/account/adult-verification.md).
+The steps are in [Age confirmation](/account/adult-verification.md).
 
 </details>
 
@@ -71,23 +70,6 @@ They are two separate checks. The steps are in [Age confirmation and phone verif
 
 </details>
 
-<details>
-
-<summary>It says "This number is already linked to another account." or "A recently unlinked number can be registered again after 30 days."</summary>
-
-- **If the number is already linked to another account**: A phone number can be linked to only one account. You probably verified it before on an account made with another social account. Log in with that account.
-- **If the number was recently unlinked**: The number was on an account that was deleted or otherwise unlinked recently. You can register it again 30 days later.
-
-</details>
-
-<details>
-
-<summary>I can't verify my phone number</summary>
-
-Only mobile numbers from the United States, Japan, and Taiwan can be used. Check that the country selected in the **Phone Verification** window matches your number. If it doesn't, you see "Please enter a valid phone number." Numbers from other countries, including Canada, can't be used.
-
-</details>
-
 ## Sparks and payments
 
 <details>
@@ -96,7 +78,7 @@ Only mobile numbers from the United States, Japan, and Taiwan can be used. Check
 
 1. Select ⋮ at the top right of the chat room. Your remaining Sparks are at the top of the menu.
 2. If you set **Response Length** above the default, that amount is deducted first when you send. If your remaining Sparks are fewer than that, you can type but the message won't send. Lower **Response Length** in the ⋮ menu and you can send.
-3. If you're short on Sparks, buy some or get free ones. See [Buying Sparks](/payment/payment-methods.md).
+3. If you're short on Sparks, buy more. See [Buying Sparks](/payment/payment-methods.md).
 
 </details>
 
@@ -124,36 +106,9 @@ If you paid on the website, ask MYMI. If you paid in the app, ask the App Store 
 
 <details>
 
-<summary>Attendance Check doesn't work</summary>
-
-- Only accounts that have completed phone verification can get the reward. When you select **Check-in and get Sparks**, a verification window opens.
-- You can get it once a day. The day changes at midnight in your device's time zone; on a new account it starts close to midnight in Korea and moves one hour later with each check-in. If you see "Already checked in today.", you can get the next one after the day changes.
-- If you skip a day, your streak starts again from day 1.
-
-The reward for each day is in [Buying Sparks](/payment/payment-methods.md#attendance-check).
-
-</details>
-
-<details>
-
-<summary>My Invite Friends reward didn't arrive</summary>
-
-The reward is given when your friend makes their first paid purchase, not when they enter the code.
-
-1. Your friend has to complete phone verification **within 7 days** of signing up, then register the referral code in **Profile → Invite Friends**. If they signed up through your invite link, the code is registered automatically once they finish phone verification within 7 days.
-2. If your friend makes their first paid purchase **within 30 days** of the day they register the code, you both get **1,500 Sparks**.
-3. A purchase made before the code was registered doesn't count as the first purchase.
-
-The full conditions are in [Buying Sparks](/payment/payment-methods.md#invite-friends).
-
-</details>
-
-<details>
-
 <summary>I can't buy the First Buy package</summary>
 
-- The First Buy package ($2.19 on the website) needs no verification, on the website or in the app.
-- You can buy it only once per account, across the website and the app combined. If you see "This promotion has already been used.", you already bought it.
+You can buy the First Buy package ($2.19 on the website) only once per account, across the website and the app combined. If you see "This promotion has already been used.", you already bought it.
 
 </details>
 
@@ -161,7 +116,7 @@ The full conditions are in [Buying Sparks](/payment/payment-methods.md#invite-fr
 
 <summary>My Sparks went down</summary>
 
-- Each kind of Spark lasts a different time. Sparks from Attendance Check and events expire after 14 days, Invite Friends rewards after 30 days, and purchased Sparks after 365 days.
+- How long Sparks last depends on how you got them. Sparks from events expire after the period in the announcement (14 days if none is given), and purchased Sparks expire after 1 year.
 - In the **Usage** tab of **Profile → My Spark → View Usage History**, you can see the Sparks you spent in chats and the Sparks that expired.
 
 The periods are listed in [When do Sparks expire?](/payment/payment-methods.md#when-do-sparks-expire).
@@ -297,13 +252,9 @@ A work opened from **Profile → Content Management** is locked to the mode it w
 
 <summary>It says "Identity verification is required to generate AI images."</summary>
 
-You can't start verification on the creation screen.
+This message can appear in older versions of the app. Update to the latest version and try again. You can also generate the image on the website, where each image costs Sparks.
 
-1. Save what you've written. In Simple mode, select the next button. In Expert mode, select **Save draft** at the top right.
-2. Select **Check-in and get Sparks** in **Profile → Attendance Check** and complete phone verification.
-3. Open the work again from **Profile → Content Management** and generate the image.
-
-Image generation in the creation screen is free.
+You can still upload images you already have.
 
 </details>
 
@@ -345,7 +296,7 @@ You can apply when other users have had **5,000** or more chats in your works an
 
 <summary>My Leaves aren't adding up</summary>
 
-Leaves are added after you become a creator, when other users chat in your approved, public works with paid Sparks. Chats with free Sparks from Attendance Check or events don't add Leaves. Depending on your work's settings, the rate differs, and some works earn none. The rates are in [Becoming a creator and Leaves](/creator-support/support.md#earn-leaves).
+Leaves are added after you become a creator, when other users chat in your approved, public works with paid Sparks. Chats with free Sparks from events don't add Leaves. Depending on your work's settings, the rate differs, and some works earn none. The rates are in [Becoming a creator and Leaves](/creator-support/support.md#earn-leaves).
 
 </details>
 

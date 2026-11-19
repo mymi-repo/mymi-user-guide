@@ -5,7 +5,7 @@ description: Simple mode's character and count limits, required items for each s
 slug: /create/simple/reference
 sidebar_position: 7
 last_update:
-  date: 2026-11-17
+  date: 2026-11-19
 ---
 
 # Fields and limits
@@ -87,11 +87,11 @@ In the intro's preview they aren't replaced and show as they are. `{{char}}` put
 | Assets | Uploading and deleting images, **saving** a situation description, and changing the ★ profile image reach the work right away |
 | A published work | The moment it's saved, other users see the change too |
 
-## Free and verified
+## Image costs and age confirmation
 
-- Generating and regenerating images in work creation is free. To generate, you need phone verification.
-- Adults only works can be used only by users who have completed adult verification.
-- Only accounts that have completed adult verification can turn off the Safety Filter at the tag steps of image generation.
+- In the app, you get a set number of free AI images each week; after that, each image costs Sparks. On the website, every image costs Sparks.
+- Adults only works can be used only by users who have completed age confirmation.
+- Only accounts that have completed age confirmation can turn off the Safety Filter at the tag steps of image generation.
 
 ## If you get stuck
 

@@ -39,7 +39,7 @@ The button is called **Deactivate Account**, but it permanently deletes your acc
 | Works you made | Deleted |
 | Comments you wrote | Stay as they are |
 | The same social account | Can't be used to sign up again for 30 days |
-| Your verified phone number | Can't be used on another account for 30 days |
+| A phone number you verified earlier | Can't be used on another account for 30 days |
 
 If you sign up again after 30 days, you start with a new account. Records needed for payments or disputes may be kept for a set period. What is kept and for how long is in the [Privacy Policy](https://www.mymi.live/en/legal/privacy-policy).
 
@@ -76,7 +76,7 @@ A deleted account can't be restored. After 30 days, you can sign up again with t
 <details>
 <summary>It says "Rejoin Restricted" and "You cannot rejoin within 30 days of account deletion."</summary>
 
-It's been less than 30 days since you deleted your account. Sign up again after 30 days. You can sign up with a different social account now, but the phone number you verified can't be used again until 30 days after the deletion.
+It's been less than 30 days since you deleted your account. Sign up again after 30 days. You can sign up with a different social account now. If you verified a phone number on the deleted account, that number can't be used again until 30 days after the deletion.
 
 </details>
 
@@ -94,5 +94,5 @@ For other problems, reach us in the support channel on Discord from **Profile â†
 <CardGrid>
 <Card to="/payment/refund" icon="card" title="Cancellations and refunds">Check whether you have a payment to get refunded before you delete your account.</Card>
 <Card to="/account/login-profile" icon="persona" title="Login and profile settings">Log out instead, or change your info.</Card>
-<Card to="/faq" icon="help" title="Frequently asked questions (FAQ)">Find fixes for sign-in, verification, and Spark problems.</Card>
+<Card to="/faq" icon="help" title="Frequently asked questions (FAQ)">Find fixes for sign-in, age confirmation, and Spark problems.</Card>
 </CardGrid>

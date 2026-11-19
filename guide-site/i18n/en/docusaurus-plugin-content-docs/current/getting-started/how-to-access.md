@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-11-04
+  date: 2026-11-19
 seo_title: Access MYMI - Use the website or the app
 description: How to open the MYMI website and the Android and iPhone apps, try MYMI without logging in, and fix links that won't open or sign-ins that get blocked.
 ---
@@ -44,7 +44,7 @@ The app has no X sign-in, and the Android app has no Apple sign-in. In those cas
 | **Home** | Find works |
 | **Chat** | Open a work you've been chatting with and continue |
 | **Create** | Create your own work |
-| **Profile** | Log in, check your info and Sparks, Attendance Check, Content Management |
+| **Profile** | Log in, check your info and Sparks, and open Content Management |
 
 ## If you get stuck
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-10-03
+  date: 2026-11-19
 seo_title: Cancellations and refunds - Website or app
 description: Where to ask for a refund for website and app purchases, when refunds are possible, how to ask, and what to do if you paid but your Sparks did not arrive.
 ---
@@ -32,7 +32,7 @@ Sparks are added to your account right after you pay and can be used right away,
 - You were charged twice, or someone made the purchase without your permission
 - A refund is required by law or by PayPal's rules
 
-Whether we refund, and how and when, depends on our review and PayPal's rules. If you've already used some of the Sparks from the purchase, the refund may cover only the unused part. Free Sparks from Attendance Check, events, and Invite Friends can't be refunded.
+Whether we refund, and how and when, depends on our review and PayPal's rules. If you've already used some of the Sparks from the purchase, the refund may cover only the unused part. Free Sparks from events can't be refunded.
 
 If the law where you live gives you a right to cancel or get a refund, this guide doesn't take that right away.
 
@@ -104,7 +104,7 @@ When you delete your account, your remaining Sparks disappear, so ask before you
 ## Next steps
 
 <CardGrid>
-<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">See the packages and how to get free Sparks.</Card>
+<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">See the packages and how to buy Sparks.</Card>
 <Card to="/account/delete-account" icon="persona" title="Account deletion">Learn what to check before you delete your account.</Card>
 <Card to="/faq" icon="help" title="Frequently asked questions">Find more fixes for Spark and payment problems.</Card>
 </CardGrid>

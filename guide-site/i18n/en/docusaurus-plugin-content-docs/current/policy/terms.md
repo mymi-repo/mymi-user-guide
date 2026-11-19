@@ -104,5 +104,5 @@ Select the shield icon at the top right of the work's detail screen to open the 
 <CardGrid>
 <Card to="/faq" icon="help" title="Frequently asked questions (FAQ)">Find fixes for when you're stuck.</Card>
 <Card to="/create/publish" icon="send" title="Publish and edit">Learn about review and what to do if your work is rejected.</Card>
-<Card to="/account/adult-verification" icon="shield" title="Age confirmation and phone verification">Confirm your age to see adult works.</Card>
+<Card to="/account/adult-verification" icon="shield" title="Age confirmation">Confirm your age to see adult works.</Card>
 </CardGrid>

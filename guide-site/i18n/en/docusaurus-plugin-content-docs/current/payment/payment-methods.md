@@ -1,16 +1,16 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-11-11
-seo_title: Buying Sparks - Website, app, free Sparks
-description: How to buy Sparks on the website and in the app, get free Sparks from Attendance Check and Invite Friends, when Sparks expire, and how to check your history.
+  date: 2026-11-19
+seo_title: Buying Sparks - Website and app
+description: How to buy Sparks on the website and in the app, when Sparks expire, and how to check your history.
 ---
 
 # Buying Sparks
 
 **Sparks** are what you spend to get AI replies on MYMI. Each time you get a reply, the price of the AI model you chose is deducted. You can see each model's price in the [AI model guide](/chatting/ai-models.md).
 
-If you run low, you can buy more, or get free Sparks from Attendance Check and Invite Friends.
+If you run low, buy more on the website or in the app.
 
 ## Open the purchase screen
 
@@ -34,7 +34,7 @@ Website packages as of November 11, 2026:
 
 | Price | Sparks | Notes |
 | ---: | ---: | --- |
-| $2.19 | 5,000 | The one-time **First Buy** package. Each account can buy it once, across the website and the app combined. No verification is needed |
+| $2.19 | 5,000 | The one-time **First Buy** package. Each account can buy it once, across the website and the app combined |
 | $4.09 | 5,000 | |
 | $8.09 | 10,000 | |
 | $24.49 | 31,500 | Includes a 1,500 bonus |
@@ -53,34 +53,9 @@ In the app, you pay through the **App Store** on iPhone or **Google Play** on An
 
 App prices are set by each store and shown in your local currency, so they may differ from the website's. Check the amount on the purchase screen and in the store's payment sheet before you pay.
 
-The app also has a one-time **First Buy** package of 5,000 Sparks. It doesn't need verification either. Each account can buy it once across the website and the app combined, so if you've already bought the $2.19 package on the website, you can't buy it in the app.
+The app also has a one-time **First Buy** package of 5,000 Sparks. Each account can buy it once across the website and the app combined, so if you've already bought the $2.19 package on the website, you can't buy it in the app.
 
-## Get free Sparks
-
-### Attendance Check
-
-Select **Check-in and get Sparks** in **Profile → Attendance Check** to get Sparks once a day. Only accounts that have completed phone verification can receive them. If you haven't verified yet, a verification window opens when you select the button.
-
-| Streak | Sparks |
-| --- | --- |
-| Days 1–9 | Starts at 200 and goes up by 20 each day (200, 220, 240, 260, 280, 300, 320, 340, 360) |
-| Day 10 | 400 |
-
-- A full 10-day streak earns 2,920 Sparks, and the next day starts again from day 1.
-- If you skip a day, your streak starts again from day 1.
-- The day changes at midnight in your device's time zone. On a new account it starts close to midnight in Korea and moves one hour later each time you check in, until it reaches your midnight.
-
-### Invite Friends
-
-1. On **Profile → Invite Friends**, copy **My referral code** and send it to your friend, or select **Share with friends** to send an invite link.
-2. Your friend signs up and completes phone verification **within 7 days**. Then they enter the code under **Enter referral code** in their own **Profile → Invite Friends** and select **Register referral code**. If they signed up through your invite link, the code is registered automatically when they finish phone verification.
-3. If your friend makes their first paid purchase **within 30 days** of the day they register the code, you and your friend each get **1,500 Sparks**.
-
-:::info[It has to be your friend's first purchase on MYMI]
-The reward is given only for your friend's first paid purchase. If your friend has ever bought Sparks on the website or in the app, neither of you gets the reward. You can't register your own code.
-:::
-
-### Events
+## Sparks from events and contests
 
 You may also get Sparks from events or contests. Check each event's announcement for its conditions and how long the Sparks last.
 
@@ -91,8 +66,6 @@ How long you can use Sparks depends on how you got them. Expired Sparks disappea
 | How you got them | How long they last |
 | --- | --- |
 | Purchase, Leaf conversion | 1 year from the day you got them |
-| Attendance Check | 14 days from the day you got them |
-| Invite Friends reward | 30 days from the day you got them |
 | Events | The period in the announcement (14 days if none is given) |
 | Contest rewards | 180 days from the day you got them |
 
@@ -103,7 +76,7 @@ Select **Profile → My Spark** to see **Paid Spark** and **Free Spark** separat
 Select **Profile → My Spark → View Usage History** to open **Spark Usage History**.
 
 - **Usage** tab: Sparks you spent in chats, and Sparks that expired
-- **Recharge** tab: Sparks you got from purchases, Attendance Check, Invite Friends, and Leaf conversion. Sparks returned because a reply couldn't be made also show up here
+- **Recharge** tab: Sparks you got from purchases, events, and Leaf conversion. Sparks returned because a reply couldn't be made also show up here
 
 ## If you get stuck
 
@@ -150,22 +123,6 @@ In the app, you pay the price set by the store, so it differs from the website. 
 </details>
 
 <details>
-<summary>I can't get my Attendance Check reward</summary>
-
-- Only accounts that have completed phone verification can receive it. When you select **Check-in and get Sparks**, a verification window opens.
-- If you see "Already checked in today.", you already got today's reward. You can get the next one after the day changes.
-
-</details>
-
-<details>
-<summary>My Invite Friends reward didn't arrive</summary>
-
-- Check that your friend completed phone verification and registered the code within 7 days of signing up. If you see "The referral code entry window has expired.", the 7 days have passed.
-- Your friend's first paid purchase has to come within 30 days of registering the code. If your friend bought Sparks before registering the code, the reward isn't given.
-
-</details>
-
-<details>
 <summary>My Sparks went down</summary>
 
 Expired Sparks disappear automatically. In the **Usage** tab of **Spark Usage History**, you can see the Sparks you spent in chats and the Sparks that expired. See [When do Sparks expire?](#when-do-sparks-expire) for how long each kind lasts.
@@ -179,5 +136,5 @@ For payment questions, email [contact@mymi.live](mailto:contact@mymi.live). Plea
 <CardGrid>
 <Card to="/payment/refund" icon="card" title="Cancellations and refunds">Learn how refunds work for website and app purchases.</Card>
 <Card to="/chatting/ai-models" icon="model" title="AI model guide">See how many Sparks each model uses.</Card>
-<Card to="/account/adult-verification" icon="shield" title="Age confirmation and phone verification">Verify your phone for daily Sparks, and confirm your age to see adult works.</Card>
+<Card to="/account/adult-verification" icon="shield" title="Age confirmation">Confirm your age to see adult works.</Card>
 </CardGrid>

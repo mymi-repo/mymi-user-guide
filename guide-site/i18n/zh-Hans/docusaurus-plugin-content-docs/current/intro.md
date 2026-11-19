@@ -26,7 +26,7 @@ MYMI 是**和作品中的角色聊天、参与故事，也能创作自己作品�
 <Card to="/getting-started/what-is-mymi" icon="compass" title="什么是 MYMI？">了解你能在作品中做什么。</Card>
 <Card to="/getting-started/how-to-access" icon="device" title="如何使用 MYMI">打开网页版，或安装 Android、iPhone App。</Card>
 <Card to="/account/sign-up" icon="userPlus" title="注册">用社区账号注册，并设置名称、ID 与昵称。</Card>
-<Card to="/account/adult-verification" icon="shield" title="年龄确认与手机号码验证">每天领取 Spark 需要手机号码验证，观看成人作品需要年龄确认。</Card>
+<Card to="/account/adult-verification" icon="shield" title="年龄确认">观看成人作品需要年龄确认。</Card>
 <Card to="/chatting/chat-with-character" icon="chat" title="聊天">挑选喜欢的作品，开始第一次聊天。</Card>
 </CardGrid>
 
@@ -53,8 +53,8 @@ MYMI 是**和作品中的角色聊天、参与故事，也能创作自己作品�
 ## 遇到问题或有疑问吗？
 
 <CardGrid>
-<Card to="/faq" icon="help" title="常见问题（FAQ）">登录、验证、Spark、聊天、作品制作遇到问题时，在这里找解决方法。</Card>
-<Card to="/payment/payment-methods" icon="card" title="充值 Spark">确认 Spark 的充值方式、方案与免费获得的方法。</Card>
+<Card to="/faq" icon="help" title="常见问题（FAQ）">登录、年龄确认、Spark、聊天、作品制作遇到问题时，在这里找解决方法。</Card>
+<Card to="/payment/payment-methods" icon="card" title="充值 Spark">确认 Spark 的充值方式、方案与有效期限。</Card>
 <Card to="/policy/terms" icon="list" title="服务条款与政策">确认服务条款与营运政策。</Card>
 <Card href="mailto:contact@mymi.live" icon="mail" title="联系我们" description="请通过 Discord（个人资料 → Discord）或电子邮件（contact@mymi.live）告诉我们。" />
 </CardGrid>

@@ -26,7 +26,7 @@ If you're new, start with accessing MYMI and signing up. If you already use it, 
 <Card to="/getting-started/what-is-mymi" icon="compass" title="What is MYMI?">See what you can do inside a work.</Card>
 <Card to="/getting-started/how-to-access" icon="device" title="Access MYMI">Open the website or install the Android or iPhone app.</Card>
 <Card to="/account/sign-up" icon="userPlus" title="Sign up">Sign up with a social account and choose your name, ID, and nickname.</Card>
-<Card to="/account/adult-verification" icon="shield" title="Age confirmation and phone verification">Verify your phone for daily Sparks, and confirm your age to see adult works.</Card>
+<Card to="/account/adult-verification" icon="shield" title="Age confirmation">Confirm your age to see adult works.</Card>
 <Card to="/chatting/chat-with-character" icon="chat" title="Chatting">Choose a work you like and start your first chat.</Card>
 </CardGrid>
 
@@ -53,8 +53,8 @@ The **creation guide** walks you through the creation screen by building one exa
 ## Stuck or have a question?
 
 <CardGrid>
-<Card to="/faq" icon="help" title="Frequently asked questions (FAQ)">Find fixes for sign-in, verification, Sparks, chats, and creating works.</Card>
-<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">See how to buy Sparks, the packages, and ways to get them for free.</Card>
+<Card to="/faq" icon="help" title="Frequently asked questions (FAQ)">Find fixes for sign-in, age confirmation, Sparks, chats, and creating works.</Card>
+<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">See how to buy Sparks, the packages, and when Sparks expire.</Card>
 <Card to="/policy/terms" icon="list" title="Terms and policies">Read the terms of service and operating policies.</Card>
 <Card href="mailto:contact@mymi.live" icon="mail" title="Contact us" description="Reach us on Discord (Profile → Discord) or at contact@mymi.live." />
 </CardGrid>

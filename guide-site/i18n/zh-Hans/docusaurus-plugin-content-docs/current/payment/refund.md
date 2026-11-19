@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2026-11-08
+  date: 2026-11-19
 seo_title: 取消与退款 - 网页版与 App 的退款申请
 description: 说明网页版与 App 的购买要向哪里申请退款、什么情况下可以退款、怎么申请，以及付款后没收到 Spark 时该怎么做。也回答用掉部分 Spark 后能否退款、删除账号前如何退款。
 ---
@@ -32,7 +32,7 @@ Spark 在付款后会立即入帐，而且马上就能使用，所以**购买完
 - 被重复扣款，或有人未经你同意就购买
 - 依法令或 PayPal 的规则需要退款
 
-是否退款，以及退款的方式和时间，会依付款纪录、使用纪录、错误纪录、PayPal 的规则和适用法令来判断。如果那笔购买的 Spark 已经用了一部分，可能只有没用到的部分能退。用签到、活动或邀请朋友免费获得的 Spark 不能退款。
+是否退款，以及退款的方式和时间，会依付款纪录、使用纪录、错误纪录、PayPal 的规则和适用法令来判断。如果那笔购买的 Spark 已经用了一部分，可能只有没用到的部分能退。通过活动获得的 Spark 不能退款。
 
 退款会依适用法律、PayPal 及商店规则处理。你依法享有的权利不会因为本指南而受到限制。
 
@@ -97,7 +97,7 @@ App 内付款的退款，MYMI 无法处理。请在 App Store 或 Google Play �
 ## 下一步
 
 <CardGrid>
-<Card to="/payment/payment-methods" icon="card" title="充值 Spark">了解套餐，以及免费获得 Spark 的方法。</Card>
+<Card to="/payment/payment-methods" icon="card" title="充值 Spark">了解套餐与充值方式。</Card>
 <Card to="/account/delete-account" icon="persona" title="删除账号">了解删除账号前要确认的事。</Card>
 <Card to="/faq" icon="help" title="常见问题">找找看 Spark 与付款问题的其他解决方法。</Card>
 </CardGrid>

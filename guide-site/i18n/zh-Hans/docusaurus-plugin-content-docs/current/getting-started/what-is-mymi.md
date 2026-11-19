@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-11-08
+  date: 2026-11-19
 seo_title: 什么是 MYMI？ - 用作品聊天与创作自己的作品
 description: 说明在 MYMI 能做什么、作品・角色・人设・开场白的意思，以及如何开始第一次聊天和第一个作品。也回答看不到成人作品、点击创建后要求登录时该怎么办，以及有没有 App。
 ---
@@ -33,7 +33,7 @@ MYMI 是**和 AI 扮演的作品角色聊天，一起推进故事的服务**。�
 同一段对话可以切换成**小说**、**聊天**、**1:1**、**故事** 四种画面阅读。详细方法请见[聊天](/chatting/chat-with-character.md)。
 
 :::info[聊天会使用 Spark]
-每收到一次 AI 回复，就会依所选 AI 模型的价格扣除 Spark。未登录时，最多可以试聊 5 次。Spark 需要充值取得。充值方法和**签到**等其他可领取的奖励，请看[充值 Spark](/payment/payment-methods.md)。
+每收到一次 AI 回复，就会依所选 AI 模型的价格扣除 Spark。未登录时，最多可以试聊 5 次。Spark 需要充值取得。充值方法请看[充值 Spark](/payment/payment-methods.md)。
 :::
 
 ## 创作自己的作品
@@ -47,7 +47,7 @@ MYMI 是**和 AI 扮演的作品角色聊天，一起推进故事的服务**。�
 <details>
 <summary>看不到成人作品</summary>
 
-首页的安全筛选打开时，清单中不会出现成人作品。请登录并完成年龄确认（年满 18 岁）后，再关闭安全筛选。只完成手机号码验证是不够的。方法请见[年龄确认与手机号码验证](/account/adult-verification.md)。
+首页的安全筛选打开时，清单中不会出现成人作品。请登录并完成年龄确认（年满 18 岁）后，再关闭安全筛选。方法请见[年龄确认](/account/adult-verification.md)。
 
 </details>
 

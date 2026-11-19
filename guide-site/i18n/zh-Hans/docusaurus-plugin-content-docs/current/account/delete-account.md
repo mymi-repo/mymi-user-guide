@@ -39,7 +39,7 @@ description: 说明如何删除 MYMI 账号、删除前要做的事、删除后 
 | 制作的作品 | 会被删除 |
 | 写过的留言 | 会照原样保留 |
 | 同一个社区账号 | 30 天内无法重新注册 |
-| 验证过的手机号码 | 30 天内无法在其他账号使用 |
+| 以前验证过的手机号码（如果有） | 30 天内无法在其他账号使用 |
 
 30 天后重新注册，会以新账号开始。处理付款或争议所需的纪录，可能会保存一段规定的期间。保存哪些数据、保存多久，请见[隐私权政策](https://www.mymi.live/zh-Hans/legal/privacy-policy)。
 
@@ -76,7 +76,7 @@ description: 说明如何删除 MYMI 账号、删除前要做的事、删除后 
 <details>
 <summary>显示「重新加入受限」与「删除账号后 30 天内无法重新加入。」</summary>
 
-删除账号后还不到 30 天。请在 30 天后再重新注册。现在也可以改用其他社区账号注册，但验证过的手机号码要等删除后满 30 天才能再次使用。
+删除账号后还不到 30 天。请在 30 天后再重新注册。现在也可以改用其他社区账号注册。如果以前在已删除的账号中验证过手机号码，该号码要等删除后满 30 天才能用于其他账号。
 
 </details>
 
@@ -94,5 +94,5 @@ description: 说明如何删除 MYMI 账号、删除前要做的事、删除后 
 <CardGrid>
 <Card to="/payment/refund" icon="card" title="取消与退款">删除账号前，确认是否有要退款的付款。</Card>
 <Card to="/account/login-profile" icon="persona" title="登录与个人资料设置">改用注销，或修改个人信息。</Card>
-<Card to="/faq" icon="help" title="常见问题（FAQ）">寻找登录、验证、Spark 问题的解决方法。</Card>
+<Card to="/faq" icon="help" title="常见问题（FAQ）">寻找登录、年龄确认、Spark 问题的解决方法。</Card>
 </CardGrid>

@@ -5,7 +5,7 @@ description: Learn what Expert mode's seven tabs do, where you write the setting
 slug: /create/expert/overview
 sidebar_position: 1
 last_update:
-  date: 2026-10-04
+  date: 2026-11-19
 ---
 
 # Learn about Expert mode
@@ -80,13 +80,9 @@ The Expert mode guide follows the example work **Underground Seoul**. It uses th
 <details>
 <summary>I try to make an image and it says "Identity verification is required to generate AI images."</summary>
 
-Image generation in the creation screen is free, but only accounts that have completed phone verification can use it. You can't start verification on the creation screen, so do this:
+This message can appear in older versions of the app. Update to the latest version and try again. You can also generate the image on the website, where each image costs Sparks.
 
-1. Select **Save draft** at the top right (**Apply changes** for a work you've already published) to save your work.
-2. Select **Check-in and get Sparks** in **Profile → Attendance Check** and complete phone verification.
-3. Open the work again from **Profile → Content Management** and generate the image.
-
-You don't need verification just to upload images you already have. For how to verify, see [Age confirmation and phone verification](/account/adult-verification).
+You can still upload images you already have.
 
 </details>
 

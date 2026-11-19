@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 last_update:
-  date: 2026-11-04
+  date: 2026-11-19
 seo_title: Can I chat with AI without logging in?
 description: How many times you can chat with AI characters on MYMI without logging in, which replies count, what changes when you log in, and how to keep your trial chats.
 ---
@@ -10,7 +10,7 @@ description: How many times you can chat with AI characters on MYMI without logg
 
 Yes. On MYMI, you can chat with AI characters up to 5 times without signing up.
 
-Open a work and select **Start chatting**, and a chat room opens right away without a login screen. The only works that need you to log in are adult works. This page reflects MYMI as of November 4, 2026.
+Open a work and select **Start chatting**, and a chat room opens right away without a login screen. The only works that need you to log in are adult works. This page reflects MYMI as of November 19, 2026.
 
 ## How the 5 trial chats are counted
 
@@ -32,7 +32,7 @@ If the trial was used on the same internet connection (the same Wi-Fi, for examp
 | Creating works | You only see a login prompt | Create them from **Create** at the bottom |
 | Your trial chat | When the 5 are used up, the message box locks and you're asked to sign up or log in | Moves to your new account if you sign up in the browser or app where you tried it |
 
-You can buy Sparks, or get them once a day from Attendance Check after phone verification. See [Buying Sparks](/payment/payment-methods.md). To get a new reply or edit one in a chat room, see [Chatting](/chatting/chat-with-character.md).
+To buy Sparks, see [Buying Sparks](/payment/payment-methods.md). To get a new reply or edit one in a chat room, see [Chatting](/chatting/chat-with-character.md).
 
 ## If you get stuck
 
@@ -40,7 +40,7 @@ You can buy Sparks, or get them once a day from Attendance Check after phone ver
 
 <summary>What happens when I've used all 5?</summary>
 
-The message box is locked, and a notice that the trial has ended appears at the top of the chat room. Once the last reply has finished, a login window opens too. If you closed it, select **Log in** on the notice to open it again. After you sign up or log in, you keep chatting with Sparks. A new account starts with no Sparks, so buy some or get them from Attendance Check after phone verification first.
+The message box is locked, and a notice that the trial has ended appears at the top of the chat room. Once the last reply has finished, a login window opens too. If you closed it, select **Log in** on the notice to open it again. After you sign up or log in, you keep chatting with Sparks. A new account starts with no Sparks, so buy some first.
 
 </details>
 
@@ -73,6 +73,6 @@ Yes, if you select a login button in the browser or app where you tried MYMI and
 <CardGrid>
 <Card to="/account/sign-up" icon="userPlus" title="Sign up">See how to sign up with a social account.</Card>
 <Card to="/chatting/chat-with-character" icon="chat" title="Chatting">Start a chat and fix replies you don't like.</Card>
-<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">Buy or get the Sparks you use after logging in.</Card>
+<Card to="/payment/payment-methods" icon="card" title="Buying Sparks">Buy the Sparks you use after logging in.</Card>
 <Card to="/faq" icon="help" title="Frequently asked questions (FAQ)">Find fixes when you're stuck.</Card>
 </CardGrid>

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-11-04
+  date: 2026-11-19
 seo_title: Sign up - Google, X, or Apple sign-in
 description: How to sign up for MYMI with Google, X, or Apple, choose your name, ID, and nickname, follow the ID rules, agree to the terms, and fix sign-up problems.
 ---
@@ -11,7 +11,7 @@ description: How to sign up for MYMI with Google, X, or Apple, choose your name,
 Log in with Google, X, or Apple, then choose your name, ID, and nickname to finish signing up. You must be 18 or older to use MYMI's English service.
 
 :::warning[Make sure MYMI is in English before you sign up]
-The language MYMI is shown in when you sign up sets your account's country. It decides how you verify your phone and age and how you pay, and it can't be changed after you sign up.
+The language MYMI is shown in when you sign up sets your account's country. It decides how you confirm your age and how you pay, and it can't be changed after you sign up.
 
 - On the website, open [www.mymi.live/en](https://www.mymi.live/en).
 - The app uses your phone's language when you first open it. If it isn't in English, select the language link below the login buttons (언어 설정, 言語設定, 語言設定), choose **English**, and confirm before you sign up.
@@ -78,7 +78,7 @@ The result appears on the right of the field as you type your ID. If you see **A
 
 The button at the bottom of the screen stays a gray arrow until everything is filled in. Fill in the four fields, make sure your ID shows **Available**, and check the three required items. The button then changes to **Complete Sign Up**. Select it to finish and go to Home. If you signed up from the login window in a chat room, you go back to that chat room instead.
 
-You need Sparks to chat. After you verify your phone number, you can get them free every day from **Profile → Attendance Check**. See [Age confirmation and phone verification](/account/adult-verification.md) and [Buying Sparks](/payment/payment-methods.md#attendance-check).
+You need Sparks to chat. To buy some, see [Buying Sparks](/payment/payment-methods.md).
 
 ## If you get stuck
 
@@ -117,7 +117,7 @@ Check your internet connection, then select **Check** on the right of the User I
 <details>
 <summary>It says "Rejoin Restricted" and "You cannot rejoin within 30 days of account deletion."</summary>
 
-It's been less than 30 days since you deleted the MYMI account made with this social account. After 30 days, you can sign up again with the same social account, and you'll start with a new account. You can sign up with a different social account now, but the phone number verified on the deleted account can't be used again until 30 days after the deletion.
+It's been less than 30 days since you deleted the MYMI account made with this social account. After 30 days, you can sign up again with the same social account, and you'll start with a new account. You can sign up with a different social account now. If you verified a phone number on the deleted account, that number can't be used again until 30 days after the deletion.
 
 </details>
 
@@ -147,7 +147,7 @@ If that doesn't solve it, reach us in the support channel on Discord from **Prof
 ## Next steps
 
 <CardGrid>
-<Card to="/account/adult-verification" icon="shield" title="Age confirmation and phone verification">Verify your phone for daily Sparks, and confirm your age to see adult works.</Card>
+<Card to="/account/adult-verification" icon="shield" title="Age confirmation">Confirm your age to see adult works.</Card>
 <Card to="/chatting/chat-with-character" icon="chat" title="Chatting">Choose a work and start your first chat.</Card>
 <Card to="/account/persona" icon="persona" title="Persona settings">Create more names and roles to use in works.</Card>
 </CardGrid>
