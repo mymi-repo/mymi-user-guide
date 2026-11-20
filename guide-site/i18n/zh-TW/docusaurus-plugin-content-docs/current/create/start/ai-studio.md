@@ -69,7 +69,7 @@ last_update:
 
 無法複製時，點選正下方的**自行選取複製**。在手機上，點選畫面最下方的 **Preview** 就能看到結果。
 
-<Screenshot src="/img/screens/zh-TW/ai-studio-copy-code.webp" device="part" alt="「依我的要求做出的結果」的標示與「複製 MYMI 程式碼」按鈕。複製按鈕有黃色外框" caption="結果與複製程式碼按鈕" />
+<Screenshot src="/img/screens/zh-TW/ai-studio-copy-code.webp" device="part" width="100%" alt="「依我的要求做出的結果」的標示與「複製 MYMI 程式碼」按鈕。複製按鈕有黃色外框" caption="結果與複製程式碼按鈕" />
 
 ## 7. 也複製寫著何時顯示的句子
 

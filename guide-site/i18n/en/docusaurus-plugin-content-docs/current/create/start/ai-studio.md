@@ -68,7 +68,7 @@ When you see 'Made from your request' on the right, it's done. Check the look in
 
 If copying doesn't work, select **Select and copy** just below it. On a phone, select **Preview** at the bottom of the screen to see the result.
 
-<Screenshot src="/img/screens/en/ai-studio-copy-code.webp" device="part" alt="The 'Made from your request' label and the Copy code for MYMI button, with a yellow outline on the copy button" caption="The result and the copy code button" />
+<Screenshot src="/img/screens/en/ai-studio-copy-code.webp" device="part" width="100%" alt="The 'Made from your request' label and the Copy code for MYMI button, with a yellow outline on the copy button" caption="The result and the copy code button" />
 
 ## 7. Also copy the sentence that says when to show it
 

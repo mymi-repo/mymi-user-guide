@@ -68,7 +68,7 @@ Google 계정의 무료 요청 한도 안에서 쓸 수 있어요. 결제나 API
 
 복사가 안 되면 바로 아래 **직접 선택해서 복사**를 눌러요. 휴대폰에서는 화면 맨 아래 **Preview**를 누르면 결과가 보여요.
 
-<Screenshot src="/img/screens/ko/ai-studio-copy-code.webp" device="part" alt="내 요청으로 만든 결과 표시와 MYMI에 붙여넣을 코드 복사 버튼. 복사 버튼에 노란 테두리가 있다" caption="결과와 코드 복사 버튼" />
+<Screenshot src="/img/screens/ko/ai-studio-copy-code.webp" device="part" width="100%" alt="내 요청으로 만든 결과 표시와 MYMI에 붙여넣을 코드 복사 버튼. 복사 버튼에 노란 테두리가 있다" caption="결과와 코드 복사 버튼" />
 
 ## 7. 언제 보여 줄지 적힌 문장도 복사해요
 

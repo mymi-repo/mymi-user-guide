@@ -68,7 +68,7 @@ Googleアカウントの無料リクエストの上限内で使えます。支�
 
 コピーできないときは、すぐ下の**自分で選択してコピー**を押します。スマホでは、画面いちばん下の**Preview**を押すと結果が表示されます。
 
-<Screenshot src="/img/screens/ja/ai-studio-copy-code.webp" device="part" alt="「自分のリクエストで作った結果」の表示と、「MYMI用コードをコピー」ボタン。コピーボタンに黄色い枠がある" caption="結果とコードのコピーボタン" />
+<Screenshot src="/img/screens/ja/ai-studio-copy-code.webp" device="part" width="100%" alt="「自分のリクエストで作った結果」の表示と、「MYMI用コードをコピー」ボタン。コピーボタンに黄色い枠がある" caption="結果とコードのコピーボタン" />
 
 ## 7. いつ表示するかを書いた文もコピーする
 

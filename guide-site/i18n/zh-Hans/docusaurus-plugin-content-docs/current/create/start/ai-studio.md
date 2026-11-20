@@ -69,7 +69,7 @@ last_update:
 
 无法复制时，点击正下方的**手动选择复制**。在手机上，点击画面最下方的 **Preview** 就能看到结果。
 
-<Screenshot src="/img/screens/zh-Hans/ai-studio-copy-code.webp" device="part" alt="「按我的要求生成的结果」的标示与「复制要粘贴到 MYMI 的代码」按钮。复制按钮有黄色外框" caption="结果与复制代码按钮" />
+<Screenshot src="/img/screens/zh-Hans/ai-studio-copy-code.webp" device="part" width="100%" alt="「按我的要求生成的结果」的标示与「复制要粘贴到 MYMI 的代码」按钮。复制按钮有黄色外框" caption="结果与复制代码按钮" />
 
 ## 7. 也复制写着何时显示的句子
 
