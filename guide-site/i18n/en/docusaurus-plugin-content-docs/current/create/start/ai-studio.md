@@ -4,7 +4,7 @@ description: "See on the actual AI Studio screens how to make components and des
 slug: /create/ai-studio
 sidebar_position: 4
 last_update:
-  date: 2026-10-25
+  date: 2026-11-20
 ---
 
 # Follow along in Google AI Studio
@@ -12,7 +12,7 @@ last_update:
 Here are the steps that appear when you select **How to use** in **Create with Google AI Studio** on the creation screen, shown on the actual Google AI Studio screens. The yellow outline marks what to select.
 
 - It's based on the PC screen. Steps where the location differs on a phone are noted separately.
-- AI Studio appears in English. Button names are written exactly as they appear on screen.
+- AI Studio appears in English. After you send the work info, the MYMI workspace appears in your MYMI display language. Button names are written exactly as they appear on screen.
 - Simple mode and Expert mode, and components and descriptions, all follow the same steps. Where something differs, it's noted in that step.
 
 ## Before you start
@@ -38,11 +38,11 @@ Do this **only the first time**. It copies the shared workspace to make your own
 
 On a phone, select **⋯** at the bottom right of the screen to find Remix.
 
-<Screenshot src="/img/screens/ai-studio/remix.webp" alt="The shared workspace screen, with a yellow outline on the Remix button at the top right" caption="The shared workspace" />
+<Screenshot src="/img/screens/ai-studio/remix-top.webp" device="part" alt="The top right of the shared workspace, with a yellow outline on the Remix button" caption="Remix at the top right" />
 
 ## 3. Name it and select 'Remix app'
 
-Pick a name that's easy to find later. Example: Moonlight Bookstore workspace.
+Pick a name that's easy to find later. Example: Underground Seoul workspace.
 
 <Screenshot src="/img/screens/ai-studio/remix-dialog.webp" device="part" alt="The Remix window, with yellow outlines on the App name field and the Remix app button" caption="The Remix window" />
 
@@ -54,27 +54,27 @@ Paste the work info you copied in MYMI into the input at the bottom left. Below 
 
 On a phone, select **Chat** at the bottom of the screen to bring up the input. Press and hold the input to paste.
 
-<Screenshot src="/img/screens/ai-studio/request.webp" alt="The input at the bottom left holds the work info and what you want, with yellow outlines on the input and the send arrow" caption="The input with the pasted work info and what you want" />
+<Screenshot src="/img/screens/en/ai-studio-request.webp" device="part" alt="The input at the bottom left holds the work info and what you want, with yellow outlines on the input and the send arrow" caption="The input with the pasted work info and what you want" />
 
 ## 5. Wait while it's being made
 
 If you see a progress message in English like 'Running for …', it's still being made. A component usually takes 2–5 minutes, and a description 1–3 minutes. Keep the window open and wait. You don't need to understand the tables or technical terms in Gemini's reply.
 
-<Screenshot src="/img/screens/ai-studio/running.webp" alt="Gemini making it while showing Running for 22s, with a yellow outline on the progress message" caption="In progress" />
+<Screenshot src="/img/screens/en/ai-studio-running.webp" device="part" alt="Gemini making it while showing Running for 11s, with a yellow outline on the progress message" caption="In progress" />
 
 ## 6. Check the result and copy the code
 
-When you see '내 요청으로 만든 결과' (Result made from my request) on the right, it's done. Check the look in the preview below, then select **MYMI에 붙여넣을 코드 복사** (Copy code for MYMI). For a description, first check at the top that **프로필 HTML** (Profile HTML) is selected. To change something, just say so again in the input from step 4.
+When you see 'Made from your request' on the right, it's done. Check the look in the preview below, then select **Copy code for MYMI**. For a description, first check at the top that **Profile HTML** is selected. To change something, just say so again in the input from step 4.
 
-If copying doesn't work, select **직접 선택해서 복사** (Select and copy) just below it. On a phone, select **Preview** at the bottom of the screen to see the result.
+If copying doesn't work, select **Select and copy** just below it. On a phone, select **Preview** at the bottom of the screen to see the result.
 
-<Screenshot src="/img/screens/ai-studio/copy-code.webp" alt="The 내 요청으로 만든 결과 (Result made from my request) label and the MYMI에 붙여넣을 코드 복사 (Copy code for MYMI) button, with a yellow outline on the copy button" caption="The result and the copy code button" />
+<Screenshot src="/img/screens/en/ai-studio-copy-code.webp" device="part" alt="The 'Made from your request' label and the Copy code for MYMI button, with a yellow outline on the copy button" caption="The result and the copy code button" />
 
 ## 7. Also copy the sentence that says when to show it
 
 Do this **for components only**. Gemini's reply has a sentence that says when to show the component. Without it, the component won't appear in chats.
 
-<Screenshot src="/img/screens/ai-studio/usage-sentence.webp" alt="In Gemini's reply on the left, the sentence that says when to show it, with a yellow outline" caption="The sentence in Gemini's reply that says when to show it" />
+<Screenshot src="/img/screens/en/ai-studio-usage-sentence.webp" device="part" alt="In Gemini's reply on the left, the sentence that says when to show it, with a yellow outline" caption="The sentence in Gemini's reply that says when to show it" />
 
 ## 8. Paste into MYMI and save
 
@@ -116,7 +116,7 @@ Wait a moment, then select the reload button above Preview.
 <details>
 <summary>I can't copy the code</summary>
 
-Select **직접 선택해서 복사** (Select and copy), then select all of the code and copy it.
+Select **Select and copy**, then select all of the code and copy it.
 
 </details>
 
@@ -135,7 +135,7 @@ Don't select them. They don't work in MYMI components or descriptions.
 </details>
 
 <details>
-<summary>The art doesn't show in the description</summary>
+<summary>Images don't show in the description</summary>
 
 Image addresses are included in the work info only when your assets have finished images. Make the images, then copy again. Images marked as adult-only are not used in the description.
 

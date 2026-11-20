@@ -4,7 +4,7 @@ description: コンポーネントと詳細説明のHTMLをGoogle AI Studioで�
 slug: /create/ai-studio
 sidebar_position: 4
 last_update:
-  date: 2026-10-25
+  date: 2026-11-20
 ---
 
 # Google AI Studioの画面を見ながら進める
@@ -12,7 +12,7 @@ last_update:
 作品制作画面の**Google AI Studioで作る**にある**使い方**を押すと表示される手順を、実際のGoogle AI Studioの画面で紹介します。黄色い枠が押すところです。
 
 - PCの画面を基準にしています。スマホで位置が違う手順は、別に書きました。
-- AI Studioの画面は英語で表示されます。ボタン名は、画面に表示されるとおりに書きました。
+- AI Studioの画面は英語で表示されます。MYMIの作業スペースは、作品情報を送るとMYMIと同じ言語で表示されます。ボタン名は、画面に表示されるとおりに書きました。
 - かんたんモードとエキスパートモード、コンポーネントと詳細説明で手順は同じです。違うところは、その手順に書きました。
 
 ## 始める前に
@@ -38,11 +38,11 @@ Googleアカウントの無料リクエストの上限内で使えます。支�
 
 スマホでは、画面いちばん下の右にある<strong>⋯</strong>を押すとRemixがあります。
 
-<Screenshot src="/img/screens/ai-studio/remix.webp" alt="共用の作業スペースの画面。右上のRemixボタンに黄色い枠がある" caption="共用の作業スペース" />
+<Screenshot src="/img/screens/ai-studio/remix-top.webp" device="part" alt="共用の作業スペースの右上。Remixボタンに黄色い枠がある" caption="右上のRemixボタン" />
 
 ## 3. 名前を決めて「Remix app」を押す
 
-名前は、あとで見つけやすいものにすれば大丈夫です。例: 月明かり書店の作業スペース。
+名前は、あとで見つけやすいものにすれば大丈夫です。例: 地下都市ソウルの作業スペース。
 
 <Screenshot src="/img/screens/ai-studio/remix-dialog.webp" device="part" alt="Remixの窓。App name欄とRemix appボタンに黄色い枠がある" caption="Remixの窓" />
 
@@ -54,27 +54,27 @@ Googleアカウントの無料リクエストの上限内で使えます。支�
 
 スマホでは、画面いちばん下の**Chat**を押すと入力欄が表示されます。入力欄を長押しして貼り付けます。
 
-<Screenshot src="/img/screens/ai-studio/request.webp" alt="左下の入力欄に作品情報と希望が入っていて、入力欄と送信の矢印に黄色い枠がある" caption="作品情報を貼り付けて希望を書いた入力欄" />
+<Screenshot src="/img/screens/ja/ai-studio-request.webp" device="part" alt="左下の入力欄に作品情報と希望が入っていて、入力欄と送信の矢印に黄色い枠がある" caption="作品情報を貼り付けて希望を書いた入力欄" />
 
 ## 5. 完成するまで待つ
 
 「Running for …」のような英語の進行メッセージが表示されていれば、作っている途中です。コンポーネントはふつう2〜5分、詳細説明は1〜3分かかります。ウィンドウを閉じずに待ちます。Geminiの返答にある表や専門用語は、わからなくても大丈夫です。
 
-<Screenshot src="/img/screens/ai-studio/running.webp" alt="GeminiがRunning for 22sと表示しながら作っている画面。進行メッセージに黄色い枠がある" caption="作成中" />
+<Screenshot src="/img/screens/ja/ai-studio-running.webp" device="part" alt="GeminiがRunning for 7sと表示しながら作っている画面。進行メッセージに黄色い枠がある" caption="作成中" />
 
 ## 6. 結果を見てコードをコピーする
 
-右側に「내 요청으로 만든 결과（自分のリクエストで作った結果）」と表示されたら完成です。下のプレビューで見た目を確認し、**MYMI에 붙여넣을 코드 복사**（MYMI用コードをコピー）を押します。詳細説明なら、先に上部で**프로필 HTML**（プロフィールHTML）が選ばれているか確認します。直したいところは、手順4の入力欄にもう一度書けば大丈夫です。
+右側に「自分のリクエストで作った結果」と表示されたら完成です。下のプレビューで見た目を確認し、**MYMI用コードをコピー**を押します。詳細説明なら、先に上部で**プロフィールHTML**が選ばれているか確認します。直したいところは、手順4の入力欄にもう一度書けば大丈夫です。
 
-コピーできないときは、すぐ下の**직접 선택해서 복사**（自分で選択してコピー）を押します。スマホでは、画面いちばん下の**Preview**を押すと結果が表示されます。
+コピーできないときは、すぐ下の**自分で選択してコピー**を押します。スマホでは、画面いちばん下の**Preview**を押すと結果が表示されます。
 
-<Screenshot src="/img/screens/ai-studio/copy-code.webp" alt="내 요청으로 만든 결과（自分のリクエストで作った結果）の表示と、MYMI에 붙여넣을 코드 복사（MYMI用コードをコピー）ボタン。コピーボタンに黄色い枠がある" caption="結果とコードのコピーボタン" />
+<Screenshot src="/img/screens/ja/ai-studio-copy-code.webp" device="part" alt="「自分のリクエストで作った結果」の表示と、「MYMI用コードをコピー」ボタン。コピーボタンに黄色い枠がある" caption="結果とコードのコピーボタン" />
 
 ## 7. いつ表示するかを書いた文もコピーする
 
 **コンポーネントだけ**行います。Geminiの返答に、コンポーネントをいつ表示するかを書いた文があります。この文がないと、チャットにコンポーネントが表示されません。
 
-<Screenshot src="/img/screens/ai-studio/usage-sentence.webp" alt="左側のGeminiの返答に、いつ表示するかを書いた文があり、黄色い枠がある" caption="Geminiの返答にある、いつ表示するかの文" />
+<Screenshot src="/img/screens/ja/ai-studio-usage-sentence.webp" device="part" alt="左側のGeminiの返答に、いつ表示するかを書いた文があり、黄色い枠がある" caption="Geminiの返答にある、いつ表示するかの文" />
 
 ## 8. MYMIに貼り付けて保存する
 
@@ -116,7 +116,7 @@ GoogleがAI Studioの画面を変えると、ボタンの位置が変わるこ�
 <details>
 <summary>コードをコピーできない</summary>
 
-**직접 선택해서 복사**（自分で選択してコピー）を押し、コード全体を選択してコピーします。
+**自分で選択してコピー**を押し、コード全体を選択してコピーします。
 
 </details>
 
@@ -135,7 +135,7 @@ GoogleがAI Studioの画面を変えると、ボタンの位置が変わるこ�
 </details>
 
 <details>
-<summary>詳細説明にイラストが表示されない</summary>
+<summary>詳細説明に画像が表示されない</summary>
 
 アセットに完成した画像があるときだけ、作品情報に画像のアドレスが入ります。画像を作ってから、もう一度コピーします。成人向けに設定した画像は、詳細説明には使いません。
 

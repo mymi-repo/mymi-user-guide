@@ -4,7 +4,7 @@ description: "Use Simple mode's optional steps: lore sent only when a keyword co
 slug: /create/simple/extras
 sidebar_position: 5
 last_update:
-  date: 2026-11-17
+  date: 2026-11-20
 ---
 
 # Lorebook, components, and optional items
@@ -110,7 +110,7 @@ You can make a component by chatting with Gemini, even without knowing code. Sta
 1. Select **Copy work info**. Your work's settings and image addresses are copied together.
 2. Select **Open Google AI Studio**. If it's your first time, make your own workspace with **Remix**.
 3. Paste the work info into the input, add a line or two about what you want below it, and send.
-4. When it's done, select **MYMI에 붙여넣을 코드 복사** (Copy code for MYMI), and paste it into the **Add component** → **JSX code** field in MYMI.
+4. When it's done, select **Copy code for MYMI**, and paste it into the **Add component** → **JSX code** field in MYMI.
 5. Copy the sentence in Gemini's reply that says when to show it, and paste it into the **Usage Description** field. Without it, the component won't appear in chats.
 
 Select **How to use** to open step-by-step instructions. To see the actual AI Studio screens, go to [Follow along in Google AI Studio](/create/ai-studio).
@@ -143,7 +143,7 @@ You can make an intro page by chatting with Gemini, even without knowing HTML. S
 1. Select **Copy work info**. Your work's settings, image addresses, and current description are copied together.
 2. Select **Open Google AI Studio**. If it's your first time, make your own workspace with **Remix**.
 3. Paste the work info into the input, add a line or two about what you want below it, and send.
-4. When it's done, check at the top that **프로필 HTML** (Profile HTML) is selected, then select **MYMI에 붙여넣을 코드 복사** (Copy code for MYMI).
+4. When it's done, check at the top that **Profile HTML** is selected, then select **Copy code for MYMI**.
 5. Under Description in MYMI, choose **Use** and paste it into the HTML field. Check it in the preview, then select **Done**.
 
 Select **How to use** to open step-by-step instructions. To see the actual AI Studio screens, go to [Follow along in Google AI Studio](/create/ai-studio).

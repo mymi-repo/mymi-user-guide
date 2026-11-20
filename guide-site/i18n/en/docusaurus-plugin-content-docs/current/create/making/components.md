@@ -5,7 +5,7 @@ description: Build UI that pops up in chats, like status windows, inventories, a
 slug: /create/components
 sidebar_position: 9
 last_update:
-  date: 2026-10-24
+  date: 2026-11-20
 ---
 
 # Add components
@@ -89,7 +89,7 @@ You can make a component by chatting with Gemini, even without knowing code. Sta
 1. Select **Copy work info**. Your work's settings, image addresses, and current description are copied together.
 2. Select **Open Google AI Studio**. If it's your first time, make your own workspace with **Remix**.
 3. Paste the work info into the input, add a line or two about what you want below it, and send.
-4. When it's done, select **MYMI에 붙여넣을 코드 복사** (Copy code for MYMI), and paste it into the **Add component** → **JSX code** field in MYMI.
+4. When it's done, select **Copy code for MYMI**, and paste it into the **Add component** → **JSX code** field in MYMI.
 5. Copy the sentence in Gemini's reply that says when to show it, and paste it into the Prompt tab. With Basic, put it in that component's field under **Component output rules**.
 
 Select **How to use** to open step-by-step instructions. To see the actual AI Studio screens, go to [Follow along in Google AI Studio](/create/ai-studio).

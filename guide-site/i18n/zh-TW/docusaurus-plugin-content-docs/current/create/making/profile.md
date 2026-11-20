@@ -5,7 +5,7 @@ description: 說明如何放入多張封面、用 Markdown 與 HTML 美化詳細
 slug: /create/profile
 sidebar_position: 3
 last_update:
-  date: 2026-10-24
+  date: 2026-11-20
 ---
 
 # 美化作品介紹
@@ -64,18 +64,18 @@ last_update:
 
 ### 用 AI Studio 製作介紹頁
 
-從詳細說明欄位下方的**用 Google AI Studio 製作**開始。和 Gemini 對話，製作包含角色插圖與作品介紹的 HTML 頁面。
+從詳細說明欄位下方的**用 Google AI Studio 製作**開始。和 Gemini 對話，製作包含角色圖片與作品介紹的 HTML 頁面。
 
 1. 點選**複製作品資訊**。作品設定、圖片網址和目前寫的詳細說明會一起複製。
 2. 點選**開啟 Google AI Studio**。第一次使用時，用 **Remix** 建立自己的工作室。
 3. 在輸入框貼上作品資訊，再在下方寫一兩行想要的樣子後送出。
-4. 完成後，在上方確認已選擇**프로필 HTML**（個人介紹 HTML），再點選 **MYMI에 붙여넣을 코드 복사**（複製 MYMI 程式碼）。
+4. 完成後，在上方確認已選擇**作品介紹 HTML**，再點選**複製 MYMI 程式碼**。
 5. 貼到 MYMI 的**詳細說明**欄位，用**預覽**確認後點選**儲存草稿**。
 
 點選**使用指南**，會開啟分步驟的說明。實際的 AI Studio 畫面請見[跟著 Google AI Studio 畫面操作](/create/ai-studio)。
 
 :::info
-可在 Google 帳號的免費請求額度內使用。不需要付款或 API 金鑰。要放入插圖，素材分頁裡需要有完成的圖片，標示為成人向的圖片不會使用。
+可在 Google 帳號的免費請求額度內使用。不需要付款或 API 金鑰。要放入圖片，素材分頁裡需要有完成的圖片，標示為成人向的圖片不會使用。
 :::
 
 :::warning[刪除圖片之前]
@@ -122,7 +122,7 @@ last_update:
 <details>
 <summary>貼上 HTML 之後，預覽和我想的不一樣</summary>
 
-請在工作室的 **프로필 HTML**（個人介紹 HTML）分頁點選 **MYMI에 붙여넣을 코드 복사**（複製 MYMI 程式碼），再把整段重新貼上。如果版面還是跑掉，請 Gemini 修改。
+請在工作室的**作品介紹 HTML**分頁點選**複製 MYMI 程式碼**，再把整段重新貼上。如果版面還是跑掉，請 Gemini 修改。
 
 </details>
 

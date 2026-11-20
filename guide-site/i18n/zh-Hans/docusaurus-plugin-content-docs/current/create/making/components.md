@@ -5,7 +5,7 @@ description: 说明如何用 JSX 代码或 AI Studio 制作状态窗口、道具
 slug: /create/components
 sidebar_position: 9
 last_update:
-  date: 2026-11-08
+  date: 2026-11-20
 ---
 
 # 加入组件
@@ -89,7 +89,7 @@ function StatusWindow({ hp = 100, mp = 40 }) {
 1. 点击**复制作品信息**。作品设置、图片网址和目前写的详细说明会一起复制。
 2. 点击**打开 Google AI Studio**。第一次使用时，用 **Remix** 创建自己的工作室。
 3. 在输入框粘贴作品信息，再在下方写一两行想要的样子后送出。
-4. 完成后点击 **MYMI에 붙여넣을 코드 복사**（复制 MYMI 代码），再贴到 MYMI 的**添加组件** → **JSX 代码**字段。
+4. 完成后点击**复制要粘贴到 MYMI 的代码**，再贴到 MYMI 的**添加组件** → **JSX 代码**字段。
 5. 复制 Gemini 回复中写着何时显示的句子，贴到提示词分页。使用基本型时，贴到**组件输出规则**里该组件的字段。
 
 点击**使用指南**，会打开分步骤的说明。实际的 AI Studio 画面请见[跟着 Google AI Studio 画面操作](/create/ai-studio)。

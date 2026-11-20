@@ -5,7 +5,7 @@ description: 표지를 여러 장 넣고, 상세 설명을 마크다운·HTML로
 slug: /create/profile
 sidebar_position: 3
 last_update:
-  date: 2026-10-24
+  date: 2026-11-20
 ---
 
 # 작품 소개 꾸미기
@@ -64,7 +64,7 @@ last_update:
 
 ### AI Studio로 소개 페이지 만들기
 
-상세 설명 칸 아래의 **Google AI Studio로 만들기**에서 시작해요. Gemini와 대화하며 인물 그림과 작품 소개를 담은 HTML 페이지를 만들어요.
+상세 설명 칸 아래의 **Google AI Studio로 만들기**에서 시작해요. Gemini와 대화하며 인물 이미지와 작품 소개를 담은 HTML 페이지를 만들어요.
 
 1. **작품 정보 복사**를 눌러요. 작품 설정, 이미지 주소, 지금 쓴 상세 설명이 한 번에 복사돼요.
 2. **Google AI Studio 열기**를 눌러요. 처음이면 **Remix**로 내 작업실을 만들어요.
@@ -75,7 +75,7 @@ last_update:
 **사용 가이드**를 누르면 단계별 안내가 열려요. 실제 AI Studio 화면은 [Google AI Studio 화면으로 따라 하기](/create/ai-studio)에서 봐요.
 
 :::info
-Google 계정의 무료 요청 한도 안에서 쓸 수 있어요. 결제나 API 키는 필요 없어요. 그림을 넣으려면 에셋 탭에 완성된 이미지가 있어야 하고, 성인용으로 표시한 그림은 쓰지 않아요.
+Google 계정의 무료 요청 한도 안에서 쓸 수 있어요. 결제나 API 키는 필요 없어요. 이미지를 넣으려면 에셋 탭에 완성된 이미지가 있어야 하고, 성인용으로 표시한 이미지는 쓰지 않아요.
 :::
 
 :::warning[이미지를 지우기 전에]

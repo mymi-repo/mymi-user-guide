@@ -5,7 +5,7 @@ description: Add several covers, style the description with Markdown and HTML, b
 slug: /create/profile
 sidebar_position: 3
 last_update:
-  date: 2026-10-24
+  date: 2026-11-20
 ---
 
 # Decorate your work page
@@ -64,18 +64,18 @@ An introduction is easier to read in this order:
 
 ### Create an intro page with AI Studio
 
-Start from **Create with Google AI Studio** below the Description field. Chat with Gemini to make an HTML page with character art and an introduction to your work.
+Start from **Create with Google AI Studio** below the Description field. Chat with Gemini to make an HTML page with character images and an introduction to your work.
 
 1. Select **Copy work info**. Your work's settings, image addresses, and current description are copied together.
 2. Select **Open Google AI Studio**. If it's your first time, make your own workspace with **Remix**.
 3. Paste the work info into the input, add a line or two about what you want below it, and send.
-4. When it's done, check at the top that **프로필 HTML** (Profile HTML) is selected, then select **MYMI에 붙여넣을 코드 복사** (Copy code for MYMI).
+4. When it's done, check at the top that **Profile HTML** is selected, then select **Copy code for MYMI**.
 5. Paste it into the **Description** field in MYMI, check it with **Preview**, then select **Save draft**.
 
 Select **How to use** to open step-by-step instructions. To see the actual AI Studio screens, go to [Follow along in Google AI Studio](/create/ai-studio).
 
 :::info
-You can use it within your Google account's free request allowance. No payment or API key is needed. To include art, the Assets tab needs finished images, and images marked as adult-only are not used.
+You can use it within your Google account's free request allowance. No payment or API key is needed. To include images, the Assets tab needs finished images, and images marked as adult-only are not used.
 :::
 
 :::warning[Before you delete images]
@@ -122,7 +122,7 @@ Image addresses are included only when the Assets tab has finished images. Uploa
 <details>
 <summary>I pasted the HTML, but the preview isn't what I expected</summary>
 
-In the **profile HTML** tab, select **MYMI에 붙여넣을 코드 복사 (Copy code for MYMI)** and paste the complete result again. If the layout is still broken, ask Gemini to fix it.
+In the workspace's **Profile HTML** tab, select **Copy code for MYMI** and paste the complete result again. If the layout is still broken, ask Gemini to fix it.
 
 </details>
 

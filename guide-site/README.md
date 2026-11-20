@@ -225,6 +225,8 @@ i18n/zh-TW/docusaurus-plugin-content-docs/current/account/sign-up.md
 
 2026-11-19 같은 날 저녁의 앱 변경 두 가지를 반영했다. ① 아이폰 앱은 한국·일본·대만 밖 계정에 AI 이미지 생성 입구를 숨긴다(FE `8a785026c`, 웹·Android 는 그대로). 영어·간체의 이미지 비용 안내(이미지 준비하기·에셋과 AI 이미지 안내 상자, 제한 안내 두 쪽)를 'Android 앱에서는 매주 무료 장수, 아이폰 앱에는 AI 이미지 생성이 없다'로 고치고, 「본인 인증이 필요합니다」 답 네 곳에서 '최신 버전으로 업데이트'를 뺐다(업데이트하면 생성 버튼이 생기는 것이 아니라 사라진다). 이미지 생성 절 두 곳(간편 모드 「AI로 이미지 만들기」, 전문가 모드 「캐릭터 폴더와 기본 모습 만들기」)의 첫머리에는 아이폰 앱에 생성 버튼이 보이지 않는다는 한 줄을 넣었다(영어·간체 원어민 검수가 함께 짚음). 이유와 지역은 적지 않는다. ② 전화번호 인증이 받는 번호에 홍콩(+852)·마카오(+853)가 더해졌다(FE `f3ff0bf04`, 목록은 FE `packages/src/constants/phoneVerificationCountries.js`). 일본어·번체의 번호 안내 네 곳(연령 확인과 전화번호 인증 쪽 세 곳, FAQ 한 곳)에 두 곳을 더하고, 나라를 가리키던 말을 '国・地域'·'國家或地區'로 바꿨다. 나라 이름은 앱 표기(`auth.json` 의 `country_HK`·`country_MO`: 香港·マカオ·澳門)를 따른다. 번호 나라가 또 바뀌면 이 네 곳을 함께 고친다.
 
+2026-11-20 Google AI Studio의 MYMI 작업실이 화면 언어로 나오게 바뀌었다(공개 원본에 저장한 판의 사본은 FE `docs/FE/AI-Studio/template/`, `bf9207832`). 작업실은 처음에 브라우저 언어로 나오고, 작품 정보를 보내면 Gemini가 그 글의 화면 언어 줄을 보고 작업실 언어를 정한다. 영어·일본어·번체·간체의 `create/start/ai-studio.md`·`create/making/components.md`·`create/making/profile.md`·`create/simple/extras.md`에서 작업실 버튼 이름을 한국어 글자와 괄호 번역 대신 그 언어 작업실 표기로 바꿨다(용어집 3절 「Google AI Studio 작업실」). 번체·간체의 상세 설명 탭 이름은 실제 표기인 作品介紹 HTML·详细介绍 HTML로 바로잡았다. 다섯 언어 `ai-studio.md`에 작업실이 화면 언어로 나온다는 줄을 더하고, 작업실이 보이는 캡처 네 장을 언어마다 다시 찍었으며(아래 '컴포넌트' 절의 Google AI Studio 화면 줄), 이름 예시를 가이드 예시 작품(지하 도시 서울)으로 바꿨다. 한국어의 '그림'은 '이미지'로 고치고, 같은 문장의 번역(art·イラスト·插圖·插图)도 image·画像·圖片·图片으로 맞췄다.
+
 GitBook의 `{% hint %}` 블록은 Docusaurus admonition으로 자동 변환됨:
 - `:::info` / `:::tip` / `:::warning` / `:::danger`
 
@@ -261,7 +263,7 @@ GitBook의 `{% hint %}` 블록은 Docusaurus admonition으로 자동 변환됨:
 - 카드 아이콘 이름: `compass` `device` `userPlus` `chat` `persona` `sliders` `layers` `model` `pen` `book` `card` `help` `shield` `mail` `spark` `history` `image` `code` `send` `list`. 새 아이콘은 `src/components/GuideCards/icons.js`에 같은 선 두께로 추가한다.
 - 카드 제목은 연결한 문서의 제목과 같게 쓴다. 문서 제목을 바꾸면 첫 화면 카드도 같이 고친다.
 - 화면 캡처는 `static/img/screens/<locale>/`에 WebP로 두고 각 언어의 화면을 쓴다. `alt`는 비워 두지 않는다. 실제 계정의 닉네임·아이디·잔액·채팅방 ID는 담지 않는다.
-- Google AI Studio 화면(`create/start/ai-studio.md`)은 언어와 관계없이 같아서 `static/img/screens/ai-studio/` 하나를 네 언어가 같이 쓴다. 원본을 소유하지 않은 테스트 계정으로 PC에서 찍고, 계정 이메일이 보이는 부분은 잘라 낸다. 누를 곳의 노란 테두리는 FE 저장소의 `local_scripts/FE/AI-Studio/make_guide_shots.py`(이 PC 전용)로 그린다. AI Studio 화면이나 MYMI 작업실 템플릿 문구가 바뀌면 다시 찍는다.
+- Google AI Studio 화면(`create/start/ai-studio.md`) 가운데 AI Studio 자체 화면(첫 안내 창·Remix 창·My apps)은 언어와 관계없이 같아서 `static/img/screens/ai-studio/` 하나를 다섯 언어가 같이 쓴다. MYMI 작업실이 보이는 네 장(입력창·만드는 중·결과와 코드 복사 버튼·사용 시점 문장)은 작업실이 화면 언어로 나와서 언어마다 `static/img/screens/<locale>/ai-studio-*.webp`로 따로 둔다(2026-11-20). Remix 단계는 한국어판이 창 전체(`ai-studio/remix.webp`)를, 다른 언어판이 오른쪽 위만 자른 `ai-studio/remix-top.webp`를 쓴다. 이 PC 의 Chrome 이 한국어라 원본을 열면 창 전체에 한국어 작업실이 보이기 때문이다. 원본을 소유하지 않은 테스트 계정으로 PC에서 찍고, 계정 이메일이 보이는 부분은 잘라 낸다. 언어별 네 장은 그 계정의 시험 사본에서 찍어, 위쪽 앱 이름과 추천 칩(한국어로 나온다)이 들어가지 않게 잘랐다. 누를 곳의 노란 테두리는 FE 저장소의 `local_scripts/FE/AI-Studio/make_guide_shots.py`(공용)와 `make_guide_shots_locales_2026_11_20.py`(언어별, 캡처는 `guide-shots-2026-11-20/`)로 그린다(둘 다 이 PC 전용). AI Studio 화면이나 MYMI 작업실 템플릿 문구가 바뀌면 다시 찍는다.
 - 페이지 끝은 **자주 막히는 곳**(`<details>`)과 **다음에 할 일**(`CardGrid`) 순서로 맺는다. 제작 가이드의 본문은 해요체로 쓴다.
 - 문서 본문에서 `{{user}}`, `{{char}}`, `{{URL}}`처럼 중괄호가 들어간 글은 반드시 `` ` `` 로 감싼다. MDX가 중괄호를 코드로 읽어 빌드가 깨진다.
 

@@ -5,7 +5,7 @@ description: 用实际的 AI Studio 画面，说明如何用 Google AI Studio �
 slug: /create/ai-studio
 sidebar_position: 4
 last_update:
-  date: 2026-11-08
+  date: 2026-11-20
 ---
 
 # 跟着 Google AI Studio 画面操作
@@ -13,7 +13,7 @@ last_update:
 这里用实际的 Google AI Studio 画面，说明在作品制作画面的**用 Google AI Studio 制作**点击**使用指南**后出现的步骤。黄色外框就是要点击的地方。
 
 - 以电脑画面为准。在手机上位置不同的步骤，另外注明。
-- AI Studio 画面会以英文显示。按钮名称照画面上显示的写。
+- AI Studio 画面会以英文显示。送出作品信息后，MYMI 工作室会以 MYMI 的界面语言显示。按钮名称照画面上显示的写。
 - 简易模式和专家模式、组件和详细说明的步骤都一样。不同的地方写在该步骤里。
 
 ## 开始之前
@@ -39,11 +39,11 @@ last_update:
 
 在手机上，点击画面最下方右侧的 **⋯**，就能找到 Remix。
 
-<Screenshot src="/img/screens/ai-studio/remix.webp" alt="共用工作室画面。右上角的 Remix 按钮有黄色外框" caption="共用工作室" />
+<Screenshot src="/img/screens/ai-studio/remix-top.webp" device="part" alt="共用工作室的右上角。Remix 按钮有黄色外框" caption="右上角的 Remix 按钮" />
 
 ## 3. 取好名称后点击「Remix app」
 
-名称取个之后容易找到的就可以了。例：月光书店工作室。
+名称取个之后容易找到的就可以了。例：地下城市首尔工作室。
 
 <Screenshot src="/img/screens/ai-studio/remix-dialog.webp" device="part" alt="Remix 窗口。App name 字段和 Remix app 按钮有黄色外框" caption="Remix 窗口" />
 
@@ -55,27 +55,27 @@ last_update:
 
 在手机上，点击画面最下方的 **Chat** 就会出现输入框。长按输入框来粘贴。
 
-<Screenshot src="/img/screens/ai-studio/request.webp" alt="左下方的输入框里有作品信息和想要的样子，输入框和送出箭头有黄色外框" caption="粘贴作品信息并写下想要样子的输入框" />
+<Screenshot src="/img/screens/zh-Hans/ai-studio-request.webp" device="part" alt="左下方的输入框里有作品信息和想要的样子，输入框和送出箭头有黄色外框" caption="粘贴作品信息并写下想要样子的输入框" />
 
 ## 5. 等待制作完成
 
 出现「Running for …」这类英文的进度消息，就表示正在制作。组件通常需要 2～5 分钟，详细说明需要 1～3 分钟。请不要关闭窗口，耐心等待。看不懂 Gemini 回复里的表格和专有名词也没关系。
 
-<Screenshot src="/img/screens/ai-studio/running.webp" alt="Gemini 显示 Running for 22s、正在制作的画面。进度消息有黄色外框" caption="制作中" />
+<Screenshot src="/img/screens/zh-Hans/ai-studio-running.webp" device="part" alt="Gemini 显示 Running for 6s、正在制作的画面。进度消息有黄色外框" caption="制作中" />
 
 ## 6. 查看结果并复制代码
 
-右侧出现「내 요청으로 만든 결과（依我的要求做出的结果）」就完成了。用下方的预览确认样子，再点击 **MYMI에 붙여넣을 코드 복사**（复制 MYMI 代码）。如果是详细说明，请先在上方确认已选择**프로필 HTML**（个人介绍 HTML）。想修改的地方，在第 4 步的输入框再说一次即可。
+右侧出现「按我的要求生成的结果」就完成了。用下方的预览确认样子，再点击**复制要粘贴到 MYMI 的代码**。如果是详细说明，请先在上方确认已选择**详细介绍 HTML**。想修改的地方，在第 4 步的输入框再说一次即可。
 
-无法复制时，点击正下方的**직접 선택해서 복사**（自行选取复制）。在手机上，点击画面最下方的 **Preview** 就能看到结果。
+无法复制时，点击正下方的**手动选择复制**。在手机上，点击画面最下方的 **Preview** 就能看到结果。
 
-<Screenshot src="/img/screens/ai-studio/copy-code.webp" alt="내 요청으로 만든 결과（依我的要求做出的结果）的标示与 MYMI에 붙여넣을 코드 복사（复制 MYMI 代码）按钮。复制按钮有黄色外框" caption="结果与复制代码按钮" />
+<Screenshot src="/img/screens/zh-Hans/ai-studio-copy-code.webp" device="part" alt="「按我的要求生成的结果」的标示与「复制要粘贴到 MYMI 的代码」按钮。复制按钮有黄色外框" caption="结果与复制代码按钮" />
 
 ## 7. 也复制写着何时显示的句子
 
 **只有组件**要做。Gemini 的回复中有一句写着何时显示组件的句子。没有这句话，组件就不会出现在聊天中。
 
-<Screenshot src="/img/screens/ai-studio/usage-sentence.webp" alt="左侧的 Gemini 回复中有写着何时显示的句子，并有黄色外框" caption="Gemini 回复中写着何时显示的句子" />
+<Screenshot src="/img/screens/zh-Hans/ai-studio-usage-sentence.webp" device="part" alt="左侧的 Gemini 回复中有写着何时显示的句子，并有黄色外框" caption="Gemini 回复中写着何时显示的句子" />
 
 ## 8. 贴到 MYMI 并保存
 
@@ -117,7 +117,7 @@ last_update:
 <details>
 <summary>无法复制代码</summary>
 
-点击**직접 선택해서 복사**（自行选取复制），选取全部代码后复制。
+点击**手动选择复制**，选取全部代码后复制。
 
 </details>
 
@@ -136,7 +136,7 @@ last_update:
 </details>
 
 <details>
-<summary>详细说明没有出现插图</summary>
+<summary>详细说明没有出现图片</summary>
 
 素材里有完成的图片时，作品信息才会包含图片网址。制作图片后再复制一次。标示为成人向的图片不会用在详细说明中。
 
