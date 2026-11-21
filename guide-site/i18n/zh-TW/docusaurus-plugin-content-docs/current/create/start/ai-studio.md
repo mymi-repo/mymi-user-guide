@@ -39,13 +39,13 @@ last_update:
 
 在手機上，點選畫面最下方右側的 **⋯**，就能找到 Remix。
 
-<Screenshot src="/img/screens/ai-studio/remix-top.webp" device="part" alt="共用工作室的右上角。Remix 按鈕有黃色外框" caption="右上角的 Remix 按鈕" />
+<Screenshot src="/img/screens/zh-TW/ai-studio-remix.webp" alt="共用工作室的畫面。右上角的 Remix 按鈕有黃色外框" caption="共用工作室" />
 
 ## 3. 取好名稱後點選「Remix app」
 
 名稱取個之後容易找到的就可以了。例：地下城市首爾工作室。
 
-<Screenshot src="/img/screens/ai-studio/remix-dialog.webp" device="part" alt="Remix 視窗。App name 欄位和 Remix app 按鈕有黃色外框" caption="Remix 視窗" />
+<Screenshot src="/img/screens/zh-TW/ai-studio-remix-dialog.webp" device="part" alt="Remix 視窗。App name 欄位和 Remix app 按鈕有黃色外框" caption="Remix 視窗" />
 
 ## 4. 貼上並寫下想要的樣子後送出
 
@@ -92,7 +92,7 @@ last_update:
 
 自己的工作室在 AI Studio 首頁左側的 **My apps** 裡。從那裡開啟後，從第 4 步開始做就可以了。不需要再 Remix 一次。
 
-<Screenshot src="/img/screens/ai-studio/my-apps.webp" device="part" alt="AI Studio 左側選單的 My apps 和自己的工作室清單有黃色外框" caption="My apps" />
+<Screenshot src="/img/screens/zh-TW/ai-studio-my-apps.webp" device="part" alt="AI Studio 左側選單的 My apps 和自己的工作室清單有黃色外框" caption="My apps" />
 
 :::note
 如果 Google 變更 AI Studio 畫面，按鈕位置可能會不同。

@@ -38,13 +38,13 @@ Do this **only the first time**. It copies the shared workspace to make your own
 
 On a phone, select **⋯** at the bottom right of the screen to find Remix.
 
-<Screenshot src="/img/screens/ai-studio/remix-top.webp" device="part" alt="The top right of the shared workspace, with a yellow outline on the Remix button" caption="Remix at the top right" />
+<Screenshot src="/img/screens/en/ai-studio-remix.webp" alt="The shared workspace, with a yellow outline on the Remix button at the top right" caption="The shared workspace" />
 
 ## 3. Name it and select 'Remix app'
 
 Pick a name that's easy to find later. Example: Underground Seoul workspace.
 
-<Screenshot src="/img/screens/ai-studio/remix-dialog.webp" device="part" alt="The Remix window, with yellow outlines on the App name field and the Remix app button" caption="The Remix window" />
+<Screenshot src="/img/screens/en/ai-studio-remix-dialog.webp" device="part" alt="The Remix window, with yellow outlines on the App name field and the Remix app button" caption="The Remix window" />
 
 ## 4. Paste it, describe what you want, and send
 
@@ -91,7 +91,7 @@ Paste the code and the sentence you copied into the fields below, check the look
 
 Your workspace is in **My apps** on the left of the AI Studio home screen. Open it there and start from step 4. You don't need to Remix again.
 
-<Screenshot src="/img/screens/ai-studio/my-apps.webp" device="part" alt="My apps in the AI Studio left menu and the list of your workspaces, with a yellow outline" caption="My apps" />
+<Screenshot src="/img/screens/en/ai-studio-my-apps.webp" device="part" alt="My apps in the AI Studio left menu and the list of your workspaces, with a yellow outline" caption="My apps" />
 
 :::note
 If Google changes the AI Studio screens, the button positions may change.

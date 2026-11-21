@@ -38,13 +38,13 @@ Googleアカウントの無料リクエストの上限内で使えます。支�
 
 スマホでは、画面いちばん下の右にある<strong>⋯</strong>を押すとRemixがあります。
 
-<Screenshot src="/img/screens/ai-studio/remix-top.webp" device="part" alt="共用の作業スペースの右上。Remixボタンに黄色い枠がある" caption="右上のRemixボタン" />
+<Screenshot src="/img/screens/ja/ai-studio-remix.webp" alt="共用の作業スペースの画面。右上のRemixボタンに黄色い枠がある" caption="共用の作業スペース" />
 
 ## 3. 名前を決めて「Remix app」を押す
 
 名前は、あとで見つけやすいものにすれば大丈夫です。例: 地下都市ソウルの作業スペース。
 
-<Screenshot src="/img/screens/ai-studio/remix-dialog.webp" device="part" alt="Remixの窓。App name欄とRemix appボタンに黄色い枠がある" caption="Remixの窓" />
+<Screenshot src="/img/screens/ja/ai-studio-remix-dialog.webp" device="part" alt="Remixの窓。App name欄とRemix appボタンに黄色い枠がある" caption="Remixの窓" />
 
 ## 4. 貼り付けて、希望を書いて送る
 
@@ -91,7 +91,7 @@ Googleアカウントの無料リクエストの上限内で使えます。支�
 
 AI Studioのトップ画面の左にある**My apps**に、自分の作業スペースがあります。そこから開いて、手順4から進めれば大丈夫です。Remixをやり直す必要はありません。
 
-<Screenshot src="/img/screens/ai-studio/my-apps.webp" device="part" alt="AI Studioの左メニューのMy appsと、自分の作業スペースの一覧に黄色い枠がある" caption="My apps" />
+<Screenshot src="/img/screens/ja/ai-studio-my-apps.webp" device="part" alt="AI Studioの左メニューのMy appsと、自分の作業スペースの一覧に黄色い枠がある" caption="My apps" />
 
 :::note
 GoogleがAI Studioの画面を変えると、ボタンの位置が変わることがあります。
