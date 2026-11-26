@@ -257,6 +257,6 @@ No image in the assets has the same name as the one inside the brackets of `img:
 ## Next steps
 
 <CardGrid>
-<Card to="/create/simple/extras" icon="layers" title="Lorebook, components, and optional items">See the extra steps that are worth adding.</Card>
+<Card to="/create/simple/extras" icon="layers" title="Lorebook, shortcuts, components, and optional items">See the extra steps that are worth adding.</Card>
 <Card to="/create/settings" icon="list" title="Choose your work settings">Choose the image source and publishing scope.</Card>
 </CardGrid>

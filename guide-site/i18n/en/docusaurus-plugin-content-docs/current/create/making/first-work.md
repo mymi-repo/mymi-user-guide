@@ -4,7 +4,7 @@ description: Follow the example work "Underground Seoul" in Expert mode and go f
 slug: /create/first-work
 sidebar_position: 2
 last_update:
-  date: 2026-10-04
+  date: 2026-11-26
 ---
 
 # Create your first work in Expert mode
@@ -189,7 +189,7 @@ Select **Publish** in the top bar. If anything is missing, you're taken to that 
 
 Notices appear one at a time. Fill in what the notice says, then select **Publish** again.
 
-The order it checks is Basic info → Assets → Components → Prompt → Openings → Lorebook → Settings. The full list is in [Limits and rules at a glance](/create/limits#what-publish-checks).
+The order it checks is Basic info → Assets → Components → Prompt → Openings → Lorebook → Shortcuts → Settings. The full list is in [Limits and rules at a glance](/create/limits#what-publish-checks).
 
 </ScreenStep>
 

@@ -5,7 +5,7 @@ description: "Learn how to copy a Simple mode work's settings into a new Expert 
 slug: /create/simple/to-expert
 sidebar_position: 8
 last_update:
-  date: 2026-10-07
+  date: 2026-11-26
 ---
 
 # Move to Expert mode
@@ -45,6 +45,7 @@ There's no way to change a work made in Simple mode into Expert mode. The conten
 | Optional → Creator's Note | Basic info → Creator guide | Copy it as it is |
 | Optional → Recommended personas | Settings → Recommended personas | Copy them as they are |
 | Lorebook | Lorebook | Copy the name, keywords, and content as they are |
+| Shortcuts | Shortcuts | Copy the name, description, and instruction as they are |
 
 ## Easy to miss
 

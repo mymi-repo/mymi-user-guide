@@ -5,7 +5,7 @@ description: Simple mode's character and count limits, required items for each s
 slug: /create/simple/reference
 sidebar_position: 7
 last_update:
-  date: 2026-11-19
+  date: 2026-11-26
 ---
 
 # Fields and limits
@@ -34,6 +34,10 @@ This page collects the limits and rules of the Simple mode screen. The details o
 | | Keywords | 5 per entry, 10 characters each |
 | | Content | 400 characters |
 | | Amount passed on at once | Found in the last 10 messages, at most 3 · 1,500 characters |
+| Shortcuts | Shortcuts | Up to 10. If you make one, it needs a name, description, and instruction |
+| | Name | 10 characters. Can't contain `/` or a line break |
+| | Description | 30 characters |
+| | Instruction | 400 characters |
 | Components | Usage Description | Required for each component · 500 characters |
 | | JSX code | Required · 20,000 characters. Needs a function name and at least 1 variable |
 | Optional | Description (HTML) | Optional · 50,000 characters |
@@ -44,7 +48,7 @@ This page collects the limits and rules of the Simple mode screen. The details o
 
 ## What's checked at Next and Done
 
-When you select the next button or **Done**, it checks in the order below and shows the message for the first item it catches. **Done** checks all seven steps again.
+When you select the next button or **Done**, it checks in the order below and shows the message for the first item it catches. **Done** checks all eight steps again.
 
 | Order | Step | What's checked |
 | --- | --- | --- |
@@ -53,8 +57,9 @@ When you select the next button or **Done**, it checks in the order below and sh
 | 3 | Intro | At least 1 opening, and that each has a title and content |
 | 4 | Settings | In the order Genres → Hashtags → Publishing scope → Monetization limits → Image source → Audience → Content rating → Marketing consent |
 | 5 | Lorebook | A name, keywords, and content for each lore entry you added |
-| 6 | Components | A usage description, code, a function name, and at least 1 variable for each component you added |
-| 7 | Optional | A name, gender, birth date, and details for each recommended persona you added |
+| 6 | Shortcuts | A name, description, and instruction for each shortcut you added |
+| 7 | Components | A usage description, code, a function name, and at least 1 variable for each component you added |
+| 8 | Optional | A name, gender, birth date, and details for each recommended persona you added |
 
 ## Image syntax
 

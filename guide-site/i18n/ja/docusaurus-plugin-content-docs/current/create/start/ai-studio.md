@@ -146,5 +146,5 @@ GoogleがAI Studioの画面を変えると、ボタンの位置が変わるこ�
 <CardGrid>
 <Card to="/create/components" icon="code" title="コンポーネントを入れる">エキスパートモードでコンポーネントを直し、プロンプトにつなげます。</Card>
 <Card to="/create/profile" icon="pen" title="作品紹介を整える">エキスパートモードの表紙と詳細説明を整えます。</Card>
-<Card to="/create/simple/extras" icon="layers" title="ロアブック・コンポーネント・オプション">かんたんモードのコンポーネントと詳細説明を埋めます。</Card>
+<Card to="/create/simple/extras" icon="layers" title="ロアブック・コマンド・コンポーネント・オプション">かんたんモードのコンポーネントと詳細説明を埋めます。</Card>
 </CardGrid>

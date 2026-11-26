@@ -1,16 +1,16 @@
 ---
 title: Learn about Expert mode
-seo_title: Learn about Expert mode - The seven tabs
-description: Learn what Expert mode's seven tabs do, where you write the settings and output rules the AI reads, what the smallest work needs, and when your work is saved.
+seo_title: Learn about Expert mode - The eight tabs
+description: Learn what Expert mode's eight tabs do, where you write the settings and output rules the AI reads, what the smallest work needs, and when your work is saved.
 slug: /create/expert/overview
 sidebar_position: 1
 last_update:
-  date: 2026-11-19
+  date: 2026-11-26
 ---
 
 # Learn about Expert mode
 
-Expert mode is the way you **write the settings and output rules the AI reads yourself**. The seven tabs on the creation screen split **the settings the AI reads** and **the screens users see** between them. Get the big picture here, then go on to [Create your first work](/create/first-work).
+Expert mode is the way you **write the settings and output rules the AI reads yourself**. The eight tabs on the creation screen split **the settings the AI reads** and **the screens users see** between them. Get the big picture here, then go on to [Create your first work](/create/first-work).
 
 [Before you start](/create/before-you-start) explains how it differs from Simple mode and which one to choose.
 
@@ -20,14 +20,14 @@ Select **Create** in the bottom menu, then select **Expert mode** in **Creation 
 
 <ScreenStep src="/img/screens/en/create-overview.webp" alt="The top of the creation screen. Numbers mark the tab row and the reset, save draft, and publish buttons" caption="The top of the creation screen">
 
-1. **Tab row**: Basic info · Assets · Components · Prompt · Openings · Lorebook · Settings. There's no fixed order, so you can start with any tab.
+1. **Tab row**: Basic info · Assets · Components · Prompt · Openings · Lorebook · Shortcuts · Settings. There's no fixed order, so you can start with any tab.
 2. **↺ (Reset creation content)**: Clears what you're entering and starts over. Drafts you already saved stay in **Content Management**.
 3. **Save draft**: Saves what you've written so far as a draft.
 4. **Publish**: Checks that nothing is missing and completes your work. If something is missing, it takes you to that tab and tells you.
 
 </ScreenStep>
 
-## What the seven tabs do
+## What the eight tabs do
 
 | Tab | What you write | Who reads it |
 | --- | --- | --- |
@@ -37,6 +37,7 @@ Select **Create** in the bottom menu, then select **Expert mode** in **Creation 
 | **Prompt** | The world, characters, hidden settings, story rules, and when to use images and components | The AI (every reply) |
 | **Openings** | The first message the AI sends when a chat starts | Users and the AI (the first scene) |
 | **Lorebook** | Settings sent to the AI only when certain words come up in a chat | The AI (when a keyword appears) |
+| **Shortcuts** | Instructions unique to your work that users pick with `/` in the chat input | The AI (only when a user picks one) |
 | **Settings** | Management items such as visibility, publishing scope, audience, and content rating | MYMI (classification and visibility) |
 
 :::info[What you write in Basic info doesn't reach the AI]
@@ -45,7 +46,7 @@ Even if you describe your characters in detail in the description, the AI doesn'
 
 ## What the smallest work needs
 
-You can complete a work without images, components, or a lorebook. This is everything you need:
+You can complete a work without images, components, a lorebook, or shortcuts. This is everything you need:
 
 - **Basic info**: Title, one-line description, 1 cover image, description, 1–2 genres, and at least 1 hashtag
 - **Prompt**: The work info of the Basic preset, or a prompt you write yourself

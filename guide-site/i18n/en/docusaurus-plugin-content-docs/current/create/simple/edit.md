@@ -5,12 +5,12 @@ description: Reopen and edit a Simple mode work from Content Management, learn w
 slug: /create/simple/edit
 sidebar_position: 6
 last_update:
-  date: 2026-10-07
+  date: 2026-11-26
 ---
 
 # Edit a work
 
-You edit a work made in Simple mode on the same seven-step screen you made it on. It opens in the mode the work was made in, so editing a work made in Expert mode is in [Publish and edit](/create/publish#edit-a-published-work).
+You edit a work made in Simple mode on the same eight-step screen you made it on. It opens in the mode the work was made in, so editing a work made in Expert mode is in [Publish and edit](/create/publish#edit-a-published-work).
 
 ## How to open it and move around
 
@@ -59,7 +59,7 @@ How to write in each step is the same as when you made the work.
 | **Assets** | Adding and deleting images, situation descriptions, character links, the profile image, Unlock required | [Assets and AI images](/create/simple/assets) |
 | **Intro** | Adding and deleting openings, titles, the first message | [Write the settings and the intro](/create/simple/write#the-intro) |
 | **Settings** | Genres, hashtags, visibility, publishing scope, and more | [Choose your work settings](/create/settings) |
-| **Lorebook · Components · Optional** | Lore entries, components, the description, recommended personas, Creator's Note | [Lorebook, components, and optional items](/create/simple/extras) |
+| **Lorebook · Shortcuts · Components · Optional** | Lore entries, shortcuts, components, the description, recommended personas, Creator's Note | [Lorebook, shortcuts, components, and optional items](/create/simple/extras) |
 
 ## Change the visibility
 

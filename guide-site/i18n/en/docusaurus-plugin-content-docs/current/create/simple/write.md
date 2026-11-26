@@ -148,5 +148,5 @@ It isn't replaced in the preview. It turns into the user's name in a real chat.
 
 <CardGrid>
 <Card to="/create/simple/assets" icon="image" title="Assets and AI images">Upload or make images and write their situation descriptions.</Card>
-<Card to="/create/simple/extras" icon="layers" title="Lorebook, components, and optional items">See the extra steps that are worth adding.</Card>
+<Card to="/create/simple/extras" icon="layers" title="Lorebook, shortcuts, components, and optional items">See the extra steps that are worth adding.</Card>
 </CardGrid>

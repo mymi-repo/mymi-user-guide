@@ -147,5 +147,5 @@ last_update:
 <CardGrid>
 <Card to="/create/components" icon="code" title="加入元件">在專家模式修改元件並連結到提示詞。</Card>
 <Card to="/create/profile" icon="pen" title="美化作品介紹">美化專家模式的封面與詳細說明。</Card>
-<Card to="/create/simple/extras" icon="layers" title="設定集、元件與選填">填寫簡易模式的元件與詳細說明。</Card>
+<Card to="/create/simple/extras" icon="layers" title="設定集、捷徑、元件與選填">填寫簡易模式的元件與詳細說明。</Card>
 </CardGrid>

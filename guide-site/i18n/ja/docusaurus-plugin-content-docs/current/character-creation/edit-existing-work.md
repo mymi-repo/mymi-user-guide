@@ -12,7 +12,7 @@ last_update:
 
 <CardGrid>
 <Card to="/create/simple/edit" icon="history" title="作品を編集する">かんたんモードで作った作品を開き直して直します。</Card>
-<Card to="/create/simple/overview" icon="pen" title="かんたんモードについて">7つのステップと、保存されるタイミングを確認します。</Card>
+<Card to="/create/simple/overview" icon="pen" title="かんたんモードについて">8つのステップと、保存されるタイミングを確認します。</Card>
 <Card to="/create/simple/reference" icon="list" title="入力項目と制限">かんたんモードの制限と、画像の書き方を確認します。</Card>
 <Card to="/create/publish" icon="send" title="公開と編集">エキスパートモードで作った作品は、ここで直します。</Card>
 </CardGrid>

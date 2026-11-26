@@ -4,12 +4,12 @@ description: Follow the example work "Underground Seoul" and fill in only Basic 
 slug: /create/simple/first-work
 sidebar_position: 2
 last_update:
-  date: 2026-10-07
+  date: 2026-11-26
 ---
 
 # Create your first work in Simple mode
 
-You can complete a work without a lorebook, components, or optional items. This page follows the example work **Underground Seoul** and fills in only the fields you must, all the way to **Done**.
+You can complete a work without a lorebook, shortcuts, components, or optional items. This page follows the example work **Underground Seoul** and fills in only the fields you must, all the way to **Done**.
 
 :::tip[What you need]
 - 1 image to show in chats (JPG, PNG, WEBP, GIF, HEIC · up to 5MB)
@@ -22,7 +22,7 @@ You can complete a work without a lorebook, components, or optional items. This 
 | 2 | **Assets** | One image and its situation description |
 | 3 | **Intro** | The opening title and the first message |
 | 4 | **Settings** | Genres, hashtags, and five required items |
-| 5 | **Lorebook · Components · Optional** | Leave empty and move on |
+| 5 | **Lorebook · Shortcuts · Components · Optional** | Leave empty and move on |
 | 6 | **Done** | Make the work |
 
 ## 1. Fill in Basic Info
@@ -167,7 +167,7 @@ In the **Settings** step, choose every item marked with a red `*`. Start with **
 
 ## 5. Skip the rest and finish
 
-**Lorebook**, **Components**, and **Optional** are optional steps. Leave them empty for now and keep selecting the next button to the end.
+**Lorebook**, **Shortcuts**, **Components**, and **Optional** are optional steps. Leave them empty for now and keep selecting the next button to the end.
 
 <ScreenStep src="/img/screens/en/simple-finish.webp" device="part" alt="The Done button below the Optional step" caption="The Done button on the last step">
 

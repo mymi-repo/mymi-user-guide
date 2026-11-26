@@ -13,7 +13,7 @@ last_update:
 元件是**AI 在聊天中顯示的 UI**。先做好狀態視窗、道具欄、選項這類想呈現的內容，AI 就會在需要時呼叫。不懂程式碼也沒關係，可以透過**用 Google AI Studio 製作**來做。
 
 :::info
-這是專家模式的說明。簡易模式請見 [設定集、元件與選填](/create/simple/extras#components)。
+這是專家模式的說明。簡易模式請見 [設定集、捷徑、元件與選填](/create/simple/extras#components)。
 :::
 
 ## 新增元件

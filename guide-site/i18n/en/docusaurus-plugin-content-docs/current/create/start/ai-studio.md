@@ -146,5 +146,5 @@ Image addresses are included in the work info only when your assets have finishe
 <CardGrid>
 <Card to="/create/components" icon="code" title="Add components">Edit components in Expert mode and connect them to the prompt.</Card>
 <Card to="/create/profile" icon="pen" title="Decorate your work page">Decorate the cover and description in Expert mode.</Card>
-<Card to="/create/simple/extras" icon="layers" title="Lorebook, components, and optional items">Fill in components and the description in Simple mode.</Card>
+<Card to="/create/simple/extras" icon="layers" title="Lorebook, shortcuts, components, and optional items">Fill in components and the description in Simple mode.</Card>
 </CardGrid>

@@ -5,7 +5,7 @@ description: 会話に特定のキーワードが出たときだけAIに渡さ�
 slug: /create/lorebook
 sidebar_position: 8
 last_update:
-  date: 2026-10-03
+  date: 2026-11-26
 ---
 
 # ロアブックを書く
@@ -13,7 +13,7 @@ last_update:
 ロアブックは、**会話にキーワードが出ると、そのロアの内容がAIに渡される設定集**です。いつも知っている必要はないけれど、名前が出たときには知っておくべきこと ― たとえば世界観の用語・場所・組織・人物の秘密 ― を書きます。
 
 :::info
-エキスパートモードの案内です。かんたんモードは、[ロアブック・コンポーネント・オプション](/create/simple/extras#ロアブック)をご覧ください。ロアを探す仕組みは、2つのモードで同じです。
+エキスパートモードの案内です。かんたんモードは、[ロアブック・コマンド・コンポーネント・オプション](/create/simple/extras#ロアブック)をご覧ください。ロアを探す仕組みは、2つのモードで同じです。
 :::
 
 ## プロンプトとの違い
@@ -102,4 +102,5 @@ last_update:
 <CardGrid>
 <Card to="/create/components" icon="code" title="コンポーネントを入れる">ステータスウィンドウのようなUIを会話に表示します。</Card>
 <Card to="/create/prompt" icon="book" title="プロンプトを書く">常に渡される設定を整えます。</Card>
+<Card to="/create/shortcuts" icon="chat" title="コマンドを作る">ユーザーが/から選んで呼び出す指示を作ります。</Card>
 </CardGrid>

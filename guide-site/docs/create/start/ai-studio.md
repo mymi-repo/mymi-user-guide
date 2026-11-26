@@ -146,5 +146,5 @@ Google이 AI Studio 화면을 바꾸면 버튼 위치가 달라질 수 있어요
 <CardGrid>
 <Card to="/create/components" icon="code" title="컴포넌트 넣기">전문가 모드에서 컴포넌트를 고치고 프롬프트에 연결해요.</Card>
 <Card to="/create/profile" icon="pen" title="작품 소개 꾸미기">전문가 모드의 표지와 상세 설명을 꾸며요.</Card>
-<Card to="/create/simple/extras" icon="layers" title="로어북·컴포넌트·선택사항">간편 모드의 컴포넌트와 상세 설명을 채워요.</Card>
+<Card to="/create/simple/extras" icon="layers" title="로어북·단축어·컴포넌트·선택사항">간편 모드의 컴포넌트와 상세 설명을 채워요.</Card>
 </CardGrid>

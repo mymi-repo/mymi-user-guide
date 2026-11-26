@@ -5,7 +5,7 @@ description: Learn to make entries whose content is sent to the AI only when a c
 slug: /create/lorebook
 sidebar_position: 8
 last_update:
-  date: 2026-10-03
+  date: 2026-11-26
 ---
 
 # Write the lorebook
@@ -13,7 +13,7 @@ last_update:
 The lorebook is **a set of entries whose content is sent to the AI when their keyword comes up in the conversation.** Write things the AI doesn't always need to know but must know once a name comes up, like world terms, places, organizations, and characters' secrets.
 
 :::info
-This is the Expert mode guide. For Simple mode, see [Lorebook, components, and optional items](/create/simple/extras#lorebook). Both modes find lore entries the same way.
+This is the Expert mode guide. For Simple mode, see [Lorebook, shortcuts, components, and optional items](/create/simple/extras#lorebook). Both modes find lore entries the same way.
 :::
 
 ## How it differs from the prompt
@@ -102,4 +102,5 @@ Even after an entry is sent, the AI's replies can still differ every time.
 <CardGrid>
 <Card to="/create/components" icon="code" title="Add components">Show UI such as a status window in chats.</Card>
 <Card to="/create/prompt" icon="book" title="Write the prompt">Polish the settings that are always sent.</Card>
+<Card to="/create/shortcuts" icon="chat" title="Make shortcuts">Write instructions that users pick with /.</Card>
 </CardGrid>

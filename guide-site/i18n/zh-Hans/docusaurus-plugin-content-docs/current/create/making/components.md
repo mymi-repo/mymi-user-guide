@@ -13,7 +13,7 @@ last_update:
 组件是**AI 在聊天中显示的 UI**。先做好状态窗口、道具栏、选项这类想呈现的内容，AI 就会在需要时调用。不懂代码也没关系，可以通过**用 Google AI Studio 制作**来做。
 
 :::info
-这是专家模式的说明。简易模式请见 [设定集、组件与选填](/create/simple/extras#components)。
+这是专家模式的说明。简易模式请见 [设定集、快捷指令、组件与选填](/create/simple/extras#components)。
 :::
 
 ## 添加组件

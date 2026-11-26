@@ -5,7 +5,7 @@ description: Learn how Simple mode and Expert mode differ, how to pick one, what
 slug: /create/before-you-start
 sidebar_position: 1
 last_update:
-  date: 2026-10-07
+  date: 2026-11-26
 ---
 
 # Before you start
@@ -32,7 +32,7 @@ Select one and the mode switches, then the **Basic Info** tab of that mode opens
 | Where you write the AI settings | The world, characters, and secret fields in **Basic Info**. MYMI gathers them and hands them to the AI | The **Prompt** tab. Fields split up with **Basic**, or one block with **Write it myself** |
 | Images | You write a **situation description** for each image and link a character. The AI reads the descriptions and picks a fitting image | You organize them with folders and codes, and write in the prompt when to show them |
 | Components, like status windows | You write when to use each component in its **Usage Description** | You write it in the prompt's **Component output rules** |
-| Screen | Seven steps. You move through them with the next button | Seven tabs. You can start with any tab |
+| Screen | Eight steps. You move through them with the next button | Eight tabs. You can start with any tab |
 | Saving | Saved to the work each time you select the next button | Saved automatically when you switch tabs. There are **Save draft** and **Publish** |
 | Editing a published work | Your edits take effect the moment you move on with the next button | Your edits take effect only when you select **Apply changes** |
 | Images you must have | At least 1 asset and 1 profile image marked with ★ | 1–10 **Cover** images. Assets are optional |

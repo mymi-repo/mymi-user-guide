@@ -5,7 +5,7 @@ description: 说明如何创建只在对话中出现特定关键字时才传给 
 slug: /create/lorebook
 sidebar_position: 8
 last_update:
-  date: 2026-11-08
+  date: 2026-11-26
 ---
 
 # 撰写设定集
@@ -13,7 +13,7 @@ last_update:
 设定集是**对话中出现关键字时，就把该条设置的内容传给 AI 的设置数据库**。写下不需要随时知道、但名称出现时必须知道的事，例如世界观用语、地点、组织、人物的秘密。
 
 :::info
-这是专家模式的说明。简易模式请见 [设定集、组件与选填](/create/simple/extras#lorebook)。两种模式寻找条目的方式相同。
+这是专家模式的说明。简易模式请见 [设定集、快捷指令、组件与选填](/create/simple/extras#lorebook)。两种模式寻找条目的方式相同。
 :::
 
 ## 和提示词有什么不同
@@ -102,4 +102,5 @@ last_update:
 <CardGrid>
 <Card to="/create/components" icon="code" title="加入组件">把状态窗口之类的 UI 显示在对话中。</Card>
 <Card to="/create/prompt" icon="book" title="撰写提示词">调整会一直发送的设置。</Card>
+<Card to="/create/shortcuts" icon="chat" title="创建快捷指令">创建用户用 / 选择调用的指令。</Card>
 </CardGrid>

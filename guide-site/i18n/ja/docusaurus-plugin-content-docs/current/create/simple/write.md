@@ -149,5 +149,5 @@ last_update:
 
 <CardGrid>
 <Card to="/create/simple/assets" icon="image" title="アセットとAI画像">画像をアップロードまたは作成して、状況説明を書きます。</Card>
-<Card to="/create/simple/extras" icon="layers" title="ロアブック・コンポーネント・オプション">追加するとよいステップを確認します。</Card>
+<Card to="/create/simple/extras" icon="layers" title="ロアブック・コマンド・コンポーネント・オプション">追加するとよいステップを確認します。</Card>
 </CardGrid>

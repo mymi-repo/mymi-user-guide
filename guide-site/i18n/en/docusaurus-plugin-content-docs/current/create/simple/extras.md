@@ -1,15 +1,16 @@
 ---
-title: Lorebook, components, and optional items
-description: "Use Simple mode's optional steps: lore sent only when a keyword comes up, chat status windows, an HTML Description, recommended personas, and a Creator's Note."
+title: Lorebook, shortcuts, components, and optional items
+seo_title: Lorebook and shortcuts - Simple mode steps
+description: "Use Simple mode's optional steps: lore sent on a keyword, shortcuts users pick with /, status windows, an HTML Description, personas, and a Creator's Note."
 slug: /create/simple/extras
 sidebar_position: 5
 last_update:
-  date: 2026-11-20
+  date: 2026-11-26
 ---
 
-# Lorebook, components, and optional items
+# Lorebook, shortcuts, components, and optional items
 
-**Lorebook**, **Components**, and **Optional** are optional steps. You can complete a work with them empty, and you fill them in when you want to add them. If you do add something, you have to fill in all its required fields before the next button lets you move on.
+**Lorebook**, **Shortcuts**, **Components**, and **Optional** are optional steps. You can complete a work with them empty, and you fill them in when you want to add them. If you do add something, you have to fill in all its required fields before the next button lets you move on.
 
 ## Lorebook
 
@@ -47,6 +48,45 @@ These are the example work's lore entries.
 - Write words that will actually come up in chats. Add abbreviations and nicknames too. For a name that can be written with or without a space, add both.
 - Avoid very common words. They match in almost every chat, so the lore entry you actually need may not make it into the 3.
 - Keep the content to short facts. Put the way of speaking and the direction of the story in the story setting and the character descriptions.
+
+## Shortcuts
+
+A shortcut **sends an instruction you wrote in advance to the AI along with a user's message when they pick it with `/` in the chat input**. Use it to add moments unique to your story, like a diary, a phone, or a social feed. Users see only the name and description, not the instruction.
+
+Lore entries are sent automatically when their keyword comes up in a chat, but a shortcut is sent only when a user picks it.
+
+<ScreenStep src="/img/screens/en/simple-shortcuts.webp" alt="The Shortcuts step. Below the 2/10 count and the guidance text, the /diary shortcut card is unfolded with its name, description, and instruction, and Add shortcut and Import from my shortcuts are below it" caption="The Shortcuts step">
+
+1. Select **Add shortcut**. You can make up to 10 per work.
+2. Unfold the card and fill in the **Name**, **Description**, and **Instruction**.
+3. Select the card again to fold it so only `/name` and the description show. The trash icon on the card deletes it right away.
+
+</ScreenStep>
+
+- **Name**: The name users see in the shortcut list above the chat input, like `/diary`. Up to 10 characters, and it can't contain `/` or a line break.
+- **Description**: A short description shown with the name in the list. Up to 30 characters.
+- **Instruction**: The instruction sent to the AI along with the message when a user picks this shortcut. Up to 400 characters.
+
+If you've made your own shortcuts in chats, use **Import from my shortcuts** to pick several and add them. You can't pick one with the same name as a shortcut already in this work. They're added as copies, so edit them in the work, separately from your own shortcuts.
+
+These are the example work's shortcuts.
+
+| Name | Description | Instruction |
+| --- | --- | --- |
+| diary | Read Min-woo's diary for today | For this reply only, write it as Kang Min-woo's diary entry for tonight instead of dialogue. In the first person, cover what happened today and how Min-woo really feels, with no narration outside the diary. |
+| radio | Listen in on Bureau radio | For this reply only, write nothing but the Bureau's radio traffic: three or four short lines exchanged near the quarantine station and Exit 7. Leave Min-woo and Seo-yeon out of it. |
+
+**What users see**
+
+- When users select the **Shortcuts** button in the chat input or type `/`, a list appears above the input. Your work's shortcuts are in the **Creator** tab.
+- When a user picks a shortcut and sends a message, the instruction is sent for that one reply only. If they select **Regenerate**, the same instruction is used again. It isn't added to any later messages.
+- Users who aren't logged in can't use shortcuts. Users chatting in another language see a shortcut once it's translated into their language.
+
+**Tips for writing instructions**
+
+- Say what to change in that reply, like "For this reply only, write it as …". Setting the format and length, like one diary entry or three or four lines of radio chatter, makes replies more consistent.
+- Write character names yourself. Example: "Kang Min-woo"
+- Keep settings the AI always needs in the story setting and characters. An instruction only applies to the one reply after a user picks that shortcut.
 
 ## Components
 
@@ -177,6 +217,13 @@ Leave a message about your work. Up to 3,000 characters. It shows on the work pa
 <summary>It says "Some lore entries have no keywords."</summary>
 
 Check that you wrote a keyword and pressed Enter or a comma to add it. The keyword has to show on the card to be added. Delete half-made entries with the trash icon. An entry with an empty name or content gets the same message.
+
+</details>
+
+<details>
+<summary>It says "Some shortcuts have no name."</summary>
+
+One of the shortcuts you made has an empty name. If a description or instruction is empty, you see "Some shortcuts have no description." or "Some shortcuts have no instruction." Fill in the empty field, or delete a shortcut you won't use with its trash icon.
 
 </details>
 

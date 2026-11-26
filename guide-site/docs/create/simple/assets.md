@@ -259,6 +259,6 @@ AI의 답은 매번 달라서 가끔 알맞은 이미지를 고르지 못할 수
 ## 다음에 할 일
 
 <CardGrid>
-<Card to="/create/simple/extras" icon="layers" title="로어북·컴포넌트·선택사항">더하면 좋은 단계를 알아봐요.</Card>
+<Card to="/create/simple/extras" icon="layers" title="로어북·단축어·컴포넌트·선택사항">더하면 좋은 단계를 알아봐요.</Card>
 <Card to="/create/settings" icon="list" title="작품 설정 고르기">이미지 출처와 공개 범위를 골라요.</Card>
 </CardGrid>

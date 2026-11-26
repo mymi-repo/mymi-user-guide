@@ -149,5 +149,5 @@ last_update:
 
 <CardGrid>
 <Card to="/create/simple/assets" icon="image" title="에셋과 AI 이미지">이미지를 올리거나 만들고 상황 설명을 적어요.</Card>
-<Card to="/create/simple/extras" icon="layers" title="로어북·컴포넌트·선택사항">더하면 좋은 단계를 알아봐요.</Card>
+<Card to="/create/simple/extras" icon="layers" title="로어북·단축어·컴포넌트·선택사항">더하면 좋은 단계를 알아봐요.</Card>
 </CardGrid>

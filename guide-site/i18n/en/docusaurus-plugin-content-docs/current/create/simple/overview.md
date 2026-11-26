@@ -1,28 +1,28 @@
 ---
 title: Learn about Simple mode
-seo_title: Learn about Simple mode - The seven steps
-description: Learn Simple mode's seven steps, where you fill in fields and the AI settings are built for you, what the AI reads versus what users see, and what's required.
+seo_title: Learn about Simple mode - The eight steps
+description: Learn Simple mode's eight steps, where you fill in fields and the AI settings are built for you, what the AI reads versus what users see, and what's required.
 slug: /create/simple/overview
 sidebar_position: 1
 last_update:
-  date: 2026-10-07
+  date: 2026-11-26
 ---
 
 # Learn about Simple mode
 
-Simple mode is the way you **fill in the fields and MYMI gathers what you wrote into the AI settings**. You move through the seven steps one at a time with the **>** (Next) button at the bottom right. If this is your first work, start with [Create your first work in Simple mode](/create/simple/first-work).
+Simple mode is the way you **fill in the fields and MYMI gathers what you wrote into the AI settings**. You move through the eight steps one at a time with the **>** (Next) button at the bottom right. If this is your first work, start with [Create your first work in Simple mode](/create/simple/first-work).
 
 ## Open in Simple mode
 
 - A new work starts in Simple mode. Just select **Create** in the bottom menu. If it's open in another mode, select **Simple mode** in **Creation mode** at the top of the **Basic Info** tab. ([Before you start](/create/before-you-start#choose-a-creation-mode))
 - When you select **Edit** on a work made in Simple mode from **Profile → Content Management**, it opens in Simple mode.
 
-## The screen and the seven steps
+## The screen and the eight steps
 
-<ScreenStep src="/img/screens/en/simple-overview.webp" alt="The top and bottom of the Simple mode screen. At the top are the Create title and the reset button, with Basic Info, Assets, Intro, Settings, Lorebook, Components, and Optional in the tab row, and the next button at the bottom" caption="The Simple mode screen">
+<ScreenStep src="/img/screens/en/simple-overview.webp" alt="The top and bottom of the Simple mode screen. At the top are the Create title and the reset button, with Basic Info, Assets, Intro, Settings, Lorebook, Shortcuts, Components, and Optional in the tab row, and the next button at the bottom" caption="The Simple mode screen">
 
 1. **↺** (Reset creation content): Clears the screen you're entering and starts over. Drafts you already saved stay in **Content Management**.
-2. **Tab row**: Basic Info · Assets · Intro · Settings · Lorebook · Components · Optional. The current step is shown in purple.
+2. **Tab row**: Basic Info · Assets · Intro · Settings · Lorebook · Shortcuts · Components · Optional. The current step is shown in purple.
 3. **>** (Next) button: Checks this step, saves it, and goes to the next step. On the last step it turns into **Done**.
 
 </ScreenStep>
@@ -34,10 +34,11 @@ Simple mode is the way you **fill in the fields and MYMI gathers what you wrote 
 | **Intro** | The first message the AI sends when a chat starts | Required |
 | **Settings** | Management items such as genres, hashtags, visibility, and publishing scope | Required |
 | **Lorebook** | Settings sent to the AI only when certain words come up | Optional |
+| **Shortcuts** | Instructions unique to your work that users pick with `/` in the chat input | Optional |
 | **Components** | UI that pops up inside chats, like status windows and choices | Optional |
 | **Optional** | Description, recommended personas, Creator's Note | Optional |
 
-You can complete a work with Lorebook, Components, and Optional left empty. How to write each step is in [Write the settings and the intro](/create/simple/write), [Assets and AI images](/create/simple/assets), and [Lorebook, components, and optional items](/create/simple/extras).
+You can complete a work with Lorebook, Shortcuts, Components, and Optional left empty. How to write each step is in [Write the settings and the intro](/create/simple/write), [Assets and AI images](/create/simple/assets), and [Lorebook, shortcuts, components, and optional items](/create/simple/extras).
 
 ## What the AI reads and what users see
 
@@ -53,6 +54,7 @@ In Simple mode, it matters which fields the AI reads and which ones users see.
 | An asset's situation description | Reads it (when Image Output Instructions is **Internal Images**) | Not shown |
 | A component's usage description and variables | Reads them | Not shown |
 | Lorebook | Reads it only when a keyword comes up | Not shown |
+| A shortcut's instruction | Reads it only when a user picks that shortcut, for that one reply | Not shown. Only the name and description appear in the shortcut list |
 | Description (Optional) | Doesn't read it | Work page |
 | Creator's Note | Doesn't read it | Work page |
 
@@ -86,6 +88,7 @@ If any of the items below are empty when you select the next button, a message a
 | Intro | At least 1 opening, and that each has a title and content |
 | Settings | 1–2 genres, at least 1 hashtag, publishing scope, monetization limits, image source, audience, and marketing consent |
 | Lorebook | A name, keywords, and content for each lore entry you added |
+| Shortcuts | A name, description, and instruction for each shortcut you added |
 | Components | A usage description, code, a function name, and at least 1 variable for each component you added |
 | Optional | A name, gender, birth date, and details for each recommended persona you added |
 
@@ -110,7 +113,7 @@ Fill it in as the message says, then select the next button again.
 <details>
 <summary>What I wrote in the story setting shows up as it is on the work page</summary>
 
-That's how it works. If you haven't written a description, the work page shows the story setting and the character descriptions. Move any setting you need to hide from users to the **Secrets** field. If you want to decorate the work page yourself, set the **Description** in **Optional** to **Use** and write the introduction in HTML. Then that text is shown instead of the story setting and characters. ([Lorebook, components, and optional items](/create/simple/extras#description))
+That's how it works. If you haven't written a description, the work page shows the story setting and the character descriptions. Move any setting you need to hide from users to the **Secrets** field. If you want to decorate the work page yourself, set the **Description** in **Optional** to **Use** and write the introduction in HTML. Then that text is shown instead of the story setting and characters. ([Lorebook, shortcuts, components, and optional items](/create/simple/extras#description))
 
 </details>
 

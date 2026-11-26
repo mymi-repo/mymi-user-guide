@@ -11,6 +11,6 @@ last_update:
 设定集的说明已经搬到**创作指南**。设定集在简易模式与专家模式以相同的方式运作。
 
 <CardGrid>
-<Card to="/create/simple/extras#lorebook" icon="book" title="设定集、组件与选填">查看简易模式的设定集步骤。</Card>
+<Card to="/create/simple/extras#lorebook" icon="book" title="设定集、快捷指令、组件与选填">查看简易模式的设定集步骤。</Card>
 <Card to="/create/lorebook" icon="book" title="撰写设定集">查看专家模式的设定集分页，以及挑选关键字的诀窍。</Card>
 </CardGrid>

@@ -5,7 +5,7 @@ description: 說明如何建立只在對話中出現特定關鍵字時才傳給 
 slug: /create/lorebook
 sidebar_position: 8
 last_update:
-  date: 2026-11-17
+  date: 2026-11-26
 ---
 
 # 撰寫設定集
@@ -13,7 +13,7 @@ last_update:
 設定集是**對話中出現關鍵字時，就把該條設定的內容傳給 AI 的設定資料庫**。寫下不需要隨時知道、但名稱出現時必須知道的事，例如世界觀用語、地點、組織、人物的秘密。
 
 :::info
-這是專家模式的說明。簡易模式請見 [設定集、元件與選填](/create/simple/extras#lorebook)。兩種模式尋找條目的方式相同。
+這是專家模式的說明。簡易模式請見 [設定集、捷徑、元件與選填](/create/simple/extras#lorebook)。兩種模式尋找條目的方式相同。
 :::
 
 ## 和提示詞有什麼不同
@@ -101,4 +101,5 @@ last_update:
 <CardGrid>
 <Card to="/create/components" icon="code" title="加入元件">把狀態視窗之類的 UI 顯示在對話中。</Card>
 <Card to="/create/prompt" icon="book" title="撰寫提示詞">調整會一直傳送的設定。</Card>
+<Card to="/create/shortcuts" icon="chat" title="建立捷徑">建立使用者用 / 選擇呼叫的指令。</Card>
 </CardGrid>

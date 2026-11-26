@@ -259,6 +259,6 @@ AIの返信は毎回変わるので、ときどき合う画像を選べないこ
 ## 次のステップ
 
 <CardGrid>
-<Card to="/create/simple/extras" icon="layers" title="ロアブック・コンポーネント・オプション">追加するとよいステップを確認します。</Card>
+<Card to="/create/simple/extras" icon="layers" title="ロアブック・コマンド・コンポーネント・オプション">追加するとよいステップを確認します。</Card>
 <Card to="/create/settings" icon="list" title="作品の設定を選ぶ">画像の出典と公開範囲を選びます。</Card>
 </CardGrid>

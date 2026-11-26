@@ -5,7 +5,7 @@ description: The character and count limits of the Expert mode creation screen, 
 slug: /create/limits
 sidebar_position: 11
 last_update:
-  date: 2026-11-19
+  date: 2026-11-26
 ---
 
 # Limits and rules at a glance
@@ -42,6 +42,10 @@ This is the Expert mode guide. For Simple mode, see [Fields and limits](/create/
 | | Keywords | 5 per entry, 10 characters each |
 | | Content | 400 characters |
 | | Sent at once | Searched in the last 10 messages, up to 3 entries · 1,500 characters |
+| Shortcuts | Shortcuts | Up to 10. If you make one, it needs a name, description, and instruction |
+| | Name | 10 characters. Can't contain `/` or a line break |
+| | Description | 30 characters |
+| | Instruction | 400 characters |
 | Settings | Recommended personas | Optional. If you make one, it needs a name (20 characters), gender, birth date (14 or older), and details (1,000 characters) |
 
 ## What Publish checks
@@ -56,7 +60,8 @@ When you select **Publish** (**Apply changes** for a published work), it checks 
 | 4 | Prompt | Write it myself: the prompt. Basic: the work info, the meanings of the character, situation, and other codes, when components appear, and no more than 10,000 characters in total |
 | 5 | Openings | At least 1, and every one has a title and content |
 | 6 | Lorebook | The keywords, content, and name of each entry you added |
-| 7 | Settings | Publishing scope, monetization limits, image source, audience, marketing consent, and the four fields of each recommended persona you added |
+| 7 | Shortcuts | The name, description, and instruction of each shortcut you added |
+| 8 | Settings | Publishing scope, monetization limits, image source, audience, marketing consent, and the four fields of each recommended persona you added |
 
 Visibility (Public) and Content rating (All ages) are already chosen.
 

@@ -149,5 +149,5 @@ last_update:
 
 <CardGrid>
 <Card to="/create/simple/assets" icon="image" title="素材與 AI 圖片">上傳或製作圖片，並寫下情境說明。</Card>
-<Card to="/create/simple/extras" icon="layers" title="設定集、元件與選填">了解值得加入的其他步驟。</Card>
+<Card to="/create/simple/extras" icon="layers" title="設定集、捷徑、元件與選填">了解值得加入的其他步驟。</Card>
 </CardGrid>

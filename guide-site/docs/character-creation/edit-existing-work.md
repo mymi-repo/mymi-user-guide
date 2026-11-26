@@ -12,7 +12,7 @@ last_update:
 
 <CardGrid>
 <Card to="/create/simple/edit" icon="history" title="작품 수정하기">간편 모드로 만든 작품을 다시 열어 고쳐요.</Card>
-<Card to="/create/simple/overview" icon="pen" title="간편 모드 알아보기">일곱 단계와 저장되는 때를 알아봐요.</Card>
+<Card to="/create/simple/overview" icon="pen" title="간편 모드 알아보기">여덟 단계와 저장되는 때를 알아봐요.</Card>
 <Card to="/create/simple/reference" icon="list" title="입력 항목과 제한">간편 모드의 제한과 이미지 문법을 봐요.</Card>
 <Card to="/create/publish" icon="send" title="공개하고 고치기">전문가 모드로 만든 작품은 여기서 고쳐요.</Card>
 </CardGrid>

@@ -229,6 +229,8 @@ i18n/zh-TW/docusaurus-plugin-content-docs/current/account/sign-up.md
 
 2026-11-21 Google AI Studio 공개 원본을 MYMI 화면 언어마다 하나씩 두었다(19개, 목록은 FE `docs/FE/AI-Studio/README.md`). MYMI의 'Google AI Studio 열기'가 화면 언어의 원본을 열어(FE `dd537345a`), 원본 이름(Remix 창 기본값·My apps)과 작업실 첫 화면이 그 언어로 나온다. 영어·일본어·번체·간체 `create/start/ai-studio.md`의 Remix 단계·Remix 창·My apps 이미지를 그 언어 원본에서 다시 찍어 언어별로 바꿨다. Remix 단계는 한국어판처럼 창 전체를 보여 주고, 오른쪽 위만 잘라 네 언어가 같이 쓰던 `ai-studio/remix-top.webp`는 지웠다. 본문 글은 그대로다. 용어집 3절 「Google AI Studio 작업실」 표에 원본 이름 줄을 더했다.
 
+2026-11-26 작품 제작 화면의 단축어 탭을 안내했다. 2026-11-05(FE `e08abcabb`)부터 간편 모드와 전문가 모드 모두 로어북 다음에 단축어 탭이 있어 탭이 여덟 개인데, 가이드는 일곱 개로 안내하고 단축어를 다루지 않았다. 다섯 언어의 간편 모드 쪽(알아보기 · 입력 항목과 제한 · 선택 단계 쪽 · 작품 수정하기 · 첫 작품 만들기 · 전문가 모드로 옮기기)과 시작하기 전에, 전문가 모드 쪽(알아보기 · 첫 작품 만들기의 검사 순서 · 제한과 규칙 한눈에 · 로어북 쓰기)을 고치고, 전문가 모드에 「단축어 만들기」(`create/making/shortcuts.md`, 주소 `/create/shortcuts`)를 새로 냈다. 영어·일본어·번체·간체는 원어민 페르소나 검수를 거쳤다. 간편 모드 선택 단계 쪽의 제목은 「로어북·단축어·컴포넌트·선택사항」으로 바꾸고, 그 쪽을 가리키는 카드·링크 글자를 함께 고쳤다. 값의 근거는 BE `utils/content/shortcuts.py`(작품당 10개, 이름 10자 · 설명 30자 · 지시문 400자)와 FE `packages/src/stores/content-creation/validation.js`·`content-creation-v2/validation.js`(세 칸 모두 필수)다. 값이 바뀌면 다섯 언어의 이 쪽들과 제한 표 두 쪽을 함께 고친다. 간체판은 「八个步骤」·전문가 모드 탭 목록까지만 바뀌어 있어 나머지 표와 탭 목록을 채웠다. 화면은 네 언어의 `simple-overview`(탭 줄)를 다시 찍고 `simple-shortcuts`·`shortcuts`를 새로 찍었다(아래 '제작 가이드의 화면 캡처'). 간체는 캡처 도구가 지원하지 않아 단축어 두 곳을 캡처 없이 본문만 둔다. 간체 검수에서 이번 범위 밖의 문제도 확인했다: 간체판 전체에 대만식 표기(分页·关键字·设置·传出·画面·范例·「」·撰写)가 남아 있고, 화면 이름이 간체 앱과 다른 곳(간편 모드 단계 介绍·设置 ↔ 앱 开场白·其他设置, 머리 버튼 保存草稿·完成制作·套用变更 ↔ 存草稿·发布·应用修改, 설정집 添加设置·关键字·收合 ↔ 添加设定条目·关键词·收起, 하단 메뉴 创建·个人资料 ↔ 创作·我的)이 있다. 간체 앱 문구로 한 번에 훑어 고칠 일로 남긴다.
+
 GitBook의 `{% hint %}` 블록은 Docusaurus admonition으로 자동 변환됨:
 - `:::info` / `:::tip` / `:::warning` / `:::danger`
 
@@ -276,6 +278,7 @@ GitBook의 `{% hint %}` 블록은 Docusaurus admonition으로 자동 변환됨:
 **2026-10-07부터 문서에서 쓰는 제작 가이드 화면은 네 언어 모두 실제 웹 앱 캡처다**(언어별 69장). 문서에서 쓰지 않는 `legacy-assets`·`legacy-editor` 두 장만 예전 그림 그대로다. 찍는 도구는 사용자 PC 의 `C:\w\guide-capture`(Git 밖, 사용법은 `tools/README.md`)에 있다. origin/main 을 스크래치 복사본으로 뽑아 개발 서버(3100번)에서 찍고, API 는 가짜 응답으로 가로채며 외부 요청은 막는다. 예시 작품의 글은 각 언어 문서의 코드 블록과 표에서 읽어 문서와 화면이 글자까지 같다. 앱 화면이 바뀌면 같은 이름으로 다시 찍어 덮어쓴다.
 
 - 2026-10-25 에 간편 모드 `simple-components`·`simple-optional`(네 언어)을 'Google AI Studio로 만들기' 블록이 바뀐 화면으로 다시 찍었다. `C:\w\guide-capture` 가 이 PC 에 없어 FE 저장소의 `local_scripts/FE/guide-screens-simple`(같은 스크래치 복사본·3100번·가짜 응답 방식, 사용법은 그 폴더 README)로 찍었다. 그 단계에 처음 들어가면 뜨는 AI Studio 가이드 시트는 닫고 찍는다.
+- 2026-11-26 에 간편 모드 `simple-overview`(단축어 탭이 생긴 탭 줄)·`simple-shortcuts`와 전문가 모드 `shortcuts`를 네 언어로 찍었다. 같은 도구(`local_scripts/FE/guide-screens-simple`, 스크래치는 FE `18c568ae9`)에 두 샷과 언어별 예시 단축어(`example-simple.mjs` 의 `shortcuts`)를 더했다. 예시 단축어 글은 각 언어 문서의 표와 같다. 390px 폭에서는 탭 줄이 넘쳐 `simple-overview` 에 단축어 탭이 다 보이지 않는다(번체만 보이고 한국어는 반쯤, 영어·일본어는 안 보인다).
 - 추천 그림체 썸네일은 운영 공개 API(`/contents/recommended-image-styles`)가 주는 그림을 한 번 받아 쓴다. 추천 태그 이름은 앱 상수에서, 상수에 없는 예시 태그(지하철역·까칠한 수염 등)는 서버 번역(`tags_v4.translations`)에서 고른다.
 - 기본형의 조립된 프롬프트는 BE 조립 함수를 그대로 불러 찍는다. BE 템플릿이 한국어뿐이라 세 언어판 그림에도 `### 작품 정보` 같은 한국어 제목과 규칙 문장이 보인다(앱과 같다).
 - 추천 페르소나 카드 머리의 성별은 앱이 저장값(`여성`)을 그대로 보여 줘 모든 언어에서 한국어로 나온다(앱과 같다).

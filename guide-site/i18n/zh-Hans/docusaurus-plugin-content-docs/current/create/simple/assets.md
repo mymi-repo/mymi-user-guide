@@ -257,6 +257,6 @@ AI 的回复每次都不一样，偶尔可能挑不出合适的图片。
 ## 下一步
 
 <CardGrid>
-<Card to="/create/simple/extras" icon="layers" title="设定集、组件与选填">了解值得加入的其他步骤。</Card>
+<Card to="/create/simple/extras" icon="layers" title="设定集、快捷指令、组件与选填">了解值得加入的其他步骤。</Card>
 <Card to="/create/settings" icon="list" title="选择作品设置">选择图片来源与公开范围。</Card>
 </CardGrid>

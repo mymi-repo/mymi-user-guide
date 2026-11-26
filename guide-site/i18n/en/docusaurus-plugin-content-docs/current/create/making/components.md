@@ -13,7 +13,7 @@ last_update:
 A component is **UI the AI shows during a chat**. Build things you want to show, like a status window, an inventory, or choices, and the AI calls them when needed. You can make one without knowing code by using **Create with Google AI Studio**.
 
 :::info
-This is the Expert mode guide. For Simple mode, see [Lorebook, components, and optional items](/create/simple/extras#components).
+This is the Expert mode guide. For Simple mode, see [Lorebook, shortcuts, components, and optional items](/create/simple/extras#components).
 :::
 
 ## Add a component

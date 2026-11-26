@@ -5,7 +5,7 @@ description: 대화에 특정 키워드가 나올 때만 AI에게 전해지는 �
 slug: /create/lorebook
 sidebar_position: 8
 last_update:
-  date: 2026-10-02
+  date: 2026-11-26
 ---
 
 # 로어북 쓰기
@@ -13,7 +13,7 @@ last_update:
 로어북은 **대화에 키워드가 나오면 그 로어의 내용이 AI에게 전해지는 설정집**이에요. 늘 알 필요는 없지만 이름이 나오면 알아야 하는 것, 예를 들어 세계관 용어·장소·조직·인물의 비밀을 적어요.
 
 :::info
-전문가 모드 안내예요. 간편 모드는 [로어북·컴포넌트·선택사항](/create/simple/extras#로어북)을 보세요. 로어를 찾는 방식은 두 모드가 같아요.
+전문가 모드 안내예요. 간편 모드는 [로어북·단축어·컴포넌트·선택사항](/create/simple/extras#로어북)을 보세요. 로어를 찾는 방식은 두 모드가 같아요.
 :::
 
 ## 프롬프트와 무엇이 다른가요
@@ -102,4 +102,5 @@ last_update:
 <CardGrid>
 <Card to="/create/components" icon="code" title="컴포넌트 넣기">상태창 같은 UI를 대화에 띄워요.</Card>
 <Card to="/create/prompt" icon="book" title="프롬프트 쓰기">항상 전해지는 설정을 다듬어요.</Card>
+<Card to="/create/shortcuts" icon="chat" title="단축어 만들기">유저가 /로 골라 부르는 지시를 만들어요.</Card>
 </CardGrid>
