@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-11-08
+  date: 2026-11-29
 seo_title: 成为创作者与 Leaf - 申请条件与转换为 Spark
 description: 说明申请成为创作者的条件与方法、如何获得 Leaf 并转换为 Spark、查看作品表现、成为官方创作者，以及如何追踪喜欢的创作者并用留言支持。也说明 Leaf 没有累积时怎么办。
 ---
@@ -85,7 +85,7 @@ description: 说明申请成为创作者的条件与方法、如何获得 Leaf �
 - 100 Leaf 可以转换成 100 Spark。
 
 :::info[海外账号的 Leaf 提领限制]
-未居住在韩国的创作者，目前无法使用 Leaf 的现金提领，Leaf 只能转换成 Spark。创作者画面可能会显示附有韩元额度的**现金提领**，但海外账号不能因此直接提领现金。详细内容请看 [MYMI 创作者条款](https://www.mymi.live/zh-Hans/legal/creator-terms)的第 4-1 条。
+未居住在韩国的创作者，目前无法将 Leaf 提现，Leaf 只能转换成 Spark。创作者页面可能会显示附有韩元额度的**现金提现**，但海外账号不能因此直接提现。详细内容请看 [MYMI 创作者条款](https://www.mymi.live/zh-Hans/legal/creator-terms)的附则第 2 条。
 :::
 
 :::info[关于官方创作者的资格]
@@ -140,9 +140,9 @@ description: 说明申请成为创作者的条件与方法、如何获得 Leaf �
 </details>
 
 <details>
-<summary>点击现金提领没有反应</summary>
+<summary>点击现金提现后无法提现</summary>
 
-未居住在韩国的账号无法使用现金提领。请把 Leaf 转换成 Spark 使用。
+如弹出的说明所写，现金提现仅限居住在韩国的创作者使用。海外账号请把 Leaf 转换成 Spark 使用。
 
 </details>
 

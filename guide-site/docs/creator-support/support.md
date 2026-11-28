@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-04
+  date: 2026-11-29
 seo_title: 크리에이터 되기와 리프 - 공식 크리에이터
 description: 크리에이터로 지원하는 조건과 방법, 리프를 받고 스파크로 바꾸는 방법, 공식 크리에이터, 좋아하는 크리에이터를 팔로우하고 댓글로 응원하는 방법을 알려 드려요.
 ---
@@ -137,9 +137,9 @@ description: 크리에이터로 지원하는 조건과 방법, 리프를 받고 
 </details>
 
 <details>
-<summary>현금 출금을 눌러도 아무 반응이 없어요</summary>
+<summary>현금 출금은 어떻게 신청하나요?</summary>
 
-화면의 **현금 출금**으로는 아직 정산을 신청할 수 없어요. 공식 크리에이터라면 [문의하기](/faq/faq.md#문의하기)로 알려 주세요. 정산 조건은 [MYMI 크리에이터 약관](https://www.mymi.live/ko/legal/creator-terms) 제6조에 있어요.
+**마이페이지 → 크리에이터**에서 **현금 출금**을 누르면 신청 방법이 나와요. 공식 크리에이터만 누를 수 있어요. 디스코드나 메일로 신청하면 매달 말일까지 신청한 금액을 다음 달 5번째 영업일에 계좌이체로 보내 드려요. 연락처는 [문의하기](/faq/faq.md#문의하기)에 있고, 정산 조건은 [MYMI 크리에이터 약관](https://www.mymi.live/ko/legal/creator-terms) 제6조에 있어요.
 
 </details>
 

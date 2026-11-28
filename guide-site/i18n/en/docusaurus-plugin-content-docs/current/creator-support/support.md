@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2026-10-04
+  date: 2026-11-29
 seo_title: Apply as a creator and earn Leaves
 description: How to apply as a creator, earn Leaves and convert them into Sparks, see how your works are doing, become an Official Creator, and support creators you like.
 ---
@@ -140,9 +140,9 @@ If you see "Need 100+ Leaves", you have fewer than 100 Leaves. You can convert o
 </details>
 
 <details>
-<summary>Nothing happens when I select Cash Withdrawal</summary>
+<summary>I selected Cash Withdrawal, but I can't withdraw</summary>
 
-Cash withdrawal isn't available for accounts outside Korea. Convert your Leaves into Sparks instead.
+As the pop-up explains, cash withdrawal is only available to creators who live in Korea. If you live outside Korea, convert your Leaves into Sparks instead.
 
 </details>
 
