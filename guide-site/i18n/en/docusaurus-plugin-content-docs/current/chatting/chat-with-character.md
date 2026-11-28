@@ -93,12 +93,13 @@ Deleting a reply also deletes the message of yours that led to it, and neither c
 
 ## Edit a message you sent
 
-You can edit the messages you sent, too. Editing doesn't cost Sparks.
+You can edit the last message you sent. Editing doesn't cost Sparks.
 
-1. Find the pencil (**Edit Message**). In the app, tap your message and it appears next to it. On a computer, hover over your message. In the **1:1** view, it's on the left of the row under your message.
+1. Find the pencil (**Edit Message**). In the app, tap that message and it appears next to it. On a computer, hover over that message. In the **1:1** view, it's on the left of the row under that message.
 2. Select the pencil, and the message turns into an edit box. Change the text and select **Save**. To stop, select ✕.
 
 - The edited message is used from the next reply on. Replies you already got don't change, so if you also want a different most recent reply, get a new one with **Regenerate**.
+- You can't edit messages you sent before that. If you want to change the direction, say so in your next message.
 - You can't edit a message while a reply is coming in. You also can't edit a message where you only sent a shortcut and typed nothing.
 - You can't edit messages that come before a reply you bookmarked.
 - If saving fails, your changes stay in the edit box. Wait a moment and select **Save** again.
