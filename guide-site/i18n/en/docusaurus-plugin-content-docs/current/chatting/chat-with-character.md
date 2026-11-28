@@ -83,13 +83,25 @@ In the **Regenerate** window, choose what you want from the new reply. Your choi
 
 - If you got the reply by choosing a direction with ≫, regenerating it adds that first direction again.
 - If you regenerate and end up with several replies, use ‹ › to flip between them and keep the one you like. Flipping between them is free.
-- These buttons appear only on the most recent AI reply. You can't edit earlier replies or the messages you sent, so if you want to change the direction, say so in your next message.
+- These buttons appear only on the most recent AI reply. You can't edit earlier replies, so if you want to change the direction, say so in your next message. To edit a message you sent, see [Edit a message you sent](#edit-a-message-you-sent) below.
 - You also can't change a reply you bookmarked. See [Bookmarks and branches](/chatting/chat-room-settings.md#bookmarks-and-branches).
 - In the **1:1** view, the same icon buttons appear when you reach the end of the most recent reply. On a computer, hover over them to see their names: **Regenerate**, **Edit Content**, and **Delete**.
 
 :::warning[Deleting can't be undone]
 Deleting a reply also deletes the message of yours that led to it, and neither can be restored. If you only want a different reply, use **Regenerate**.
 :::
+
+## Edit a message you sent
+
+You can edit the messages you sent, too. Editing doesn't cost Sparks.
+
+1. Find the pencil (**Edit Message**). In the app, tap your message and it appears next to it. On a computer, hover over your message. In the **1:1** view, it's on the left of the row under your message.
+2. Select the pencil, and the message turns into an edit box. Change the text and select **Save**. To stop, select ✕.
+
+- The edited message is used from the next reply on. Replies you already got don't change, so if you also want a different most recent reply, get a new one with **Regenerate**.
+- You can't edit a message while a reply is coming in. You also can't edit a message where you only sent a shortcut and typed nothing.
+- You can't edit messages that come before a reply you bookmarked.
+- If saving fails, your changes stay in the edit box. Wait a moment and select **Save** again.
 
 ## Change how the chat looks
 
